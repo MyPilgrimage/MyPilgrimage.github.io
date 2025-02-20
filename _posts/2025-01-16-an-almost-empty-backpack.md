@@ -13,9 +13,9 @@ description: "206 Days to Prepare. Today I tried walking with an almost empty ba
 Today I tried walking with an almost empty backpack,  <br />
 I've walked an approximate 4 km, I only installed a pedometer on my phone during the hike
 
-According to my pedometer I walked **4 km** with an average walking-speed of **4.5 to 4.7 km/h**. <br />
-And clocked a time of **+/-45 minutes.** <br />
-I packed some water and a dumbbell weighing 3 kg, so my **packweight was around 4 kg**. <br />
+According to my pedometer I walked **4 km** with an average walking-speed of **4.5 to 4.7 km/h**.
+And clocked a time of **+/-45 minutes.**
+I packed some water and a dumbbell weighing 3 kg, so my **packweight was around 4 kg**.
 *(I still need to weigh my backpack on its own!)*
 
 
@@ -39,9 +39,9 @@ So yeah, overall a good first hike with my backpack.
 
 
 <div class="quotation">
-	> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it. <br />
-	<sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
-	<sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
+> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it. <br />
+<sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
+<sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
 </div>
 
 
