@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
+layout: post # the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
 description: "About me and why I made this page. What is my Plan and how am I preparing?"
