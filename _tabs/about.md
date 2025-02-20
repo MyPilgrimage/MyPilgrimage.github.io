@@ -36,7 +36,7 @@ I'm planning to hoist my backpack on my back and start walking Southward. <br />
 *Towards the Sun.* <br />
 
 
-![Pilgrim Avatar] (/assets/img/branding/avatar.png) {: .shadow .rounded-10 }
+![Pilgrim Avatar](/assets/img/branding/avatar.png){: .shadow .rounded-10 }
 
 -----
 
@@ -68,8 +68,8 @@ So to all whom find this page, <br />
 I-Jun <br />
 
 
-![Way of St. James pilgrims (1568)] (https://en.Wikipedia.org/wiki/File:Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG#/media/File:Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG) {: .shadow .rounded-10 }
-_"Way of St. James pilgrims (1568)" <br /> ~Wikipedia, by [Roland zh](https://commons.wikimedia.org/wiki/User:Roland_zh) _
+![Way of St. James pilgrims (1568)](https://en.Wikipedia.org/wiki/File:Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG#/media/File:Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .shadow .rounded-10 }
+_"Way of St. James pilgrims (1568)" ~Wikipedia, by [Roland zh](https://commons.wikimedia.org/wiki/User:Roland_zh). _
 
 
 -----
@@ -83,8 +83,8 @@ As of now I'm thinking about walking the *[Pilgrimage of Compostela](https://en.
 Simply because it's a known route, it has historical significance (and I love history!) and I think I might meet like-minded people along the way. <br />
 
 
-![Approximate map of the Route] (https://en.Wikipedia.org/wiki/File:Ways_of_St._James_in_Europe.png#/media/File:Ways_of_St._James_in_Europe.png) {: .shadow .rounded-10 }
-_"Approximate Map of the Way of St. James in Europe." <br /> ~Wikipedia, by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) _
+![Approximate map of the Route](https://en.Wikipedia.org/wiki/File:Ways_of_St._James_in_Europe.png#/media/File:Ways_of_St._James_in_Europe.png){: .shadow .rounded-10 }
+_"Approximate Map of the Way of St. James in Europe." ~Wikipedia, by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/). _
 
 
 I will keep updates about the route in the [About: Route](/about/#route) section, but for now this is the most likely route! <br />
@@ -99,15 +99,15 @@ Also to see if I forgot something, need better preparations or change my plan en
 For this trail run I'm thinking of walking the Floris V path, also known as the "LAW1-3" 
 
 
-![Floris V Path](https://commons.wikimedia.org/wiki/File:LAW001_NL_minimap_2021_up02.svg#/media/File:LAW001_NL_minimap_2021_up02.svg) {: .shadow .rounded-10 }
-_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" <br /> ~Wikipedia by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma) _
+![Floris V Path](https://commons.wikimedia.org/wiki/File:LAW001_NL_minimap_2021_up02.svg#/media/File:LAW001_NL_minimap_2021_up02.svg){: .shadow .rounded-10 }
+_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~Wikipedia by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma). _
 
 ### What Route do I want to take?
 I'm thinking of follow the route of [Camino de Santiago](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br />
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br />
 
 
-![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png)  {: .w-50 .shadow .rounded-10 }
+![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png){: .w-50 .shadow .rounded-10 }
 _A [Google Maps](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the (possible) route_
 
 
@@ -123,8 +123,8 @@ The "French Way" is the easiest route and I don't think I can take a difficult r
 Seeing as the route is difficult enough as is!  <br />
 
 
-![Samos, in Galicia, on the French Way or Camino Francés] (https://en.Wikipedia.org/wiki/File:Samos_on_the_Camino_Way.jpg#/media/File:Samos_on_the_Camino_Way.jpg) {: .shadow .rounded-10 }
-_"Samos, in Galicia, on the French Way or Camino Francés" <br /> ~Wikipedia by BarbaraDown_
+![Samos, in Galicia, on the French Way or Camino Francés](https://en.Wikipedia.org/wiki/File:Samos_on_the_Camino_Way.jpg#/media/File:Samos_on_the_Camino_Way.jpg){: .shadow .rounded-10 }
+_"Samos, in Galicia, on the French Way or Camino Francés" ~Wikipedia by BarbaraDown_
 
 
 #### Quick Route Calculation:
@@ -172,8 +172,8 @@ Being self-sufficient and having a bit of survival knowhow could be very useful 
 So I'll need to educate myself in the way of the survivalist. <br />
 
 
-![Roman bridge over the river Órbigo](https://en.Wikipedia.org/wiki/File:Hospital_de_%C3%93rbigo_(496110133).jpg#/media/File:Hospital_de_%C3%93rbigo_(496110133).jpg) {: .shadow .rounded-10 }
-_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." <br /> ~Wikipedia by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) _
+![Roman bridge over the river Órbigo](https://en.Wikipedia.org/wiki/File:Hospital_de_%C3%93rbigo_(496110133).jpg#/media/File:Hospital_de_%C3%93rbigo_(496110133).jpg){: .shadow .rounded-10 }
+_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~Wikipedia by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00). _
 
 
 ### How am I training?
@@ -221,8 +221,8 @@ Or too thick and heavy. <br />
 Worst comes to worst I will start my Pilgrimage with these heavier things, and hope I can upgrade along the way. <br />
 **But if I could help it, getting a bit better prepared, <br /> would certainly be worth the effort!** <br />
 
-![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://en.Wikipedia.org/wiki/File:Man_wearing_pilgrim_clothing,_450-425_BC,_Prague_NM-HM10_771,_151792.jpg#/media/File:Man_wearing_pilgrim_clothing,_450-425_BC,_Prague_NM-HM10_771,_151792.jpg) {: .shadow .rounded-10 }
-_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." <br /> ~ Wikipedia by [Zde](https://commons.wikimedia.org/wiki/User:Zde) _
+![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://en.Wikipedia.org/wiki/File:Man_wearing_pilgrim_clothing,_450-425_BC,_Prague_NM-HM10_771,_151792.jpg#/media/File:Man_wearing_pilgrim_clothing,_450-425_BC,_Prague_NM-HM10_771,_151792.jpg){: .shadow .rounded-10 }
+_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~ Wikipedia by [Zde](https://commons.wikimedia.org/wiki/User:Zde). _
 
 ### Must Haves
 - [x] &nbsp; Walking boots:  <br /> Army boots, might be too heavy though?
@@ -269,8 +269,8 @@ But I do also want some way of contacting family or emergency services.
 - [ ] &nbsp; ...:  <br />
 
 
-![Depiction of Saint James in the 12th century Codex Calixtinus] (https://en.Wikipedia.org/wiki/File:Codex_Calixtinus.jpg#/media/File:Codex_Calixtinus_cropped_St_James.jpg) {: .shadow .rounded-10 }
-_Depiction of Saint James in the 12th century [Codex Calixtinus] (https://en.Wikipedia.org/wiki/Codex_Calixtinus). <br /> ~Wikipedia by [Certo Xornal](https://www.flickr.com/photos/15528381@N02) _
+![Depiction of Saint James in the 12th century Codex Calixtinus](https://en.Wikipedia.org/wiki/File:Codex_Calixtinus.jpg#/media/File:Codex_Calixtinus_cropped_St_James.jpg){: .shadow .rounded-10 }
+_Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~Wikipedia by [Certo Xornal](https://www.flickr.com/photos/15528381@N02). _
 
 -----
 
