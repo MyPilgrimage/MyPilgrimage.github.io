@@ -1,0 +1,34 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+
+/* my custom style */
+
+/** Link Blockquote style */
+.prompt-link {
+  padding: 0.5rem;
+  background: rgba($color: #40e0d0, $alpha: 0.25);
+  font-size: inherit;
+  font-weight: normal;
+  content: \f0a9;
+  &:hover {
+    // font-weight: bold;
+  }
+}
+
+/** Blockquote style */
+.fa-quote-left {
+	font-size: 1.875em
+}
+
+.quotation {
+	align: center
+}
+
+/** Personalized Color Scheme  */
