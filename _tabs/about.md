@@ -3,6 +3,7 @@ layout: post # the default layout is 'page'
 icon: fas fa-info-circle
 order: 1
 description: "About me and why I made this page. What is my Plan and how am I preparing?"
+date: 2025-01-10 00:00:00 +0100 
 toc: true 
 ---
 
