@@ -144,24 +144,21 @@ and he lived happily ever after to the end of his days."
 
 -- USED --
 
-<div class="quotation">
-	> <i class="fa-duotone fa-solid fa-quote-left"></i> All that is gold does not glitter, <br />
-	> Not all those who wander are lost; <br />
-	> The old that is strong does not wither,  <br />
-	> Deep roots are not reached by the frost. <br />
-	> <br />
-	> From the ashes a fire shall be woken, <br />
-	> A light from the shadows shall spring; <br />
-	> Renewed shall be blade that was broken, <br />
-	> The crownless again shall be king.<br />
-	<sub> Bilbo Baggins Poem in honor of Aragorn </sub> <br />
-	<sub> ~J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
-</div>
+> <i class="fa-duotone fa-solid fa-quote-left"></i> All that is gold does not glitter, <br />
+> Not all those who wander are lost; <br />
+> The old that is strong does not wither,  <br />
+> Deep roots are not reached by the frost. <br />
+> <br />
+> From the ashes a fire shall be woken, <br />
+> A light from the shadows shall spring; <br />
+> Renewed shall be blade that was broken, <br />
+> The crownless again shall be king.<br />
+> <sub> Bilbo Baggins Poem in honor of Aragorn </sub> <br />
+> <sub> ~J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
 
 
-<div class="quotation">
-	> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it. <br />
-	<sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
-	<sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
-</div>
+> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it. <br />
+> <sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
+> <sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
+
 
