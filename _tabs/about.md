@@ -6,7 +6,6 @@ description: "About me and why I made this page. What is my Plan and how am I pr
 categories: [Site, About] 
 tags: [site] 
 toc: true 
-pin: true 
 ---
 
 ## Who am I?
