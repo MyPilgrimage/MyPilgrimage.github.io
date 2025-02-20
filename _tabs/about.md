@@ -84,7 +84,7 @@ Simply because it's a known route, it has historical significance (and I love hi
 
 
 ![Approximate map of the Route] (https://en.Wikipedia.org/wiki/File:Ways_of_St._James_in_Europe.png#/media/File:Ways_of_St._James_in_Europe.png) {: .shadow .rounded-10 }
-_"Approximate Map of the Way of St. James in Europe." <br /> ~Wikipedia, by [Manfred Zentgraf, Volkach, Germany](http://www.jakobuspilger-zentgraf.de/) _
+_"Approximate Map of the Way of St. James in Europe." <br /> ~Wikipedia, by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) _
 
 
 I will keep updates about the route in the [About: Route](/about/#route) section, but for now this is the most likely route! <br />
