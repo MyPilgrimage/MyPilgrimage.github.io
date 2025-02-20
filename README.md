@@ -1,4 +1,39 @@
-# Chirpy Starter
+# My Pilgrimage
+
+[MyPilgrimage.github.io](https://MyPilgrimage.github.io/)
+A github Pages website where I document my planned Pilgrimage.
+
+## Description:
+
+...TBA...
+
+## Sitemap:
+
+```shell
+.
+├── index.html
+├── about.html
+│   ├── me.html
+│   ├── page.html
+│   ├── route.html
+│   ├── training.html
+│   └── gear.html
+├── archives.html
+├── categories.html
+└── tags.html
+```
+
+
+## Attribution :
+
+This page exists thanks in part to the following
+
+### Font Awesome
+
+[Font Awesome License](https://fontawesome.com/license)
+Most (if not all) icons used. Public licenses for Font Awesome Free
+
+### Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
@@ -25,15 +60,15 @@ Jekyll site. The following is a list of targets:
 To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
 latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
-## Usage
+#### Usage
 
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-## Contributing
+#### Contributing
 
 This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
 
-## License
+#### License
 
 This work is published under [MIT][mit] License.
 
@@ -41,3 +76,9 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+## Thanks
+
+Thank you for reading the Read Me. If you recognise your work and I did not attribute it correctly to you as author, please contact me via this page on Github.com or email: iJun.Pilgrimage@gmail.com
+Cheers,
+I-Jun
