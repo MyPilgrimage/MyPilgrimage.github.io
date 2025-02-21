@@ -39,7 +39,7 @@ So yeah, overall a good first hike with my backpack.
 **But there are still a lot of things I need to prepare for!**
 
 
-> <i class="fa-duotone fa-solid fa-quote-left fa-icon-l"></i> Don't be a fool Mr. Baggins if you can help it. <br />
+> <i class="fa-duotone fa-solid fa-quote-left font-l"></i> Don't be a fool Mr. Baggins if you can help it. <br />
 > <sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
 > <sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
 

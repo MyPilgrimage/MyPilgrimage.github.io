@@ -18,11 +18,11 @@ description: "201 Days to Prepare. A great training session and new plans!..."
 I went walking with my mothers hiking group. It was great and I've learned a whole lot along the way! Also all the positive reactions I got whenever I told about my planned Pilgrimage gave me so much energy and motivation!
 
 
-[Witches Bog Schoorl](/assets/pics/20250121_WitchbogSchoorl.jpg){: .w-50 .shadow .rounded-10 }
+![Witches Bog Schoorl](/assets/pics/20250121_WitchbogSchoorl.jpg){: .w-50 .shadow .rounded-10 }
 _"Witches Bog", Schoorl North-Holland_
 
 
-[Waterlogged Schoorl](/assets/pics/20250121_WaterloggedSchoorl.jpg){: .w-50 .shadow .rounded-10 } 
+![Waterlogged Schoorl](/assets/pics/20250121_WaterloggedSchoorl.jpg){: .w-50 .shadow .rounded-10 } 
 _"Waterlogged Bench", Schoorl North-Holland_
 
 
