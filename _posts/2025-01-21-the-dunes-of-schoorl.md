@@ -5,7 +5,7 @@ date: 2025-01-21 23:00:00 +0100
 categories: [Trial 2025, Preparations] 
 tags: [trial run, update, prepping, training, personal update, pictures]
 image: 
- path: /assets/pics/20240520_Schoorl.png.jpg 
+ path: /assets/pics/20240520_Schoorl.png 
  alt: Schoorl May High Water 
 description: "201 Days to Prepare. A great training session and new plans!..." 
 
