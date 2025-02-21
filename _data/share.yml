@@ -2,6 +2,18 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
+  - type: Reddit
+    icon: "fa-brands fa-square-reddit"
+    link: "https://www.reddit.com/submit?url=URL&title=TITLE"
+    
+  - type: Bluesky
+    icon: "fa-brands fa-bluesky"
+    link: "https://bsky.app/intent/compose?text=TITLE%20URL"
+    
+  - type: Linkedin
+    icon: "fab fa-linkedin"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+
   - type: Twitter
     icon: "fa-brands fa-square-x-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
@@ -36,14 +48,6 @@ platforms:
   #       link: "https://fosstodon.org/"
   #     - label: photog.social
   #       link: "https://photog.social/"
-  #
-  # - type: Bluesky
-  #   icon: "fa-brands fa-bluesky"
-  #   link: "https://bsky.app/intent/compose?text=TITLE%20URL"
-  #
-  # - type: Reddit
-  #   icon: "fa-brands fa-square-reddit"
-  #   link: "https://www.reddit.com/submit?url=URL&title=TITLE"
   #
   # - type: Threads
   #   icon: "fa-brands fa-square-threads"

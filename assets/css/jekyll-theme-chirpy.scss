@@ -9,7 +9,6 @@
 
 
 /* my custom style */
-
 /** Link Blockquote style */
 .prompt-link {
   padding: 0.5rem;
@@ -17,24 +16,19 @@
   font-size: inherit;
   font-weight: normal;
   content: \f0a9;
-  &:hover {
-    // font-weight: bold;
-  }
 }
 
-/** Blockquote style */
-.fa-icon-l {
+/** Font size style */
+.font-l {
 	font-size: 2em;
 }
 
-.fa-icon-xl {
+.font-xl {
 	font-size: 3em;
 }
 
-/** Countdown Timer */
-#countdownTimer, .countdown {
+.font-center {
 	text-align: center;
-	font-size: 3em;
 }
 
 /** Personalized Color Scheme  */

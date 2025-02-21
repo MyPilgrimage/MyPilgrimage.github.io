@@ -36,7 +36,7 @@ I'm planning to hoist my backpack on my back and start walking Southward. <br />
 *Towards the Sun.* <br />
 
 
-<i class="fa-solid fa-person-hiking fa-icon-xl"></i>
+<i class="fa-solid fa-person-hiking font-xl font-center"></i>
 <!-- ![Pilgrim Avatar](/assets/img/branding/avatar_s.png){: .w-50 .shadow .rounded-10 } -->
 
 -----
@@ -89,7 +89,9 @@ Simply because it's a known route, it has historical significance (and I love hi
 _"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) Wikipedia._
 
 
-I will keep updates about the route in the [About: Route](/about/#route) section, but for now this is the most likely route! <br />
+> I will keep current updates about the route I'm taking, in the [Quick Overview](/welcome#quick-overview) section, 
+> but for now this is the most likely route!
+{: .prompt-link }
 
 
 ### But first I'll do a trial-run.
@@ -212,6 +214,8 @@ in a fairly new condition, but I'm not sure if they are too heavy for me? Maybe 
 A simple first-aid kit, with band-aid, a flea-nipper, a few painkillers and a refresher on first aid knowledge is very useful. <br />
 The rest of my gear I will need to acquire <br />
 
+![My Cosplay Backpack](/assets/pics/20219617_FunnyBackpack.jpg){: .w-50 .shadow .rounded-10 }
+_One of my smaller backpacks I use for Cosplay. This was a wasteland-survivor outfit._
 
 The main issue is weight. <br />
 I could bring my tent with me, but it is a 4 person tent weighing around 20Kg if not more! <br />
@@ -233,6 +237,7 @@ _"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](ht
 - [x] &nbsp; Backpack:  <br /> Military Footsoldier backpack, with lumbar-support and thick-padded straps
 - [ ] &nbsp; Tent:  <br /> Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
 - [ ] &nbsp; Sleeping Gear:  <br /> Lightweight, water and windproof sleeping bag/pillow
+- [ ] &nbsp; Last Resort Ration:  <br /> is maybe something that would be good to have, think along the lines of a protein bar or other energy dense food.
 - [ ] &nbsp; Eating Supplies:  <br /> Utensils, Plate etc. / My own gas burner? or something to cook on?
 - [x] &nbsp; Medical Supplies:  <br /> Band-aids, a flea-nipper, a few painkillers and more
 - [ ] &nbsp; Correcting Soles:  <br /> I have a bit of knocked kneed legs or X-legs
