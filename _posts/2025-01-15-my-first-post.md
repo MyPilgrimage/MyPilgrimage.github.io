@@ -5,7 +5,7 @@ date: 2025-01-15 23:00:00 +0100
 categories: [Trial 2025, Preparations] 
 tags: [trial run, prepping, personal update, webpage ] 
 image: 
- path: /assets/pics/IMG_20220226_Godray.jpg 
+ path: /assets/pics/20220226_Godray.jpg 
  alt: Godrays 
 description: "207 Days to Prepare. My first post!" 
 

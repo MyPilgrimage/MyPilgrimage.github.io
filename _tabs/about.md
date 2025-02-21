@@ -36,7 +36,8 @@ I'm planning to hoist my backpack on my back and start walking Southward. <br />
 *Towards the Sun.* <br />
 
 
-![Pilgrim Avatar](/assets/img/branding/avatar_s.png){: .shadow .rounded-10 }
+<i class="fa-solid fa-person-hiking fa-icon-xl"></i>
+<!-- ![Pilgrim Avatar](/assets/img/branding/avatar_s.png){: .w-50 .shadow .rounded-10 } -->
 
 -----
 
@@ -69,7 +70,7 @@ I-Jun <br />
 
 
 
-![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .shadow .rounded-10 }
+![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 .shadow .rounded-10 }
 _"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.org/wiki/User:Roland_zh) Wikipedia._
 
 
@@ -84,7 +85,7 @@ As of now I'm thinking about walking the *[Pilgrimage of Compostela](https://en.
 Simply because it's a known route, it has historical significance (and I love history!) and I think I might meet like-minded people along the way. <br />
 
 
-![Approximate map of the Route](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ways_of_St._James_in_Europe.png){: .shadow .rounded-10 }
+![Approximate map of the Route](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ways_of_St._James_in_Europe.png){: .w-50 .shadow .rounded-10 }
 _"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) Wikipedia._
 
 
@@ -100,7 +101,7 @@ Also to see if I forgot something, need better preparations or change my plan en
 For this trail run I'm thinking of walking the Floris V path, also known as the "LAW1-3" 
 
 
-![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .shadow .rounded-10 }
+![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }
 _"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma) Wikipedia._
 
 ### What Route do I want to take?
@@ -108,7 +109,7 @@ I'm thinking of follow the route of [Camino de Santiago](https://en.m.Wikipedia.
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br />
 
 
-![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png){: .left .w-50 .shadow .rounded-10 }
+![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png){: .w-50 .shadow .rounded-10 }
 _A [Google Maps](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the (possible) route_
 
 
@@ -124,7 +125,7 @@ The "French Way" is the easiest route and I don't think I can take a difficult r
 Seeing as the route is difficult enough as is!  <br />
 
 
-![Samos, in Galicia, on the French Way or Camino Francés](https://upload.wikimedia.org/wikipedia/commons/8/83/Samos_on_the_Camino_Way.jpg){: .shadow .rounded-10 }
+![Samos, in Galicia, on the French Way or Camino Francés](https://upload.wikimedia.org/wikipedia/commons/8/83/Samos_on_the_Camino_Way.jpg){: .w-50 .shadow .rounded-10 }
 _"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown Wikipedia._
 
 
@@ -173,7 +174,7 @@ Being self-sufficient and having a bit of survival knowhow could be very useful 
 So I'll need to educate myself in the way of the survivalist. <br />
 
 
-![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .shadow .rounded-10 }
+![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 .shadow .rounded-10 }
 _"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) Wikipedia._
 
 
@@ -203,7 +204,7 @@ I still need to include Crunches, but I don't seem to get the technique right, o
 What do I need? A checklist of sorts.
 
 
-## What gear do I have?
+### What gear do I have?
 I have a military-backpack for foot soldiers, <br />
 It has a lumbar support and thick padded shoulder straps. I will need to check if it's still waterproof! <br />
 And I already have military-boots, <br />
@@ -223,11 +224,11 @@ Worst comes to worst I will start my Pilgrimage with these heavier things, and h
 **But if I could help it, getting a bit better prepared, <br /> would certainly be worth the effort!** <br />
 
 
-![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://upload.wikimedia.org/wikipedia/commons/5/50/Man_wearing_pilgrim_clothing%2C_450-425_BC%2C_Prague_NM-HM10_771%2C_151792.jpg){: .shadow .rounded-10 }
+![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://upload.wikimedia.org/wikipedia/commons/5/50/Man_wearing_pilgrim_clothing%2C_450-425_BC%2C_Prague_NM-HM10_771%2C_151792.jpg){: .w-50 .shadow .rounded-10 }
 _"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](https://commons.wikimedia.org/wiki/User:Zde) Wikipedia._
 
 
-### Must Haves
+#### Must Haves
 - [x] &nbsp; Walking boots:  <br /> Army boots, might be too heavy though?
 - [x] &nbsp; Backpack:  <br /> Military Footsoldier backpack, with lumbar-support and thick-padded straps
 - [ ] &nbsp; Tent:  <br /> Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
@@ -246,7 +247,7 @@ So thick but breathing socks.
 - [ ] &nbsp; ...:  <br />
 
 
-### Should Haves
+#### Should Haves
 - [ ] &nbsp; Entertainment:  <br /> Books? or E-Book? E-book is lighter and might be able to read on my Smartphone?  <br />
 Electronics would mean I need some sort of Power-Supply though.
 - [ ] &nbsp; Fire-starter:  <br /> Just in case?
@@ -257,7 +258,7 @@ I only know how to shave with an electric shaver, so this is something I will ne
 - [ ] &nbsp; ...:  <br />
 
 
-### Could Haves
+#### Could Haves
 - [ ] &nbsp; Sun Powered Power Bank:  <br /> for Electronic devices such as a (smart)-phone, flashlight(?) or GPS-Tracker
 - [x] &nbsp; Smartphone:  <br /> for emergencies, checking the weather report, GPS and Maps and contact to the outside world, including this page!
 - [ ] &nbsp; GPS Tracker:  <br /> Safety measure, incase of emergencies
@@ -266,13 +267,13 @@ So finding anything that someone else finds worthwhile and especially valuable, 
 - [ ] &nbsp; ...:  <br />
 
 
-### Won't Haves
+#### Won't Haves
 - [ ] &nbsp; A constant Internet-connection or same 06 number:  <br /> I want to find an escape from my current life, bringing something that will drag me back is too much of a risk I think.  <br />
 But I do also want some way of contacting family or emergency services.
 - [ ] &nbsp; ...:  <br />
 
 
-![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .shadow .rounded-10 }
+![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 .shadow .rounded-10 }
 _Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~by [Certo Xornal](https://www.flickr.com/photos/15528381@N02) Wikipedia._
 
 
