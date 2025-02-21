@@ -23,7 +23,7 @@ I do not need to be extra careful not to break something, or continuously copy+p
 
 Other **technical updates:** <br />
 I've created an Email address, so I can send and receive correspondence. <br />
-I managed to add a simple Countdown timer to the [Quick Overview](welcome#quick-overview), which I really like! <br />
+I managed to add a simple Countdown timer to the [Quick Overview](/welcome#quick-overview), which I really like! <br />
 Now I only need to find a way to embed a Location-share app, but this is something I will try to implement later.
 
 
