@@ -10,6 +10,7 @@ description: "206 Days to Prepare. Today I tried walking with an almost empty ba
 
 > 206 Days to Prepare. North-Holland, The Netherlands.
 {: .prompt-info }
+
 Today I tried walking with an almost empty backpack,  <br />
 I've walked an approximate 4 km, I only installed a pedometer on my phone during the hike
 
@@ -38,7 +39,7 @@ So yeah, overall a good first hike with my backpack.
 **But there are still a lot of things I need to prepare for!**
 
 
-> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it. <br />
+> <i class="fa-duotone fa-solid fa-quote-left fa-icon-l"></i> Don't be a fool Mr. Baggins if you can help it. <br />
 > <sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
 > <sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
 
