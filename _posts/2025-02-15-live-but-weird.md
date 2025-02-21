@@ -3,7 +3,10 @@
 title: Live but Weird
 date: 2025-02-15 23:00:00 +0100 
 categories: [Site, Update] 
-tags: [update, webpage,  tech update]
+tags: [update, webpage, tech update]
+image: 
+ path: /assets/img/img_brokenWebsite.png
+ alt: Broken website 
 description: "176 Days to Prepare. The new site looks.... Weird..." 
 
 ---

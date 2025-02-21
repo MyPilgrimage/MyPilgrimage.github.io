@@ -37,14 +37,14 @@ description: "# Days to Prepare. POST_DESCRIPTION"
 
 ---
 
-- [ ] 20210806_TheLowlands.jpg
+- [x] 20210806_TheLowlands.jpg
 - [ ] 20211106_AutumnWilderness.jpg
 - [x] 20219617_FunnyBackpack.jpg
 - [ ] 20220112_Twilight.jpg
 - [x] 20220112_TwilightPath.jpg
 - [x] 20220226_Godray.jpg
 - [x] 20220228_Sundown.jpg
-- [ ] 20230529_Campfire.jpg
+- [x] 20230529_Campfire.jpg
 - [x] 20240520_Schoorl.png
 - [ ] 20240604_Tent.jpg
 - [x] 20250120_OhMyWhatObstacles.jpg
