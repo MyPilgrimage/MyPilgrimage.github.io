@@ -21,7 +21,7 @@ TAGS
 - webpage, 
 - tech update, 
 
-categories: [Trail 2025, Preparations]
+categories: [Trial 2025, Preparations]
 tags: [trial run, update, prepping, training, gathering gear, personal update, pictures, webpage, tech update]
 
 ---
@@ -41,15 +41,15 @@ description: "# Days to Prepare. POST_DESCRIPTION"
 - [ ] 20211106_AutumnWilderness.jpg
 - [x] 20219617_FunnyBackpack.jpg
 - [ ] 20220112_Twilight.jpg
-- [ ] 20220112_TwilightPath.jpg
+- [x] 20220112_TwilightPath.jpg
 - [x] 20220226_Godray.jpg
 - [x] 20220228_Sundown.jpg
 - [ ] 20230529_Campfire.jpg
-- [ ] 20240520_Schoorl.png
+- [x] 20240520_Schoorl.png
 - [ ] 20240604_Tent.jpg
-- [ ] 20250120_OhMyWhatObstacles.jpg
-- [ ] 20250121_WaterloggedSchoorl.jpg
-- [ ] 20250121_WitchbogSchoorl.jpg
+- [x] 20250120_OhMyWhatObstacles.jpg
+- [x] 20250121_WaterloggedSchoorl.jpg
+- [x] 20250121_WitchbogSchoorl.jpg
 
 
 > [Read About <i class="fa-solid fa-circle-right"></i> ](/about)

@@ -7,12 +7,12 @@ tags: [trial run, prepping, personal update, webpage ]
 image: 
  path: /assets/pics/20220226_Godray.jpg 
  alt: Godrays 
-description: "207 Days to Prepare. My first post!" 
+description: "207 Days to Prepare. My first post!..." 
 
 ---
 
-> 207 Days to Prepare. North-Holland, The Netherlands.
-{: .prompt-info }
+> **207** Days to Prepare. North-Holland, The Netherlands. 
+{: .prompt-info } 
 
 Creating this page helps me with making a concrete plan and to share my plan with family and friends. <br />
 This way it feels like something that's actually in motion and I can easily explain to people what my idea/plan is. <br />
