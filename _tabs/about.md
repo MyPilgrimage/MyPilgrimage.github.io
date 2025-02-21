@@ -175,9 +175,8 @@ So I need to practice walking with a heavy load on my shoulders. <br />
 Being self-sufficient and having a bit of survival knowhow could be very useful on the way. <br />
 So I'll need to educate myself in the way of the survivalist. <br />
 
-
-![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 .shadow .rounded-10 }
-_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) Wikipedia._
+![A small campfire](/assets/pics/20230529_Campfire.jpg){: .w-50 .shadow .rounded-10 }
+_A small campfire_
 
 
 ### How am I training?
@@ -197,6 +196,10 @@ Also I have a small "regimen" of power/endurance training I do bi-daily (every o
  <br />
 I still need to include Crunches, but I don't seem to get the technique right, or it doesn't feel right, I don't know. (Might need to ask my GP) <br />
  <br />
+
+
+![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 .shadow .rounded-10 }
+_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) Wikipedia._
 
 
 -----
