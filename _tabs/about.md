@@ -35,11 +35,13 @@ For all these reasons and more, <br />
 I'm planning to hoist my backpack on my back and start walking Southward. <br />
 *Towards the Sun.* <br />
 
+<span class="font-center">
+	<i class="fa-solid fa-person-hiking font-xxl"></i>
+</span>
 
-<i class="fa-solid fa-person-hiking font-xl font-center"></i>
-<!-- ![Pilgrim Avatar](/assets/img/branding/avatar_s.png){: .w-50 .shadow .rounded-10 } -->
 
 -----
+
 
 ## Why this page?
 This page will be my progress-tracker, I will post my preparations and training. <br />
@@ -76,6 +78,7 @@ _"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.or
 
 -----
 
+
 ## Route
 As mentioned in the introductions, I'm planning on walking Southward. <br />
 
@@ -99,12 +102,13 @@ I want to start a trial run this August of 2025. <br />
 This gives me a bit of time to prepare and get my stuff in order. <br />
 To train a bit and see if a Pilgrimage is even something I would want to see through. <br />
 Also to see if I forgot something, need better preparations or change my plan entirely. <br />
-
-For this trail run I'm thinking of walking the Floris V path, also known as the "LAW1-3" 
+<br />
+For this trail run I'm thinking of walking the **Floris V path**, also known as the "[LAW1-3](https://nl.wikipedia.org/wiki/Floris_V-pad)" 
 
 
 ![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }
 _"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma) Wikipedia._
+
 
 ### What Route do I want to take?
 I'm thinking of follow the route of [Camino de Santiago](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br />
@@ -131,7 +135,7 @@ Seeing as the route is difficult enough as is!  <br />
 _"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown Wikipedia._
 
 
-#### Quick Route Calculation:
+#### Quick Route Calculation
 
 - **Avg. Walking speed:** 451 hr / 5.5 hr per day = 82 days 
 - **Avg. Distance walked:** 1977 km / 25 km per day = 80 days (79.08
@@ -139,7 +143,7 @@ _"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown Wikip
 - **Conclusion:** So at least 80 day, walking 4.3 km/h for 5½ hrs
 
 
-### Thoughts
+### Thoughts on the Routes
 
 Even though the less traveled and less popular routes do sound more attractive to me. <br />
 **"The Camino Primitivo"**, sounds the most interesting to me, because of its historical significance. <br />
@@ -154,29 +158,6 @@ And because it will probably be less "tourist-y"  <br />
 
 ## Training
 Start walking.
-
-
-### Making Miles:
-A Pilgrimage means walking a whole lot, and making a bit of progress is important to keep spirits high. <br />
-from walking 5 km to 10 to eventually about 20/25 km a day. <br />
-
-
-### Enduring Elevation:
-As a Dutchman I'm not used to elevation changes, so I'll need to prepare for this too. <br />
-The plan is to go to the Dunes and practice with elevation and rougher terrain. <br />
-
-
-### Beast of Burden:
-I will need to carry all of my belongings on my back; a tent, sleeping gear, clothes and food are just the basics, and this will easily add-up in weight. <br />
-So I need to practice walking with a heavy load on my shoulders. <br />
-
-
-### Self-sufficient Survivalist:
-Being self-sufficient and having a bit of survival knowhow could be very useful on the way. <br />
-So I'll need to educate myself in the way of the survivalist. <br />
-
-![A small campfire](/assets/pics/20230529_Campfire.jpg){: .w-50 .shadow .rounded-10 }
-_A small campfire_
 
 
 ### How am I training?
@@ -202,12 +183,38 @@ I still need to include Crunches, but I don't seem to get the technique right, o
 _"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) Wikipedia._
 
 
+### Training Preparations
+What are things I want to train for? What do I expect to encounter along the way?
+
+#### Making Miles
+A Pilgrimage means walking a whole lot, and making a bit of progress is important to keep spirits high. <br />
+from walking 5 km to 10 to eventually about 20/25 km a day. <br />
+
+
+#### Enduring Elevation
+As a Dutchman I'm not used to elevation changes, so I'll need to prepare for this too. <br />
+The plan is to go to the Dunes and practice with elevation and rougher terrain. <br />
+
+
+#### Beast of Burden
+I will need to carry all of my belongings on my back; a tent, sleeping gear, clothes and food are just the basics, and this will easily add-up in weight. <br />
+So I need to practice walking with a heavy load on my shoulders. <br />
+
+
+#### Self-sufficient Survivalist
+Being self-sufficient and having a bit of survival knowhow could be very useful on the way. <br />
+So I'll need to educate myself in the way of the survivalist. <br />
+
+
+![A small campfire](/assets/pics/20230529_Campfire.jpg){: .w-50 .shadow .rounded-10 }
+_A small campfire_
+
+
 -----
 
 
 ## Gear
 What do I need? A checklist of sorts.
-
 
 ### What gear do I have?
 I have a military-backpack for foot soldiers, <br />
@@ -235,6 +242,9 @@ Worst comes to worst I will start my Pilgrimage with these heavier things, and h
 _"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](https://commons.wikimedia.org/wiki/User:Zde) Wikipedia._
 
 
+### Gear list:
+My checklist of gear I still need, I already have and I won't need.
+
 #### Must Haves
 - [x] &nbsp; Walking boots:  <br /> Army boots, might be too heavy though?
 - [x] &nbsp; Backpack:  <br /> Military Footsoldier backpack, with lumbar-support and thick-padded straps
@@ -254,7 +264,6 @@ Also layers! Better to be able to take off a piece of clothing than to be too ho
 So thick but breathing socks.
 - [ ] &nbsp; ...:  <br />
 
-
 #### Should Haves
 - [ ] &nbsp; Entertainment:  <br /> Books? or E-Book? E-book is lighter and might be able to read on my Smartphone?  <br />
 Electronics would mean I need some sort of Power-Supply though.
@@ -265,7 +274,6 @@ Electronics would mean I need some sort of Power-Supply though.
 I only know how to shave with an electric shaver, so this is something I will need to learn too!
 - [ ] &nbsp; ...:  <br />
 
-
 #### Could Haves
 - [ ] &nbsp; Sun Powered Power Bank:  <br /> for Electronic devices such as a (smart)-phone, flashlight(?) or GPS-Tracker
 - [x] &nbsp; Smartphone:  <br /> for emergencies, checking the weather report, GPS and Maps and contact to the outside world, including this page!
@@ -273,7 +281,6 @@ I only know how to shave with an electric shaver, so this is something I will ne
 - [ ] &nbsp; Someway to make a little money on the road:  <br /> This is a big Could/Want to have, I still don't really know what use I am to society.  <br />
 So finding anything that someone else finds worthwhile and especially valuable, would be a big change in my life.
 - [ ] &nbsp; ...:  <br />
-
 
 #### Won't Haves
 - [ ] &nbsp; A constant Internet-connection or same 06 number:  <br /> I want to find an escape from my current life, bringing something that will drag me back is too much of a risk I think.  <br />
@@ -288,3 +295,13 @@ _Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wiki
 -----
 
 
+## Thanks
+
+*Thank you for reading!* <br />
+If you recognise your work and I did not attribute it correctly to you as author, <br />
+please contact me via this page on [Github.com](https://github.com/MyPilgrimage/) <br />
+or email: [iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br />
+
+
+*Cheers,* <br />
+I-Jun
