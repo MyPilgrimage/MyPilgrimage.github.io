@@ -3,17 +3,25 @@
 - type: github
   icon: "fab fa-github"
 
-#- type: twitter
-#  icon: "fa-brands fa-x-twitter"
-
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: false # open link in new tab
+
+- type: reddit
+  icon: 'fa-brands fa-reddit'
+  url: 'https://www.reddit.com/user/CutNo303/'  # Fill with your Reddit profile link
+  noblank: false # open link in new tab
 
 #- type: rss
 #  icon: "fas fa-rss"
-#  noblank: true
+#  noblank: true # open link in current tab
+
+
+###
 # Uncomment and complete the url below to enable more contact options
+###
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
@@ -31,10 +39,7 @@
 #   icon: 'fa-brands fa-bluesky'
 #   url: ''                   # Fill with your Bluesky profile link
 #
-# - type: reddit
-#   icon: 'fa-brands fa-reddit'
-#   url: ''                   # Fill with your Reddit profile link
-#
+
 # - type: threads
 #   icon: 'fa-brands fa-threads'
 #   url: ''                   # Fill with your Threads profile link
