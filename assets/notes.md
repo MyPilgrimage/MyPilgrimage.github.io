@@ -46,7 +46,8 @@ description: "[NUMBER] Days to Prepare. POST_DESCRIPTION"
 {: .prompt-info }
 
 
-## H2
+## Technical Update
+## Random Ramblings
 
 paragraph
 ..........
