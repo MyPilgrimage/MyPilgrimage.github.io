@@ -3,10 +3,12 @@ CATEGORIES
 -- Welcome
 -- Update
 
-CATEGORIES
 - Trial 2025
 -- Preparations
 -- Underway
+
+- Random
+-- Ramblings
 
 TAGS
 - trial run, 
@@ -22,6 +24,8 @@ TAGS
 - webpage, 
 - tech update, 
 
+categories: [Site, Update]
+categories: [Random, Ramblings]
 categories: [Trial 2025, Preparations]
 tags: [trial run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]
 
@@ -38,7 +42,7 @@ description: "[NUMBER] Days to Prepare. POST_DESCRIPTION"
 
 ---
 
-[NUMBER] Days to Prepare. [LOCATION]. 
+**[NUMBER]** Days to Prepare. [LOCATION]. 
 {: .prompt-info }
 
 
@@ -53,6 +57,7 @@ paragraph
 I-Jun
 
 ----
+/assets/pics/
 
 - [x] 20210806_TheLowlands.jpg
 - [ ] 20211106_AutumnWilderness.jpg
@@ -67,6 +72,8 @@ I-Jun
 - [x] 20250120_OhMyWhatObstacles.jpg
 - [x] 20250121_WaterloggedSchoorl.jpg
 - [x] 20250121_WitchbogSchoorl.jpg
+- [x] 20250223_SundaysSun.jpg
+
 
 
 > [Read About <i class="fa-solid fa-circle-right"></i> ](/about)
@@ -107,9 +114,6 @@ _"Witches Bog", Schoorl North-Holland_
 	Bosses and leaders
 
 
-- My Ramblings
-	Posts where I ramble about anything and everything.
-
 --
 
 
@@ -125,7 +129,8 @@ but you cannot for ever fence it out.'
 
 
 "If more of us valued food and cheer and song above hoarded gold, 
-it would be a merrier world. But, sad or merry, I must leave it now. Farewell."
+it would be a merrier world. 
+But, sad or merry, I must leave it now. Farewell."
 - Thorin Oakenshield before he dies, asking Bilbo's forgiveness for his harsh words to him.
 ~ J.R.R. Tolkien, The Hobbit
 
@@ -137,13 +142,6 @@ But then again, it might just be that he cares about something.
 'What is that?' I ask. 'Did Jesus Christ say that?' 
 'No,' he says. 'Bilbo Baggins said that.'
 ~ Patrick Somerville, The Universe in Miniature in Miniature
-
-
-‘I wish it need not have happened in my time,’ said Frodo. 
-‘So do I,’ said Gandalf, ‘and so do all who live to see such times. 
-But that is not for them to decide. 
-All we have to decide is what to do with the time that is given us.’
-~ J.R.R. Tolkien, The Fellowship of the Ring
 
 
 "Many that live deserve death. 
@@ -192,3 +190,8 @@ and he lived happily ever after to the end of his days."
 > <sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
 
 
+> <i class="fa-duotone fa-solid fa-quote-left"></i> *‘I wish it need not have happened in my time,’* said Frodo. <br />
+> *‘So do I,’* said Gandalf, *‘and so do all who live to see such times.* <br />
+> *But that is not for them to decide.* <br />
+> *All we have to decide is what to do with the time that is given us.’* <br />
+> <sub> ~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />

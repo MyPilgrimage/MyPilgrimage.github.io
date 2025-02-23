@@ -8,18 +8,20 @@ toc: true
 ---
 
 ## Who am I?
+
 I'm a 32 year old man, living in the Netherlands. <br />
-Trying multiple times to find my "calling in life" *(and failing..)*. <br />
-Currently I am unemployed due to mental-health issues and I moved back in with my parents. <br />
+I've tried *(multiple times)* to find my "calling in life" *(and failing..)*. <br />
+Unemployed due to mental-health issues, I had to  move back in with my parents. <br />
 With no relationship, children, owned-property or other important long term commitments, <br />
 *I find myself on a crossroad in life.* <br />
 
 
+My hobbies include gaming, airsoft, making music, cosplay (i.e. making costumes) and other ways to express myself creatively.
 I've always been fascinated with history, culture, politics and the whole “state of the world.” <br />
 A bit of an amateur anthropologist, you might say. <br />
-And with the world heading the way it is heading; Climate change, Class divide, Rising xenophobia and the constant increase in cost-of-living <br />
+With the world heading the way it is heading; Climate change, Class divide, Rising xenophobia and the constant increase in cost-of-living <br />
 I feel I need an escape, something that would give me a new perspective on life, <br />
-*and hopefully, find in the process, a new way to live.* <br />
+*and hopefully in the process, find a new way to live.* <br />
 
 
 I've made stupid mistakes in my past and had to bear the brunt. <br />
@@ -35,16 +37,16 @@ For all these reasons and more, <br />
 I'm planning to hoist my backpack on my back and start walking Southward. <br />
 *Towards the Sun.* <br />
 
-<span class="font-center">
-	<i class="fa-solid fa-person-hiking font-xxl"></i>
-</span>
+
+<i class="fa-solid fa-person-hiking font-xxl font-center"></i>  
 
 
 -----
 
 
 ## Why this page?
-This page will be my progress-tracker, I will post my preparations and training. <br />
+
+This page is my progress-tracker, I will post my preparations and training. <br />
 
 
 What do I think I need to take with me and how can I best prepare? <br />
@@ -54,8 +56,8 @@ I'm planning on walking all the way, so good shoes and good posture is a must! <
 Also I would like to use this page as my "travel log" or Blog. <br />
 I'm sure there are a lot of people in similar situations as mine. <br />
 This is why I write in English, to lower the language barrier. <br />
-I might translate everything into my native Dutch at one point, but I find that it sometimes feels easier to express myself in English. <br />
-And yes my grammar and syntax isn't very good, but that's the same for me in Dutch, I'm not very talented as a writer. <br />
+I might translate everything into my native Dutch at one point, but sometimes I feel it's easier to express myself in English. <br />
+And yes I know, my grammar and syntax aren't very good, but that's the same for me in Dutch, I'm not very talented as a writer. <br />
 
 
 But if this page could be a point of inspiration, or the push someone else needs to make the first step, <br />
@@ -80,6 +82,7 @@ _"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.or
 
 
 ## Route
+
 As mentioned in the introductions, I'm planning on walking Southward. <br />
 
 
@@ -92,18 +95,19 @@ Simply because it's a known route, it has historical significance (and I love hi
 _"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) Wikipedia._
 
 
-> I will keep current updates about the route I'm taking, in the [Quick Overview](/welcome#quick-overview) section, 
+> I will keep current updates about the route I'm taking, in the [Quick Overview](/welcome#quick-overview) section,
 > but for now this is the most likely route!
 {: .prompt-link }
 
 
 ### But first I'll do a trial-run.
+
 I want to start a trial run this August of 2025. <br />
-This gives me a bit of time to prepare and get my stuff in order. <br />
-To train a bit and see if a Pilgrimage is even something I would want to see through. <br />
-Also to see if I forgot something, need better preparations or change my plan entirely. <br />
+This gives me a bit of time to prepare and get my walking gear in order. <br />
+Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. <br />
+This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br />
 <br />
-For this trail run I'm thinking of walking the **Floris V path**, also known as the "[LAW1-3](https://nl.wikipedia.org/wiki/Floris_V-pad)" 
+For this trail run I'm thinking of walking the **Floris V path**, also known as the "[LAW1-3](https://nl.wikipedia.org/wiki/Floris_V-pad)"
 
 
 ![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }
@@ -111,6 +115,8 @@ _"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosm
 
 
 ### What Route do I want to take?
+
+The Trial run is in preparation for the real Pilgrimage. 
 I'm thinking of follow the route of [Camino de Santiago](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br />
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br />
 
@@ -137,10 +143,11 @@ _"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown Wikip
 
 #### Quick Route Calculation
 
-- **Avg. Walking speed:** 451 hr / 5.5 hr per day = 82 days 
+- **Avg. Walking speed:** 451 hr / 5.5 hr per day = 82 days
 - **Avg. Distance walked:** 1977 km / 25 km per day = 80 days (79.08
 - **Google' Avg. Speed:** 1977 km / 451 hr = 4.3 km/h
-- **Conclusion:** So at least 80 day, walking 4.3 km/h for 5½ hrs
+- **Conclusion:** So at least 80 day, walking 4.3 km/h for 5½ hrs <br />
+This sounds doable 
 
 
 ### Thoughts on the Routes
@@ -157,10 +164,12 @@ And because it will probably be less "tourist-y"  <br />
 
 
 ## Training
-Start walking.
+
+Start walking. A bit further every time.
 
 
 ### How am I training?
+
 With music in my ears, I already like walking as a pastime. <br />
 I have no idea how long I can walk for (in KM), but I can walk at a steady pace for about an hour before my feet hurt. <br />
 Also I will need to go to my GP, to get a podiatrist to look at my wonky feet. <br />
@@ -172,11 +181,10 @@ Also I have a small "regimen" of power/endurance training I do bi-daily (every o
 - 15x Sit-Ups
 - 15x 10 Kg halter each arm
 - 10x Squads with halters
-- 60sec Planking
+- 60sec Planking <br />
 
- <br />
+
 I still need to include Crunches, but I don't seem to get the technique right, or it doesn't feel right, I don't know. (Might need to ask my GP) <br />
- <br />
 
 
 ![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 .shadow .rounded-10 }
@@ -184,24 +192,30 @@ _"Roman bridge with 19 arches over the river Órbigo. The bridge has been integr
 
 
 ### Training Preparations
+
 What are things I want to train for? What do I expect to encounter along the way?
 
+
 #### Making Miles
+
 A Pilgrimage means walking a whole lot, and making a bit of progress is important to keep spirits high. <br />
 from walking 5 km to 10 to eventually about 20/25 km a day. <br />
 
 
 #### Enduring Elevation
+
 As a Dutchman I'm not used to elevation changes, so I'll need to prepare for this too. <br />
 The plan is to go to the Dunes and practice with elevation and rougher terrain. <br />
 
 
 #### Beast of Burden
+
 I will need to carry all of my belongings on my back; a tent, sleeping gear, clothes and food are just the basics, and this will easily add-up in weight. <br />
 So I need to practice walking with a heavy load on my shoulders. <br />
 
 
 #### Self-sufficient Survivalist
+
 Being self-sufficient and having a bit of survival knowhow could be very useful on the way. <br />
 So I'll need to educate myself in the way of the survivalist. <br />
 
@@ -214,9 +228,12 @@ _A small campfire_
 
 
 ## Gear
+
 What do I need? A checklist of sorts.
 
+
 ### What gear do I have?
+
 I have a military-backpack for foot soldiers, <br />
 It has a lumbar support and thick padded shoulder straps. I will need to check if it's still waterproof! <br />
 And I already have military-boots, <br />
@@ -224,8 +241,10 @@ in a fairly new condition, but I'm not sure if they are too heavy for me? Maybe 
 A simple first-aid kit, with band-aid, a flea-nipper, a few painkillers and a refresher on first aid knowledge is very useful. <br />
 The rest of my gear I will need to acquire <br />
 
+
 ![My Cosplay Backpack](/assets/pics/20219617_FunnyBackpack.jpg){: .w-50 .shadow .rounded-10 }
 _One of my smaller backpacks I use for Cosplay. This was a wasteland-survivor outfit._
+
 
 The main issue is weight. <br />
 I could bring my tent with me, but it is a 4 person tent weighing around 20Kg if not more! <br />
@@ -243,9 +262,12 @@ _"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](ht
 
 
 ### Gear list:
+
 My checklist of gear I still need, I already have and I won't need.
 
+
 #### Must Haves
+
 - [x] &nbsp; Walking boots:  <br /> Army boots, might be too heavy though?
 - [x] &nbsp; Backpack:  <br /> Military Footsoldier backpack, with lumbar-support and thick-padded straps
 - [ ] &nbsp; Tent:  <br /> Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
@@ -264,7 +286,9 @@ Also layers! Better to be able to take off a piece of clothing than to be too ho
 So thick but breathing socks.
 - [ ] &nbsp; ...:  <br />
 
+
 #### Should Haves
+
 - [ ] &nbsp; Entertainment:  <br /> Books? or E-Book? E-book is lighter and might be able to read on my Smartphone?  <br />
 Electronics would mean I need some sort of Power-Supply though.
 - [ ] &nbsp; Fire-starter:  <br /> Just in case?
@@ -274,7 +298,9 @@ Electronics would mean I need some sort of Power-Supply though.
 I only know how to shave with an electric shaver, so this is something I will need to learn too!
 - [ ] &nbsp; ...:  <br />
 
+
 #### Could Haves
+
 - [ ] &nbsp; Sun Powered Power Bank:  <br /> for Electronic devices such as a (smart)-phone, flashlight(?) or GPS-Tracker
 - [x] &nbsp; Smartphone:  <br /> for emergencies, checking the weather report, GPS and Maps and contact to the outside world, including this page!
 - [ ] &nbsp; GPS Tracker:  <br /> Safety measure, incase of emergencies
@@ -282,7 +308,9 @@ I only know how to shave with an electric shaver, so this is something I will ne
 So finding anything that someone else finds worthwhile and especially valuable, would be a big change in my life.
 - [ ] &nbsp; ...:  <br />
 
+
 #### Won't Haves
+
 - [ ] &nbsp; A constant Internet-connection or same 06 number:  <br /> I want to find an escape from my current life, bringing something that will drag me back is too much of a risk I think.  <br />
 But I do also want some way of contacting family or emergency services.
 - [ ] &nbsp; ...:  <br />
@@ -304,4 +332,4 @@ or email: [iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br />
 
 
 *Cheers,* <br />
-I-Jun
+I-Jun  
