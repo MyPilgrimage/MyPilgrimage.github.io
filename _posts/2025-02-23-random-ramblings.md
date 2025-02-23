@@ -1,8 +1,8 @@
 ---
 
 title: Random Ramblings 
-date: 2025-03-23 16:30:00 +0100  
-categories: [Random, Ramblings] 
+date: 2025-03-23 16:30:00 +0100
+categories: [Random, Ramblings]
 tags: [personal update, worrying wayfarer, pictures, webpage, tech update] 
 image: 
  path: /assets/pics/20250223_SundaysSun.jpg 
@@ -11,8 +11,8 @@ description: "Just some ramblings"
 
 ---
 
-**168** Days to Prepare. North-Holland, The Netherlands.
-{: .prompt-info }
+> **168** Days to Prepare. North-Holland, The Netherlands.
+{: .prompt-info } 
 
 ## Technical Update
 

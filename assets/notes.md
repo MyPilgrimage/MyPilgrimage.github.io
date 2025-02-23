@@ -42,7 +42,7 @@ description: "[NUMBER] Days to Prepare. POST_DESCRIPTION"
 
 ---
 
-**[NUMBER]** Days to Prepare. [LOCATION]. 
+> **[NUMBER]** Days to Prepare. [LOCATION]. 
 {: .prompt-info }
 
 
