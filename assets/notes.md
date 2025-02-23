@@ -16,26 +16,43 @@ TAGS
 - gathering gear, 
 
 - personal update, 
+- worrying wayfarer,
 - pictures, 
 
 - webpage, 
 - tech update, 
 
 categories: [Trial 2025, Preparations]
-tags: [trial run, update, prepping, training, gathering gear, personal update, pictures, webpage, tech update]
+tags: [trial run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]
 
 ---
 
 title: POST_TITLE 
 date: YYYY-MM-DD 00:00:00 +0100 
 categories: [HEAD-CAT, SUB-CAT] 
-tags: [trial run, update, prepping, training, gathering, personal update, pictures, webpage, tech update]
+tags: [trial run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]
 image: 
- path: 
- alt:  
-description: "# Days to Prepare. POST_DESCRIPTION" 
+ path: /assets/img/
+ alt:  IMAGE
+description: "[NUMBER] Days to Prepare. POST_DESCRIPTION" 
 
 ---
+
+[NUMBER] Days to Prepare. [LOCATION]. 
+{: .prompt-info }
+
+
+## H2
+
+paragraph
+..........
+..........
+
+
+*Cheers,* <br />
+I-Jun
+
+----
 
 - [x] 20210806_TheLowlands.jpg
 - [ ] 20211106_AutumnWilderness.jpg
