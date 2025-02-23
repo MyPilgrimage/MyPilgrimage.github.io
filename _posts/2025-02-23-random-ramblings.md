@@ -1,12 +1,14 @@
 ---
+
 title: Random Ramblings 
-date: 2025-03-23 16:30:00 +0100 
+date: 2025-03-23 16:30:00 +0100  
 categories: [Random, Ramblings] 
 tags: [personal update, worrying wayfarer, pictures, webpage, tech update] 
 image: 
  path: /assets/pics/20250223_SundaysSun.jpg 
- alt: A Sunny Sundays Sun 
+ alt: "A Sunny Sundays Sun"  
 description: "Just some ramblings" 
+
 ---
 
 **168** Days to Prepare. North-Holland, The Netherlands.
@@ -45,6 +47,7 @@ Here's hoping I'm wrong about this.
 
 *Cheers,* <br />
 I-Jun
+
 
 -----
 
