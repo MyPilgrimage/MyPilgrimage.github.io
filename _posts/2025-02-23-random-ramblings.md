@@ -33,8 +33,8 @@ Another way of sorting my posts is through [the Tags page <i class="fa-solid fa-
 Especially useful if you (for example), try to find all Pictures I’ve taken, you could filter by clicking [the Pictures Tag <i class="fa-solid fa-circle-right"></i>](https://mypilgrimage.github.io/tags/pictures/)
 
 
-And ofcourse for a chronological order of blog posts, see [the “Archives” <i class="fa-solid fa-circle-right"></i>](/archives/) <br />
-(I’m still trying to rename it to “Timeline”, which I find a more suitable name for this page. Sadly I’ve not been successful with this yet, Jekyll does not deploy correctly if it misses a page, it would seem.) <br />
+And ofcourse for a chronological order of blog posts, see [the Timeline <i class="fa-solid fa-circle-right"></i>](/timeline/) <br />
+
 
 
 ## Random Ramblings
