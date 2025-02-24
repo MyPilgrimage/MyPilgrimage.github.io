@@ -1,178 +1,203 @@
-CATEGORIES
-- Site
--- Welcome
--- Update
+CATEGORIES:  
+- Site  
+	- Welcome  
+	- Update  
+- 2025 Trial-Run  
+	- Preparations  
+	- Underway  
+- Random  
+	- Ramblings  
 
-- 2025 Trial-Run
--- Preparations
--- Underway
-
-- Random
--- Ramblings
-
-TAGS
-- trial-run, 
-- update, 
-- prepping, 
-- training, 
-- gathering gear, 
-
-- personal update, 
-- worrying wayfarer,
-- pictures, 
-
-- webpage, 
-- tech update, 
-
-categories: [Site, Update]
-categories: [Random, Ramblings]
-categories: [2025 Trial-Run, Preparations]
-tags: [trial-run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]
-
----
-
-title: POST_TITLE 
-date: YYYY-MM-DD 00:00:00 +0100 
-categories: [HEAD-CAT, SUB-CAT] 
-tags: [trial-run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]
-image: 
- path: /assets/img/
- alt:  IMAGE
-description: "[NUMBER] Days to Prepare. POST_DESCRIPTION" 
-
----
-
-> **[NUMBER]** Days to Prepare. [LOCATION]. 
-{: .prompt-info }
+TAGS:  
+- trial-run,  
+- update,  
+- prepping,  
+- training,  
+- gathering gear,  
+- personal update,  
+- worrying wayfarer,  
+- pictures,  
+- webpage,  
+- tech update,  
 
 
-## Technical Update
-## Random Ramblings
-
-paragraph
-..........
-..........
+categories: [Site, Update]  
+categories: [Random, Ramblings]  
+categories: [2025 Trial-Run, Preparations]  
+tags: [trial-run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]  
 
 
-*Cheers,* <br />
-I-Jun
+----- 
+<!-- POST DRAFT PLACEHOLDER -->
 
-----
-/assets/pics/
-
-- [x] 20210806_TheLowlands.jpg
-- [ ] 20211106_AutumnWilderness.jpg
-- [x] 20219617_FunnyBackpack.jpg
-- [ ] 20220112_Twilight.jpg
-- [x] 20220112_TwilightPath.jpg
-- [x] 20220226_Godray.jpg
-- [x] 20220228_Sundown.jpg
-- [x] 20230529_Campfire.jpg
-- [x] 20240520_Schoorl.png
-- [ ] 20240604_Tent.jpg
-- [x] 20250120_OhMyWhatObstacles.jpg
-- [x] 20250121_WaterloggedSchoorl.jpg
-- [x] 20250121_WitchbogSchoorl.jpg
-- [x] 20250223_SundaysSun.jpg
-
-
-
-> [Read About <i class="fa-solid fa-circle-right"></i>](/about)
-{: .prompt-info }
-
-
-> [ <i class="fa-solid fa-circle-left"></i> Go Back](./#gear)
-{: .prompt-info }
-
-
-![Witches Bog Schoorl](/assets/pics/WitchbogSchoorl.jpg) {: .h:"200" }
-_"Witches Bog", Schoorl North-Holland_
-
-
-
---
-
-
-- Want:
-	Weight hanger (TO measure backpack weight on the road?)
-
-
-- Something bigger than me:
-	MS Foundation Netherlands  
-
-
-- How did I "fail"
-	My previous work
-	Organizer
-	Teacher
-	Social worker
-	Boom-operator/sound engineer
-	Home renovator
-
-
-- Who betrayed me
-	Fairweather friends
-	Bosses and leaders
-
-
---
-
-
-
-'But it is not your own Shire,’ said Gildor. 
-‘Others dwelt here before hobbits were; 
-and others will dwell here again when hobbits are no more. 
-The wide world is all about you: 
-you can fence yourselves in, 
-but you cannot for ever fence it out.'
-- Gildor, speaking to Frodo
-~ J.R.R. Tolkien, The Fellowship of the Ring
-
-
-"If more of us valued food and cheer and song above hoarded gold, 
-it would be a merrier world. 
-But, sad or merry, I must leave it now. Farewell."
-- Thorin Oakenshield before he dies, asking Bilbo's forgiveness for his harsh words to him.
-~ J.R.R. Tolkien, The Hobbit
-
-
-"He nods, then squints across the room. 
-'Not all those who wander are lost,' he says. He's still squinting. 
-I wonder if he's practiced this squint - a squint-stare off into the metaphysical distance. 
-But then again, it might just be that he cares about something. 
-'What is that?' I ask. 'Did Jesus Christ say that?' 
-'No,' he says. 'Bilbo Baggins said that.'
-~ Patrick Somerville, The Universe in Miniature in Miniature
-
-
-"Many that live deserve death. 
-And some that die deserve life. 
-Can you give it to them? 
-Then do not be too eager to deal out death in judgement. 
-For even the very wise cannot see all ends.”  
-- Gandalf speaking to Frodo.
-~ J.R.R. Tolkien, The Fellowship of the Ring
-
-
-"I am old, Gandalf. 
-I don't look it, but I am beginning to feel it in my heart of hearts. 
-Well-preserved indeed! 
-Why, I feel all thin, sort of stretched, if you know what I mean: 
-like butter that has been scraped over too much bread. 
-That can't be right. I need a change, or something. I need a holiday. 
-A very long holiday. And I don't expect I shall return. Well I've made up my mind, anyway. 
-I want to see mountains again, Gandalf – mountains; 
-and then find somewhere where I can rest. In peace and quiet,
-I might find somewhere where I can finish my book. 
-I have thought of a nice ending for it: 
-and he lived happily ever after to the end of his days."
-- Bilbo Baggins
-~ J.R.R. Tolkien, The Fellowship of the Ring
-
-
-
--- USED --
-
+---  
+  
+title: POST_TITLE  
+date: 2025-MM-DD 00:00:00 +0100  
+categories: [HEAD-CAT, SUB-CAT]  
+tags: [trial-run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]  
+image:  
+ path: /assets/img/  
+ alt:  IMAGE  
+description: "[NUMBER] Days to Prepare. POST_DESCRIPTION"  
+  
+---  
+  
+> **[NUMBER]** Days to Prepare. [LOCATION].  
+{: .prompt-info }  
+  
+## Technical Update  
+..  
+## Random Ramblings  
+..  
+  
+paragraph  
+..........  
+..........  
+  
+  
+*Cheers,* <br />  
+I-Jun  
+  
+  
+-----  
+<!-- PICTURE LIBRARY -->  
+/assets/pics/  
+- [x] 20210617_FunnyBackpack.jpg (_posts\2025-01-17-a-day-off.md , \_tabs\about.md , \_tabs\pictures.md)
+- [x] 20210806_TheLowlands.jpg (\_posts\2025-02-08-webpage-theme.md , \_tabs\pictures.md)
+- [ ] 20211106_AutumnWilderness.jpg ( , \_tabs\pictures.md)
+- [ ] 20220112_Twilight.jpg ( , \_tabs\pictures.md)
+- [x] 20220112_TwilightPath.jpg (\_posts\2025-02-04-return.md , \_tabs\pictures.md)
+- [x] 20220226_Godray.jpg (\_posts\2025-01-15-my-first-post.md , \_tabs\pictures.md)
+- [x] 20220228_Sundown.jpg (\_posts\2025-01-10-welcome.md , \_tabs\pictures.md)
+- [x] 20230529_Campfire.jpg (\_tabs\about.md , \_tabs\pictures.md)
+- [x] 20240520_Schoorl.png (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
+- [ ] 20240604_Tent.jpg ( , \_tabs\pictures.md)
+- [x] 20250120_OhMyWhatObstacles.jpg (\_posts\2025-01-20-the-ball-is-rolling.md , \_tabs\pictures.md)
+- [x] 20250121_WaterloggedSchoorl.jpg (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
+- [x] 20250121_WitchbogSchoorl.jpg (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
+- [x] 20250223_SundaysSun.jpg (\_posts\2025-02-23-random-ramblings.md , \_tabs\pictures.md)
+  
+<!-- IMAGE LIBRARY -->  
+/assets/img/  
+- [x] GoogleMaps-progress_Current-Location.png (\_posts\2025-01-10-welcome.md)
+- [x] googleMaps-route-Pilgrimage_of_Compostela.png (\_tabs\about.md)
+- [x] img_brokenWebsite.png (\_posts\2025-02-15-live-but-weird.md)
+  
+/assets/img/branding  
+- [ ] avatar-1.png ( )
+- [x] avatar.png (\_config.yml)
+- [ ] avatar_s.png ( )
+- [x] repository-graph-MyPilgrimage.png (Github Repository)
+  
+/assets/img/favicons  
+- [x] android-chrome-192x192.png (Favicons)
+- [x] android-chrome-512x512.png (Favicons)
+- [x] apple-touch-icon.png (Favicons)
+- [x] favicon-16x16.png (Favicons)
+- [x] favicon-32x32.png (Favicons)
+- [x] favicon-96x96.png (Favicons)
+- [x] favicon.ico (Favicons)
+- [x] favicon.svg (Favicons)
+- [x] mstile-150x150.png (Favicons)
+- [x] web-app-manifest-192x192.png (Favicons)
+- [x] web-app-manifest-512x512.png (Favicons)
+  
+  
+-----  
+<!-- COMMON ELEMENTS  -->  
+![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 }  
+<sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub>  
+  
+  
+![ALT_NAME](/assets/pics/PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20 }  
+_*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY_  
+  
+  
+> [Read About <i class="fa-solid fa-circle-right"></i>](/about)  
+{: .prompt-info }  
+  
+  
+> [ <i class="fa-solid fa-circle-left"></i> Go Back](./#gear)  
+{: .prompt-info }  
+  
+  
+-----  
+<!-- WEBSITE ADDITION IDEAS -->  
+- Want:  
+	- Weight hanger (TO measure backpack weight on the road?)  
+- Something bigger than me:  
+	- MS Foundation Netherlands  
+- How did I "fail":  
+	- My previous work  
+	- Organizer  
+	- Teacher  
+	- Social worker  
+	- Boom-operator/sound engineer  
+	- Home renovator  
+- Who betrayed me  
+	- Fairweather friends  
+	- Bosses and leaders  
+  
+  
+-----  
+<!-- QUOTES AND EXCERPTS -->
+> <i class="fa-duotone fa-solid fa-quote-left"></i> *But it is not your own Shire,"*  said Gildor. <br />
+> *"Others dwelt here before hobbits were;* <br />
+> *and others will dwell here again when hobbits are no more.* <br />
+> *The wide world is all about you:* <br />
+> *you can fence yourselves in,* <br />
+> *but you cannot for ever fence it out."* <br />
+> <sub> - Gildor, speaking to Frodo </sub> <br />
+> <sub> ~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
+  
+  
+> <i class="fa-duotone fa-solid fa-quote-left"></i> *If more of us valued food and cheer and song above hoarded gold,* <br />
+> *it would be a merrier world.* <br />
+> *But, sad or merry, I must leave it now. Farewell."* <br />
+> <sub> - Thorin Oakenshield before he dies, asking Bilbo's forgiveness for his harsh words to him. </sub> <br />
+> <sub> ~ J.R.R. Tolkien, The Hobbit </sub> <br />
+  
+  
+> <i class="fa-duotone fa-solid fa-quote-left"></i> He nods, then squints across the room. <br />
+> *"Not all those who wander are lost,"* he says. He's still squinting. <br />
+> I wonder if he's practiced this squint - a squint-stare off into the metaphysical distance. <br />
+> But then again, it might just be that he cares about something. <br />
+> *"What is that?"* I ask. *"Did Jesus Christ say that?"* <br />
+> *"No,"* he says. *"Bilbo Baggins said that."* <br />
+> <sub>~ Patrick Somerville, The Universe in Miniature in Miniature </sub> <br />
+  
+  
+> <i class="fa-duotone fa-solid fa-quote-left"></i> Many that live deserve death. <br />
+> And some that die deserve life. <br />
+> Can you give it to them? <br />
+> Then do not be too eager to deal out death in judgement. <br />
+> For even the very wise cannot see all ends." <br />
+> <sub>- Gandalf speaking to Frodo. </sub> <br />
+> <sub>~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
+  
+  
+> <i class="fa-duotone fa-solid fa-quote-left"></i> I am old, Gandalf. <br />
+> I don't look it, but I am beginning to feel it in my heart of hearts. <br />
+> Well-preserved indeed! <br />
+> <br />
+> Why, I feel all thin, sort of stretched, if you know what I mean; <br />
+> like butter that has been scraped over too much bread. <br />
+> That can't be right. I need a change, or something. <br />
+> I need a holiday. A very long holiday. And I don't expect I shall return. <br />
+> <br />
+> Well I've made up my mind, anyway. <br />
+> I want to see mountains again, Gandalf – mountains; <br />
+> and then find somewhere where I can rest. In peace and quiet, <br />
+> <br />
+> I might find somewhere where I can finish my book. <br />
+> I have thought of a nice ending for it: <br />
+> *"and he lived happily ever after to the end of his days."* <br />
+> <sub>- Bilbo Baggins speaking to Gandalf. </sub> <br />
+> <sub>~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
+  
+  
+<!-- USED QUOTES AND EXCERPTS -->
 > <i class="fa-duotone fa-solid fa-quote-left"></i> All that is gold does not glitter, <br />
 > Not all those who wander are lost; <br />
 > The old that is strong does not wither,  <br />
@@ -184,15 +209,20 @@ and he lived happily ever after to the end of his days."
 > The crownless again shall be king.<br />
 > <sub> Bilbo Baggins Poem in honor of Aragorn </sub> <br />
 > <sub> ~J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
-
-
+  
+  
 > <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it. <br />
 > <sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
 > <sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
-
-
-> <i class="fa-duotone fa-solid fa-quote-left"></i> *‘I wish it need not have happened in my time,’* said Frodo. <br />
-> *‘So do I,’* said Gandalf, *‘and so do all who live to see such times.* <br />
+  
+  
+> <i class="fa-duotone fa-solid fa-quote-left"></i> *I wish it need not have happened in my time,"*  said Frodo. <br />
+> *"So do I,"*  said Gandalf,  *"and so do all who live to see such times.* <br />
 > *But that is not for them to decide.* <br />
-> *All we have to decide is what to do with the time that is given us.’* <br />
+> *All we have to decide is what to do with the time that is given us."* <br />
 > <sub> ~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
+  
+  
+-----  
+  
+  
