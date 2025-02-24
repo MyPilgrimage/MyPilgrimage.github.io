@@ -106,6 +106,15 @@ I-Jun
   
 -----  
 <!-- COMMON ELEMENTS  -->  
+	<!-- PICTURE ALBUM -->
+## YEAR
+| 																								 | 																								  |
+| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
+| ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
+| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
+| ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
+| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
+
 ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 }  
 <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub>  
   
@@ -113,7 +122,7 @@ I-Jun
 ![ALT_NAME](/assets/pics/PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20 }  
 _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY_  
   
-  
+	<!-- LINKS -->  
 > [Read About <i class="fa-solid fa-circle-right"></i>](/about)  
 {: .prompt-info }  
   
