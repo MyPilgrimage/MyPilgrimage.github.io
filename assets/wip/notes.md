@@ -27,7 +27,7 @@ categories: [2025 Trial-Run, Preparations]
 tags: [trial-run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]  
 
 
------ 
+---------- 
 <!-- POST DRAFT PLACEHOLDER -->
 
 ---  
@@ -60,7 +60,7 @@ paragraph
 I-Jun  
   
   
------  
+----------  
 <!-- PICTURE LIBRARY -->  
 /assets/pics/  
 - [x] 20210617_FunnyBackpack.jpg (_posts\2025-01-17-a-day-off.md , \_tabs\about.md , \_tabs\pictures.md)
@@ -71,6 +71,7 @@ I-Jun
 - [x] 20220226_Godray.jpg (\_posts\2025-01-15-my-first-post.md , \_tabs\pictures.md)
 - [x] 20220228_Sundown.jpg (\_posts\2025-01-10-welcome.md , \_tabs\pictures.md)
 - [x] 20230529_Campfire.jpg (\_tabs\about.md , \_tabs\pictures.md)
+- [ ] 20230527_Camping.jpg ( , \_tabs\pictures.md)
 - [x] 20240520_Schoorl.png (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
 - [ ] 20240604_Tent.jpg ( , \_tabs\pictures.md)
 - [x] 20250120_OhMyWhatObstacles.jpg (\_posts\2025-01-20-the-ball-is-rolling.md , \_tabs\pictures.md)
@@ -104,14 +105,37 @@ I-Jun
 - [x] web-app-manifest-512x512.png (Favicons)
   
   
------  
+----------  
 <!-- COMMON ELEMENTS  -->  
 	<!-- PICTURE ALBUM -->
 
+<!-- Pictures of YYYY -->
+<h3>YYYY</h3>
+<div class="responsiveGallery">
+  <div class="imgGallery">
+	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400">
+	<div class="imgDesc"><i>"ALT_NAME"</i>, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </div>
+  </div>
+</div>
+
+<div class="responsiveGallery">
+  <div class="imgGallery">
+	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400">
+	<div class="imgDesc"><i>"ALT_NAME"</i>, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+<hr />
+
+
+----------------------------------------
+
 ## YEAR
 
-| <!-- Left-Tab -->																				 | <!-- Right-Tab --> 																			  |
-| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
+| <!-- Left-Tab -->																				 | <!-- Right-Tab --> 									|
+| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------: |
 | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
 | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
 | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
@@ -134,7 +158,7 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_M
 {: .prompt-info }  
   
   
------  
+--------------------  
 <!-- WEBSITE ADDITION IDEAS -->  
 - Want:  
 	- Weight hanger (TO measure backpack weight on the road?)  
@@ -152,7 +176,7 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_M
 	- Bosses and leaders  
   
   
------  
+--------------------  
 <!-- QUOTES AND EXCERPTS -->
 > <i class="fa-duotone fa-solid fa-quote-left"></i> *But it is not your own Shire,"*  said Gildor. <br />
 > *"Others dwelt here before hobbits were;* <br />
@@ -235,6 +259,6 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_M
 > <sub> ~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
   
   
------  
+--------------------  
   
   

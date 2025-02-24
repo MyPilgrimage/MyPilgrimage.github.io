@@ -75,7 +75,7 @@ I-Jun <br />
 
 
 ![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 .shadow .rounded-10 }
-_"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.org/wiki/User:Roland_zh) Wikipedia._
+_"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.org/wiki/User:Roland_zh) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
 -----
@@ -92,7 +92,7 @@ Simply because it's a known route, it has historical significance (and I love hi
 
 
 ![Approximate map of the Route](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ways_of_St._James_in_Europe.png){: .w-50 .shadow .rounded-10 }
-_"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) Wikipedia._
+_"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
 > I will keep current updates about the route I'm taking, in the [Quick Overview](/welcome#quick-overview) section,
@@ -112,7 +112,7 @@ For this trail run I'm thinking of walking the **Floris V path**, also known as 
 
 
 ![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }
-_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma) Wikipedia._
+_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
 ### What Route do I want to take?
@@ -139,7 +139,7 @@ Seeing as the route is difficult enough as is!  <br />
 
 
 ![Samos, in Galicia, on the French Way or Camino Francés](https://upload.wikimedia.org/wikipedia/commons/8/83/Samos_on_the_Camino_Way.jpg){: .w-50 .shadow .rounded-10 }
-_"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown Wikipedia._
+_"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
 #### Quick Route Calculation
@@ -189,7 +189,7 @@ I still need to include Crunches, but I don't seem to get the technique right, o
 
 
 ![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 .shadow .rounded-10 }
-_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) Wikipedia._
+_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
 ### Training Preparations
@@ -259,7 +259,7 @@ Worst comes to worst I will start my Pilgrimage with these heavier things, and h
 
 
 ![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://upload.wikimedia.org/wikipedia/commons/5/50/Man_wearing_pilgrim_clothing%2C_450-425_BC%2C_Prague_NM-HM10_771%2C_151792.jpg){: .w-50 .shadow .rounded-10 }
-_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](https://commons.wikimedia.org/wiki/User:Zde) Wikipedia._
+_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](https://commons.wikimedia.org/wiki/User:Zde) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
 ### Gear list:
@@ -318,7 +318,7 @@ But I do also want some way of contacting family or emergency services.
 
 
 ![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 .shadow .rounded-10 }
-_Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~by [Certo Xornal](https://www.flickr.com/photos/15528381@N02) Wikipedia._
+_Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~by [Certo Xornal](https://www.flickr.com/photos/15528381@N02) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
 -----
@@ -328,9 +328,10 @@ _Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wiki
 
 *Thank you for reading!* <br />
 If you recognise your work and I did not attribute it correctly to you as author, <br />
-please contact me via this page on [Github.com](https://github.com/MyPilgrimage/) <br />
-or email: [iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br />
-
+please contact me via this page on [<i class="fa-brands fa-github"></i>  Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io)
+via my [<i class="fa-brands fa-reddit"></i>  Reddit page](https://www.reddit.com/user/CutNo303/)
+or email: [<i class="fa-solid fa-envelope"></i>  iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
+  
 
 *Cheers,* <br />
 I-Jun  

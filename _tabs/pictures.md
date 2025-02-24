@@ -16,7 +16,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 <!-- Pictures of 2025 -->
 <h3>2025</h3>
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20250223_SundaysSun.jpg" alt="A Sunny Sundays Sun" width="600" height="400">
 	<div class="imgDesc">
 		<i>"A Sunny Sundays Sun"</i>, <br /> 
@@ -28,7 +28,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	 <img src="/assets/pics/20250121_WaterloggedSchoorl.jpg" alt="Waterlogged Bench, Schoorl North-Holland" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Waterlogged Bench"</i>, <br /> 
@@ -40,7 +40,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20250121_WitchbogSchoorl.jpg" alt="Witches Bog, Schoorl North-Holland" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Witches Bog"</i>, <br /> 
@@ -52,7 +52,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20250120_OhMyWhatObstacles.jpg" alt="Small trunk-bridge" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Small trunk-bridge"</i>, <br /> 
@@ -63,12 +63,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
   </div>
 </div>
 
+<div class="clearfix"></div>
 
 -----
+
 <!-- Pictures of 2024 -->
 <h3>2024</h3>
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20240604_Tent.jpg" alt="Camping Tent" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Camping Tent"</i>, <br /> 
@@ -80,7 +82,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20240520_Schoorl.png" alt="Schoorl May High Water" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Schoorl May High Water"</i>, <br /> 
@@ -91,12 +93,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
   </div>
 </div>
 
+<div class="clearfix"></div>
 
 -----
+
 <!-- Pictures of 2023 -->
 <h3>2023</h3>
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20230529_Campfire.jpg" alt="A small campfire" width="600" height="400">
 	<div class="imgDesc">
 		<i>"A small campfire"</i>, <br /> 
@@ -107,19 +111,23 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
   </div>
 </div>
 
+<!--
 <div class="responsiveGallery">
-  <div class="imgGallery">
-	<div class="imgDesc">
-	</div>
+  <div class="imgGallery rounded-10">
+  <img src="/assets/pics/20230527_Camping.jpg" alt="Camping Camp" width="600" height="400">
+	<div class="imgDesc"><i>"Camping Camp"</i>, <br /> Our small camp while on vacation with friends. <br /> Somewhere near the Utrechtse Heuvelrug. <br /> @27-05-2023 </div>
   </div>
 </div>
+-->
 
+<div class="clearfix"></div>
 
 -----
+
 <!-- Pictures of 2022 -->
 <h3>2022</h3>
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20220228_Sundown.jpg" alt="Sundown" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Sundown"</i>, <br /> 
@@ -131,7 +139,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20220226_Godray.jpg" alt="Godray" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Godray"</i>, <br /> 
@@ -143,7 +151,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20220112_TwilightPath.jpg" alt="Twilight Path" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Twilight Path"</i>, <br /> 
@@ -155,7 +163,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20220112_Twilight.jpg" alt="Twilight" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Twilight"</i>, <br /> 
@@ -166,12 +174,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
   </div>
 </div>
 
+<div class="clearfix"></div>
 
 -----
+
 <!-- Pictures of 2021 -->
 <h3>2021</h3>
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20211106_AutumnWilderness.jpg" alt="Autumn Wilderness" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Autumn Wilderness"</i>, <br /> 
@@ -183,7 +193,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20210806_TheLowlands.jpg" alt="The Dutch Lowlands" width="600" height="400">
 	<div class="imgDesc">
 		<i>"The Dutch Lowlands"</i>, <br /> 
@@ -195,12 +205,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 <!--<div class="responsiveGallery">
-  <div class="imgGallery">
+  <div class="imgGallery rounded-10">
 	<img src="/assets/pics/20210617_FunnyBackpack.jpg" alt="My Cosplay Backpack" width="600" height="400">
 	<div class="imgDesc"><i>"My Cosplay Backpack"</i>, <br /> One of my smaller backpacks I use for Cosplay. <br /> This was a wasteland-survivor outfit. <br /> @17-06-2021 </div>
   </div>
 </div>-->
-
 
 <!-- End of Album -->
 <div class="clearfix"></div>
@@ -208,4 +217,4 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 
 -----
 
-All Pictures taken by Me (I-Jun) <br />
+Most Pictures taken by Me (I-Jun), some by Friends. <br />
