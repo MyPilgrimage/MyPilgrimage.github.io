@@ -64,7 +64,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 
-<hr />
+-----
 <!-- Pictures of 2024 -->
 <h3>2024</h3>
 <div class="responsiveGallery">
@@ -81,7 +81,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 
 <div class="responsiveGallery">
   <div class="imgGallery">
-	 <img src="/assets/pics/20240520_Schoorl.png" alt="Schoorl May High Water" width="600" height="400">
+	<img src="/assets/pics/20240520_Schoorl.png" alt="Schoorl May High Water" width="600" height="400">
 	<div class="imgDesc">
 		<i>"Schoorl May High Water"</i>, <br /> 
 		This is normally sand-dunes. <br /> 
@@ -92,61 +92,105 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 </div>
 
 
-<hr />
+-----
 <!-- Pictures of 2023 -->
 <h3>2023</h3>
 <div class="responsiveGallery">
   <div class="imgGallery">
 	<img src="/assets/pics/20230529_Campfire.jpg" alt="A small campfire" width="600" height="400">
-	<div class="imgDesc"><i>"A small campfire"</i>, <br /> Enjoying a small campfire, on vacation with friends. <br /> Somewhere near the Utrechtse Heuvelrug. <br /> @29-05-2023 </div>
+	<div class="imgDesc">
+		<i>"A small campfire"</i>, <br /> 
+		Enjoying a small campfire, on vacation with friends. <br /> 
+		Somewhere near the Utrechtse Heuvelrug. <br /> 
+		@29-05-2023 
+	</div>
+  </div>
+</div>
+
+<div class="responsiveGallery">
+  <div class="imgGallery">
+	<div class="imgDesc">
+	</div>
   </div>
 </div>
 
 
-<hr />
+-----
 <!-- Pictures of 2022 -->
 <h3>2022</h3>
-<div class="imgGallery">
+<div class="responsiveGallery">
+  <div class="imgGallery">
 	<img src="/assets/pics/20220228_Sundown.jpg" alt="Sundown" width="600" height="400">
-	<div class="imgDesc"><i>"Sundown"</i>, <br />  I always like the dutch skies, especially the colours that appear at dusk and dawn. <br /> Picture taken while hiking. <br /> @28-02-2022 </div>
+	<div class="imgDesc">
+		<i>"Sundown"</i>, <br /> 
+		I always like the dutch skies, especially the colours that appear at dusk and dawn. <br /> 
+		Picture taken while hiking. <br /> 
+		@28-02-2022 
+	</div>
   </div>
 </div>
 
 <div class="responsiveGallery">
   <div class="imgGallery">
 	<img src="/assets/pics/20220226_Godray.jpg" alt="Godray" width="600" height="400">
-	<div class="imgDesc"><i>"Godray"</i>, <br /> A nice sunflare/godray with long tree shadows over the green grass. <br /> Picture taken while hiking. <br /> @26-02-2022 </div>
+	<div class="imgDesc">
+		<i>"Godray"</i>, <br /> 
+		A nice sunflare/godray with long tree shadows over the green grass. <br /> 
+		Picture taken while hiking. <br /> 
+		@26-02-2022 
+	</div>
   </div>
 </div>
 
-<div class="imgGallery">
+<div class="responsiveGallery">
+  <div class="imgGallery">
 	<img src="/assets/pics/20220112_TwilightPath.jpg" alt="Twilight Path" width="600" height="400">
-	<div class="imgDesc"><i>"Twilight Path"</i>, <br /> I like the contrast between the colourful sky. with its pink and peach, opposed to the gray and brown branches of the trees and ground. <br /> Picture taken while hiking. <br /> @12-01-2022 </div>
+	<div class="imgDesc">
+		<i>"Twilight Path"</i>, <br /> 
+		I like the contrast between the colourful sky. with its pink and peach, opposed to the gray and brown branches of the trees and ground. <br /> 
+		Picture taken while hiking. <br /> 
+		@12-01-2022 
+	</div>
   </div>
 </div>
 
 <div class="responsiveGallery">
   <div class="imgGallery">
 	<img src="/assets/pics/20220112_Twilight.jpg" alt="Twilight" width="600" height="400">
-	<div class="imgDesc"><i>"Twilight"</i>, <br /> Same as the Twilight Path photo, but more emphasis on the Dark-Light contrast. <br /> Picture taken while hiking. <br /> @12-01-2022 </div>
+	<div class="imgDesc">
+		<i>"Twilight"</i>, <br /> 
+		Same as the Twilight Path photo, but more emphasis on the Dark-Light contrast. <br /> 
+		Picture taken while hiking. <br /> 
+		@12-01-2022 
+	</div>
   </div>
 </div>
 
 
-<hr />
+-----
 <!-- Pictures of 2021 -->
 <h3>2021</h3>
 <div class="responsiveGallery">
   <div class="imgGallery">
 	<img src="/assets/pics/20211106_AutumnWilderness.jpg" alt="Autumn Wilderness" width="600" height="400">
-	<div class="imgDesc"><i>"Autumn Wilderness"</i>, <br /> PICTURE_DESCRIPTION. <br /> Picture taken while hiking. <br /> @06-11-2021 </div>
+	<div class="imgDesc">
+		<i>"Autumn Wilderness"</i>, <br /> 
+		PICTURE_DESCRIPTION. <br /> 
+		Picture taken while hiking. <br /> 
+		@06-11-2021 
+	</div>
   </div>
 </div>
 
 <div class="responsiveGallery">
   <div class="imgGallery">
 	<img src="/assets/pics/20210806_TheLowlands.jpg" alt="The Dutch Lowlands" width="600" height="400">
-	<div class="imgDesc"><i>"The Dutch Lowlands"</i>, <br /> While on vacation. <br /> Picture taken somewhere in Brabant. <br /> @06-08-2021 </div>
+	<div class="imgDesc">
+		<i>"The Dutch Lowlands"</i>, <br /> 
+		While on vacation. <br /> 
+		Picture taken somewhere in Brabant. <br /> 
+		@06-08-2021 
+	</div>
   </div>
 </div>
 
