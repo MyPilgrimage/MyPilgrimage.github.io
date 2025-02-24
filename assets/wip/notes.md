@@ -3,7 +3,7 @@ CATEGORIES
 -- Welcome
 -- Update
 
-- Trial 2025
+- 2025 Trial-Run
 -- Preparations
 -- Underway
 
@@ -11,7 +11,7 @@ CATEGORIES
 -- Ramblings
 
 TAGS
-- trial run, 
+- trial-run, 
 - update, 
 - prepping, 
 - training, 
@@ -26,15 +26,15 @@ TAGS
 
 categories: [Site, Update]
 categories: [Random, Ramblings]
-categories: [Trial 2025, Preparations]
-tags: [trial run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]
+categories: [2025 Trial-Run, Preparations]
+tags: [trial-run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]
 
 ---
 
 title: POST_TITLE 
 date: YYYY-MM-DD 00:00:00 +0100 
 categories: [HEAD-CAT, SUB-CAT] 
-tags: [trial run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]
+tags: [trial-run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]
 image: 
  path: /assets/img/
  alt:  IMAGE
@@ -77,7 +77,7 @@ I-Jun
 
 
 
-> [Read About <i class="fa-solid fa-circle-right"></i> ](/about)
+> [Read About <i class="fa-solid fa-circle-right"></i>](/about)
 {: .prompt-info }
 
 

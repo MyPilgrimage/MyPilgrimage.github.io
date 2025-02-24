@@ -1,3 +1,5 @@
+# Chirpy Starter - GitIgnore
+# https://github.com/cotes2020/chirpy-starter/blob/main/.gitignore
 # Bundler cache
 .bundle
 vendor
@@ -25,3 +27,37 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+
+# Windows - GitIgnore
+# https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+
+# My Additions
+# Folders and Files I want to ignore
+# Notepad++ Session
+notepadPlusPlus-session

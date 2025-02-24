@@ -2,8 +2,8 @@
 
 title: Webpage Theme 
 date: 2025-02-08 21:16:00 +0100 
-categories: [Trial 2025, Preparations] 
-tags: [trial run, update, prepping, training, personal update, webpage, tech update]
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, update, prepping, training, personal update, webpage, tech update]
 image: 
  path: /assets/pics/20210806_TheLowlands.jpg
  alt: The Dutch Lowlands

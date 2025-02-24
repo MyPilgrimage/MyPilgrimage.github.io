@@ -2,8 +2,8 @@
 
 title: My First Post 
 date: 2025-01-15 23:00:00 +0100 
-categories: [Trial 2025, Preparations] 
-tags: [trial run, prepping, personal update, webpage ] 
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, prepping, personal update, webpage ] 
 image: 
  path: /assets/pics/20220226_Godray.jpg 
  alt: Godrays 

@@ -100,9 +100,10 @@ _"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Vol
 {: .prompt-link }
 
 
-### But first I'll do a trial-run.
+### But first I'll do a Trial-Run.
 
-I want to start a trial run this August of 2025. <br />
+I want to start a Trial-Run this August of 2025. <br />
+[See the countdown <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) <br />
 This gives me a bit of time to prepare and get my walking gear in order. <br />
 Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. <br />
 This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br />
@@ -116,7 +117,7 @@ _"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosm
 
 ### What Route do I want to take?
 
-The Trial run is in preparation for the real Pilgrimage. 
+The Trial-Run is in preparation for the real Pilgrimage. 
 I'm thinking of follow the route of [Camino de Santiago](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br />
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br />
 

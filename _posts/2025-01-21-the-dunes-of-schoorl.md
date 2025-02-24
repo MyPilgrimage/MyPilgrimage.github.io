@@ -2,8 +2,8 @@
 
 title: The Dunes of Schoorl  
 date: 2025-01-21 23:00:00 +0100 
-categories: [Trial 2025, Preparations] 
-tags: [trial run, update, prepping, training, personal update, pictures]
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, update, prepping, training, personal update, pictures]
 image: 
  path: /assets/pics/20240520_Schoorl.png 
  alt: Schoorl May High Water 

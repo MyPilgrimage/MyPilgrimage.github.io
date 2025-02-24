@@ -2,8 +2,8 @@
 
 title: The Ball is Rolling 
 date: 2025-01-20 23:00:00 +0100 
-categories: [Trial 2025, Preparations] 
-tags: [trial run, update, prepping, training, gathering gear, personal update, pictures]
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, update, prepping, training, gathering gear, personal update, pictures]
 description: "202 Days to Prepare. A great training session and new plans!..." 
 
 ---

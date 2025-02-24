@@ -2,8 +2,8 @@
 
 title: In times of Sickness
 date: 2025-02-12 21:00:00 +0100 
-categories: [Trial 2025, Preparations] 
-tags: [trial run, update, prepping, gathering gear, personal update, webpage, tech update]
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, update, prepping, gathering gear, personal update, webpage, tech update]
 description: "179 Days to Prepare. I got the flu, but I did realise some things..." 
 
 ---

@@ -2,8 +2,8 @@
 
 title: Clear my Head 
 date: 2025-01-28 23:00:00 +0100 
-categories: [Trial 2025, Preparations] 
-tags: [trial run, update, prepping, training, gathering gear, personal update] 
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, update, prepping, training, gathering gear, personal update] 
 description: "193 Days to Prepare. I need to clear my head..." 
 
 ---

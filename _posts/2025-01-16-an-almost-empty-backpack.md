@@ -2,8 +2,8 @@
 
 title: An Almost Empty Backpack
 date: 2025-01-16 23:00:00 +0100
-categories: [Trial 2025, Preparations] 
-tags: [trial run, update, prepping, training, gathering gear, webpage, tech update]
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, update, prepping, training, gathering gear, webpage, tech update]
 description: "206 Days to Prepare. Today I tried walking with an almost empty backpack, here are my conclusions..." 
 
 ---

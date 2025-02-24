@@ -3,7 +3,7 @@
 title: POST_TITLE 
 date: YYYY-MM-DD 00:00:00 +0100 
 categories: [HEAD-CAT, SUB-CAT] 
-tags: [trial run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]
+tags: [trial-run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]
 image: 
  path: /assets/img/
  alt:  IMAGE

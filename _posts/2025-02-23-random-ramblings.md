@@ -24,7 +24,7 @@ It will also serve as a “down-detector”, if the website is down for whatever
 I’ve started to vary the [Categories section <i class="fa-solid fa-circle-right"></i>](/categories/) of the website more.  
 On the categories page all blog posts are categorized by type. 
 - [The Site category <i class="fa-solid fa-circle-right"></i>](/categories/site/) is used for posts specifically about the webpage.
-- [The Trial 2025 category <i class="fa-solid fa-circle-right"></i>](/categories/trial-2025/) contains the posts and updates about my Trial Run.
+- [The 2025 Trial-Run category <i class="fa-solid fa-circle-right"></i>](/categories/trial-2025/) contains the posts and updates about my trial-run.
 - And the newest category; [Random Ramblings <i class="fa-solid fa-circle-right"></i>](/categories/ramblings/) where I post some of my thoughts or concerns in general. Basically where I ramble about random stuff. <br />
 I've made the new category so that, if you don't want to read posts that aren't about the hike, you can more easily find relevant posts!
 

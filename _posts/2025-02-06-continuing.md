@@ -2,8 +2,8 @@
 
 title: Continuing 
 date: 2025-02-06 22:00:00 +0100 
-categories: [Trial 2025, Preparations] 
-tags: [trial run, update, prepping, training, personal update, webpage, tech update]
+categories: [2025 Trial-Run, Preparations] 
+tags: [trial-run, update, prepping, training, personal update, webpage, tech update]
 description: "185 Days to Prepare. Continuing with training and updating this page..." 
 
 ---
