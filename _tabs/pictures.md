@@ -16,35 +16,39 @@ Press the "X" in the upper right corner to exit the Large-viewport.
 
 ## 2025
 <br />
+<p class=".left .w-50">
+![A Sunny Sundays Sun](/assets/pics/20250223_SundaysSun.jpg){: .shadow .rounded-20 }
+<sub>"*A Sunny Sundays Sun*, <br /> picture taken while writing a blog post. @23-02-2025"</sub>
+</p>
 
-![A Sunny Sundays Sun](/assets/pics/20250223_SundaysSun.jpg){: .left .w-50 .shadow .rounded-20 }
-<sub class=".left .w-50">"*A Sunny Sundays Sun*, <br /> picture taken while writing a blog post. @23-02-2025"</sub>
+<p class=".right .w-50">
+![Waterlogged Bench, Schoorl North-Holland](/assets/pics/20250121_WaterloggedSchoorl.jpg){: .shadow .rounded-20 }
+<sub>"*Waterlogged Bench*, <br /> Schoorl North-Holland. This is normally sand-dunes, you can just about see the backrest of a bench i the water. Taken while hiking with my Mothers Walking-group. @21-01-2025"</sub>
+</p>
 
+<p class=".left .w-50">
+![Witches Bog, Schoorl North-Holland](/assets/pics/20250121_WitchbogSchoorl.jpg){: .shadow .rounded-20 }
+<sub>"*Witches Bog*, <br /> Schoorl North-Holland. Taken while hiking with my Mothers Walking-group. @21-01-2025"</sub>
+</p>
 
-![Waterlogged Bench, Schoorl North-Holland](/assets/pics/20250121_WaterloggedSchoorl.jpg){: .right .w-50 .shadow .rounded-20 }
-<sub class=".right .w-50">"*Waterlogged Bench*, <br /> Schoorl North-Holland. This is normally sand-dunes, you can just about see the backrest of a bench i the water. Taken while hiking with my Mothers Walking-group. @21-01-2025"</sub>
-
-
-![Witches Bog, Schoorl North-Holland](/assets/pics/20250121_WitchbogSchoorl.jpg){: .left .w-50 .shadow .rounded-20 }
-<sub class=".left .w-50">"*Witches Bog*, <br /> Schoorl North-Holland. Taken while hiking with my Mothers Walking-group. @21-01-2025"</sub>
-
-
-![Small trunk-bridge](/assets/pics/20250120_OhMyWhatObstacles.jpg){: .right .w-50 .shadow .rounded-20 }
-<sub class=".right .w-50">"*Small trunk-bridge*, <br /> picture taken while hiking. @20-01-2025"</sub>
-
+<p class=".right .w-50">
+![Small trunk-bridge](/assets/pics/20250120_OhMyWhatObstacles.jpg){: .shadow .rounded-20 }
+<sub>"*Small trunk-bridge*, <br /> picture taken while hiking. @20-01-2025"</sub>
+</p>
 
 -----
 
 ## 2024
 <br />
-
+<p class=".left .w-50">
 ![Camping Tent](/assets/pics/20240604_Tent.jpg){: .left .w-50 .shadow .rounded-20 }
-<sub class=".left .w-50">"*Camping Tent*, <br /> Somewhere near Weert Brabant. My (way to heavy) tent I currently use on vacation. @04-06-2024"</sub>
+<sub>"*Camping Tent*, <br /> Somewhere near Weert Brabant. My (way to heavy) tent I currently use on vacation. @04-06-2024"</sub>
+</p>
 
-
+<p>
 ![Schoorl May High Water](/assets/pics/20240520_Schoorl.png){: .right .w-50 .shadow .rounded-20 }
-<sub class=".right .w-50">"High water in Schoorl North-Holland. This is normally sand-dunes. @20-05-2024"</sub>
-
+<sub>"High water in Schoorl North-Holland. This is normally sand-dunes. @20-05-2024"</sub>
+</p class=".right .w-50">
 
 -----
 
