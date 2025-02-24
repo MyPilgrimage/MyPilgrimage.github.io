@@ -107,13 +107,16 @@ I-Jun
 -----  
 <!-- COMMON ELEMENTS  -->  
 	<!-- PICTURE ALBUM -->
+
 ## YEAR
-| 																								 | 																								  |
+
+| <!-- Left-Tab -->																				 | <!-- Right-Tab --> 																			  |
 | :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
 | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
 | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
 | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
 | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
+
 
 ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 }  
 <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub>  
