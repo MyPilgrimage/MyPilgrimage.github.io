@@ -40,15 +40,15 @@
 }
 
 /** Rounded Corners */
-// .rounded-10 {
+.rounded-10 {
 // 	border: 1px solid black;
-// 	border-radius: 10px;
-// }
+ 	border-radius: 10px;
+}
 
-// .rounded-20 {
+.rounded-20 {
 // 	border: 1px solid black;
-// 	border-radius: 20px;
-// }
+ 	border-radius: 20px;
+}
 
 /** Photo Album */
 .imgGallery {
@@ -76,7 +76,8 @@
 .responsiveGallery {
 	padding: 0 6px;
 	float: left;
-	width: 24.99999%;
+	/* width: 24.99999%; */
+	width: 49.99999%;
 }
 
 @media only screen and (max-width: 700px) {
