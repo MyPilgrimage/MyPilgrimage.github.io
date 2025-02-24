@@ -242,7 +242,7 @@ A simple first-aid kit, with band-aid, a flea-nipper, a few painkillers and a re
 The rest of my gear I will need to acquire <br />
 
 
-![My Cosplay Backpack](/assets/pics/20219617_FunnyBackpack.jpg){: .w-50 .shadow .rounded-10 }
+![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.jpg){: .w-50 .shadow .rounded-10 }
 _One of my smaller backpacks I use for Cosplay. This was a wasteland-survivor outfit._
 
 
