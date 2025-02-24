@@ -12,56 +12,59 @@ Press the "X" in the upper right corner to exit the Large-viewport.
 
 
 -----
-
 ## 2025
-
-![A Sunny Sundays Sun](/assets/pics/20250223_SundaysSun.jpg){: .shadow .rounded-20 }_"*A Sunny Sundays Sun*,picture taken while writing a blog post. @23-02-2025"_
-
-![Waterlogged Bench, Schoorl North-Holland](/assets/pics/20250121_WaterloggedSchoorl.jpg){: .shadow .rounded-20 }_"*Waterlogged Bench*,Schoorl North-Holland. This is normally sand-dunes, you can just about see the backrest of a bench i the water. Taken while hiking with my Mothers Walking-group. @21-01-2025"_
-
-![Witches Bog, Schoorl North-Holland](/assets/pics/20250121_WitchbogSchoorl.jpg){: .shadow .rounded-20 }_"*Witches Bog*,Schoorl North-Holland. Taken while hiking with my Mothers Walking-group. @21-01-2025"_
-
-![Small trunk-bridge](/assets/pics/20250120_OhMyWhatObstacles.jpg){: .shadow .rounded-20 }_"*Small trunk-bridge*,picture taken while hiking. @20-01-2025"_
+| 																								 | 																								  |
+| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
+| ![A Sunny Sundays Sun](/assets/pics/20250223_SundaysSun.jpg){: .w-50 } | <sub>*"A Sunny Sundays Sun"*, <br /> Enjoying the warmth of the sun, while typing and working on this page. <br /> Picture taken while writing a blog post. <br /> @23-02-2025 </sub> |
+| <sub>*"Waterlogged Bench"*, <br /> This is normally sand-dunes, you can just about see the backrest of a bench in the water. <br /> Taken while hiking with my Mothers Walking-group, Schoorl North-Holland. <br /> @21-01-2025 </sub> | ![Waterlogged Bench, Schoorl North-Holland](/assets/pics/20250121_WaterloggedSchoorl.jpg){: .w-50 } |
+| ![Witches Bog, Schoorl North-Holland](/assets/pics/20250121_WitchbogSchoorl.jpg){: .w-50 } | <sub>*"Witches Bog"*, <br /> I really like the rugged and mysteriousness in this picture. There was a thick and lowhanging mist that made it feel like a Grimm Fairytale. <br /> Taken while hiking with my Mothers Walking-group, Schoorl North-Holland. <br /> @21-01-2025 </sub> |
+| <sub>*"Small trunk-bridge"*, <br /> A quite deep, waterway that crossed my path. You can see a ropebridge (which wasn't accesible with my big backpack). Luckily my boots where waterproof! <br /> Picture taken while hiking. <br /> @20-01-2025 </sub> | ![Small trunk-bridge](/assets/pics/20250120_OhMyWhatObstacles.jpg){: .w-50 } |
 
 
 -----
-
 ## 2024
-
-![Camping Tent](/assets/pics/20240604_Tent.jpg){: .w-50 .shadow .rounded-20 }_"*Camping Tent*,Somewhere near Weert Brabant. My (way to heavy) tent I currently use on vacation. @04-06-2024"_
-
-![Schoorl May High Water](/assets/pics/20240520_Schoorl.png){: .w-50 .shadow .rounded-20 }_"High water in Schoorl North-Holland. This is normally sand-dunes. @20-05-2024"_
+| 																								 | 																								  |
+| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
+| ![Camping Tent](/assets/pics/20240604_Tent.jpg){: .w-50 } | <sub>*"Camping Tent"*, <br /> My (way to heavy) tent I currently use on vacation. <br /> Somewhere near Weert Brabant. <br /> @04-06-2024 </sub> |
+| <sub>*"Schoorl May High Water"*, <br /> This is normally sand-dunes. <br /> Schoorl North-Holland. <br /> @20-05-2024 </sub> | ![Schoorl May High Water](/assets/pics/20240520_Schoorl.png){: .w-50 } |
 
 
 -----
-
 ## 2023 
-
-![A small campfire](/assets/pics/20230529_Campfire.jpg){: .w-50 .shadow .rounded-20 }_"*A small campfire*,Somewhere near the Utrechtse Heuvelrug. Enjoying a small campfire, on vacation with friends. @29-05-2025"_
+| 																								 | 																								  |
+| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
+| ![A small campfire](/assets/pics/20230529_Campfire.jpg){: .w-50 } | <sub>*"A small campfire"*, <br />  Enjoying a small campfire, on vacation with friends. <br /> Somewhere near the Utrechtse Heuvelrug. <br /> @29-05-2025 </sub> |
 
 
 -----
-
 ## 2022
-
-![Sundown](/assets/pics/20220228_Sundown.jpg){: .w-50 .shadow .rounded-20 }_"*Sundown*,picture taken while hiking. @28-02-2022"_
-
-![Godray](/assets/pics/20220226_Godray.jpg){: .w-50 .shadow .rounded-20 }_"*Godray*,picture taken while hiking. @26-02-2022"_
-
-![Twilight Path](/assets/pics/20220112_TwilightPath.jpg){: .w-50 .shadow .rounded-20 }_"*Twilight Path*,picture taken while hinking @12-01-2022"_
-
-![Twilight](/assets/pics/20220112_Twilight.jpg){: .w-50 .shadow .rounded-20 }_"*Twilight*,picture taken while hinking @12-01-2022"_
+| 																								 | 																								  |
+| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
+| ![Sundown](/assets/pics/20220228_Sundown.jpg){: .w-50 } | <sub>*"Sundown"*, <br /> I always like the dutch skies, especially the colours that appear at dusk and dawn. <br /> Picture taken while hiking. <br /> @28-02-2022 </sub> |
+| <sub>*"Godray"*, <br /> A nice sunflare/godray with long tree shadows over the green grass. <br /> Picture taken while hiking. <br /> @26-02-2022 </sub> | ![Godray](/assets/pics/20220226_Godray.jpg){: .w-50 } |
+| ![Twilight Path](/assets/pics/20220112_TwilightPath.jpg){: .w-50 } | <sub>*"Twilight Path"*, <br /> I like the contrast between the colourful sky. with its pink and peach, opposed to the gray and brown branches of the trees and ground. <br /> Picture taken while hinking. <br /> @12-01-2022 </sub> |
+| <sub>*"Twilight"*, <br /> Same as the Twilight Path photo, but more emphasis on the Dark-Light contrast. <br /> Picture taken while hinking. <br /> @12-01-2022 </sub> | ![Twilight](/assets/pics/20220112_Twilight.jpg){: .w-50 } |
 
 
 -----
-
 ## 2021
+|                      		   																												|          					 																												|
+| :---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Autumn Wilderness](/assets/pics/20211106_AutumnWilderness.jpg){: .w-50 } 																| <sub> *"Autumn Wilderness"*, <br /> picture taken while hinking. <br /> @06-11-2021 </sub>												|
+| <sub>*"The Dutch Lowlands"*, <br /> somewhere in Brabant. <br /> Taken while on vacation. <br /> @06-08-2021 </sub>						| ![The Dutch Lowlands](/assets/pics/20210806_TheLowlands.jpg){: .w-50 } 																	|
+<!-- | <sub>*"Mock backpack"*, <br /> One of my smaller backpacks I use for Cosplay. <br /> This was a wasteland-survivor outfit. <br /> @17-06-2021@ </sub> | ![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.jpg){: .w-50 } | -->
 
-|                      		   |          					  |
-| :--------------------------- | ---------------------------: |
-| ![Autumn Wilderness](/assets/pics/20211106_AutumnWilderness.jpg){: .shadow .rounded-20 } | _"*Autumn Wilderness*, <br /> picture taken while hinking @06-11-2021"_ |
-| _"*The Dutch Lowlands*, somewhere in Brabant. <br /> Taken while on vacation. @06-08-2021"_ | ![The Dutch Lowlands](/assets/pics/20210806_TheLowlands.jpg){: .shadow .rounded-20 } |
-| <!-- ![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.jpg){: .w-100 .shadow .rounded-20 } --> | <!-- _"*Mock backpack*,One of my smaller backpacks I use for Cosplay. <br /> This was a wasteland-survivor outfit. @17-06-2021@"_ --> |
 
 -----
-<!-- ![](/assets/pics/){: .w-50 .shadow .rounded-20 }_""_ -->
+<!-- 
+## YEAR
+| 																								 | 																								  |
+| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------: |
+| ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
+| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
+| ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
+| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
+-->
+
+<!-- ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } --> 
+<!-- <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> -->
