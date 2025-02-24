@@ -1,16 +1,3 @@
----
-#layout: default
-icon: fa-solid fa-camera
-order: 3
----
-
-# My Pictures
-
-Here you can find pictures I've taken while hiking, camping or working on this page.
-Click on a picture to enlarge it. While in the Large-viewport you can click (or swipe) left and right to browse the other pictures.
-Press the "X" in the upper right corner to exit the Large-viewport.
-
-
 -----
 
 ## Album
