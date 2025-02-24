@@ -59,9 +59,9 @@ Press the "X" in the upper right corner to exit the Large-viewport.
 
 |                      		   |          					  |
 | :--------------------------- | ---------------------------: |
-| ![Autumn Wilderness](/assets/pics/20211106_AutumnWilderness.jpg){: .w-50 .shadow .rounded-20 } | _"*Autumn Wilderness*,picture taken while hinking @06-11-2021"_ |
-| _"*The Dutch Lowlands*,somewhere in Brabant. Taken while on vacation. @06-08-2021"_ | ![The Dutch Lowlands](/assets/pics/20210806_TheLowlands.jpg){: .w-50 .shadow .rounded-20 } |
-| <!-- ![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.jpg){: .w-100 .shadow .rounded-20 } --> | <!-- _"*Mock backpack*,One of my smaller backpacks I use for Cosplay. This was a wasteland-survivor outfit. @17-06-2021@"_ --> |
+| ![Autumn Wilderness](/assets/pics/20211106_AutumnWilderness.jpg){: .shadow .rounded-20 } | _"*Autumn Wilderness*, <br /> picture taken while hinking @06-11-2021"_ |
+| _"*The Dutch Lowlands*, somewhere in Brabant. <br /> Taken while on vacation. @06-08-2021"_ | ![The Dutch Lowlands](/assets/pics/20210806_TheLowlands.jpg){: .shadow .rounded-20 } |
+| <!-- ![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.jpg){: .w-100 .shadow .rounded-20 } --> | <!-- _"*Mock backpack*,One of my smaller backpacks I use for Cosplay. <br /> This was a wasteland-survivor outfit. @17-06-2021@"_ --> |
 
 -----
 <!-- ![](/assets/pics/){: .w-50 .shadow .rounded-20 }_""_ -->
