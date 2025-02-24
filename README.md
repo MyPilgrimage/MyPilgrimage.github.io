@@ -30,14 +30,16 @@ Questions or other Queries? Feel free to contact me!
 │ &nbsp; &nbsp; ├── [/about/#training](https://mypilgrimage.github.io/about/#training) <br />
 │ &nbsp; &nbsp; ├── [/about/#gear](https://mypilgrimage.github.io/about/#gear) <br />
 │ &nbsp; &nbsp; └── [/about/#thanks](https://mypilgrimage.github.io/about/#thanks) <br />
-├── [archives.html](https://mypilgrimage.github.io/archives/) <br />
+├── [timeline.html](https://mypilgrimage.github.io/timeline/) <br />
+├── [pictures.html](https://mypilgrimage.github.io/pictures/) <br />
 ├── [categories.html](https://mypilgrimage.github.io/categories/) <br />
 └── [tags.html](https://mypilgrimage.github.io/tags/) <br />
 
 -----
 
 ## Attribution :
-This page exists thanks in part to the following
+This page exists thanks in part to the following;
+Some of the pictures on the page were made by other people. Attribution is given in the pictures caption. 
 
 ### Font Awesome
 [Font Awesome License](https://fontawesome.com/license)
@@ -47,7 +49,6 @@ Most (if not all) icons used. Public licenses for Font Awesome Free
 
 ### Chirpy Starter
 A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-
 [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
 [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
 [![Chirpy Starter - GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
@@ -105,7 +106,9 @@ Pages I used multiple times:
 ## Thanks
 Thank you for reading the Read Me.  
 If you recognise your work and I did not attribute it correctly to you as author,  
-please contact me via this page on Github.com or email: iJun.Pilgrimage@gmail.com  
+please contact me via this page on [Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io)
+via my [Reddit page](https://www.reddit.com/user/CutNo303/)
+or email: [iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
   
 Cheers,  
 I-Jun  
