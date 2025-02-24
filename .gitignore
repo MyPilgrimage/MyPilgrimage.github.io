@@ -60,4 +60,5 @@ $RECYCLE.BIN/
 # My Additions
 # Folders and Files I want to ignore
 # Notepad++ Session
-notepadPlusPlus-session
+[Nn]otepadPlusPlus-[Ss]ession
+_[Ii]gnore/
