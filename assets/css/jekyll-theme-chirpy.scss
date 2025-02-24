@@ -11,11 +11,11 @@
 /* my custom style */
 /** Link Blockquote style */
 .prompt-link {
-  padding: 0.5rem;
-  background: rgba($color: #40e0d0, $alpha: 0.25);
-  font-size: inherit;
-  font-weight: normal;
-  content: \f0a9;
+	padding: 0.5rem;
+	background: rgba($color: #40e0d0, $alpha: 0.25);
+	font-size: inherit;
+	font-weight: normal;
+	content: \f0a9;
 }
 
 /** Font size style */
@@ -51,12 +51,13 @@
 }
 
 /** Photo Album */
-.imgGallery {
-	border: 1px solid #ccc;
-}
+// .imgGallery {
+// 	border: 1px solid #ccc;
+// }
 
 .imgGallery:hover {
-	border: 1px solid #777;
+// 	border: 1px solid #777;
+	background: rgba($color: #777, $alpha: 0.25);
 }
 
 .imgGallery img {
