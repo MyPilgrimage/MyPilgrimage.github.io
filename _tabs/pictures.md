@@ -45,10 +45,10 @@ Press the "X" in the upper right corner to exit the Large-viewport.
 <sub>"*Camping Tent*, <br /> Somewhere near Weert Brabant. My (way to heavy) tent I currently use on vacation. @04-06-2024"</sub>
 </p>
 
-<p>
+<p class=".right .w-50">
 ![Schoorl May High Water](/assets/pics/20240520_Schoorl.png){: .right .w-50 .shadow .rounded-20 }
 <sub>"High water in Schoorl North-Holland. This is normally sand-dunes. @20-05-2024"</sub>
-</p class=".right .w-50">
+</p>
 
 -----
 
