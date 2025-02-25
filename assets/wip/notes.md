@@ -59,11 +59,46 @@ paragraph
 *Cheers,* <br />  
 I-Jun  
   
-  
+----------
+<!-- COMMON ICONS -->
+Home: 		<i class="fas fa-Home"></i>		
+About: 		<i class="fas fa-info-circle"></i>
+Timeline: 	<i class="fa-solid fa-timeline></i>
+Picture: 	<i class="fa-solid fa-camera"></i>
+categories: <i class="fas fa-stream"></i>
+Tags:		<i class="fas fa-tags"></i>
+
+Github: 	<i class="fab fa-github"></i>
+Reddit: 	<i class="fa-brands fa-reddit"></i>
+Wikipedia: 	
+Email: 		<i class="fas fa-envelope
+RSS: 		
+
+Date: 		<i class="far fa-calendar"></i>
+Category: 	<i class="far fa-folder-open"></i>
+Tag:		<i class="fas fa-hashtag"></i>
+Pin:		<i class="fas fa-thumbtack"></i>
+
+Theme: 		<i class="fas fa-adjust"></i>
+Search:  	<i class="fas fa-search"></i>
+Scroll-Up: 	<i class="fas fa-angle-up"></i>
+Side Menu: 	<i class="fas fa-bars"></i>
+TOC Menu: 	<i class="fa-solid fa-list-ul"></i>
+
+Block Quote:	fa-duotone fa-solid fa-quote-left font-l
+Link Quote: 	
+Tip Quote:		
+Info Quote:		
+Warning Quote: 	
+Danger Quote: 	
+
+??
+<i class="fa-solid fa-home></i>
+<i class="fas fa-Timeline"></i>			
 ----------  
 <!-- PICTURE LIBRARY -->  
 /assets/pics/  
-- [x] 20210617_FunnyBackpack.jpg (_posts\2025-01-17-a-day-off.md , \_tabs\about.md , \_tabs\pictures.md)
+- [x] 20210617_FunnyBackpack.png (_posts\2025-01-17-a-day-off.md , \_tabs\about.md , \_tabs\pictures.md)
 - [x] 20210806_TheLowlands.jpg (\_posts\2025-02-08-webpage-theme.md , \_tabs\pictures.md)
 - [ ] 20211106_AutumnWilderness.jpg ( , \_tabs\pictures.md)
 - [ ] 20220112_Twilight.jpg ( , \_tabs\pictures.md)
@@ -178,6 +213,9 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_M
   
 --------------------  
 <!-- QUOTES AND EXCERPTS -->
+> <i class="fa-duotone fa-solid fa-quote-left"></i> Leave only ash, hair & footprints." <br/>
+
+
 > <i class="fa-duotone fa-solid fa-quote-left"></i> *But it is not your own Shire,"*  said Gildor. <br />
 > *"Others dwelt here before hobbits were;* <br />
 > *and others will dwell here again when hobbits are no more.* <br />

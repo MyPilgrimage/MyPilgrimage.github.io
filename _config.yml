@@ -16,7 +16,7 @@ timezone: Europe/Amsterdam
 
 title: My Pilgrimage # the main title
 
-tagline: Leave only ash, hair & footprints. Southward Bound!  # it will display as the subtitle
+tagline: Southward Bound!  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   "I'm going on a pilgrimage. This is where I'll update on my progress."

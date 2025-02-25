@@ -243,7 +243,7 @@ A simple first-aid kit, with band-aid, a flea-nipper, a few painkillers and a re
 The rest of my gear I will need to acquire <br />
 
 
-![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.jpg){: .w-50 .shadow .rounded-10 }
+![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.png){: .w-50 .shadow .rounded-10 }
 _One of my smaller backpacks I use for Cosplay. This was a wasteland-survivor outfit._
 
 
@@ -328,10 +328,9 @@ _Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wiki
 
 *Thank you for reading!* <br />
 If you recognise your work and I did not attribute it correctly to you as author, <br />
-please contact me via this page on [<i class="fa-brands fa-github"></i>  Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io)
-via my [<i class="fa-brands fa-reddit"></i>  Reddit page](https://www.reddit.com/user/CutNo303/)
-or email: [<i class="fa-solid fa-envelope"></i>  iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
+please contact me via this page on [<i class="fab fa-github"></i>  Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br />
+via my [<i class="fa-brands fa-reddit"></i>  Reddit page](https://www.reddit.com/user/CutNo303/) <br />
+or email: [<i class="fas fa-envelope"></i>  iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br />
   
-
 *Cheers,* <br />
 I-Jun  
