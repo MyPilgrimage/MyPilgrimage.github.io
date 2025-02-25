@@ -87,7 +87,7 @@ As mentioned in the introductions, I'm planning on walking Southward. <br />
 
 
 I'll start walking from my parents home in North-Holland <br />
-As of now I'm thinking about walking the *[Pilgrimage of Compostela](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago)* <br />
+As of now I'm thinking about walking the *[Pilgrimage of Compostela <i class="fa-brands fa-wikipedia-w"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago)* <br />
 Simply because it's a known route, it has historical significance (and I love history!) and I think I might meet like-minded people along the way. <br />
 
 
@@ -95,7 +95,7 @@ Simply because it's a known route, it has historical significance (and I love hi
 _"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
 
 
-> I will keep current updates about the route I'm taking, in the [Quick Overview](/welcome#quick-overview) section,
+> I will keep **updates about the route** I'm taking, [in the **<i class="fa-solid fa-circle-exclamation"></i> Quick Overview** <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) section,
 > but for now this is the most likely route!
 {: .prompt-link }
 
@@ -103,12 +103,12 @@ _"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Vol
 ### But first I'll do a Trial-Run.
 
 I want to start a Trial-Run this August of 2025. <br />
-[See the countdown <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) <br />
+[See the **<i class="far fa-calendar"></i> countdown**  <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) <br />
 This gives me a bit of time to prepare and get my walking gear in order. <br />
 Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. <br />
 This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br />
 <br />
-For this trail run I'm thinking of walking the **Floris V path**, also known as the "[LAW1-3](https://nl.wikipedia.org/wiki/Floris_V-pad)"
+For this trail run I'm thinking of walking the **Floris V path**, also known as the "[LAW1-3 <i class="fa-brands fa-wikipedia-w"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad)"
 
 
 ![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }
@@ -118,7 +118,7 @@ _"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosm
 ### What Route do I want to take?
 
 The Trial-Run is in preparation for the real Pilgrimage. 
-I'm thinking of follow the route of [Camino de Santiago](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br />
+I'm thinking of follow the route of [Camino de Santiago <i class="fa-brands fa-wikipedia-w"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br />
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br />
 
 
@@ -127,7 +127,7 @@ _A [Google Maps](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the (possible) ro
 
 
 Starting from my parents home in North-Holland, walking toward Haarlem.  <br />
-Haarlem is a common starting point of the Pilgrimage, [according to Wikipedia](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands). <br />
+Haarlem is a common starting point of the Pilgrimage, [according to <i class="fa-brands fa-wikipedia-w">W</i>ikipedia](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands). <br />
 From Haarlem, I could make my way to Amsterdam and start on the "Pilgrimspad" towards Wezet (Visé) in Belgium. <br />
 Or take a more direct route from Haarlem to Brussels.  <br />
 Then from either Wezet or Brussels to Paris <br />
