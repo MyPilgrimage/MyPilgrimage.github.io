@@ -41,22 +41,15 @@
 
 /** Rounded Corners */
 .rounded-10 {
-// 	border: 1px solid black;
- 	border-radius: 10px;
+ 	border-radius: 0.625em;
 }
 
 .rounded-20 {
-// 	border: 1px solid black;
- 	border-radius: 20px;
+ 	border-radius: 1.25em;
 }
 
 /** Photo Album */
-// .imgGallery {
-// 	border: 1px solid #ccc;
-// }
-
-.imgGallery:hover {
-// 	border: 1px solid #777;
+.imgGallery {
 	background: rgba($color: #777, $alpha: 0.25);
 }
 
@@ -70,25 +63,20 @@
 	text-align: center;
 }
 
-// * {
-// 	box-sizing: border-box;
-// }
-
 .responsiveGallery {
 	padding: 0 6px;
 	float: left;
-	/* width: 24.99999%; */
 	width: 49.99999%;
 }
 
-@media only screen and (max-width: 700px) {
-	.responsiveGallery {
-		width: 49.99999%;
-		margin: 6px 0;
-	}
-}
+// @media only screen and (max-width: 700px) {
+//	.responsiveGallery {
+//		width: 49.99999%;
+//		margin: 6px 0;
+//	}
+//}
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 724px) {
 	.responsiveGallery {
 		width: 100%;
 	}
@@ -99,23 +87,5 @@
 	display: table;
 	clear: both;
 }
-
-// .leftside {
-// 	text-align: left;
-// 	float: left;
-// 	clear: right;
-// }
-
-// .rightside {
-// 	text-align: right;
-// 	float: right;
-// 	clear: left;
-// }
-
-// .centerside {
-// 	text-align: center;
-// 	float: inherit;
-// 	clear: both
-// }
 
 /** Personalized Color Scheme  */
