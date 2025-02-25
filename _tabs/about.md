@@ -75,7 +75,7 @@ I-Jun <br />
 
 
 ![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 .shadow .rounded-10 }
-_"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.org/wiki/User:Roland_zh) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
+_"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.org/wiki/User:Roland_zh)  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
 -----
@@ -92,10 +92,10 @@ Simply because it's a known route, it has historical significance (and I love hi
 
 
 ![Approximate map of the Route](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ways_of_St._James_in_Europe.png){: .w-50 .shadow .rounded-10 }
-_"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
+_"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach, Germany](https://www.jakobuspilger-zentgraf.de/)  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
-> I will keep **updates about the route** I'm taking, [in the **<i class="fa-solid fa-circle-exclamation"></i> Quick Overview** <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) section,
+> I will keep **updates about the route** I'm taking, in the [<i class="fa-solid fa-circle-exclamation"></i>  **Quick Overview**  <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) section,
 > but for now this is the most likely route!
 {: .prompt-link }
 
@@ -103,16 +103,16 @@ _"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Vol
 ### But first I'll do a Trial-Run.
 
 I want to start a Trial-Run this August of 2025. <br />
-[See the **<i class="far fa-calendar"></i> countdown**  <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) <br />
+[<i class="far fa-calendar"></i>  See the **countdown**  <i class="fa-solid fa-circle-right"></i>](/welcome#quick-overview) <br />
 This gives me a bit of time to prepare and get my walking gear in order. <br />
 Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. <br />
 This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br />
 <br />
-For this trail run I'm thinking of walking the **Floris V path**, also known as the "[LAW1-3 <i class="fa-brands fa-wikipedia-w"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad)"
+For this trail run I'm thinking of walking the **Floris V path**, also known as [**"the LAW1-3"**  <i class="fa-brands fa-wikipedia-w"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad)
 
 
 ![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }
-_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
+_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma)  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
 ### What Route do I want to take?
@@ -127,7 +127,7 @@ _A [Google Maps](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the (possible) ro
 
 
 Starting from my parents home in North-Holland, walking toward Haarlem.  <br />
-Haarlem is a common starting point of the Pilgrimage, [according to <i class="fa-brands fa-wikipedia-w">W</i>ikipedia](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands). <br />
+Haarlem is a common starting point of the Pilgrimage, [according to  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands). <br />
 From Haarlem, I could make my way to Amsterdam and start on the "Pilgrimspad" towards Wezet (Visé) in Belgium. <br />
 Or take a more direct route from Haarlem to Brussels.  <br />
 Then from either Wezet or Brussels to Paris <br />
@@ -139,7 +139,7 @@ Seeing as the route is difficult enough as is!  <br />
 
 
 ![Samos, in Galicia, on the French Way or Camino Francés](https://upload.wikimedia.org/wikipedia/commons/8/83/Samos_on_the_Camino_Way.jpg){: .w-50 .shadow .rounded-10 }
-_"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
+_"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
 #### Quick Route Calculation
@@ -189,7 +189,7 @@ I still need to include Crunches, but I don't seem to get the technique right, o
 
 
 ![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 .shadow .rounded-10 }
-_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
+_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez](https://www.flickr.com/people/17364971@N00)  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
 ### Training Preparations
@@ -259,7 +259,7 @@ Worst comes to worst I will start my Pilgrimage with these heavier things, and h
 
 
 ![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://upload.wikimedia.org/wikipedia/commons/5/50/Man_wearing_pilgrim_clothing%2C_450-425_BC%2C_Prague_NM-HM10_771%2C_151792.jpg){: .w-50 .shadow .rounded-10 }
-_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](https://commons.wikimedia.org/wiki/User:Zde) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
+_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde](https://commons.wikimedia.org/wiki/User:Zde)  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
 ### Gear list:
@@ -318,7 +318,7 @@ But I do also want some way of contacting family or emergency services.
 
 
 ![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 .shadow .rounded-10 }
-_Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~by [Certo Xornal](https://www.flickr.com/photos/15528381@N02) <i class="fa-brands fa-wikipedia-w"></i> Wikipedia._
+_Depiction of Saint James in the 12th century [Codex Calixtinus](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~by [Certo Xornal](https://www.flickr.com/photos/15528381@N02)  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
 -----
