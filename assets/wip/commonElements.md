@@ -74,6 +74,9 @@ Category: 	<i class="far fa-folder-open"></i>
 Tag:		<i class="fas fa-hashtag"></i>
 Pin:		<i class="fas fa-thumbtack"></i>
 
+location: 	<i class="fa-solid fa-location-dot"></i>
+
+
 Theme: 		<i class="fas fa-adjust"></i>
 Search:  	<i class="fas fa-search"></i>
 Scroll-Up: 	<i class="fas fa-angle-up"></i>
@@ -113,7 +116,7 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> @DD_MM_YYYY_
 
 <div class="responsiveGallery">
   <div class="imgGallery rounded-10">
-	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400" class="imgGalleryImg rounded-10">
+	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400" class="imgGalleryImg">
     <div class="imgDesc">
       <cite>
       ALT_NAME
