@@ -63,7 +63,7 @@ I-Jun
 <!-- COMMON ICONS -->
 Home: 		<i class="fas fa-Home"></i>		
 About: 		<i class="fas fa-info-circle"></i>
-Timeline: 	<i class="fa-solid fa-timeline></i>
+Timeline: 	<i class="fa-solid fa-timeline"></i>
 Picture: 	<i class="fa-solid fa-camera"></i>
 categories: <i class="fas fa-stream"></i>
 Tags:		<i class="fas fa-tags"></i>
