@@ -70,9 +70,9 @@ Tags:		<i class="fas fa-tags"></i>
 
 Github: 	<i class="fab fa-github"></i>
 Reddit: 	<i class="fa-brands fa-reddit"></i>
-Wikipedia: 	
+Wikipedia: 	<i class="fa-brands fa-wikipedia-w"></i>
 Email: 		<i class="fas fa-envelope
-RSS: 		
+RSS: 		fas fa-rss
 
 Date: 		<i class="far fa-calendar"></i>
 Category: 	<i class="far fa-folder-open"></i>
@@ -85,12 +85,12 @@ Scroll-Up: 	<i class="fas fa-angle-up"></i>
 Side Menu: 	<i class="fas fa-bars"></i>
 TOC Menu: 	<i class="fa-solid fa-list-ul"></i>
 
-Block Quote:	fa-duotone fa-solid fa-quote-left font-l
-Link Quote: 	
-Tip Quote:		
+Block Quote:	<i class="fa-duotone fa-solid fa-quote-left"></i>
+Link Quote: 	<i class="fa-solid fa-circle-right"></i>
+Tip Quote:		<i class="fa-regular fa-lightbulb"></i>
 Info Quote:		
-Warning Quote: 	
-Danger Quote: 	
+Warning Quote: 	<i class="fa-solid fa-circle-exclamation"></i>
+Danger Quote: 	<i class="fa-solid fa-triangle-exclamation"></i>
 
 ??
 <i class="fa-solid fa-home></i>
