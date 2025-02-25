@@ -2,12 +2,10 @@
 
 - type: github
   icon: "fab fa-github"
-  #noblank: false # open link in new tab
 
 - type: reddit
   icon: 'fa-brands fa-reddit'
   url: 'https://www.reddit.com/user/CutNo303/'  # Fill with your Reddit profile link
-  #noblank: false # open link in new tab
 
 - type: email
   icon: "fas fa-envelope"
@@ -15,13 +13,13 @@
 
 - type: rss
   icon: "fas fa-rss"
-  noblank: false # test current tab
+  noblank: true # Important: needs to open link in current tab
 
 ###
 # Uncomment and complete the url below to enable more contact options
 ###
-#- type: twitter
-#  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
