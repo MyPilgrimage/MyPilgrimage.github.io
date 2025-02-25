@@ -16,7 +16,7 @@ As I recently came down with the flu rather badly I was shocked with how little 
 A "last resort ration" is maybe something that would be good to have, think along the lines of a protein bar or other energy dense food.
 
 > Add to MUST-Haves: "last resort ration"
-{: .prompt-danger }
+{: .prompt-tip }
 
 
 ## Technical Update

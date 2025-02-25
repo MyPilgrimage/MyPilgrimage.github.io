@@ -80,6 +80,29 @@ _"Way of St. James pilgrims (1568)" ~by [Roland zh](https://commons.wikimedia.or
 
 -----
 
+## My Principles
+
+> <i class="fa-duotone fa-solid fa-quote-left"></i> Leave only ash, hair and footprints" <br />
+Based on the Leave no Trace principle.
+The Idea is that I don't want to make a negative impact on the world around me. My travels and existence should not hinder nature or anybody else.
+I already practice this principle in my day-to-day life, always making sure I do not leave anything behind.
+
+
+So why the addition of **Ash** and **Hair**? <br />
+I like to smoke a sigaret, and while the filter will go into the bin, I don't think the little bits of sigaret-ash that falls off, will have an impact. (feel free to correct me if I'm wrong!)
+Another thing is my long hair. Every humanbeing sheds hair, skin follicles, sweat etc. These last two are harder to see with the naked-eye. But my long hair is sometimes noticable if I brushed my hair outside.
+Again I don't think these few hairs will have any meaningful impact on nature nor the place I'm at.
+
+
+Ofcourse I can not NOT leave foot-prints while walking. <br />
+But I think I do need to permit myself to "exist" and leave traces of my existence.
+So along with the ash and hair I will leave behind on the regular, these are the "necessary evils" of me wanting to hike and travel.
+But if I can help it, I want to leave the places I've been, better then I found them. <br />
+**Cleaning my own garbage is the least I can do!**
+
+
+-----
+
 
 ## Route
 
@@ -108,14 +131,54 @@ This gives me a bit of time to prepare and get my walking gear in order. <br />
 Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. <br />
 This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br />
 <br />
-For this trail run I'm thinking of walking the **Floris V path**, also known as [**"the LAW1-3"**  <i class="fa-brands fa-wikipedia-w"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad)
+For this trail run I'm thinking of walking the **Floris V path**, also known as [**the <abbr title="Lange Afstands Wandeling">"LAW"</abbr> 1-3**  <i class="fa-brands fa-wikipedia-w"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad)
 
 
 ![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }
 _"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma](https://commons.wikimedia.org/wiki/User:MarijnBosma)  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
-### What Route do I want to take?
+#### Why wait till August?
+
+I'm planning to start my Trial-Run on the 10<sup>th</sup> of August. <br />
+I know it would be smarter to start walking in April/May, I still have a few things I want to do in 2025.
+
+For example; I really want to go to a festival on the first weekend of August. (31<sup>st</sup> of July - 3<sup>th</sup> of August)
+It's called **[Castlefest  <i class="fa-solid fa-circle-right"></i>](https://castlefest.nl/en)**
+> Castlefest is a total experience with lots of music, fantasy writers, themed catering, medieval crafts and a large market which offers everything a fantasy fan could want...
+
+The later date also gives me ample opportunity to train and collect my needed gear.
+And I think I don't mind the idea that the weather will get colder and the days shorter on my Trial-Run.
+It feels like I'm preparing for the worst situation, so when I leave for the real Pilgrimage, I will be ready for (almost) anything!
+
+
+#### What Route do I want to take?
+
+The plan is to start walking from my home near Alkmaar.
+- From Alkmaar walk towards Haarlem.
+- From Haarlem to Amsterdam.
+- The third stage of the "Floris V Pad" starts at Amsterdam.
+- So from here I will follow the Route of the "Floris V Pad".
+
+> More Info and Updates coming soon.
+{: .prompt-warning } 
+
+
+#### Quick Trail-Run Route Calculation
+
+- **Avg. Hours of Walking:** [ROUTE_TOTAL_HOURS] hr / [AVG_WALKING_HOURS] hr per day = [AVG_DAYS_WALKING] days
+- **Avg. Distance to Walk:** [ROUTE_TOTAL_DISTANCE] km / [AVG_WALKING_DISTANCE] km per day = [AVG_DAYS_WALKING] days
+- **Avg. Walking Speed:** [ROUTE_TOTAL_DISTANCE] km / [ROUTE_TOTAL_HOURS] hr = [AVG_WALKING_SPEED] km/h
+- **Conclusion:** 
+ So I will walk for [AVG_DAYS_WALKING] day, 
+ walking [AVG_WALKING_SPEED] km/h for [AVG_WALKING_HOURS] hrs, 
+ with a minimum distance of [AVG_WALKING_DISTANCE].<br />
+
+> More Info and Updates coming soon.
+{: .prompt-warning } 
+
+
+### The real Pilgrimage Route. 
 
 The Trial-Run is in preparation for the real Pilgrimage. 
 I'm thinking of follow the route of [Camino de Santiago <i class="fa-brands fa-wikipedia-w"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br />
@@ -142,11 +205,11 @@ Seeing as the route is difficult enough as is!  <br />
 _"Samos, in Galicia, on the French Way or Camino Francés" ~by BarbaraDown  Wikipedia <i class="fa-brands fa-wikipedia-w"></i>._
 
 
-#### Quick Route Calculation
+#### Quick Pilgrimage Route Calculation
 
-- **Avg. Walking speed:** 451 hr / 5.5 hr per day = 82 days
-- **Avg. Distance walked:** 1977 km / 25 km per day = 80 days (79.08
-- **Google' Avg. Speed:** 1977 km / 451 hr = 4.3 km/h
+- **Avg. Hours of Walking:** 451 hr / 5.5 hr per day = 82 days
+- **Avg. Distance to Walk:** 1977 km / 25 km per day = 80 days (79.08)
+- **Avg. Walking Speed:** 1977 km / 451 hr = 4.3 km/h
 - **Conclusion:** So at least 80 day, walking 4.3 km/h for 5½ hrs <br />
 This sounds doable 
 

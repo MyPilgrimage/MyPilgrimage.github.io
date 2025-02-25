@@ -39,27 +39,23 @@
 	text-align: center;
 }
 
-/** Rounded Corners */
-.rounded-10 {
- 	border-radius: 0.625em;
-}
-
-.rounded-20 {
- 	border-radius: 1.25em;
-}
-
 /** Photo Album */
 .imgGallery {
 	background: rgba($color: #777, $alpha: 0.25);
 }
 
-.imgGallery img {
+// .imgGallery img {
+// 	width: 100%;
+// 	height: auto;
+// }
+
+.imgGalleryImg {
 	width: 100%;
 	height: auto;
 }
 
 .imgDesc {
-	padding: 15px;
+// 	padding: 15px;
 	text-align: center;
 }
 
@@ -87,5 +83,15 @@
 	display: table;
 	clear: both;
 }
+
+/** Rounded Corners */
+.rounded-10 {
+ 	border-radius: 0.625em;
+}
+
+.rounded-20 {
+ 	border-radius: 1.25em;
+}
+
 
 /** Personalized Color Scheme  */
