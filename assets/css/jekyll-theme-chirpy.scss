@@ -42,6 +42,9 @@
 /** Photo Album */
 .imgGallery {
 	background: rgba($color: #777, $alpha: 0.25);
+	min-height: 100%;
+	max-height: 30em;
+	overflow: auto;
 }
 
 // .imgGallery img {
@@ -52,6 +55,7 @@
 .imgGalleryImg {
 	width: 100%;
 	height: auto;
+	border-radius: 0.625em;
 }
 
 .imgDesc {

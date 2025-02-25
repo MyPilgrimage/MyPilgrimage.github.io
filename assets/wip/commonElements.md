@@ -118,10 +118,12 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> @DD_MM_YYYY_
       <cite>
       ALT_NAME
       </cite>
+	  <br />
       <small>
-        PICTURE_DESCRIPTION
-        <sup>
-        @DD_MM_YYYY
+        PICTURE_DESCRIPTION 
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> DD_MM_YYYY
         </sup>
       </small>
 	</div>
