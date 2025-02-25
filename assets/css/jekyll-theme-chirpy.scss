@@ -7,9 +7,8 @@
 {%- endif -%}
 ';
 
-
 /* my custom style */
-/** Link Blockquote style */
+/** Link_Blockquote */
 .prompt-link {
 	padding: 0.5rem;
 	background: rgba($color: #40e0d0, $alpha: 0.25);
@@ -17,8 +16,10 @@
 	font-weight: normal;
 	content: \f0a9;
 }
+/** Link_Blockquote_END */
 
-/** Font size style */
+
+/** Font_Sizes */
 .font-m {
 	font-size: 1.5em;
 }
@@ -38,47 +39,61 @@
 .font-center {
 	text-align: center;
 }
+/** Font_Sizes_END */
 
-/** Photo Album */
-.imgGallery {
-	background: rgba($color: #777, $alpha: 0.25);
-	min-height: 100%;
-	max-height: 30em;
-	overflow: auto;
+
+/** Rounded_Corners */
+.rounded-10 {
+ 	border-radius: 0.625em;
 }
 
-// .imgGallery img {
-// 	width: 100%;
-// 	height: auto;
-// }
+.rounded-bottom10 {
+ 	border-radius: 0 0 0.625em 0.625em;
+}
+
+.rounded-20 {
+ 	border-radius: 1.25em;
+}
+/** Rounded_Corners_END */
+
+
+/** Photo_Album */
+.imgGallery {
+	background: rgba($color: #777, $alpha: 0.25);
+// 	min-height: 100%;
+// 	max-height: 30em;
+// 	overflow: auto;
+}
+
 
 .imgGalleryImg {
 	width: 100%;
 	height: auto;
-	border-radius: 0.625em;
 }
 
 .imgDesc {
-// 	padding: 15px;
+ 	padding: 0.15em;
 	text-align: center;
 }
 
 .responsiveGallery {
-	padding: 0 6px;
+	padding: 0 0.312em;
 	float: left;
 	width: 49.99999%;
 }
 
-// @media only screen and (max-width: 700px) {
-//	.responsiveGallery {
-//		width: 49.99999%;
-//		margin: 6px 0;
-//	}
-//}
-
+// Max-Width: 850px = Left-Sidebar Added
+// Max-Width: 1200px = Right-Sidebar Added
 @media only screen and (max-width: 724px) {
 	.responsiveGallery {
 		width: 100%;
+	}
+}
+
+// ALBUM LAYOUT ERRORS BETWEEN
+@media only screen and (min-width: 1525px and max-width: 1650px) {
+	.responsiveGallery {
+		height: 100%;
 	}
 }
 
@@ -87,15 +102,10 @@
 	display: table;
 	clear: both;
 }
-
-/** Rounded Corners */
-.rounded-10 {
- 	border-radius: 0.625em;
-}
-
-.rounded-20 {
- 	border-radius: 1.25em;
-}
+/** Photo_Album_END */
 
 
-/** Personalized Color Scheme  */
+/** Personalized_Colour_Scheme  */
+
+
+/** Personalized_Colour_Scheme_END  */
