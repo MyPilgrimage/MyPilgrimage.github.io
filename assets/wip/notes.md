@@ -1,4 +1,9 @@
-CATEGORIES:  
+# Notes
+Notes, reminders and general Admin
+
+----------------------------------------
+CATEGORIES:
+----------------------------------------
 - Site  
 	- Welcome  
 	- Update  
@@ -8,7 +13,9 @@ CATEGORIES:
 - Random  
 	- Ramblings  
 
-TAGS:  
+----------------------------------------
+TAGS:
+----------------------------------------
 - trial-run,  
 - update,  
 - prepping,  
@@ -19,86 +26,18 @@ TAGS:
 - pictures,  
 - webpage,  
 - tech update,  
-
+- site, 
 
 categories: [Site, Update]  
 categories: [Random, Ramblings]  
 categories: [2025 Trial-Run, Preparations]  
-tags: [trial-run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update]  
+tags: [trial-run, update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update, site]  
 
-
----------- 
-<!-- POST DRAFT PLACEHOLDER -->
-
----  
-  
-title: POST_TITLE  
-date: 2025-MM-DD 00:00:00 +0100  
-categories: [HEAD-CAT, SUB-CAT]  
-tags: [trial-run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update]  
-image:  
- path: /assets/img/  
- alt:  IMAGE  
-description: "[NUMBER] Days to Prepare. POST_DESCRIPTION"  
-  
----  
-  
-> **[NUMBER]** Days to Prepare. [LOCATION].  
-{: .prompt-info }  
-  
-## Technical Update  
-..  
-## Random Ramblings  
-..  
-  
-paragraph  
-..........  
-..........  
-  
-  
-*Cheers,* <br />  
-I-Jun  
-  
-----------
-<!-- COMMON ICONS -->
-Home: 		<i class="fas fa-Home"></i>		
-About: 		<i class="fas fa-info-circle"></i>
-Timeline: 	<i class="fa-solid fa-timeline"></i>
-Picture: 	<i class="fa-solid fa-camera"></i>
-categories: <i class="fas fa-stream"></i>
-Tags:		<i class="fas fa-tags"></i>
-
-Github: 	<i class="fab fa-github"></i>
-Reddit: 	<i class="fa-brands fa-reddit"></i>
-Wikipedia: 	<i class="fa-brands fa-wikipedia-w"></i>
-Email: 		<i class="fas fa-envelope
-RSS: 		fas fa-rss
-
-Date: 		<i class="far fa-calendar"></i>
-Category: 	<i class="far fa-folder-open"></i>
-Tag:		<i class="fas fa-hashtag"></i>
-Pin:		<i class="fas fa-thumbtack"></i>
-
-Theme: 		<i class="fas fa-adjust"></i>
-Search:  	<i class="fas fa-search"></i>
-Scroll-Up: 	<i class="fas fa-angle-up"></i>
-Side Menu: 	<i class="fas fa-bars"></i>
-TOC Menu: 	<i class="fa-solid fa-list-ul"></i>
-
-Block Quote:	<i class="fa-duotone fa-solid fa-quote-left"></i>
-Link Quote: 	<i class="fa-solid fa-circle-right"></i>
-Tip Quote:		<i class="fa-regular fa-lightbulb"></i>
-Info Quote:		
-Warning Quote: 	<i class="fa-solid fa-circle-exclamation"></i>
-Danger Quote: 	<i class="fa-solid fa-triangle-exclamation"></i>
-
-??
-<i class="fa-solid fa-home></i>
-<i class="fas fa-Timeline"></i>			
-----------  
-<!-- PICTURE LIBRARY -->  
+----------------------------------------
+<!-- PICTURE LIBRARY -->
+----------------------------------------
 /assets/pics/  
-- [x] 20210617_FunnyBackpack.png (_posts\2025-01-17-a-day-off.md , \_tabs\about.md , \_tabs\pictures.md)
+- [x] 20210617_FunnyBackpack.png (_posts\2025-01-17-a-day-off.md , \_tabs\about.md )
 - [x] 20210806_TheLowlands.jpg (\_posts\2025-02-08-webpage-theme.md , \_tabs\pictures.md)
 - [ ] 20211106_AutumnWilderness.jpg ( , \_tabs\pictures.md)
 - [ ] 20220112_Twilight.jpg ( , \_tabs\pictures.md)
@@ -113,19 +52,21 @@ Danger Quote: 	<i class="fa-solid fa-triangle-exclamation"></i>
 - [x] 20250121_WaterloggedSchoorl.jpg (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
 - [x] 20250121_WitchbogSchoorl.jpg (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
 - [x] 20250223_SundaysSun.jpg (\_posts\2025-02-23-random-ramblings.md , \_tabs\pictures.md)
-  
-<!-- IMAGE LIBRARY -->  
+
+----------------------------------------
+<!-- IMAGE LIBRARY -->
+----------------------------------------
 /assets/img/  
 - [x] GoogleMaps-progress_Current-Location.png (\_posts\2025-01-10-welcome.md)
 - [x] googleMaps-route-Pilgrimage_of_Compostela.png (\_tabs\about.md)
 - [x] img_brokenWebsite.png (\_posts\2025-02-15-live-but-weird.md)
-  
+
 /assets/img/branding  
 - [ ] avatar-1.png ( )
 - [x] avatar.png (\_config.yml)
 - [ ] avatar_s.png ( )
 - [x] repository-graph-MyPilgrimage.png (Github Repository)
-  
+
 /assets/img/favicons  
 - [x] android-chrome-192x192.png (Favicons)
 - [x] android-chrome-512x512.png (Favicons)
@@ -138,63 +79,10 @@ Danger Quote: 	<i class="fa-solid fa-triangle-exclamation"></i>
 - [x] mstile-150x150.png (Favicons)
 - [x] web-app-manifest-192x192.png (Favicons)
 - [x] web-app-manifest-512x512.png (Favicons)
-  
-  
-----------  
-<!-- COMMON ELEMENTS  -->  
-	<!-- PICTURE ALBUM -->
 
-<!-- Pictures of YYYY -->
-<h3>YYYY</h3>
-<div class="responsiveGallery">
-  <div class="imgGallery">
-	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400">
-	<div class="imgDesc"><i>"ALT_NAME"</i>, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </div>
-  </div>
-</div>
-
-<div class="responsiveGallery">
-  <div class="imgGallery">
-	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400">
-	<div class="imgDesc"><i>"ALT_NAME"</i>, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
-
-<hr />
-
-
+----------------------------------------  
+<!-- WEBSITE ADDITION IDEAS -->
 ----------------------------------------
-
-## YEAR
-
-| <!-- Left-Tab -->																				 | <!-- Right-Tab --> 									|
-| :--------------------------------------------------------------------------------------------- | ---------------------------------------------------: |
-| ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
-| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
-| ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> |
-| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 } |
-
-
-![ALT_NAME](/assets/pics/PICTURE_FILE){: .w-50 }  
-<sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY </sub>  
-  
-  
-![ALT_NAME](/assets/pics/PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20 }  
-_*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_MM_YYYY_  
-  
-	<!-- LINKS -->  
-> [Read About <i class="fa-solid fa-circle-right"></i>](/about)  
-{: .prompt-info }  
-  
-  
-> [ <i class="fa-solid fa-circle-left"></i> Go Back](./#gear)  
-{: .prompt-info }  
-  
-  
---------------------  
-<!-- WEBSITE ADDITION IDEAS -->  
 - Want:  
 	- Weight hanger (TO measure backpack weight on the road?)  
 - Something bigger than me:  
@@ -209,10 +97,11 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_M
 - Who betrayed me  
 	- Fairweather friends  
 	- Bosses and leaders  
-  
-  
---------------------  
+
+
+----------------------------------------  
 <!-- QUOTES AND EXCERPTS -->
+----------------------------------------
 > <i class="fa-duotone fa-solid fa-quote-left"></i> Leave only ash, hair & footprints." <br/>
 
 
@@ -269,9 +158,10 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_M
 > *"and he lived happily ever after to the end of his days."* <br />
 > <sub>- Bilbo Baggins speaking to Gandalf. </sub> <br />
 > <sub>~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
-  
-  
+
+----------------------------------------
 <!-- USED QUOTES AND EXCERPTS -->
+----------------------------------------
 > <i class="fa-duotone fa-solid fa-quote-left"></i> All that is gold does not glitter, <br />
 > Not all those who wander are lost; <br />
 > The old that is strong does not wither,  <br />
@@ -283,20 +173,29 @@ _*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> PICTURE_TAKEN_AT. <br /> @DD_M
 > The crownless again shall be king.<br />
 > <sub> Bilbo Baggins Poem in honor of Aragorn </sub> <br />
 > <sub> ~J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
-  
-  
-> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it. <br />
+
+
+> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it." <br />
 > <sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br />
 > <sub> ~J.R.R. Tolkien, The Hobbit </sub> <br />
-  
-  
+
+
 > <i class="fa-duotone fa-solid fa-quote-left"></i> *I wish it need not have happened in my time,"*  said Frodo. <br />
 > *"So do I,"*  said Gandalf,  *"and so do all who live to see such times.* <br />
 > *But that is not for them to decide.* <br />
 > *All we have to decide is what to do with the time that is given us."* <br />
 > <sub> ~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br />
-  
-  
---------------------  
-  
-  
+
+
+----------------------------------------  
+<!-- Table Photo Album Attempt -->
+----------------------------------------
+## YEAR
+
+| <!-- Left-Tab --> | <!-- Right-Tab --> |
+| :-------- | :-------- |
+| ![ALT_NAME](PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> @DD_MM_YYYY </sub> |
+| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](PICTURE_FILE){: .w-50 } |
+| ![ALT_NAME](PICTURE_FILE){: .w-50 } | <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> @DD_MM_YYYY </sub> |
+| <sub>*"ALT_NAME"*, <br /> PICTURE_DESCRIPTION. <br /> @DD_MM_YYYY </sub> | ![ALT_NAME](PICTURE_FILE){: .w-50 } |
+

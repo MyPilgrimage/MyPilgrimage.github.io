@@ -1,13 +1,13 @@
----  
-  
-title: Testing Version 2.0  
-date: 2025-02-25 12:00:00 +0100  
-categories: [Site, Update]  
-tags: [pictures, webpage, tech update, site]  
-description: "166 Days to Prepare. Testing things for version 2.0 of the page!..."  
-  
----  
-  
+---
+
+title: Testing Version 2.0
+date: 2025-02-25 12:00:00 +0100
+categories: [Site, Update]
+tags: [pictures, webpage, tech update, site]
+description: "166 Days to Prepare. Testing things for version 2.0 of the page!..."
+
+---
+
 > **166** Days to Prepare. North-Holland Netherlands.  
 {: .prompt-info }  
   
@@ -16,6 +16,10 @@ I want to see if this post will auto publish tomorrow. <br />
 It should appear on 25-02 @ 12:00. <br />
 While I'm writing this on 25-02 @ 02:00 <br />
 
+
+> @ 14:00 Sadly no new post was added to the page.
+> I will soon take-down a lot of posts and pages. They will (hopefully) be back up at the end of this day (25-02)
+> 
 
 This will be in preperation for the Version 2.0 announcement.<br />
 There are a lot of new features added to the website, aswell as many rewrites and gramar/spelling/syntac fixes.

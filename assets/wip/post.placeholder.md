@@ -1,0 +1,29 @@
+---
+
+title: POST_TITLE
+date: 2025-MM-DD 00:00:00 +0100
+categories: [HEAD-CAT, SUB-CAT]
+tags: [trial-run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update, site]
+image:
+ path: /assets/img/
+ alt: IMAGE
+description: "[NUMBER] Days to Prepare. POST_DESCRIPTION"
+
+---
+  
+> **[NUMBER]** Days to Prepare. [LOCATION].  
+{: .prompt-info }  
+  
+## Technical Update  
+..  
+## Random Ramblings  
+..  
+  
+paragraph  
+..........  
+..........  
+  
+  
+*Cheers,* <br />  
+I-Jun  
+  
