@@ -23,10 +23,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       A Sunny Sundays Sun
       </cite>
+	  <br />
       <small>
         Enjoying the warmth of the sun, while typing and working on this page.
-        <sup>
-        @23-02-2025
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 23-02-2025
         </sup>
       </small>
 	</div>
@@ -40,11 +42,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Waterlogged Bench
       </cite>
+	  <br />
       <small>
         You can just about see the backrest of a bench in the water. 
 		Taken while hiking with my Mothers Walking-group, Dunes of Schoorl.
-        <sup>
-        @21-01-2025
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 21-01-2025
         </sup>
       </small>
 	</div>
@@ -58,11 +62,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Witches Bog
       </cite>
-      <small>
+      <br />
+	  <small>
         I like the rugged mysteriousness in this picture. A thick and lowhanging mist made it feel like a Grimm Fairytale. 
 		Taken while hiking with my Mothers Walking-group, Dunes of Schoorl.
-        <sup>
-        @21-01-2025
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 21-01-2025
         </sup>
       </small>
 	</div>
@@ -76,12 +82,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Small Trunk-bridge
       </cite>
-      <small>
+      <br />
+	  <small>
         A relatively deep ditch that crossed my path. You can see a ropebridge 
 		<i>(which wasn't accessible with my big backpack)</i>. 
 		Luckily my boots where waterproof!
-        <sup>
-        @20-01-2025
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 20-01-2025
         </sup>
       </small>
 	</div>
@@ -97,15 +105,17 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
 
 <div class="responsiveGallery">
   <div class="imgGallery rounded-10">
-	<img src="/assets/pics/20240604_Tent.jpg" alt="amping Tent" width="600" height="400" class="imgGalleryImg rounded-10">
+	<img src="/assets/pics/20240604_Tent.jpg" alt="Camping Tent" width="600" height="400" class="imgGalleryImg rounded-10">
     <div class="imgDesc">
       <cite>
-      amping Tent
+      Camping Tent
       </cite>
-      <small>
+      <br />
+	  <small>
         My <i>(way to heavy)</i> tent I use on vacation, somewhere near Weert Brabant.
-        <sup>
-        @04-06-2024
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 04-06-2024
         </sup>
       </small>
 	</div>
@@ -119,10 +129,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       High Water
       </cite>
-      <small>
+      <br />
+	  <small>
         Normally this is all sand-dunes, but now its flooded by recent heavy rain, Dunes of Schoorl.
-        <sup>
-        @20-05-2024
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 20-05-2024
         </sup>
       </small>
 	</div>
@@ -143,10 +155,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       A Small Campfire
       </cite>
-      <small>
+      <br />
+	  <small>
         A small campfire while on vacation with friends. Somewhere near the Utrechtse Heuvelrug. Taken by Morgan.
-        <sup>
-        @29-05-2023
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 29-05-2023
         </sup>
       </small>
 	</div>
@@ -160,10 +174,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Camping Camp
       </cite>
-      <small>
+      <br />
+	  <small>
         Our small camp while on vacation with friends. Somewhere near the Utrechtse Heuvelrug. Taken by Koen.
-        <sup>
-        @27-05-2023
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 27-05-2023
         </sup>
       </small>
 	</div>
@@ -184,10 +200,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Sundown
       </cite>
-      <small>
+      <br />
+	  <small>
         I like the dutch skies, especially the colours that appear at dusk and dawn.
-        <sup>
-        @28-02-2022
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 28-02-2022
         </sup>
       </small>
 	</div>
@@ -201,10 +219,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Godray
       </cite>
-      <small>
-        A nice sunflare/godray casting long shadows over the green grass.
-        <sup>
-        @26-02-2022
+      <br />
+	  <small>
+        A nice sunflare / godray casting long shadows over the green grass.
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 26-02-2022
         </sup>
       </small>
 	</div>
@@ -219,10 +239,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Twilight Path
       </cite>
-      <small>
+      <br />
+	  <small>
         I like the contrast between the colourful sky, with its pink and peach, opposed to the gray and brown branches of the trees and ground.
-        <sup>
-        @12-01-2022
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 12-01-2022
         </sup>
       </small>
 	</div>
@@ -236,10 +258,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Twilight
       </cite>
-      <small>
+      <br />
+	  <small>
         Same as the Twilight Path photo, but more emphasis on the Dark-Light contrast.
-        <sup>
-        @12-01-2022
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 12-01-2022
         </sup>
       </small>
 	</div>
@@ -260,10 +284,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       Autumn Wilderness
       </cite>
-      <small>
+      <br />
+	  <small>
         I love the brown and yellow autumn-colours in this picture.
-        <sup>
-        @06-11-2021
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 06-11-2021
         </sup>
       </small>
 	</div>
@@ -277,10 +303,12 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br />
       <cite>
       The Dutch Lowlands
       </cite>
-      <small>
-         On vacation somewhere in Brabant. Taken by Neill.
-        <sup>
-        @06-08-2021
+      <br />
+	  <small>
+        On vacation somewhere in Brabant. Taken by Neill.
+        <br />
+		<sup>
+        <i class="far fa-calendar"></i> 06-08-2021
         </sup>
       </small>
 	</div>
