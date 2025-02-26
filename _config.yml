@@ -38,8 +38,9 @@ social:
   email: iJun.Pilgrimage@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/MyPilgrimage # change to your GitHub homepage
     - https://www.reddit.com/user/CutNo303/ # Reddit Homepage
+    - https://github.com/MyPilgrimage # change to your GitHub homepage
+
     # Uncomment below to add more social links
     # - https://twitter.com/username # change to your Twitter homepage
     # - https://www.facebook.com/username
