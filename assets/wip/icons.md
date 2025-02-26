@@ -11,15 +11,20 @@
 <!--TABS-->
 <i class="fas fa-Home"><!--Home--></i>
 <i class="fa-solid fa-person-hiking"><!--About--></i>
+<i class="fa-solid fa-timeline"><!--Timeline--></i>
+<i class="fa-solid fa-camera"><!--Pictures--></i>
+<i class="fas fa-stream"><!--Categories--></i>
+<i class="fas fa-tags"><!--Tags--></i>
+
 <i class="fa-solid fa-calendar-days"><!--Quick-Overview--></i>
 <i class="fa-solid fa-circle-user"><!--Me--></i>
 <i class="fa-solid fa-route"><!--Route--></i>
 <i class="fa-solid fa-person-walking-arrow-right"><!--Training--></i>
 <i class="fa-solid fa-campground"><!--Gear--></i>
-<i class="fa-solid fa-timeline"><!--Timeline--></i>
-<i class="fa-solid fa-camera"><!--Pictures--></i>
-<i class="fas fa-stream"><!--Categories--></i>
-<i class="fas fa-tags"><!--Tags--></i>
+
+<i class="fa-solid fa-blog"><!--Blog--></i>
+<i class="fa-solid fa-sitemap"><!--Sitemap--></i>
+<i class="fa-solid fa-thumbs-up"><!--Thanks--></i>
 
 <!--POSTS-->
 <i class="far fa-calendar"><!--Date--></i>
@@ -37,8 +42,7 @@
 <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>
 
 <!--SITE-->
-<i class="fa-solid fa-blog"><!--Blog--></i>
-<i class="fa-solid fa-sitemap"><!--Sitemap--></i>
+
 
 <i class="fas fa-adjust"><!--Theme--></i>
 <i class="fas fa-search"><!--Search--></i>
