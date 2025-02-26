@@ -43,7 +43,7 @@ I'm planning to hoist my backpack on my back and start walking Southward. <br/>
 
 ### My Principles
 
-> <i class="fa-duotone fa-solid fa-quote-left"></i> Leave only ash, hair and footprints" <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> Leave only ash, hair and footprints" <br/>
 {: .font-m }
 
 
@@ -162,7 +162,7 @@ The plan is to start walking from my home near Alkmaar.
 
 
 #### Quick Trail-Run Route Calculation
-
+<!--
 - **Avg. Hours of Walking:** [ROUTE_TOTAL_HOURS] hr / [AVG_WALKING_HOURS] hr per day = [AVG_DAYS_WALKING] days
 - **Avg. Distance to Walk:** [ROUTE_TOTAL_DISTANCE] km / [AVG_WALKING_DISTANCE] km per day = [AVG_DAYS_WALKING] days
 - **Avg. Walking Speed:** [ROUTE_TOTAL_DISTANCE] km / [ROUTE_TOTAL_HOURS] hr = [AVG_WALKING_SPEED] km/h
@@ -170,7 +170,7 @@ The plan is to start walking from my home near Alkmaar.
  So I will walk for [AVG_DAYS_WALKING] day, 
  walking [AVG_WALKING_SPEED] km/h for [AVG_WALKING_HOURS] hrs, 
  with a minimum distance of [AVG_WALKING_DISTANCE].<br/>
-
+-->
 > More Info and Updates coming soon.
 {: .prompt-warning } 
 

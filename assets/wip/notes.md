@@ -4,43 +4,48 @@ Notes, reminders and general Admin
 ----------------------------------------
 CATEGORIES:
 ----------------------------------------
-- Site  
-	- Welcome  
-	- Update  
+
 - 2025 Trial-Run  
+	- Preparations  
+	- Underway  
+- 2026 pilgrimage
 	- Preparations  
 	- Underway  
 - Random  
 	- Ramblings  
+- Site  
+	- Welcome  
+	- Update  
 
 ----------------------------------------
 TAGS:
 ----------------------------------------
-- trial-run,  
-- trial-run update,  
-- prepping,  
-- training,  
-- gathering gear,  
-- personal update,  
-- worrying wayfarer,  
-- pictures,  
-- webpage,  
-- tech update,  
-- site, 
 
-categories: [Site, Update]  
-categories: [Random, Ramblings]  
-categories: [2025 Trial-Run, Preparations]  
-tags: [trial-run, trial-run update, prepping, training, gathering gear, personal update, worrying wayfarer, pictures, webpage, tech update, site]  
+- trial-run,			<!-- updates: 2025 Trial Run -->
+- pilgrimage, 			<!-- updates: The real pilgrimage in 2026 etc.-->
+- route, 				<!-- updates: Route planning or along the way etc.-->
+- training, 			<!-- updates: Training practice, regimen etc.  -->
+- gear, 				<!-- updates: Gear list, collection etc. -->
+- personal, 			<!-- updates: Personal Not related to the Pilgrimage etc.-->
+- worrying wayfarer, 	<!-- updates: Random Ramblings Tag etc.-->
+- pictures, 			<!-- updates: New Picture added etc.-->
+- site, 				<!-- updates: About the page itself etc.-->
+
+categories: [2025 Trial-Run, Preparations]
+categories: [Random, Ramblings]
+categories: [Site, Update]
+
+tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer, pictures, site]
+
 
 ----------------------------------------
 PICTURE LIBRARY
 ----------------------------------------
 /assets/pics/  
-- [x] 20210617_FunnyBackpack.png (_posts\2025-01-17-a-day-off.md , \_tabs\about.md )
+- [ ] 20210617_FunnyBackpack.png (, \_tabs\about.md )
 - [x] 20210806_TheLowlands.jpg (\_posts\2025-02-08-webpage-theme.md , \_tabs\pictures.md)
 - [ ] 20211106_AutumnWilderness.jpg ( , \_tabs\pictures.md)
-- [ ] 20220112_Twilight.jpg ( , \_tabs\pictures.md)
+- [x] 20220112_Twilight.jpg (_posts\2025-01-17-a-day-off.md  , \_tabs\pictures.md)
 - [x] 20220112_TwilightPath.jpg (\_posts\2025-02-04-return.md , \_tabs\pictures.md)
 - [x] 20220226_Godray.jpg (\_posts\2025-01-15-my-first-post.md , \_tabs\pictures.md)
 - [x] 20220228_Sundown.jpg (\_posts\2025-01-10-welcome.md , \_tabs\pictures.md)
@@ -102,10 +107,10 @@ WEBSITE ADDITION IDEAS
 ----------------------------------------  
 QUOTES AND EXCERPTS
 ----------------------------------------
-> <i class="fa-duotone fa-solid fa-quote-left"></i> Leave only ash, hair & footprints." <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> Leave only ash, hair & footprints." <br/>
 
 
-> <i class="fa-duotone fa-solid fa-quote-left"></i> *But it is not your own Shire,"*  said Gildor. <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> *But it is not your own Shire,"*  said Gildor. <br/>
 > *"Others dwelt here before hobbits were;* <br/>
 > *and others will dwell here again when hobbits are no more.* <br/>
 > *The wide world is all about you:* <br/>
@@ -115,14 +120,14 @@ QUOTES AND EXCERPTS
 > <sub> ~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br/>
   
   
-> <i class="fa-duotone fa-solid fa-quote-left"></i> *If more of us valued food and cheer and song above hoarded gold,* <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> *If more of us valued food and cheer and song above hoarded gold,* <br/>
 > *it would be a merrier world.* <br/>
 > *But, sad or merry, I must leave it now. Farewell."* <br/>
 > <sub> - Thorin Oakenshield before he dies, asking Bilbo's forgiveness for his harsh words to him. </sub> <br/>
 > <sub> ~ J.R.R. Tolkien, The Hobbit </sub> <br/>
   
   
-> <i class="fa-duotone fa-solid fa-quote-left"></i> He nods, then squints across the room. <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> He nods, then squints across the room. <br/>
 > *"Not all those who wander are lost,"* he says. He's still squinting. <br/>
 > I wonder if he's practiced this squint - a squint-stare off into the metaphysical distance. <br/>
 > But then again, it might just be that he cares about something. <br/>
@@ -131,7 +136,7 @@ QUOTES AND EXCERPTS
 > <sub>~ Patrick Somerville, The Universe in Miniature in Miniature </sub> <br/>
   
   
-> <i class="fa-duotone fa-solid fa-quote-left"></i> Many that live deserve death. <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> Many that live deserve death. <br/>
 > And some that die deserve life. <br/>
 > Can you give it to them? <br/>
 > Then do not be too eager to deal out death in judgement. <br/>
@@ -140,7 +145,7 @@ QUOTES AND EXCERPTS
 > <sub>~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br/>
   
   
-> <i class="fa-duotone fa-solid fa-quote-left"></i> I am old, Gandalf. <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> I am old, Gandalf. <br/>
 > I don't look it, but I am beginning to feel it in my heart of hearts. <br/>
 > Well-preserved indeed! <br/>
 > <br/>
@@ -162,7 +167,7 @@ QUOTES AND EXCERPTS
 ----------------------------------------
 USED QUOTES AND EXCERPTS
 ----------------------------------------
-> <i class="fa-duotone fa-solid fa-quote-left"></i> All that is gold does not glitter, <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> All that is gold does not glitter, <br/>
 > Not all those who wander are lost; <br/>
 > The old that is strong does not wither,  <br/>
 > Deep roots are not reached by the frost. <br/>
@@ -175,12 +180,12 @@ USED QUOTES AND EXCERPTS
 > <sub> ~J.R.R. Tolkien, The Fellowship of the Ring </sub> <br/>
 
 
-> <i class="fa-duotone fa-solid fa-quote-left"></i> Don't be a fool Mr. Baggins if you can help it." <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> Don't be a fool Mr. Baggins if you can help it." <br/>
 > <sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier. </sub> <br/>
 > <sub> ~J.R.R. Tolkien, The Hobbit </sub> <br/>
 
 
-> <i class="fa-duotone fa-solid fa-quote-left"></i> *I wish it need not have happened in my time,"*  said Frodo. <br/>
+> <i class="fa-solid fa-quote-left font-l"></i> *I wish it need not have happened in my time,"*  said Frodo. <br/>
 > *"So do I,"*  said Gandalf,  *"and so do all who live to see such times.* <br/>
 > *But that is not for them to decide.* <br/>
 > *All we have to decide is what to do with the time that is given us."* <br/>
