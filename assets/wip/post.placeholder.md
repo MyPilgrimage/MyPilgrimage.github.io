@@ -1,29 +1,24 @@
 ---
-
 title: POST_TITLE
 date: 2025-MM-DD 00:00:00 +0100
-categories: [HEAD-CAT, SUB-CAT]
-tags: [trial-run, update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update, site]
+categories: [HEAD_CAT, SUB_CAT]
+tags: [trial-run, trial-run update, prepping, training, gathering, personal update, worrying wayfarer, pictures, webpage, tech update, site]
 image:
- path: /assets/img/
- alt: IMAGE
-description: "[NUMBER] Days to Prepare. POST_DESCRIPTION"
-
+ path: PICTURE_FILE
+ alt: ALT_NAME
+description: "[DAYS_NUMBER] Days to Prepare. POST_DESCRIPTION"
 ---
   
-> **[NUMBER]** Days to Prepare. [LOCATION].  
+> **[DAYS_NUMBER]** Days to Prepare. [POST_LOCATION].  
 {: .prompt-info }  
   
 ## Technical Update  
 ..  
 ## Random Ramblings  
 ..  
-  
-paragraph  
-..........  
-..........  
+
   
   
-*Cheers,* <br />  
+*Cheers,* <br/>  
 I-Jun  
-  
+

@@ -1,45 +1,45 @@
 # My Pilgrimage
 
-[MyPilgrimage.github.io](https://MyPilgrimage.github.io/) <br />
+[MyPilgrimage.github.io](https://MyPilgrimage.github.io/) <br/>
 A github Pages website where I document my planned Pilgrimage.
 
 
 ## Description:
 
 I'm going on a pilgrimage. 
-This page is where I'll update my progress, post blog-post about my day-to-day training, gear collecting and route plans.  
-It helps me to make my plans concrete and to easily share my plans and idea's with others. So I can learn from others and get usefull tips or gear.  
+This page is where I'll update my progress, post blog-posts about my day-to-day training, gear collecting and route plans.  
+It helps me to make my plans concrete and to easily share my plans and ideas with others. So I can learn from others and get useful tips or gear.  
 Questions or other Queries? Feel free to contact me!  
 
 ### Sitemap:
-├── [index.html](https://mypilgrimage.github.io/) <br />
-│ &nbsp; &nbsp; ├── [welcome.html](https://mypilgrimage.github.io/welcome) <br />
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#welcome-to-my-page](https://mypilgrimage.github.io/welcome#welcome-to-my-page) <br />
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#quick-overview](https://mypilgrimage.github.io/welcome#quick-overview) <br />
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#introductions](https://mypilgrimage.github.io/welcome#introductions) <br />
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#my-plan](https://mypilgrimage.github.io/welcome#my-plan) <br />
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; └── [/welcome#posts](https://mypilgrimage.github.io/welcome#posts) <br />
-│ &nbsp; &nbsp; ├── posts/YYYY-MM-DD-PostTitle1.html <br />
-│ &nbsp; &nbsp; ├── posts/YYYY-MM-DD-PostTitle2.html <br />
-│ &nbsp; &nbsp; ├── posts/YYYY-MM-DD-PostTitle3.html <br />
-│ &nbsp; &nbsp; └── .... More Posts .... <br />
-├── [about.html](https://mypilgrimage.github.io/about/) <br />
-│ &nbsp; &nbsp; ├── [/about/#who-am-i](https://mypilgrimage.github.io/about/#who-am-i) <br />
-│ &nbsp; &nbsp; ├── [/about/#why-this-page](https://mypilgrimage.github.io/about/#why-this-page) <br />
-│ &nbsp; &nbsp; ├── [/about/#route](https://mypilgrimage.github.io/about/#route) <br />
-│ &nbsp; &nbsp; ├── [/about/#training](https://mypilgrimage.github.io/about/#training) <br />
-│ &nbsp; &nbsp; ├── [/about/#gear](https://mypilgrimage.github.io/about/#gear) <br />
-│ &nbsp; &nbsp; └── [/about/#thanks](https://mypilgrimage.github.io/about/#thanks) <br />
-├── [timeline.html](https://mypilgrimage.github.io/timeline/) <br />
-├── [pictures.html](https://mypilgrimage.github.io/pictures/) <br />
-├── [categories.html](https://mypilgrimage.github.io/categories/) <br />
-└── [tags.html](https://mypilgrimage.github.io/tags/) <br />
+├── [index.html](https://mypilgrimage.github.io/) <br/>
+│ &nbsp; &nbsp; ├── [welcome.html](https://mypilgrimage.github.io/welcome) <br/>
+│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#welcome-to-my-page](https://mypilgrimage.github.io/welcome#welcome-to-my-page) <br/>
+│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#quick-overview](https://mypilgrimage.github.io/welcome#quick-overview) <br/>
+│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#introductions](https://mypilgrimage.github.io/welcome#introductions) <br/>
+│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [/welcome#my-plan](https://mypilgrimage.github.io/welcome#my-plan) <br/>
+│ &nbsp; &nbsp; │ &nbsp; &nbsp; └── [/welcome#posts](https://mypilgrimage.github.io/welcome#posts) <br/>
+│ &nbsp; &nbsp; ├── posts/YYYY-MM-DD-PostTitle1.html <br/>
+│ &nbsp; &nbsp; ├── posts/YYYY-MM-DD-PostTitle2.html <br/>
+│ &nbsp; &nbsp; ├── posts/YYYY-MM-DD-PostTitle3.html <br/>
+│ &nbsp; &nbsp; └── .... More Posts .... <br/>
+├── [about.html](https://mypilgrimage.github.io/about/) <br/>
+│ &nbsp; &nbsp; ├── [/about/#who-am-i](https://mypilgrimage.github.io/about/#who-am-i) <br/>
+│ &nbsp; &nbsp; ├── [/about/#why-this-page](https://mypilgrimage.github.io/about/#why-this-page) <br/>
+│ &nbsp; &nbsp; ├── [/about/#route](https://mypilgrimage.github.io/about/#route) <br/>
+│ &nbsp; &nbsp; ├── [/about/#training](https://mypilgrimage.github.io/about/#training) <br/>
+│ &nbsp; &nbsp; ├── [/about/#gear](https://mypilgrimage.github.io/about/#gear) <br/>
+│ &nbsp; &nbsp; └── [/about/#thanks](https://mypilgrimage.github.io/about/#thanks) <br/>
+├── [timeline.html](https://mypilgrimage.github.io/timeline/) <br/>
+├── [pictures.html](https://mypilgrimage.github.io/pictures/) <br/>
+├── [categories.html](https://mypilgrimage.github.io/categories/) <br/>
+└── [tags.html](https://mypilgrimage.github.io/tags/) <br/>
 
 -----
 
 ## Attribution :
 This page exists thanks in part to the following;
-Some of the pictures on the page were made by other people. Attribution is given in the pictures caption. 
+Some of the pictures on the page were made by other people. Attribution is given in the picture's caption. 
 
 ### Font Awesome
 [Font Awesome License](https://fontawesome.com/license)
@@ -112,3 +112,4 @@ or email: [iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com)
   
 Cheers,  
 I-Jun  
+
