@@ -2,7 +2,7 @@
 Notes, reminders and general Admin
 
 ----------------------------------------
-CATEGORIES:
+ CATEGORIES
 ----------------------------------------
 
 - 2025 Trial-Run  
@@ -17,8 +17,9 @@ CATEGORIES:
 	- Welcome  
 	- Update  
 
+
 ----------------------------------------
-TAGS:
+ TAGS
 ----------------------------------------
 
 - trial-run,			<!-- updates: 2025 Trial Run -->
@@ -39,36 +40,39 @@ tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer
 
 
 ----------------------------------------
-PICTURE LIBRARY
+ PICTURE_LIBRARY
 ----------------------------------------
+
 /assets/pics/  
-- [ ] 20210617_FunnyBackpack.png (, \_tabs\about.md )
-- [x] 20210806_TheLowlands.jpg (\_posts\2025-02-08-webpage-theme.md , \_tabs\pictures.md)
-- [ ] 20211106_AutumnWilderness.jpg ( , \_tabs\pictures.md)
-- [x] 20220112_Twilight.jpg (_posts\2025-01-17-a-day-off.md  , \_tabs\pictures.md)
-- [x] 20220112_TwilightPath.jpg (\_posts\2025-02-04-return.md , \_tabs\pictures.md)
-- [x] 20220226_Godray.jpg (\_posts\2025-01-15-my-first-post.md , \_tabs\pictures.md)
-- [x] 20220228_Sundown.jpg (\_posts\2025-01-10-welcome.md , \_tabs\pictures.md)
-- [x] 20230529_Campfire.jpg (\_tabs\about.md , \_tabs\pictures.md)
-- [ ] 20230527_Camping.jpg ( , \_tabs\pictures.md)
-- [x] 20240520_Schoorl.png (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
-- [ ] 20240604_Tent.jpg ( , \_tabs\pictures.md)
-- [x] 20250120_OhMyWhatObstacles.jpg (\_posts\2025-01-20-the-ball-is-rolling.md , \_tabs\pictures.md)
-- [x] 20250121_WaterloggedSchoorl.jpg (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
-- [x] 20250121_WitchbogSchoorl.jpg (\_posts\2025-01-21-the-dunes-of-schoorl.md , \_tabs\pictures.md)
-- [x] 20250223_SundaysSun.jpg (\_posts\2025-02-23-random-ramblings.md , \_tabs\pictures.md)
+- [x] 20250223_SundaysSun.jpg (/posts/2025-02-23-random-ramblings , /pictures)
+- [x] 20250121_WitchbogSchoorl.jpg (/posts/2025-01-21-the-dunes-of-schoorl , /pictures)
+- [x] 20250121_WaterloggedSchoorl.jpg (/posts/2025-01-21-the-dunes-of-schoorl , /pictures)
+- [x] 20250120_OhMyWhatObstacles.jpg (/posts/2025-01-20-the-ball-is-rolling , /pictures)
+- [ ] 20240604_Tent.jpg ( , /pictures)
+- [x] 20240520_Schoorl.png (/posts/2025-01-21-the-dunes-of-schoorl , /pictures)
+- [x] 20230529_Campfire.jpg (/about , /pictures)
+- [ ] 20230527_Camping.jpg ( , /pictures)
+- [x] 20220228_Sundown.jpg (/welcome , /pictures)
+- [x] 20220226_Godray.jpg (/posts/2025-01-15-my-first-post , /pictures)
+- [x] 20220112_TwilightPath.jpg (/posts/2025-02-04-return , /pictures)
+- [x] 20220112_Twilight.jpg (/posts/2025-01-17-a-day-off  , /pictures)
+- [ ] 20211106_AutumnWilderness.jpg ( , /pictures)
+- [x] 20210806_TheLowlands.jpg (/posts/2025-02-08-webpage-theme , /pictures)
+- [ ] 20210617_FunnyBackpack.png (, /about )
+
 
 ----------------------------------------
-IMAGE LIBRARY
+ IMAGE_LIBRARY
 ----------------------------------------
+
 /assets/img/  
-- [x] GoogleMaps-progress_Current-Location.png (\_posts\2025-01-10-welcome.md)
-- [x] googleMaps-route-Pilgrimage_of_Compostela.png (\_tabs\about.md)
-- [x] img_brokenWebsite.png (\_posts\2025-02-15-live-but-weird.md)
+- [x] GoogleMaps-progress_Current-Location.png (/posts/2025-01-10-welcome)
+- [x] googleMaps-route-Pilgrimage_of_Compostela.png (/about)
+- [x] img_brokenWebsite.png (/posts/2025-02-15-live-but-weird)
 
 /assets/img/branding  
 - [ ] avatar-1.png ( )
-- [x] avatar.png (\_config.yml)
+- [x] avatar.png (/_config.yml)
 - [ ] avatar_s.png ( )
 - [x] repository-graph-MyPilgrimage.png (Github Repository)
 
@@ -85,9 +89,11 @@ IMAGE LIBRARY
 - [x] web-app-manifest-192x192.png (Favicons)
 - [x] web-app-manifest-512x512.png (Favicons)
 
+
 ----------------------------------------  
-WEBSITE ADDITION IDEAS
+ WEBSITE_ADDITION_IDEAS
 ----------------------------------------
+
 - Want:  
 	- Weight hanger (TO measure backpack weight on the road?)  
 - Something bigger than me:  
@@ -105,8 +111,9 @@ WEBSITE ADDITION IDEAS
 
 
 ----------------------------------------  
-QUOTES AND EXCERPTS
+ QUOTES_AND_EXCERPTS
 ----------------------------------------
+
 > <i class="fa-solid fa-quote-left font-l"></i> Leave only ash, hair & footprints." <br/>
 
 
@@ -164,9 +171,11 @@ QUOTES AND EXCERPTS
 > <sub>- Bilbo Baggins speaking to Gandalf. </sub> <br/>
 > <sub>~ J.R.R. Tolkien, The Fellowship of the Ring </sub> <br/>
 
+
 ----------------------------------------
-USED QUOTES AND EXCERPTS
+ USED_QUOTES_AND_EXCERPTS
 ----------------------------------------
+
 > <i class="fa-solid fa-quote-left font-l"></i> All that is gold does not glitter, <br/>
 > Not all those who wander are lost; <br/>
 > The old that is strong does not wither,  <br/>
@@ -193,8 +202,9 @@ USED QUOTES AND EXCERPTS
 
 
 ----------------------------------------  
-Table Photo Album Attempt
+ TABLE_PHOTO_ALBUM_ATTEMPT
 ----------------------------------------
+
 ## YEAR
 
 | <!-- Left-Tab --> | <!-- Right-Tab --> |

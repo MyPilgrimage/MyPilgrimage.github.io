@@ -11,32 +11,15 @@
 <!--TABS-->
 <i class="fas fa-Home"><!--Home--></i>
 <i class="fa-solid fa-person-hiking"><!--About--></i>
-<i class="fa-solid fa-timeline"><!--Timeline--></i>
-<i class="fa-solid fa-camera"><!--Pictures--></i>
-<i class="fas fa-stream"><!--Categories--></i>
-<i class="fas fa-tags"><!--Tags--></i>
-
-<!--SUB_TABS-->
 <i class="fa-solid fa-calendar-days"><!--Quick-Overview--></i>
 <i class="fa-solid fa-circle-user"><!--Me--></i>
 <i class="fa-solid fa-route"><!--Route--></i>
 <i class="fa-solid fa-person-walking-arrow-right"><!--Training--></i>
 <i class="fa-solid fa-campground"><!--Gear--></i>
-
-<!--BRANDS-->
-<i class="fab fa-github"><!--Github--></i>
-<i class="fa-brands fa-reddit"><!--Reddit--></i>
-<i class="fa-brands fa-square-reddit"><!--Reddit_Share--></i>
-<i class="fa-brands fa-wikipedia-w"><!--Wikipedia--></i>
-<i class="fa-brands fa-google"><!--Google--></i>
-<i class="fa-brands fa-linkedin"><!--LinkedIN--></i>
-<i class="fa-brands fa-bluesky"><!--BlueSky--></i>
-<i class="fa-brands fa-flickr"><!--Flickr--></i>
-
-<!--CONTACT-->
-<i class="fas fa-envelope"><!--Email--></i>
-<i class="fas fa-rss"><!--RSS--></i>
-<i class="fas fa-link"><!--Share_Link--></i>
+<i class="fa-solid fa-timeline"><!--Timeline--></i>
+<i class="fa-solid fa-camera"><!--Pictures--></i>
+<i class="fas fa-stream"><!--Categories--></i>
+<i class="fas fa-tags"><!--Tags--></i>
 
 <!--POSTS-->
 <i class="far fa-calendar"><!--Date--></i>
@@ -44,9 +27,10 @@
 <i class="fas fa-thumbtack"><!--Pinned--></i>
 <i class="far fa-folder-open"><!--Head_Cat--></i>
 <i class="far fa-folder fa-fw"><!--Sub_Cat--></i>
-<i class="fas fa-hashtag"><!--Tag--></i>
+<i class="fa-solid fa-tag"><!--Tag--></i>
 
 <!--HEAD_CATEGORIES-->
+<i class="fas fa-hashtag"><!--Headers--></i>
 <i class="fa-solid fa-leaf"><!--2025TrialRun--></i>
 <i class="fa-solid fa-clover"><!--MyPilgrimage--></i>
 <i class="fa-solid fa-head-side-virus"><!--RandomRamblings--></i>
@@ -61,6 +45,21 @@
 <i class="fas fa-angle-up"><!--Scroll_Up--></i>
 <i class="fas fa-bars"><!--Side_Menu--></i>
 <i class="fa-solid fa-list-ul"><!--TOC_Menu--></i>
+
+<!--CONTACT-->
+<i class="fas fa-envelope"><!--Email--></i>
+<i class="fas fa-rss"><!--RSS--></i>
+<i class="fas fa-link"><!--Share_Link--></i>
+
+<!--BRANDS-->
+<i class="fab fa-github"><!--Github--></i>
+<i class="fa-brands fa-reddit"><!--Reddit--></i>
+<i class="fa-brands fa-square-reddit"><!--Reddit_Share--></i>
+<i class="fa-brands fa-wikipedia-w"><!--Wikipedia--></i>
+<i class="fa-brands fa-google"><!--Google--></i>
+<i class="fa-brands fa-linkedin"><!--LinkedIN--></i>
+<i class="fa-brands fa-bluesky"><!--BlueSky--></i>
+<i class="fa-brands fa-flickr"><!--Flickr--></i>
 
 <!--QUOTE_BLOCKS-->
 <i class="fa-solid fa-quote-left font-l"><!--Block_Quote--></i>

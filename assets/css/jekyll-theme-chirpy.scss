@@ -7,8 +7,8 @@
 {%- endif -%}
 ';
 
-/* my custom style */
-/** Link_Blockquote */
+/*MY_CUSTOM_STYLE*/
+/**LINK_BLOCKQUOTE*/
 .prompt-link {
 	padding: 0.5rem;
 	background: rgba($color: #40e0d0, $alpha: 0.25);
@@ -16,10 +16,10 @@
 	font-weight: normal;
 	content: \f0a9;
 }
-/** Link_Blockquote_END */
+/**LINK_BLOCKQUOTE_END*/
 
 
-/** Font_Sizes */
+/**FONT_SIZES*/
 .font-m {
 	font-size: 1.5em;
 }
@@ -39,10 +39,10 @@
 .font-center {
 	text-align: center;
 }
-/** Font_Sizes_END */
+/**FONT_SIZES_END*/
 
 
-/** Rounded_Corners */
+/**ROUNDED_CORNERS*/
 .rounded-10 {
  	border-radius: 0.625em;
 }
@@ -54,21 +54,23 @@
 .rounded-20 {
  	border-radius: 1.25em;
 }
-/** Rounded_Corners_END */
+/**ROUNDED_CORNERS_END*/
 
 
-/** Photo_Album */
+/**PHOTO_ALBUM*/
 .imgGallery {
 	background: rgba($color: #777, $alpha: 0.25);
-// 	min-height: 100%;
-// 	max-height: 30em;
-// 	overflow: auto;
+	border-radius: 0.625em;
 }
-
 
 .imgGalleryImg {
 	width: 100%;
 	height: auto;
+	margin: 0px 0px 0.5rem 0px;
+}
+
+imgGalleryImg img {
+	border-radius: 0.625em;
 }
 
 .imgDesc {
@@ -76,25 +78,19 @@
 	text-align: center;
 }
 
+/***IMAGE_TITLE*/
+.imgDesc cite {
+	font-weight: bold;
+}
+/***IMAGE_DESCRIPTION*/
+// .imgDesc small {}
+/***IMAGE_PROPERTIES*/
+// .imgDesc small sup {}
+
 .responsiveGallery {
 	padding: 0 0.312em;
 	float: left;
 	width: 49.99999%;
-}
-
-// Max-Width: 850px = Left-Sidebar Added
-// Max-Width: 1200px = Right-Sidebar Added
-@media only screen and (max-width: 724px) {
-	.responsiveGallery {
-		width: 100%;
-	}
-}
-
-// ALBUM LAYOUT ERRORS BETWEEN
-@media only screen and (min-width: 1525px) and (max-width: 1650px) {
-	.responsiveGallery {
-		height: auto;
-	}
 }
 
 .clearfix:after {
@@ -102,10 +98,33 @@
 	display: table;
 	clear: both;
 }
-/** Photo_Album_END */
+/**PHOTO_ALBUM_END*/
 
 
-/** Personalized_Colour_Scheme  */
+/**PERSONALIZED_COLOUR_SCHEME */
+/**PERSONALIZED_COLOUR_SCHEME_END*/
 
 
-/** Personalized_Colour_Scheme_END  */
+/**RESPONSIVE_DESIGN*/
+/*** LEFT_SIDEBAR_ADDED: Max-Width: 850px */
+@media only screen and (max-width: 850px) {
+	.responsiveGallery {
+		width: 100%;
+	}
+}
+
+/*** RIGHT_SIDEBAR_ADDED: Max-Width: 1200px */
+// @media only screen and (max-width: 1200px) {
+// 	
+// }
+
+/**ALBUM_RESPONSIVE_ERRORS
+// fix: 850px - 854px
+// fix: 1525px - 1650px
+// fix: 1534px - 1649px
+*/
+// @media only screen and (min-width: 850px) and (max-width: 1650px) {
+//	.responsiveGallery {
+//		height: auto;
+//	}
+// }

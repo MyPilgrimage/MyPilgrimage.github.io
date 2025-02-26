@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<style>
+<style>
 
-.rounded-bottom10 {
- 	border-radius: 0 0 0.625em 0.625em;
-}
-
-/** Photo_Album */
+/**PHOTO_ALBUM*/
 .imgGallery {
 	background: rgba($color: #777, $alpha: 0.25);
-// 	min-height: 100%;
-// 	max-height: 30em;
-// 	overflow: auto;
+	border-radius: 0.625em;
 }
-
 
 .imgGalleryImg {
 	width: 100%;
 	height: auto;
+	margin: 0px 0px 0.5rem 0px;
+}
+
+imgGalleryImg img {
+	border-radius: 0.625em;
 }
 
 .imgDesc {
@@ -26,25 +24,18 @@
 	text-align: center;
 }
 
+.imgDesc cite {
+	font-weight: bold;
+}
+/***IMAGE_DESCRIPTION*/
+// .imgDesc small {}
+/***IMAGE_PROPERTIES*/
+// .imgDesc small sup {}
+
 .responsiveGallery {
 	padding: 0 0.312em;
 	float: left;
 	width: 49.99999%;
-}
-
-// Max-Width: 850px = Left-Sidebar Added
-// Max-Width: 1200px = Right-Sidebar Added
-@media only screen and (max-width: 724px) {
-	.responsiveGallery {
-    	width: 100%;
-	}
-}
-
-// ALBUM LAYOUT ERRORS BETWEEN
-@media only screen and (min-width: 1525px) and (max-width: 1650px) {
-	.responsiveGallery {
-    	height: auto;
-	}
 }
 
 .clearfix:after {
@@ -52,25 +43,51 @@
 	display: table;
 	clear: both;
 }
-/** Photo_Album_END */
+/**PHOTO_ALBUM_END*/
 
 
-	</style>
+/**PERSONALIZED_COLOUR_SCHEME */
+/**PERSONALIZED_COLOUR_SCHEME_END*/
 
-<!---
+
+/**RESPONSIVE_DESIGN*/
+/*** LEFT_SIDEBAR_ADDED: Max-Width: 850px */
+@media only screen and (max-width: 850px) {
+	.responsiveGallery {
+		width: 100%;
+	}
+}
+
+/*** RIGHT_SIDEBAR_ADDED: Max-Width: 1200px */
+// @media only screen and (max-width: 1200px) {
+// 	
+// }
+
+/**ALBUM_RESPONSIVE_ERRORS
+// fix: 850px - 854px
+// fix: 1525px - 1650px
+// fix: 1534px - 1649px
+*/
+// @media only screen and (min-width: 850px) and (max-width: 1650px) {
+//	.responsiveGallery {
+//		height: auto;
+//	}
+// }
+
+</style>
+<!--- HEADER
 #layout: default
 icon: fa-solid fa-camera
 order: 3
 --->
 </head>
 <body>
+
 <p>
 Here you can find pictures I've taken while hiking, camping or working on this page. <br/>
 Click on a picture to enlarge it. While in the Large-viewport you can click (or swipe) left and right to browse the other pictures. <br/>
 Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 </p>
-
-
 <hr />
 
 <!-- Photo Album Start -->
@@ -79,7 +96,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 <h3>YYYY</h3>
 
 <div class="responsiveGallery">
-  <div class="imgGallery rounded-bottom10">
+  <div class="imgGallery">
 	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400" class="imgGalleryImg">
     <div class="imgDesc">
       <cite>
@@ -89,19 +106,103 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
       <small>
         PICTURE_DESCRIPTION 
         <br/>
-        <sup>
-        <i class="far fa-calendar"></i> 
-DD_MM_YYYY
+		<sup>
+		 &nbsp; <i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION 
+         &nbsp; <i class="far fa-calendar"></i> 
+		 PICTURE_DD_MM_YYYY 
+		 &nbsp; <i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY 
+		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 [PICTURE_POST_ORIGIN](POST_URL) 
         </sup>
       </small>
-     </div>
+	</div>
   </div>
 </div>
 
+<div class="responsiveGallery">
+  <div class="imgGallery">
+	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400" class="imgGalleryImg">
+    <div class="imgDesc">
+      <cite>
+      ALT_NAME
+      </cite>
+	  <br/>
+      <small>
+        PICTURE_DESCRIPTION 
+        <br/>
+		<sup>
+		 &nbsp; <i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION 
+         &nbsp; <i class="far fa-calendar"></i> 
+		 PICTURE_DD_MM_YYYY 
+		 &nbsp; <i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY 
+		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 [PICTURE_POST_ORIGIN](POST_URL) 
+        </sup>
+      </small>
+	</div>
+  </div>
+</div>
+<!--ROW_END-->
+<div class="clearfix"></div>
+<!--ROW_START-->
+<div class="responsiveGallery">
+  <div class="imgGallery">
+	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400" class="imgGalleryImg">
+    <div class="imgDesc">
+      <cite>
+      ALT_NAME
+      </cite>
+	  <br/>
+      <small>
+        PICTURE_DESCRIPTION 
+        <br/>
+		<sup>
+		 &nbsp; <i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION 
+         &nbsp; <i class="far fa-calendar"></i> 
+		 PICTURE_DD_MM_YYYY 
+		 &nbsp; <i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY 
+		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 [PICTURE_POST_ORIGIN](POST_URL) 
+        </sup>
+      </small>
+	</div>
+  </div>
+</div>
+
+<div class="responsiveGallery">
+  <div class="imgGallery">
+	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400" class="imgGalleryImg">
+    <div class="imgDesc">
+      <cite>
+      ALT_NAME
+      </cite>
+	  <br/>
+      <small>
+        PICTURE_DESCRIPTION 
+        <br/>
+		<sup>
+		 &nbsp; <i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION 
+         &nbsp; <i class="far fa-calendar"></i> 
+		 PICTURE_DD_MM_YYYY 
+		 &nbsp; <i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY 
+		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 [PICTURE_POST_ORIGIN](POST_URL) 
+        </sup>
+      </small>
+	</div>
+  </div>
+</div>
 
 <div class="clearfix"></div>
 <!-- End of Album -->
-
 
 <hr />
 
