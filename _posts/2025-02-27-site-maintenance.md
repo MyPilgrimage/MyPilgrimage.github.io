@@ -4,7 +4,7 @@ date: 2025-02-27 20:18:00 +0100
 categories: [Site, Update]
 tags: [site]
 pin: true
-description: "<i class="fa-solid fa-person-digging"><!--SiteUpdates--></i> Site-Wide Maintenance! <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>"
+description: "Site-Wide Maintenance!"
 ---
 
 > **164** Days to Prepare. <br/>
