@@ -11,7 +11,7 @@ description: "Site-Wide Maintenance! 164 Days to Prepare."
 > [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview](/welcome/#quick-overview) <br/>
 {: .prompt-info }
 
-## <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>
+## <i class="fa-solid fa-person-digging font-xxl"><!--SiteUpdates--></i>
 ## Technical Update
 I'm currently updating the site and trying to create a cohesive whole.
 For the moment this means taking down the site periodically.
