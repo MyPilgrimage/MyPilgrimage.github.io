@@ -9,7 +9,7 @@
 <i class="fa-solid fa-mountain-sun"><!--Mountain--></i>
 
 <!--TABS-->
-<i class="fas fa-Home"><!--Home--></i>
+<i class="fa-solid fa-house"><!--Home--></i>
 <i class="fa-solid fa-person-hiking"><!--About--></i>
 <i class="fa-solid fa-timeline"><!--Timeline--></i>
 <i class="fa-solid fa-camera"><!--Pictures--></i>

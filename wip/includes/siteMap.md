@@ -5,28 +5,24 @@
 ----------------------------------------
 
 > <b class="font-m font-center">**Sitemap:**</b> <br/>
-> [<i class="fas fa-Home"></i> &nbsp; Home *index.html*](https://mypilgrimage.github.io/) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fas fa-thumbtack"></i> &nbsp; Welcome */welcome*](https://mypilgrimage.github.io/welcome) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; */drafts/YYYY-MM-DD-post-title.md* <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; */posts/YYYY-MM-DD-PostTitle1* <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; */posts/YYYY-MM-DD-PostTitle2* <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; *.... More Posts ....* <br/>
-> [<i class="fa-solid fa-person-hiking"></i> &nbsp; About */about/*](https://mypilgrimage.github.io/about/) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-circle-user"></i> &nbsp; About: Me */about/#who-am-i*](https://mypilgrimage.github.io/about/#who-am-i) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-circle-info"></i> &nbsp; About: Page */about/#why-this-page*](https://mypilgrimage.github.io/about/#why-this-page) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-route"></i> &nbsp; About: Route */about/#route*](https://mypilgrimage.github.io/about/#route) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-person-walking-arrow-right"></i> About: Training */about/#training*](https://mypilgrimage.github.io/about/#training) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-campground"></i> &nbsp; About: Gear */about/#gear*](https://mypilgrimage.github.io/about/#gear) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-thumbs-up"></i> &nbsp; About: Thanks */about/#thanks*](https://mypilgrimage.github.io/about/#thanks) <br/>
-> [<i class="fa-solid fa-timeline"></i> &nbsp; Timeline */timeline/*](https://mypilgrimage.github.io/timeline/) <br/>
-> [<i class="fa-solid fa-camera"></i> &nbsp; Pictures */pictures/*](https://mypilgrimage.github.io/pictures/) <br/>
-> [<i class="fas fa-stream"></i> &nbsp; Categories */categories/*](https://mypilgrimage.github.io/categories/) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-leaf"></i> &nbsp; 2025 Trial Run Posts */categories/2025-trial-run/*](https://mypilgrimage.github.io/categories/2025-trial-run/) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-clover"></i> &nbsp; 2026 My Pilgrimage Posts */categories/2026-my-pilgrimage/)*](https://mypilgrimage.github.io/categories/2026-my-pilgrimage/) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-head-side-virus"></i> &nbsp; Rambling Posts **/categories/random/](https://mypilgrimage.github.io/categories/random/) <br/>
-> <i class="fa-solid fa-circle-right"></i> &nbsp; [<i class="fa-solid fa-person-digging"></i> &nbsp; Site Posts */categories/site/](https://mypilgrimage.github.io/categories/site/) <br/>
-> [<i class="fas fa-tags"></i> &nbsp; Tags */tags/*](https://mypilgrimage.github.io/tags/) <br/>
-{: .prompt-warning}
+> [<i class="fa-solid fa-house"></i> &nbsp; Home](https://mypilgrimage.github.io/) <br/>
+> &nbsp; &nbsp; [<i class="fas fa-thumbtack"></i> &nbsp; Welcome](https://mypilgrimage.github.io/welcome) <br/>
+> [<i class="fa-solid fa-person-hiking"></i> &nbsp; About](https://mypilgrimage.github.io/about/) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-circle-user"></i> &nbsp; About: Me](https://mypilgrimage.github.io/about/#who-am-i) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-circle-info"></i> &nbsp; About: Page](https://mypilgrimage.github.io/about/#why-this-page) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-route"></i> &nbsp; About: Route](https://mypilgrimage.github.io/about/#route) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-person-walking-arrow-right"></i> About: Training](https://mypilgrimage.github.io/about/#training) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-campground"></i> &nbsp; About: Gear](https://mypilgrimage.github.io/about/#gear) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-thumbs-up"></i> &nbsp; About: Thanks](https://mypilgrimage.github.io/about/#thanks) <br/>
+> [<i class="fa-solid fa-timeline"></i> &nbsp; Timeline](https://mypilgrimage.github.io/timeline/) <br/>
+> [<i class="fa-solid fa-camera"></i> &nbsp; Pictures](https://mypilgrimage.github.io/pictures/) <br/>
+> [<i class="fas fa-stream"></i> &nbsp; Categories](https://mypilgrimage.github.io/categories/) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-leaf"></i> &nbsp; Category: 2025 Trial Run Posts](https://mypilgrimage.github.io/categories/2025-trial-run/) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-clover"></i> &nbsp; Category: 2026 My Pilgrimage Posts](https://mypilgrimage.github.io/categories/2026-my-pilgrimage/) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-head-side-virus"></i> &nbsp; Category: Rambling Posts](https://mypilgrimage.github.io/categories/random/) <br/>
+> &nbsp; &nbsp; [<i class="fa-solid fa-person-digging"></i> &nbsp; Category: Site Posts](https://mypilgrimage.github.io/categories/site/) <br/>
+> [<i class="fas fa-tags"></i> &nbsp; Tags](https://mypilgrimage.github.io/tags/) <br/>
+{: .prompt-warning .font-s}
 
 ----------------------------------------
 
