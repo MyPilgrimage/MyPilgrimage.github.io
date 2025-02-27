@@ -3,6 +3,7 @@ title: Sitewide Maintenance
 date: 2025-02-27 20:18:00 +0100
 categories: [Site, Update]
 tags: [site]
+pin: true
 description: "Site-Wide Maintenance!"
 ---
 
