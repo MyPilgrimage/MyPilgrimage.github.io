@@ -106,16 +106,17 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
       <small>
         PICTURE_DESCRIPTION 
         <br/>
+		<hr/>
 		<sup>
 		 <!-- <i class="fa-solid fa-location-dot"></i>
-		 &nbsp; PICTURE_LOCATION -->
+		 PICTURE_LOCATION &nbsp; -->
          <!-- <i class="far fa-calendar"></i> 
-		 &nbsp; PICTURE_DD_MM_YYYY -->
+		 PICTURE_DD_MM_YYYY &nbsp; -->
 		 <span class="clearfix"></span>
 		 <!-- <i class="fa-solid fa-camera"></i>
-		 &nbsp; PICTURE_TAKEN_BY -->
+		 PICTURE_TAKEN_BY &nbsp; -->
 		 <!-- <i class="fa-solid fa-tag"></i>
-		 &nbsp; [PICTURE_POST_ORIGIN](POST_URL) -->
+		 [PICTURE_POST_ORIGIN](POST_URL) -->
         </sup>
       </small>
 	</div>

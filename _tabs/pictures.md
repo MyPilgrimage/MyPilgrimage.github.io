@@ -27,6 +27,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
       <small>
         Enjoying the warmth of the sun, while typing and working on this page.
 		<br/>
+        <hr/>
 		<sup>
 		 <!--<i class="fa-solid fa-location-dot"></i>
 		 PICTURE_LOCATION &nbsp; -->
@@ -56,6 +57,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		A thick and low hanging mist made it feel like a Grimm Fairytale. 
 		Taken while hiking with my Mothers Walking-group.
         <br/>
+        <hr/>
 		<sup>
 		 <i class="fa-solid fa-location-dot"></i>
 		 Dunes of Schoorl. &nbsp; 
@@ -86,6 +88,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         You can just about see the backrest of a bench in the water. 
 		Taken while hiking with my Mothers Walking-group.
         <br/>
+        <hr/>
 		<sup>
 		 <i class="fa-solid fa-location-dot"></i>
 		 Dunes of Schoorl. &nbsp; 
@@ -115,6 +118,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		<i>(which wasn't accessible with my big backpack)</i>. 
 		Luckily my boots were waterproof!
         <br/>
+        <hr/>
 		<sup>
 		 <!--<i class="fa-solid fa-location-dot"></i>
 		 PICTURE_LOCATION &nbsp; -->
