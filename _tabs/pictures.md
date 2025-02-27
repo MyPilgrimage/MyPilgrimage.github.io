@@ -32,10 +32,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 PICTURE_LOCATION &nbsp; -->
          <i class="far fa-calendar"></i> 
 		 23-02-2025 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-02-23-random-ramblings](/posts/2025-02-23-random-ramblings) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-02-23-random-ramblings](/posts/2025-02-23-random-ramblings) -->
         </sup>
       </small>
 	</div>
@@ -60,10 +61,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 Dunes of Schoorl. &nbsp; 
          <i class="far fa-calendar"></i> 
 		 21-01-2025 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) -->
         </sup>
       </small>
 	</div>
@@ -89,10 +91,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 Dunes of Schoorl. &nbsp; 
          <i class="far fa-calendar"></i> 
 		 21-01-2025 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) -->
         </sup>
       </small>
 	</div>
@@ -117,10 +120,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 PICTURE_LOCATION &nbsp; -->
          <i class="far fa-calendar"></i> 
 		 20-01-2025 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-01-20-the-ball-is-rolling](/posts/2025-01-20-the-ball-is-rolling) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-01-20-the-ball-is-rolling](/posts/2025-01-20-the-ball-is-rolling) -->
         </sup>
       </small>
 	</div>
@@ -150,9 +154,10 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 Somewhere near Weert Brabant. &nbsp; 
          <i class="far fa-calendar"></i> 
 		 04-06-2024 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <!--<i class="fa-solid fa-tag"></i>
+		 <!-- <i class="fa-solid fa-tag"></i>
 		 [PICTURE_POST_ORIGIN](POST_URL) -->
         </sup>
       </small>
@@ -176,10 +181,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 Dunes of Schoorl. &nbsp; 
          <i class="far fa-calendar"></i> 
 		 20-05-2024 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) -->
         </sup>
       </small>
 	</div>
@@ -209,10 +215,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 Somewhere near the Utrechtse Heuvelrug. &nbsp; 
          <i class="far fa-calendar"></i> 
 		 29-05-2023 &nbsp; 
+         <span class="clearfix"></span>
 		 <i class="fa-solid fa-camera"></i>
 		 Taken by Morgan. &nbsp; 
-		 <i class="fa-solid fa-tag"></i>
-		 [/about](/about) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [/about](/about)  -->
         </sup>
       </small>
 	</div>
@@ -235,9 +242,10 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 Somewhere near the Utrechtse Heuvelrug. &nbsp; 
          <i class="far fa-calendar"></i> 
 		 27-05-2023 &nbsp; 
+         <span class="clearfix"></span>
 		 <i class="fa-solid fa-camera"></i>
 		 Taken by Koen. &nbsp; 
-		 <!--<i class="fa-solid fa-tag"></i>
+		 <!-- <i class="fa-solid fa-tag"></i>
 		 [PICTURE_POST_ORIGIN](POST_URL) -->
         </sup>
       </small>
@@ -268,10 +276,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 PICTURE_LOCATION &nbsp; -->
          <i class="far fa-calendar"></i> 
 		 28-02-2022 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [/welcome](/welcome) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [/welcome](/welcome)  -->
         </sup>
       </small>
 	</div>
@@ -297,10 +306,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 PICTURE_LOCATION &nbsp; -->
          <i class="far fa-calendar"></i> 
 		 26-02-2022 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-01-15-my-first-post](/posts/2025-01-15-my-first-post) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-01-15-my-first-post](/posts/2025-01-15-my-first-post)  -->
         </sup>
       </small>
 	</div>
@@ -325,10 +335,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 PICTURE_LOCATION &nbsp; -->
          <i class="far fa-calendar"></i> 
 		 12-01-2022 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-02-04-return](/posts/2025-02-04-return) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-02-04-return](/posts/2025-02-04-return)  -->
         </sup>
       </small>
 	</div>
@@ -351,10 +362,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 PICTURE_LOCATION &nbsp; -->
          <i class="far fa-calendar"></i> 
 		 12-01-2022 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-01-17-a-day-off](/posts/2025-01-17-a-day-off) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-01-17-a-day-off](/posts/2025-01-17-a-day-off)  -->
         </sup>
       </small>
 	</div>
@@ -387,9 +399,10 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 PICTURE_LOCATION &nbsp; -->
          <i class="far fa-calendar"></i> 
 		 06-11-2021 &nbsp; 
+         <span class="clearfix"></span>
 		 <!--<i class="fa-solid fa-camera"></i>
 		 PICTURE_TAKEN_BY &nbsp; -->
-		 <!--<i class="fa-solid fa-tag"></i>
+		 <!-- <i class="fa-solid fa-tag"></i>
 		 [PICTURE_POST_ORIGIN](POST_URL) -->
         </sup>
       </small>
@@ -413,10 +426,11 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		 Somewhere in Brabant.  &nbsp; 
          <i class="far fa-calendar"></i> 
 		 06-08-2021 &nbsp; 
+         <span class="clearfix"></span>
 		 <i class="fa-solid fa-camera"></i>
 		 Taken by Neill. &nbsp; 
-		 <i class="fa-solid fa-tag"></i>
-		 [2025-02-08-webpage-theme](/posts/2025-02-08-webpage-theme) 
+		 <!-- <i class="fa-solid fa-tag"></i>
+		 [2025-02-08-webpage-theme](/posts/2025-02-08-webpage-theme) --> 
         </sup>
       </small>
 	</div>

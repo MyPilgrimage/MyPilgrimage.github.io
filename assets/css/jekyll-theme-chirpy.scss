@@ -92,8 +92,13 @@ imgGalleryImg img {
 }
 /***IMAGE_DESCRIPTION*/
 // .imgDesc small {}
+
 /***IMAGE_PROPERTIES*/
-// .imgDesc small sup {}
+.imgDesc small sup {
+	padding: 0 0.15em;
+	float: left;
+	width: 49.99999%;
+}
 
 .responsiveGallery {
 	padding: 0 0.312em;
