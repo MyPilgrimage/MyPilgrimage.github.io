@@ -67,7 +67,14 @@ I-Jun &nbsp;
 <!--IMAGE-->
 ![ALT_NAME](PICTURE_FILE){: }_<cite>**ALT_NAME**</cite> <br/> PICTURE_DESCRIPTION. <br/> <i class="far fa-calendar"></i> DD_MM_YYYY._
 <!--IMAGE_OPTIONALS-->
-![ALT_NAME](PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20/bottom10 }_<cite>**ALT_NAME**</cite> <br/> PICTURE_DESCRIPTION. <br/> <i class="far fa-calendar"></i> DD_MM_YYYY._  
+![ALT_NAME](PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20/bottom10 }
+_
+ <cite>**ALT_NAME**</cite> <br/> 
+ PICTURE_DESCRIPTION. <br/> 
+ <!-- <i class="fa-solid fa-location-dot"></i>&nbsp; PICTURE_LOCATION-->
+ <!-- <i class="far fa-calendar"></i>&nbsp; PICTURE_DD_MM_YYYY-->
+ <!-- <i class="fa-solid fa-camera"></i>&nbsp; PICTURE_TAKEN_BY-->
+_  
 
 ----------------------------------------
  Quick Route Calc

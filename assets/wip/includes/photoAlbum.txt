@@ -107,14 +107,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         PICTURE_DESCRIPTION 
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 PICTURE_DD_MM_YYYY 
-		 &nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY 
-		 &nbsp; <i class="fa-solid fa-tag"></i>
-		 [PICTURE_POST_ORIGIN](POST_URL) 
+		 <i class="fa-solid fa-location-dot"></i>
+		 &nbsp; PICTURE_LOCATION 
+         <i class="far fa-calendar"></i> 
+		 &nbsp; PICTURE_DD_MM_YYYY 
+		 <i class="fa-solid fa-camera"></i>
+		 &nbsp; PICTURE_TAKEN_BY 
+		 <i class="fa-solid fa-tag"></i>
+		 &nbsp; [PICTURE_POST_ORIGIN](POST_URL) 
         </sup>
       </small>
 	</div>
@@ -133,14 +133,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         PICTURE_DESCRIPTION 
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 PICTURE_DD_MM_YYYY 
-		 &nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY 
-		 &nbsp; <i class="fa-solid fa-tag"></i>
-		 [PICTURE_POST_ORIGIN](POST_URL) 
+		 <i class="fa-solid fa-location-dot"></i>
+		 &nbsp; PICTURE_LOCATION 
+         <i class="far fa-calendar"></i> 
+		 &nbsp; PICTURE_DD_MM_YYYY 
+		 <i class="fa-solid fa-camera"></i>
+		 &nbsp; PICTURE_TAKEN_BY 
+		 <i class="fa-solid fa-tag"></i>
+		 &nbsp; [PICTURE_POST_ORIGIN](POST_URL) 
         </sup>
       </small>
 	</div>
@@ -161,14 +161,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         PICTURE_DESCRIPTION 
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 PICTURE_DD_MM_YYYY 
-		 &nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY 
-		 &nbsp; <i class="fa-solid fa-tag"></i>
-		 [PICTURE_POST_ORIGIN](POST_URL) 
+		 <i class="fa-solid fa-location-dot"></i>
+		 &nbsp; PICTURE_LOCATION 
+         <i class="far fa-calendar"></i> 
+		 &nbsp; PICTURE_DD_MM_YYYY 
+		 <i class="fa-solid fa-camera"></i>
+		 &nbsp; PICTURE_TAKEN_BY 
+		 <i class="fa-solid fa-tag"></i>
+		 &nbsp; [PICTURE_POST_ORIGIN](POST_URL) 
         </sup>
       </small>
 	</div>
@@ -187,14 +187,14 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         PICTURE_DESCRIPTION 
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 PICTURE_DD_MM_YYYY 
-		 &nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY 
-		 &nbsp; <i class="fa-solid fa-tag"></i>
-		 [PICTURE_POST_ORIGIN](POST_URL) 
+		 <i class="fa-solid fa-location-dot"></i>
+		 &nbsp; PICTURE_LOCATION 
+         <i class="far fa-calendar"></i> 
+		 &nbsp; PICTURE_DD_MM_YYYY 
+		 <i class="fa-solid fa-camera"></i>
+		 &nbsp; PICTURE_TAKEN_BY 
+		 <i class="fa-solid fa-tag"></i>
+		 &nbsp; [PICTURE_POST_ORIGIN](POST_URL) 
         </sup>
       </small>
 	</div>

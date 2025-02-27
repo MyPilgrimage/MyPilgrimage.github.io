@@ -28,13 +28,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         Enjoying the warmth of the sun, while typing and working on this page.
 		<br/>
 		<sup>
-		 <!--&nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION -->
-         &nbsp; <i class="far fa-calendar"></i> 
-		 23-02-2025 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <!--<i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION &nbsp; -->
+         <i class="far fa-calendar"></i> 
+		 23-02-2025 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-02-23-random-ramblings](/posts/2025-02-23-random-ramblings) 
         </sup>
       </small>
@@ -56,13 +56,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		Taken while hiking with my Mothers Walking-group.
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 Dunes of Schoorl. 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 21-01-2025 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <i class="fa-solid fa-location-dot"></i>
+		 Dunes of Schoorl. &nbsp; 
+         <i class="far fa-calendar"></i> 
+		 21-01-2025 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) 
         </sup>
       </small>
@@ -85,13 +85,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		Taken while hiking with my Mothers Walking-group.
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 Dunes of Schoorl. 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 21-01-2025 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <i class="fa-solid fa-location-dot"></i>
+		 Dunes of Schoorl. &nbsp; 
+         <i class="far fa-calendar"></i> 
+		 21-01-2025 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) 
         </sup>
       </small>
@@ -113,13 +113,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 		Luckily my boots were waterproof!
         <br/>
 		<sup>
-		 <!--&nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION -->
-         &nbsp; <i class="far fa-calendar"></i> 
-		 20-01-2025 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <!--<i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION &nbsp; -->
+         <i class="far fa-calendar"></i> 
+		 20-01-2025 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-01-20-the-ball-is-rolling](/posts/2025-01-20-the-ball-is-rolling) 
         </sup>
       </small>
@@ -146,13 +146,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         My <i>(way to heavy)</i> tent I use on vacation.
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 Somewhere near Weert Brabant. 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 04-06-2024 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 <!--&nbsp; <i class="fa-solid fa-tag"></i>
+		 <i class="fa-solid fa-location-dot"></i>
+		 Somewhere near Weert Brabant. &nbsp; 
+         <i class="far fa-calendar"></i> 
+		 04-06-2024 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <!--<i class="fa-solid fa-tag"></i>
 		 [PICTURE_POST_ORIGIN](POST_URL) -->
         </sup>
       </small>
@@ -172,13 +172,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         Normally this is all sand-dunes, but now it's flooded by recent heavy rain.
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 Dunes of Schoorl. 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 20-05-2024 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <i class="fa-solid fa-location-dot"></i>
+		 Dunes of Schoorl. &nbsp; 
+         <i class="far fa-calendar"></i> 
+		 20-05-2024 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-01-21-the-dunes-of-schoorl](/posts/2025-01-21-the-dunes-of-schoorl) 
         </sup>
       </small>
@@ -205,13 +205,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         A small campfire while on vacation with friends.  
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 Somewhere near the Utrechtse Heuvelrug. 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 29-05-2023 
-		 &nbsp; <i class="fa-solid fa-camera"></i>
-		 Taken by Morgan. 
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <i class="fa-solid fa-location-dot"></i>
+		 Somewhere near the Utrechtse Heuvelrug. &nbsp; 
+         <i class="far fa-calendar"></i> 
+		 29-05-2023 &nbsp; 
+		 <i class="fa-solid fa-camera"></i>
+		 Taken by Morgan. &nbsp; 
+		 <i class="fa-solid fa-tag"></i>
 		 [/about](/about) 
         </sup>
       </small>
@@ -231,13 +231,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         Our small camp while on vacation with friends. 
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 Somewhere near the Utrechtse Heuvelrug. 
-         &nbsp; <i class="far fa-calendar"></i> 
-		 27-05-2023 
-		 &nbsp; <i class="fa-solid fa-camera"></i>
-		 Taken by Koen. 
-		 <!--&nbsp; <i class="fa-solid fa-tag"></i>
+		 <i class="fa-solid fa-location-dot"></i>
+		 Somewhere near the Utrechtse Heuvelrug. &nbsp; 
+         <i class="far fa-calendar"></i> 
+		 27-05-2023 &nbsp; 
+		 <i class="fa-solid fa-camera"></i>
+		 Taken by Koen. &nbsp; 
+		 <!--<i class="fa-solid fa-tag"></i>
 		 [PICTURE_POST_ORIGIN](POST_URL) -->
         </sup>
       </small>
@@ -264,13 +264,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         I like the Dutch skies, especially the colours that appear at dusk and dawn.
         <br/>
 		<sup>
-		 <!--&nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION -->
-         &nbsp; <i class="far fa-calendar"></i> 
-		 28-02-2022 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <!--<i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION &nbsp; -->
+         <i class="far fa-calendar"></i> 
+		 28-02-2022 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [/welcome](/welcome) 
         </sup>
       </small>
@@ -293,13 +293,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         <i class="far fa-calendar"></i> 
         </sup>
 		<sup>
-		 <!--&nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION -->
-         &nbsp; <i class="far fa-calendar"></i> 
-		 26-02-2022 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <!--<i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION &nbsp; -->
+         <i class="far fa-calendar"></i> 
+		 26-02-2022 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-01-15-my-first-post](/posts/2025-01-15-my-first-post) 
         </sup>
       </small>
@@ -321,13 +321,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         I like the contrast between the colourful sky, with its pink and peach, opposed to the gray and brown branches of the trees and ground.
         <br/>
 		<sup>
-		 <!--&nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION -->
-         &nbsp; <i class="far fa-calendar"></i> 
-		 12-01-2022 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <!--<i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION &nbsp; -->
+         <i class="far fa-calendar"></i> 
+		 12-01-2022 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-02-04-return](/posts/2025-02-04-return) 
         </sup>
       </small>
@@ -347,13 +347,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         Same as the Twilight Path photo, but more emphasis on the Dark-Light contrast.
         <br/>
 		<sup>
-		 <!--&nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION -->
-         &nbsp; <i class="far fa-calendar"></i> 
-		 12-01-2022 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <!--<i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION &nbsp; -->
+         <i class="far fa-calendar"></i> 
+		 12-01-2022 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-01-17-a-day-off](/posts/2025-01-17-a-day-off) 
         </sup>
       </small>
@@ -383,13 +383,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         <i class="far fa-calendar"></i> 
         </sup>
 		<sup>
-		 <!--&nbsp; <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION -->
-         &nbsp; <i class="far fa-calendar"></i> 
-		 06-11-2021 
-		 <!--&nbsp; <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY -->
-		 <!--&nbsp; <i class="fa-solid fa-tag"></i>
+		 <!--<i class="fa-solid fa-location-dot"></i>
+		 PICTURE_LOCATION &nbsp; -->
+         <i class="far fa-calendar"></i> 
+		 06-11-2021 &nbsp; 
+		 <!--<i class="fa-solid fa-camera"></i>
+		 PICTURE_TAKEN_BY &nbsp; -->
+		 <!--<i class="fa-solid fa-tag"></i>
 		 [PICTURE_POST_ORIGIN](POST_URL) -->
         </sup>
       </small>
@@ -409,13 +409,13 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
         On vacation.
         <br/>
 		<sup>
-		 &nbsp; <i class="fa-solid fa-location-dot"></i>
-		 Somewhere in Brabant.  
-         &nbsp; <i class="far fa-calendar"></i> 
-		 06-08-2021 
-		 &nbsp; <i class="fa-solid fa-camera"></i>
-		 Taken by Neill. 
-		 &nbsp; <i class="fa-solid fa-tag"></i>
+		 <i class="fa-solid fa-location-dot"></i>
+		 Somewhere in Brabant.  &nbsp; 
+         <i class="far fa-calendar"></i> 
+		 06-08-2021 &nbsp; 
+		 <i class="fa-solid fa-camera"></i>
+		 Taken by Neill. &nbsp; 
+		 <i class="fa-solid fa-tag"></i>
 		 [2025-02-08-webpage-theme](/posts/2025-02-08-webpage-theme) 
         </sup>
       </small>
