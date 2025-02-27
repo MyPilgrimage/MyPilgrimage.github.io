@@ -24,15 +24,11 @@ I-Jun &nbsp;
 [<i class="fa-brands fa-reddit"></i> Reddit page](https://www.reddit.com/user/I-Jun_Pilgrimage/) &nbsp;
 [<i class="fas fa-envelope"></i> iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
 
+
 ----------------------------------------
  Link with Icon
 ----------------------------------------
-<!--LINK_TO_GITHUB-->
-[<i class="fab fa-github"></i> Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io)
-<!--LINK_TO_REDDIT-->
-[<i class="fa-brands fa-reddit"></i> Reddit page](https://www.reddit.com/user/I-Jun_Pilgrimage/)
-<!--LINK_TO_EMAIL-->
-[<i class="fas fa-envelope"></i> iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com)
+
 <!--LINK_TO_WIKIPEDIA-->
 [WIKI_PAGE_TITLE <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](WIKI_PAGE)
 <!--LINK_TO_FLICKR-->
@@ -41,6 +37,22 @@ I-Jun &nbsp;
 [GOOGLE_PAGE_TITLE <abbr title="Google"><i class="fa-brands fa-google"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](GOOGLE_PAGE)
 <!--LINK_TO_PAGE_INLINE-->
 [LINK_TO_PAGE  <i class="fa-solid fa-up-right-from-square"></i>](/LINK_TO_PAGE)
+
+----------------------------------------
+ IMAGES
+----------------------------------------
+<!--IMAGE-->
+![ALT_NAME](PICTURE_FILE){: }_<cite>**ALT_NAME**</cite> <br/> PICTURE_DESCRIPTION. <br/> <i class="far fa-calendar"></i> DD_MM_YYYY._
+<!--IMAGE_OPTIONALS-->
+![ALT_NAME](PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20/bottom10 }
+_<cite>**ALT_NAME**</cite> <br/>
+<!-- PICTURE_DESCRIPTION. <br/> -->
+<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION &nbsp; -->
+<!-- <i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY &nbsp; -->
+<!-- <i class="fa-solid fa-camera"></i> PICTURE_TAKEN_BY &nbsp; -->
+_  
+
+
 
 ----------------------------------------
  BLOCKQUOTES
@@ -61,22 +73,9 @@ I-Jun &nbsp;
 > TEXT_PROMPT
 {: .prompt-danger }
 
-----------------------------------------
- IMAGES
-----------------------------------------
-<!--IMAGE-->
-![ALT_NAME](PICTURE_FILE){: }_<cite>**ALT_NAME**</cite> <br/> PICTURE_DESCRIPTION. <br/> <i class="far fa-calendar"></i> DD_MM_YYYY._
-<!--IMAGE_OPTIONALS-->
-![ALT_NAME](PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20/bottom10 }
-_<cite>**ALT_NAME**</cite> <br/>
-<!-- PICTURE_DESCRIPTION. <br/> -->
-<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION &nbsp; -->
-<!-- <i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY &nbsp; -->
-<!-- <i class="fa-solid fa-camera"></i> PICTURE_TAKEN_BY &nbsp; -->
-_  
 
-----------------------------------------
- Quick Route Calc
+---------------------------------------
+ QUICK_ROUTE_CALC
 ----------------------------------------
 
 - **Avg. Hours of Walking:** [ROUTE_TOTAL_HOURS] hr / [AVG_WALKING_HOURS] hr per day = [AVG_DAYS_WALKING] days
@@ -93,3 +92,17 @@ _
 <cite>TITLE_OF_WORK</cite>
 <!-- ABBREVIATION: Creates a Tooltip to explain the Acronym -->
 <abbr title="ABBREVIATION_ELEMENT">ABBR</abbr>
+
+
+----------------------------------------
+ CONTACT
+----------------------------------------
+<!--LINK_TO_GITHUB-->
+[<i class="fab fa-github"></i> Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io)
+<!--LINK_TO_REDDIT-->
+[<i class="fa-brands fa-reddit"></i> Reddit page](https://www.reddit.com/user/I-Jun_Pilgrimage/)
+<!--LINK_TO_EMAIL-->
+[<i class="fas fa-envelope"></i> iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com)
+
+
+----------------------------------------

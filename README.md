@@ -17,10 +17,6 @@ Questions or other Queries? Feel free to contact me!
 ├── [<i class="fas fa-Home"></i> &nbsp; Home *index.html*](https://mypilgrimage.github.io/) <br/>
 │ &nbsp; &nbsp; ├── [<i class="fas fa-thumbtack"></i> &nbsp; Welcome */welcome*](https://mypilgrimage.github.io/welcome) <br/>
 │ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fas fa-hashtag"></i>  &nbsp; Welcome to my Page */welcome#welcome-to-my-page*](https://mypilgrimage.github.io/welcome#welcome-to-my-page) <br/>
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview */welcome#quick-overview*](https://mypilgrimage.github.io/welcome#quick-overview) <br/>
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fa-solid fa-sitemap"></i> &nbsp; */welcome#introductions*](https://mypilgrimage.github.io/welcome#introductions) <br/>
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fa-regular fa-lightbulb"></i> &nbsp; */welcome#my-plan*](https://mypilgrimage.github.io/welcome#my-plan) <br/>
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; └── [<i class="fa-solid fa-blog"></i> &nbsp; */welcome#posts*](https://mypilgrimage.github.io/welcome#posts) <br/>
 │ &nbsp; &nbsp; ├── */_drafts/YYYY-MM-DD-post-title.md* <br/>
 │ &nbsp; &nbsp; ├── */posts/YYYY-MM-DD-post-title-01* <br/>
 │ &nbsp; &nbsp; ├── */posts/YYYY-MM-DD-post-title-02* <br/>
