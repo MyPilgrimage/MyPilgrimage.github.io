@@ -1,6 +1,5 @@
 ---
-
-title: The Dunes of Schoorl  
+title: The Dunes of Schoorl
 date: 2025-01-21 23:00:00 +0100
 categories: [2025 Trial-Run, Preparations]
 tags: [trial-run, training, personal, pictures]
@@ -8,9 +7,7 @@ image:
  path: /assets/pics/20240520_Schoorl.png
  alt: Schoorl May High Water
 description: "201 Days to Prepare. A nice hike in Schoorl..."
-
 ---
-
 
 > **201** Days to Prepare. <i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br/>
 > [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) <br/>
