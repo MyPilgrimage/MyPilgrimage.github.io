@@ -120,7 +120,7 @@ This work is published under [MIT](https://github.com/cotes2020/chirpy-starter/b
 Thank you for reading the Read Me.  
 If you recognise your work and I did not attribute it correctly to you as author,  
 please contact me via this page on [Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io)  
-via my [Reddit page](https://www.reddit.com/user/CutNo303/)  
+via my [Reddit page](https://www.reddit.com/user/I-Jun_Pilgrimage/)  
 or email: [iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com)  
   
 Cheers,  

@@ -382,7 +382,7 @@ But I do also want some way of contacting family or emergency services.
 *Thank you for reading!* <br/>
 If you recognise your work and I did not attribute it correctly to you as author, <br/>
 please  [contact me via this page on Github.com <i class="fab fa-github"></i>](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
-[via my Reddit page <i class="fa-brands fa-reddit"></i>](https://www.reddit.com/user/CutNo303/) <br/>
+[via my Reddit page <i class="fa-brands fa-reddit"></i>](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
 [or email: iJun.Pilgrimage@gmail.com <i class="fas fa-envelope"></i>](mailto:iJun.Pilgrimage@gmail.com) <br/>
   
 *Cheers,* <br/>

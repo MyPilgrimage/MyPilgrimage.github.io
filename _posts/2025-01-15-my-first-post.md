@@ -36,6 +36,6 @@ I-Jun &nbsp;
 <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i>
 <br/>
 [<i class="fab fa-github"></i> Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io) &nbsp;
-[<i class="fa-brands fa-reddit"></i> Reddit page](https://www.reddit.com/user/CutNo303/) &nbsp;
+[<i class="fa-brands fa-reddit"></i> Reddit page](https://www.reddit.com/user/I-Jun_Pilgrimage/) &nbsp;
 [<i class="fas fa-envelope"></i> iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
 
