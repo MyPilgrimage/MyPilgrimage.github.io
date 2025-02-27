@@ -6,7 +6,7 @@ A github Pages website where I document my planned Pilgrimage.
 
 ## Description
 
-I'm going on a pilgrimage. 
+I'm going on a pilgrimage.
 This page is where I'll update my progress, post blog-posts about my day-to-day training, gear collecting and route plans.  
 It helps me to make my plans concrete and to easily share my plans and ideas with others. So I can learn from others and get useful tips or gear.  
 Questions or other Queries? Feel free to contact me!  
@@ -15,7 +15,7 @@ Questions or other Queries? Feel free to contact me!
 ### Sitemap
 
 ├── [<i class="fas fa-Home"></i> &nbsp; Home *index.html*](https://mypilgrimage.github.io/) <br/>
-│ &nbsp; &nbsp; ├── [[<i class="fas fa-thumbtack"></i> &nbsp; Welcome */welcome*](https://mypilgrimage.github.io/welcome) <br/>
+│ &nbsp; &nbsp; ├── [<i class="fas fa-thumbtack"></i> &nbsp; Welcome */welcome*](https://mypilgrimage.github.io/welcome) <br/>
 │ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fas fa-hashtag"></i>  &nbsp; Welcome to my Page */welcome#welcome-to-my-page*](https://mypilgrimage.github.io/welcome#welcome-to-my-page) <br/>
 │ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview */welcome#quick-overview*](https://mypilgrimage.github.io/welcome#quick-overview) <br/>
 │ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fa-solid fa-sitemap"></i> &nbsp; */welcome#introductions*](https://mypilgrimage.github.io/welcome#introductions) <br/>
@@ -45,25 +45,30 @@ Questions or other Queries? Feel free to contact me!
 
 -----
 
-## Attribution
-This page exists thanks in part to the following;  
-Some of the pictures on the page were made by other people. Attribution is given in the picture's caption.  
-
-
------
+## Attribution :
+This page exists thanks in part to the following;
+Some of the pictures on the page were made by other people. Attribution is given in the picture's caption.
 
 ### Font Awesome
 [Font Awesome License](https://fontawesome.com/license)  
 Most (if not all) icons used. Public licenses for Font Awesome Free  
 
 
------
+### Paint dot Net
+[Paint.Net](https://www.getpaint.net/)
+[BoltBait Pack v611 for Paint.NET](https://www.boltbait.com/pdn/)
+[Scalable Vector Graphics (SVG) Plugin v1.0.7.2 for Paint.NET](https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET?tab=readme-ov-file#-scalable-vector-graphics-svg-plugin-for-paintnet)
+
+
+### Notepad Plus Plus
+[Notepad++](https://notepad-plus-plus.org/)
+
 
 ### Wikipedia
 Images and excerpts are all accredited per usage.  
 Pages I used multiple times:  
-- [Santiago de Compostela <sup>ENG</sup>](https://en.wikipedia.org/wiki/Santiago_de_Compostela)  
-- [Floris V-pad <sup>NL</sup>](https://nl.wikipedia.org/wiki/Floris_V-pad)  
+- [Santiago de Compostela <sup>English</sup>](https://en.wikipedia.org/wiki/Santiago_de_Compostela)
+- [Floris V-pad <sup>Dutch</sup>](https://nl.wikipedia.org/wiki/Floris_V-pad)
 
 
 -----
@@ -76,8 +81,7 @@ A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 [![Chirpy Theme - GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)][license] &nbsp;
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem] &nbsp;
 [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]   
-  
-  
+ 
 [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]  &nbsp;
 [**Live Demo** →](https://cotes2020.github.io/chirpy-demo/)  
 
@@ -86,10 +90,10 @@ Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wi
 
 #### Contributing
 This repository is automatically updated with new releases from the theme repository.  
-  
+ 
 If you encounter any issues or want to contribute to its improvement,  
 please visit the [theme repository chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) to provide feedback.  
-  
+ 
 [contribute-guide](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md)  
 Thanks to [all the contributors](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors) involved in the development of the project!  
 [![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors)  
@@ -121,4 +125,3 @@ or email: [iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com)
   
 Cheers,  
 I-Jun  
-
