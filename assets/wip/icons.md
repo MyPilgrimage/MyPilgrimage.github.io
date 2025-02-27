@@ -42,8 +42,6 @@
 <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>
 
 <!--SITE-->
-
-
 <i class="fas fa-adjust"><!--Theme--></i>
 <i class="fas fa-search"><!--Search--></i>
 <i class="fas fa-angle-up"><!--Scroll_Up--></i>
