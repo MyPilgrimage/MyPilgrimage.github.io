@@ -17,7 +17,7 @@ I'm currently updating the site and trying to create a cohesive whole.
 For the moment this means taking down the site periodically.
 
 I'm hoping that, once this update is complete, I can shift to a better development standart.
-(i.e. Develop locally on my Dev-Branch, hopefully without breaking the sites dependencies this time :sweat_smile: )
+(i.e. Develop locally on my Dev-Branch, hopefully without breaking the sites dependencies this time 😅 )
 
 
 *Cheers,* <br/>
