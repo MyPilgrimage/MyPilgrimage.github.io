@@ -12,7 +12,7 @@
 ---
 <!--DAYS_TO_PREPARE-->
 > **DAYS_NUMBER** Days to Prepare. <i class="fa-solid fa-location-dot"></i> *POST_LOCATION*. <br/>
-> [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview](/welcome/#quick-overview) <br/>
+> [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) <br/>
 {: .prompt-info }
 <!--POST_TEXT-->
 <!--SIGNATURE-->
@@ -34,11 +34,11 @@ I-Jun &nbsp;
 <!--LINK_TO_EMAIL-->
 [<i class="fas fa-envelope"></i> iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com)
 <!--LINK_TO_WIKIPEDIA-->
-[WIKI_PAGE_TITLE <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr>](WIKI_PAGE)
+[WIKI_PAGE_TITLE <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](WIKI_PAGE)
 <!--LINK_TO_FLICKR-->
-[FLICKR_PAGE_TITLE <abbr title="Flickr"><i class="fa-brands fa-flickr"></i></abbr>](FLICKR_PAGE)
+[FLICKR_PAGE_TITLE <abbr title="Flickr"><i class="fa-brands fa-flickr"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](FLICKR_PAGE)
 <!--LINK_TO_GOOGLE-->
-[GOOGLE_PAGE_TITLE <abbr title="Google"><i class="fa-brands fa-google"></i></abbr>](GOOGLE_PAGE)
+[GOOGLE_PAGE_TITLE <abbr title="Google"><i class="fa-brands fa-google"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](GOOGLE_PAGE)
 <!--LINK_TO_PAGE_INLINE-->
 [LINK_TO_PAGE  <i class="fa-solid fa-up-right-from-square"></i>](/LINK_TO_PAGE)
 

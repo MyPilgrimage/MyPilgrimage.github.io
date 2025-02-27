@@ -7,7 +7,7 @@ description: "206 Days to Prepare. Today I tried walking with an almost empty ba
 ---
 
 > **206** Days to Prepare. <i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br/>
-> [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview](/welcome/#quick-overview) <br/>
+> [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) <br/>
 {: .prompt-info } 
 
 Today I tried walking with an almost empty backpack,
