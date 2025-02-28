@@ -1,80 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-
-/**PHOTO_ALBUM*/
-.imgGallery {
-	background: rgba($color: #777, $alpha: 0.25);
-	border-radius: 0.625em;
-}
-
-.imgGalleryImg {
-	width: 100%;
-	height: auto;
-	margin: 0px 0px 0.5rem 0px;
-}
-
-imgGalleryImg img {
-	border-radius: 0.625em;
-}
-
-.imgDesc {
- 	padding: 0.15em;
-	text-align: center;
-}
-
-.imgDesc cite {
-	font-weight: bold;
-}
-/***IMAGE_DESCRIPTION*/
-// .imgDesc small {}
-/***IMAGE_PROPERTIES*/
-// .imgDesc small sup {}
-
-.responsiveGallery {
-	padding: 0 0.312em;
-	float: left;
-	width: 49.99999%;
-}
-
-.clearfix:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-/**PHOTO_ALBUM_END*/
-
-
-/**PERSONALIZED_COLOUR_SCHEME */
-/**PERSONALIZED_COLOUR_SCHEME_END*/
-
-
-/**RESPONSIVE_DESIGN*/
-/*** LEFT_SIDEBAR_ADDED: Max-Width: 850px */
-@media only screen and (max-width: 850px) {
-	.responsiveGallery {
-		width: 100%;
-	}
-}
-
-/*** RIGHT_SIDEBAR_ADDED: Max-Width: 1200px */
-// @media only screen and (max-width: 1200px) {
-// 	
-// }
-
-/**ALBUM_RESPONSIVE_ERRORS
-// fix: 850px - 854px
-// fix: 1525px - 1650px
-// fix: 1534px - 1649px
-*/
-// @media only screen and (min-width: 850px) and (max-width: 1650px) {
-//	.responsiveGallery {
-//		height: auto;
-//	}
-// }
-
-</style>
 <!--- HEADER
 #layout: default
 icon: fa-solid fa-camera
@@ -138,4 +64,82 @@ Most Pictures taken by Me (I-Jun), some by Friends. <br/>
 
 
 </body>
+<footer>
+<style>
+/*MY_CUSTOM_STYLE*/
+/**PHOTO_ALBUM*/
+.imgGallery {
+	background: rgba($color: #777, $alpha: 0.25);
+	border-radius: 0.625em;
+}
+
+.imgGalleryImg {
+	width: 100%;
+	height: auto;
+	margin: 0px 0px 0.5rem 0px;
+}
+
+imgGalleryImg img {
+	border-radius: 0.625em;
+}
+
+.imgDesc {
+ 	padding: 0.15em;
+	text-align: center;
+}
+
+/***IMAGE_TITLE*/
+.imgDesc cite {
+	font-weight: bold;
+}
+/***IMAGE_DESCRIPTION*/
+// .imgDesc small {}
+
+/***IMAGE_PROPERTIES*/
+.imgDesc small sup {
+	padding: 0 0.15em;
+	float: left;
+	width: 49.99999%;
+}
+
+.responsiveGallery {
+	padding: 0 0.312em;
+	float: left;
+	width: 49.99999%;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+/**PHOTO_ALBUM_END*/
+
+
+/**RESPONSIVE_DESIGN*/
+/*** LEFT_SIDEBAR_ADDED: Max-Width: 850px */
+@media only screen and (max-width: 850px) {
+	.responsiveGallery {
+		width: 100%;
+	}
+}
+
+/*** RIGHT_SIDEBAR_ADDED: Max-Width: 1200px */
+// @media only screen and (max-width: 1200px) {
+//	.responsiveGallery {
+//		height: auto;
+//	}
+// }
+
+/**ALBUM_RESPONSIVE_ERRORS
+* Fix: 
+*/
+// @media only screen and (min-width: 0px) and (max-width: 0px) {
+//	.responsiveGallery {
+//		height: auto;
+//	}
+// }
+
+</style>
+</footer>
 </html>

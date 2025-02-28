@@ -16,7 +16,6 @@ Questions or other Queries? Feel free to contact me!
 
 ├── [<i class="fas fa-Home"></i> &nbsp; Home *index.html*](https://mypilgrimage.github.io/) <br/>
 │ &nbsp; &nbsp; ├── [<i class="fas fa-thumbtack"></i> &nbsp; Welcome */welcome*](https://mypilgrimage.github.io/welcome) <br/>
-│ &nbsp; &nbsp; │ &nbsp; &nbsp; ├── [<i class="fas fa-hashtag"></i>  &nbsp; Welcome to my Page */welcome#welcome-to-my-page*](https://mypilgrimage.github.io/welcome#welcome-to-my-page) <br/>
 │ &nbsp; &nbsp; ├── */_drafts/YYYY-MM-DD-post-title.md* <br/>
 │ &nbsp; &nbsp; ├── */posts/YYYY-MM-DD-post-title-01* <br/>
 │ &nbsp; &nbsp; ├── */posts/YYYY-MM-DD-post-title-02* <br/>
@@ -32,12 +31,11 @@ Questions or other Queries? Feel free to contact me!
 ├── [<i class="fa-solid fa-timeline"></i> &nbsp; Timeline */timeline/*](https://mypilgrimage.github.io/timeline/) <br/>
 ├── [<i class="fa-solid fa-camera"></i> &nbsp; Pictures */pictures/*](https://mypilgrimage.github.io/pictures/) <br/>
 ├── [<i class="fas fa-stream"></i> &nbsp; Categories */categories/*](https://mypilgrimage.github.io/categories/) <br/>
-│ &nbsp; &nbsp; ├── [<i class="fa-solid fa-leaf"></i> &nbsp; 2025 Trial Run Posts */categories/2025-trial-run/*](https://mypilgrimage.github.io/categories/2025-trial-run/) <br/>
-│ &nbsp; &nbsp; ├── [<i class="fa-solid fa-clover"></i> &nbsp; 2026 My Pilgrimage Posts */categories/2026-my-pilgrimage/)*](https://mypilgrimage.github.io/categories/2026-my-pilgrimage/) <br/>
-│ &nbsp; &nbsp; ├── [<i class="fa-solid fa-head-side-virus"></i> &nbsp; Rambling Posts **/categories/random/](https://mypilgrimage.github.io/categories/random/) <br/>
-│ &nbsp; &nbsp; └── [<i class="fa-solid fa-person-digging"></i> &nbsp; Site Posts */categories/site/](https://mypilgrimage.github.io/categories/site/) <br/>
+│ &nbsp; &nbsp; ├── [<i class="fa-solid fa-leaf"></i> &nbsp; Category: 2025 Trial Run Posts */categories/2025-trial-run/*](https://mypilgrimage.github.io/categories/2025-trial-run/) <br/>
+│ &nbsp; &nbsp; ├── [<i class="fa-solid fa-clover"></i> &nbsp; Category: 2026 My Pilgrimage Posts */categories/2026-my-pilgrimage/*](https://mypilgrimage.github.io/categories/2026-my-pilgrimage/) <br/>
+│ &nbsp; &nbsp; ├── [<i class="fa-solid fa-head-side-virus"></i> &nbsp; Category: Rambling Posts */categories/random/*](https://mypilgrimage.github.io/categories/random/) <br/>
+│ &nbsp; &nbsp; └── [<i class="fa-solid fa-person-digging"></i> &nbsp; Category: Site Posts */categories/site/*](https://mypilgrimage.github.io/categories/site/) <br/>
 └── [<i class="fas fa-tags"></i> &nbsp; Tags */tags/*](https://mypilgrimage.github.io/tags/) <br/>
-
 
 -----
 
