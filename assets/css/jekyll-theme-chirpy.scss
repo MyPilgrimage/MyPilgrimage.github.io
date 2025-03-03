@@ -17,7 +17,7 @@
 	content: \f0a9;
 }
 
-.prompt-sitemap {
+.prompt-sitemap, blockquote ul {
 	list-style-type: none;
 }
 /**PROMPT_END*/
@@ -29,6 +29,7 @@
 }
 .citation {
 	font-weight: bold;
+	font-size: 0.75em;
 }
 /**BLOCKQUOTE_END*/
 
