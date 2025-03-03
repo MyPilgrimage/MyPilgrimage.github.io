@@ -22,36 +22,21 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 <h3>YYYY</h3>
 
 <div class="responsiveGallery">
-  <div class="imgGallery">
-	<img src="PICTURE_FILE" alt="ALT_NAME" width="600" height="400" class="imgGalleryImg">
-    <div class="imgDesc">
-      <cite>
-      ALT_NAME
-      </cite>
-	  <br/>
-      <small>
-        PICTURE_DESCRIPTION 
-        <br/>
-		<hr/>
-		<sup>
-		 <!-- <i class="fa-solid fa-location-dot"></i>
-		 PICTURE_LOCATION &nbsp; -->
-         <!-- <i class="far fa-calendar"></i> 
-		 PICTURE_DD_MM_YYYY &nbsp; -->
-		 <span class="clearfix"></span>
-		 <!-- <i class="fa-solid fa-camera"></i>
-		 PICTURE_TAKEN_BY &nbsp; -->
-		 <!-- <i class="fa-solid fa-tag"></i>
-		 [PICTURE_POST_ORIGIN](POST_URL) -->
-        </sup>
-      </small>
-	</div>
-  </div>
+<figure class="imgGallery">
+  <img src="/assets/IMG_LOCATION.PNG" alt="ALT_NAME" width="600" height="400" class="gallery-img">
+  <figcaption class="gallery-caption">
+	<b>ALT_NAME</b>
+	<i>PICTURE_DESCRIPTION</i>
+	<!-- <i class="fa-solid fa-location-dot">PICTURE_LOCATION</i> -->
+	<!-- <i class="far fa-calendar">PICTURE_DD_MM_YYYY</i> -->
+	<!-- <i class="fa-solid fa-camera">PICTURE_TAKEN_BY</i> -->
+	<!-- <i class="fa-solid fa-tag">[PICTURE_POST_ORIGIN](POST_URL)</i> -->
+  </figcaption>
+</figure> 
 </div>
 <!--ROW_END-->
 <div class="clearfix"></div>
 <!--ROW_START-->
-
 
 
 <!-- End of Album -->

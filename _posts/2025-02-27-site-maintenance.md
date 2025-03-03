@@ -11,10 +11,12 @@ description: ""
 > *North-Holland, The Netherlands*. [<i class="fa-solid fa-location-dot"></i> Map](/welcome/#current-location) <br/>
 {: .prompt-info }
 
+
 > <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>
 > The Site is currently under maintenance
 > <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>
 {: .prompt-danger .font-center font-xxl}
+
 
 ## Technical Update
 I'm currently updating the site and trying to create a cohesive whole.
