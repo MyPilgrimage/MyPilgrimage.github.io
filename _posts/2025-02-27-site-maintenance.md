@@ -4,12 +4,11 @@ date: 2025-02-27 20:18:00 +0100
 categories: [Site, Update]
 tags: [site]
 pin: true
-description: "Site-Wide Maintenance!"
+description: ""
 ---
 
-> **164** Days to Prepare. <br/>
-> <i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br/>
-> [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview](/welcome/#quick-overview) <br/>
+> **164** Days to Prepare. [<i class="fa-solid fa-calendar-days"></i> Countdown](/welcome/#countdown) <br/>
+> *North-Holland, The Netherlands*. [<i class="fa-solid fa-location-dot"></i> Map](/welcome/#current-location) <br/>
 {: .prompt-info }
 
 > <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>

@@ -8,7 +8,7 @@
 ';
 
 /*MY_CUSTOM_STYLE*/
-/**LINK_BLOCKQUOTE*/
+/**BLOCKQUOTE*/
 .prompt-link {
 	padding: 0.5rem;
 	background: rgba($color: #40e0d0, $alpha: 0.25);
@@ -16,7 +16,16 @@
 	font-weight: normal;
 	content: \f0a9;
 }
-/**LINK_BLOCKQUOTE_END*/
+.prompt-sub {
+	text-align: inherit;
+}
+.prompt-citation {
+	font-weight: bold;
+}
+.prompt-sitemap {
+	list-style-type: none;
+}
+/**BLOCKQUOTE_END*/
 
 
 /**FONT_STYLE*/
@@ -27,7 +36,7 @@
 .font-l { font-size: 2em; }
 .font-xl { font-size: 3em; }
 .font-xxl {font-size: 4em; }
-/** 
+
 .font-center { text-align: center; }
 /**FONT_STYLE_END*/
 
@@ -61,9 +70,9 @@ imgGalleryImg img {
 }
 
 /***IMAGE_TITLE*/
-.imgDesc cite {
-	font-weight: bold;
-}
+//.imgDesc cite {
+//	font-weight: bold;
+//}
 /***IMAGE_DESCRIPTION*/
 // .imgDesc small {}
 
