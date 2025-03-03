@@ -23,7 +23,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 
 <div class="responsiveGallery">
 <figure class="imgGallery">
-  <img src="/assets/IMG_LOCATION.PNG" alt="ALT_NAME" width="600" height="400" class="gallery-img">
+  <img src="https://github.com/MyPilgrimage/MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME" width="600" height="400" class="gallery-img">
   <figcaption class="gallery-caption">
 	<b>ALT_NAME</b>
 	<i>PICTURE_DESCRIPTION</i>
