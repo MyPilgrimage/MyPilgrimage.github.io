@@ -1,12 +1,12 @@
 ---
- title: POST THREE Random Ramblings
- date: 2025-01-14 14:00:00 +0100
- categories: [Random, Ramblings]
- tags: [personal, worrying wayfarer, pictures]
- image:
-  path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
-  alt: "ALT_NAME  PICTURE_DESCRIPTION.  <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION  <i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY  <i class="fa-solid fa-camera"></i> PICTURE_TAKEN_BY"
- description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
+title: POST THREE Random Ramblings
+date: 2025-01-14 14:00:00 +0100
+categories: [Random, Ramblings]
+tags: [personal, worrying wayfarer, pictures]
+image:
+ path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
+ alt: ""
+description: ""
 ---
 
 > **DAYS_NUMBER** Days to Prepare. [<i class="fa-solid fa-calendar-days"></i> Countdown](/welcome/#countdown) <br/>
