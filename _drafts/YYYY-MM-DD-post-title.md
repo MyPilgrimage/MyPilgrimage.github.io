@@ -9,24 +9,15 @@ image:
 description: "[DAYS_NUMBER] Days to Prepare. POST_DESCRIPTION"
 ---
 
-> **DAYS_NUMBER** Days to Prepare. <i class="fa-solid fa-location-dot"></i> *POST_LOCATION*. <br/>
-> [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview](/welcome/#quick-overview) <br/>
+> **DAYS_NUMBER** Days to Prepare. <br/>
+> <i class="fa-solid fa-location-dot"></i> *POST_LOCATION*. <br/>
+> [<i class="fa-solid fa-calendar-days"></i> Quick Overview](/welcome/#quick-overview) <br/>
 {: .prompt-info }
-
-## Thoughts
-..
-
-## Technical Update
-..
-
-## Random Ramblings
-..
 
 
 *Cheers,* <br/>
-I-Jun &nbsp; 
-<i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i>
+I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i><br/>
+[<i class="fab fa-github"></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
+[<i class="fa-brands fa-reddit"></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
+[<i class="fas fa-envelope"></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
 <br/>
-[<i class="fab fa-github"></i> Github.com](https://github.com/MyPilgrimage/MyPilgrimage.github.io) &nbsp;
-[<i class="fa-brands fa-reddit"></i> Reddit page](https://www.reddit.com/user/I-Jun_Pilgrimage/) &nbsp;
-[<i class="fas fa-envelope"></i> iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 

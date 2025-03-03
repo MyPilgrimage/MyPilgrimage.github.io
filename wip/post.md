@@ -11,10 +11,38 @@
 [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer, pictures, site]
 ---
 <!--DAYS_TO_PREPARE-->
-> **DAYS_NUMBER** Days to Prepare. <i class="fa-solid fa-location-dot"></i> *POST_LOCATION*. <br/>
-> [<i class="fa-solid fa-calendar-days"></i> &nbsp; Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) <br/>
+> **DAYS_NUMBER** Days to Prepare. <br/>
+> <i class="fa-solid fa-location-dot"></i> *POST_LOCATION*. <br/>
+> [<i class="fa-solid fa-calendar-days"></i>  Quick Overview](/welcome/#quick-overview) <br/>
 {: .prompt-info }
+
 <!--POST_TEXT-->
+> <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>
+> The Site is currently under maintenance
+> <i class="fa-solid fa-person-digging"><!--SiteUpdates--></i>
+{: .prompt-danger .font-center font-xxl}
+
+<!--IMAGE-->
+![ALT_NAME](PICTURE_FILE){: }
+<sub>
+  <cite>**ALT_NAME**</cite> <br/>
+<!-- PICTURE_DESCRIPTION. <br/> -->
+<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION &nbsp; -->
+<!-- <i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY &nbsp; -->
+<!-- <i class="fa-solid fa-camera"></i> PICTURE_TAKEN_BY &nbsp; -->
+</sub>  
+
+## Thoughts
+..
+
+## Technical Update
+..
+
+## Random Ramblings
+..
+
+
+
 <!--SIGNATURE-->
 *Cheers,* <br/>
 I-Jun &nbsp; 
@@ -41,8 +69,6 @@ I-Jun &nbsp;
 ----------------------------------------
  IMAGES
 ----------------------------------------
-<!--IMAGE-->
-![ALT_NAME](PICTURE_FILE){: }_<cite>**ALT_NAME**</cite> <br/> PICTURE_DESCRIPTION. <br/> <i class="far fa-calendar"></i> DD_MM_YYYY._
 <!--IMAGE_OPTIONALS-->
 ![ALT_NAME](PICTURE_FILE) {: w='1280' h='720' .light/dark .w-100/75/50/25 .normal/left/right .shadow .rounded-10/20/bottom10 }
 _<cite>**ALT_NAME**</cite> <br/>
@@ -51,8 +77,6 @@ _<cite>**ALT_NAME**</cite> <br/>
 <!-- <i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY &nbsp; -->
 <!-- <i class="fa-solid fa-camera"></i> PICTURE_TAKEN_BY &nbsp; -->
 _  
-
-
 
 ----------------------------------------
  BLOCKQUOTES
