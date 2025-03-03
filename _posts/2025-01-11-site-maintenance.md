@@ -4,7 +4,7 @@ date: 2025-01-11 11:11:11 +0100
 categories: [Site, Update]
 tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer, pictures, site]
 image:
- path: https://github.com/MyPilgrimage/MyPilgrimage.github.io/assets/IMG_LOCATION.png
+ path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
  alt: "ALT_NAME"
 pin: true
 description: "POST_DESCRIPTION"
