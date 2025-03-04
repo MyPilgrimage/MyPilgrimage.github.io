@@ -4,19 +4,6 @@ Notes, reminders and general Admin
 ----------------------------------------
 ## CATEGORIES
 ----------------------------------------
-- 2025 Trial-Run  			<!-- 2025 Trial Run -->
-	- Preparations  		<!-- - Route planning etc; Training practice, regimen etc; Gear list, collection etc. -->
-	- On The Way			<!-- - Route along the way etc; Gear list etc. -->
-	- Conclusion			<!-- - Hike Conclusions; New Picture added etc. -->
-- 2026 pilgrimage			<!-- The real pilgrimage in 2026 -->
-	- Preparations    		<!-- - Route planning etc; Training practice, regimen etc; Gear list, collection etc. -->
-	- On The Way			<!-- - Route along the way etc; Gear list etc. -->
-	- Conclusion			<!-- - Hike Conclusions; New Picture added etc. -->
-- Random  					<!-- Random posts about anything NOT related to the Pilgrimage -->
-	- Ramblings  			<!-- - Personal ramblings about anything, worrying wayfarer etc. -->
-- Site  					<!-- About the page itself -->
-	- Update  				<!-- - Page updates, news etc. -->
-
 categories: [2025 Trial-Run, Preparations]
 categories: [Random, Ramblings]
 categories: [Site, Update]
@@ -25,16 +12,6 @@ categories: [Site, Update]
 ----------------------------------------
 ## TAGS
 ----------------------------------------
-- trial-run,			<!-- updates: 2025 Trial Run -->
-- pilgrimage, 			<!-- updates: The real pilgrimage in 2026 -->
-- route, 				<!-- updates: Route planning or along the way etc. -->
-- training, 			<!-- updates: Training practice, regimen etc.  -->
-- gear, 				<!-- updates: Gear list, collection etc. -->
-- personal, 			<!-- updates: Personal NOT related to the Pilgrimage etc. -->
-- worrying wayfarer, 	<!-- updates: Random Ramblings Tag etc. -->
-- pictures, 			<!-- updates: New Picture added etc. -->
-- site, 				<!-- updates: About the page itself etc. -->
-
 tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer, pictures, site]
 
 

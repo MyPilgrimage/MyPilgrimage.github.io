@@ -1,6 +1,6 @@
 ---
 title: Sitewide Maintenance
-date: 2025-01-11 11:11:11 +0100
+date: 2025-01-09 09:09:09 +0100
 categories: [Site, Update]
 tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer, pictures, site]
 image:
@@ -21,11 +21,14 @@ description: "POST_DESCRIPTION"
 
 
 ## Technical Update
-I'm currently updating the site.
-More information soon.
+I'm currently updating the site and trying to create a cohesive whole.
+For the moment this means taking down the site periodically.
 
+I'm hoping that, once this update is complete, I can shift to a better development standart.
+(i.e. Develop locally on my Dev-Branch, hopefully without breaking the sites dependencies this time 😅 )
 
----
+More information soon
+
 
 *Cheers,* <br/>
 I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i><br/>

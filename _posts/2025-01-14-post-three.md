@@ -7,6 +7,7 @@ image:
  path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
  alt: ""
 description: ""
+hidden: true
 ---
 
 > **DAYS_NUMBER** Days to Prepare. [<i class="fa-solid fa-calendar-days"></i> Countdown](/welcome/#countdown) <br/>
@@ -17,8 +18,6 @@ description: ""
 ## Random Ramblings
 ..
 
-
----
 
 *Cheers,* <br/>
 I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i><br/>
