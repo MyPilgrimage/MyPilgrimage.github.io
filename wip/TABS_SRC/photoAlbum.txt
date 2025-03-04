@@ -23,14 +23,16 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 
 <div class="resp-gallery">
 <figure class="img-gallery">
-  <img src="https://MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME" width="600" height="400" class="gallery-img">
+  <img src="IMG_NAME" alt="ALT_NAME" class="gallery-img">
   <figcaption class="gallery-caption">
-	<b>ALT_NAME</b>
-	<i>PICTURE_DESCRIPTION</i>
-	<!-- <i class="fa-solid fa-location-dot">PICTURE_LOCATION</i> -->
-	<!-- <i class="far fa-calendar">PICTURE_DD_MM_YYYY</i> -->
-	<!-- <i class="fa-solid fa-camera">PICTURE_TAKEN_BY</i> -->
-	<!-- <i class="fa-solid fa-tag">[PICTURE_POST_ORIGIN](POST_URL)</i> -->
+	<cite>ALT_NAME</cite>
+	PICTURE_DESCRIPTION
+	<!-- <br class="resp-linebreak-m"/> -->
+	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION -->
+	<!-- <i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY -->
+	<!-- <br class="resp-linebreak-m"/> -->
+	<!-- <i class="fa-solid fa-camera"></i> PICTURE_TAKEN_BY-->
+	<!-- <i class="fa-solid fa-tag"></i> [PICTURE_POST_ORIGIN](POST_URL) -->
   </figcaption>
 </figure> 
 </div>
@@ -128,3 +130,20 @@ imgGalleryImg img {
 </style>
 </footer>
 </html>
+
+
+
+
+<div class="resp-gallery">
+<figure class="img-gallery">
+  <img src="IMG_NAME" alt="ALT_NAME" width="600" height="400" class="gallery-img">
+  <figcaption class="gallery-caption">
+	<b>ALT_NAME</b>
+	<i>PICTURE_DESCRIPTION</i>
+	<!-- <i class="fa-solid fa-location-dot">PICTURE_LOCATION</i> -->
+	<!-- <i class="far fa-calendar">PICTURE_DD_MM_YYYY</i> -->
+	<!-- <i class="fa-solid fa-camera">PICTURE_TAKEN_BY</i> -->
+	<!-- <i class="fa-solid fa-tag">[PICTURE_POST_ORIGIN](POST_URL)</i> -->
+  </figcaption>
+</figure> 
+</div>

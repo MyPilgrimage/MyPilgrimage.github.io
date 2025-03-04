@@ -6,8 +6,11 @@ tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer
 image:
  path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
  alt: "ALT_NAME"
-pin: true
 description: "POST_DESCRIPTION"
+pin: true
+toc: false
+hidden: false
+unpublished: false
 ---
 
 > **DAYS_NUMBER** Days to Prepare. [<i class="fa-solid fa-calendar-days"></i> Countdown](/welcome/#countdown) <br/>
