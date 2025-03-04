@@ -39,25 +39,17 @@ blockquote.prompt-link,
 	color: var(--prompt-text-color);
 	border-radius: 10px;
 	background-color: var(--prompt-warning-bg);
-	list-style-type: none;
 	content: "";
+}
+
+.prompt-link ul, 
+.prompt-overview ul, 
+.prompt-sitemap ul {
+	list-style-type: none;
 }
 
 .prompt-link {
 	background: rgba($color: #40e0d0, $alpha: 0.25);
-}
-/*
-blockquote.prompt-overview,
-*/
-.prompt-overview {
-// 
-}
-/*
-blockquote.prompt-sitemap, 
-blockquote ul,
-*/
-.prompt-sitemap {
-// 
 }
 
 /*----------------------*/
