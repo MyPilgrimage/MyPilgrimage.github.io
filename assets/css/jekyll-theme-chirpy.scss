@@ -8,7 +8,9 @@
 ';
 
 /*MY_CUSTOM_STYLE*/
-/**PROMPT*/
+/*----------*/
+/*PROMPT*/
+/*----------*/
 .prompt-link {
 	padding: 0.5rem;
 	background: rgba($color: #40e0d0, $alpha: 0.25);
@@ -16,14 +18,13 @@
 	font-weight: normal;
 	content: \f0a9;
 }
-
 .prompt-sitemap, blockquote ul {
 	list-style-type: none;
 }
-/**PROMPT_END*/
 
-
-/**BLOCKQUOTE*/
+/*----------*/
+/*DESCRIPTION_BLOCK*/
+/*----------*/
 .quotation {
 	font-size: 2em;
 }
@@ -31,10 +32,11 @@
 	font-weight: bold;
 	font-size: 0.75em;
 }
-/**BLOCKQUOTE_END*/
+.caption {}
 
-
-/**FONT_STYLE*/
+/*----------*/
+/*FONT_STYLE*/
+/*----------*/
 .font-xs { font-size: 0.5e,; }
 .font-s { font-size: 0.75em; }
 .font-normal { font-size: 1em; }
@@ -42,64 +44,67 @@
 .font-l { font-size: 2em; }
 .font-xl { font-size: 3em; }
 .font-xxl {font-size: 4em; }
-
 .font-center { text-align: center; }
-/**FONT_STYLE_END*/
 
-
-/**ROUNDED_CORNERS*/
+/*----------*/
+/*ROUNDED_CORNERS*/
+/*----------*/
 .rounded-10 { border-radius: 0.625em; }
 .rounded-bottom10 { border-radius: 0 0 0.625em 0.625em; }
 .rounded-20 { border-radius: 1.25em; }
-/**ROUNDED_CORNERS_END*/
 
-
-/**PHOTO_ALBUM*/
-.caption {}
-
-.imgGallery {
+/*----------*/
+/*PHOTO_ALBUM*/
+/*----------*/
+.img-gallery {
 	background: rgba($color: #777, $alpha: 0.25);
 	border-radius: 0.625em;
 }
-
 .gallery-img {
 	width: 100%;
 	height: auto;
 	margin: 0px 0px 0.5rem 0px;
 	border-radius: 0.625em;
 }
-
 .gallery-caption {
  	padding: 0.15em;
 	text-align: center;
 }
-/**PHOTO_ALBUM_END*/
 
-
-/**RESPONSIVE_DESIGN*/
-.responsiveGallery {
+/*----------*/
+/*RESPONSIVE_DESIGN*/
+/*----------*/
+/**SMALL_SCREEN*/
+.resp-gallery {
 	padding: 0 0.312em;
 	float: left;
 	width: 49.99999%;
 }
-
+.resp-linebreak-M {
+	display: inline;
+}
 .clearfix:after {
 	content: "";
 	display: table;
 	clear: both;
 }
-
-/*** LEFT_SIDEBAR_ADDED: Max-Width: 850px */
+/*----------*/
+/**MEDIUM_SCREEN-LEFT_SIDEBAR_ADDED*/
 @media only screen and (max-width: 850px) {
-	.responsiveGallery {
-		width: 100%;
-	}
+	.resp-gallery { width: 100%; }
+	.resp-linebreak { display: inline; }
+
+}
+/*----------*/
+/**LARGE_SCREEN-RIGHT_SIDEBAR_ADDED*/
+@media only screen and (max-width: 1200px) {
+	.resp-linebreak, .resp-linebreak-M { display: hidden; }
 }
 
-/*** RIGHT_SIDEBAR_ADDED: Max-Width: 1200px */
- @media only screen and (max-width: 1200px) {}
-/**RESPONSIVE_DESIGN_END*/
-
-
-/**PERSONALIZED_COLOUR_SCHEME */
-/**PERSONALIZED_COLOUR_SCHEME_END*/
+/*----------*/
+/*PERSONALIZED_COLOUR_SCHEME */
+/*----------*/
+// 
+// 
+// 
+/*----------*/

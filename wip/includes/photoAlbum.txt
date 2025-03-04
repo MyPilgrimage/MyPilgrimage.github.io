@@ -21,8 +21,8 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
  <!-- Pictures of YYYY -->
 <h3>YYYY</h3>
 
-<div class="responsiveGallery">
-<figure class="imgGallery">
+<div class="resp-gallery">
+<figure class="img-gallery">
   <img src="https://MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME" width="600" height="400" class="gallery-img">
   <figcaption class="gallery-caption">
 	<b>ALT_NAME</b>
@@ -53,7 +53,7 @@ Most Pictures taken by Me (I-Jun), some by Friends. <br/>
 <style>
 /*MY_CUSTOM_STYLE*/
 /**PHOTO_ALBUM*/
-.imgGallery {
+.img-gallery {
 	background: rgba($color: #777, $alpha: 0.25);
 	border-radius: 0.625em;
 }
@@ -87,7 +87,7 @@ imgGalleryImg img {
 	width: 49.99999%;
 }
 
-.responsiveGallery {
+.resp-gallery {
 	padding: 0 0.312em;
 	float: left;
 	width: 49.99999%;
@@ -104,14 +104,14 @@ imgGalleryImg img {
 /**RESPONSIVE_DESIGN*/
 /*** LEFT_SIDEBAR_ADDED: Max-Width: 850px */
 @media only screen and (max-width: 850px) {
-	.responsiveGallery {
+	.resp-gallery {
 		width: 100%;
 	}
 }
 
 /*** RIGHT_SIDEBAR_ADDED: Max-Width: 1200px */
 // @media only screen and (max-width: 1200px) {
-//	.responsiveGallery {
+//	.resp-gallery {
 //		height: auto;
 //	}
 // }
@@ -120,7 +120,7 @@ imgGalleryImg img {
 * Fix: 
 */
 // @media only screen and (min-width: 0px) and (max-width: 0px) {
-//	.responsiveGallery {
+//	.resp-gallery {
 //		height: auto;
 //	}
 // }
