@@ -1,8 +1,8 @@
-# /pics/
-Pictures
-`/assets/pics/`
+# Pictures
+
 
 ## PICTURE_LIBRARY
+`/assets/pics/`
 - [x] 20250223_SundaysSun.jpg 			(/posts/2025-02-23-random-ramblings , /pictures)
 - [x] 20250121_WitchbogSchoorl.jpg 		(/2025-01-21-the-dunes-of-schoorl , /pictures)
 - [x] 20250121_WaterloggedSchoorl.jpg 	(/2025-01-21-the-dunes-of-schoorl , /pictures)

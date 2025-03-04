@@ -11,14 +11,34 @@
 /*----------------------*/
 /*  PROMPT 				*/
 /*----------------------*/
-.prompt-link {
-	padding: 0.5rem;
-	background: rgba($color: #40e0d0, $alpha: 0.25);
-	font-size: inherit;
-	font-weight: normal;
-	content: \f0a9;
+	blockquote {
+	border-left: .125rem solid var(--blockquote-border-color);
+	padding-left: 1rem;
+	color: var(--blockquote-text-color);
+	margin-top: .5rem;
 }
-.prompt-sitemap, blockquote ul {
+
+blockquote[class^="prompt-"]
+	border-left: 0;
+	position: relative;
+	padding: 1rem 1rem 1rem 3rem;
+	color: var(--prompt-text-color);
+	border-radius: 10px;
+}
+
+blockquote.prompt-link {
+	//padding: 0.5rem;
+	background: rgba($color: #40e0d0, $alpha: 0.25);
+	//font-size: inherit;
+	//font-weight: normal;
+	//content: \f0a9;
+}
+
+blockquote.prompt-overview {
+	background-color: var(--prompt-warning-bg);
+}
+blockquote.prompt-sitemap, 
+blockquote ul {
 	list-style-type: none;
 }
 

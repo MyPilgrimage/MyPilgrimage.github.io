@@ -1,8 +1,14 @@
-# Common icons
-(COPY+PASTE Elements that keep recurring)
+# Icons
+
+
+## Font-Awesome
+[Font Awesome - Free Icon Search](https://fontawesome.com/search?ic=free)
+[Font Awesome - License](https://fontawesome.com/license)
+
 ----------------------------------------
- COMMON ICONS
+## COMMON ICONS
 ----------------------------------------
+`/assets/img/`
 <!--COMMON-->
 <i class="fa-solid fa-up-right-from-square"><!--Link--></i>
 <i class="fa-solid fa-circle-right"><!--SubPage--></i>
@@ -10,6 +16,7 @@
 
 <!--TABS-->
 <i class="fa-solid fa-house"><!--Home--></i>
+<i class="fa-solid fa-door-open"><!--Welcome--></i>
 <i class="fa-solid fa-person-hiking"><!--About--></i>
 <i class="fa-solid fa-timeline"><!--Timeline--></i>
 <i class="fa-solid fa-camera"><!--Pictures--></i>
@@ -75,56 +82,64 @@
 <i class="fa-solid fa-1"><!--1--></i>
 <i class="fa-solid fa-percent"><!--Percent--></i>
 
-- [x] 0-solid.svg 			<!--PROGRESS_BAR:0-->
-- [x] 1-solid.svg 			<!--PROGRESS_BAR:1-->
-- [x] angle-up-solid.svg 	<!--SITE:Scroll_Up-->
-- [ ] bars-solid.svg 		<!-- -->
-bars-staggered-solid.svg
-blog-solid.svg
-bluesky-brands.svg
-calendar-days-solid.svg
-calendar-regular.svg
-camera-solid.svg
-campground-solid.svg
-circle-exclamation-solid.svg
-circle-half-stroke-solid.svg
-circle-info-solid.svg
-circle-right-solid.svg
-circle-user-solid.svg
-door-open-solid.svg
-envelope-solid.svg
-flickr-brands.svg
-folder-open-regular.svg
-folder-regular.svg
-github-brands.svg
-google-brands.svg
-hashtag-solid.svg
-head-side-virus-solid.svg
-house-solid.svg
-icons.md
-leaf-solid.svg
-lightbulb-regular.svg
-link-solid.svg
-linkedin-brands.svg
-list-ul-solid.svg
-location-dot-solid.svg
-magnifying-glass-solid.svg
-mountain-sun-solid.svg
-percent-solid.svg
-person-digging-solid.svg
-person-hiking-solid.svg
-person-walking-arrow-right-solid.svg
-quote-left-solid.svg
-reddit-brands-solid.svg
-route-solid.svg
-rss-solid.svg
-sitemap-solid.svg
-square-reddit-brands-solid.svg
-tag-solid.svg
-tags-solid.svg
-thumbs-up-solid.svg
-thumbtack-solid.svg
-timeline-solid.svg
-triangle-exclamation-solid.svg
-up-right-from-square-solid.svg
-wikipedia-w-brands-solid.svg
+
+<!-- ?? -->
+
+
+----------------------------------------
+## Checklist
+----------------------------------------
+- [x] 0-solid.svg 							<!-- PROGRESS_BAR:0 -->
+- [x] 1-solid.svg 							<!-- PROGRESS_BAR:1 -->
+- [x] angle-up-solid.svg 					<!-- SITE:Scroll_Up -->
+- [ ] bars-solid.svg 						<!-- ?? -->
+- [ ] bars-staggered-solid.svg				<!-- ?? -->
+- [ ] blog-solid.svg						<!-- ?? -->
+- [ ] bluesky-brands.svg					<!-- ?? -->
+- [ ] calendar-days-solid.svg				<!-- ?? -->
+- [ ] calendar-regular.svg					<!-- ?? -->
+- [ ] camera-solid.svg						<!-- ?? -->
+- [ ] campground-solid.svg					<!-- ?? -->
+- [ ] circle-exclamation-solid.svg			<!-- ?? -->
+- [ ] circle-half-stroke-solid.svg			<!-- ?? -->
+- [ ] circle-info-solid.svg					<!-- ?? -->
+- [ ] circle-right-solid.svg				<!-- ?? -->
+- [ ] circle-user-solid.svg					<!-- ?? -->
+- [ ] door-open-solid.svg					<!-- ?? -->
+- [ ] envelope-solid.svg					<!-- ?? -->
+- [ ] flickr-brands.svg						<!-- ?? -->
+- [ ] folder-open-regular.svg				<!-- ?? -->
+- [ ] folder-regular.svg					<!-- ?? -->
+- [ ] github-brands.svg						<!-- ?? -->
+- [ ] google-brands.svg						<!-- ?? -->
+- [ ] hashtag-solid.svg						<!-- ?? -->
+- [ ] head-side-virus-solid.svg				<!-- ?? -->
+- [ ] house-solid.svg						<!-- ?? -->
+- [ ] leaf-solid.svg						<!-- ?? -->
+- [ ] lightbulb-regular.svg					<!-- ?? -->
+- [ ] link-solid.svg						<!-- ?? -->
+- [ ] linkedin-brands.svg					<!-- ?? -->
+- [ ] list-ul-solid.svg						<!-- ?? -->
+- [ ] location-dot-solid.svg				<!-- ?? -->
+- [ ] magnifying-glass-solid.svg			<!-- ?? -->
+- [ ] mountain-sun-solid.svg				<!-- ?? -->
+- [ ] percent-solid.svg						<!-- ?? -->
+- [ ] person-digging-solid.svg				<!-- ?? -->
+- [ ] person-hiking-solid.svg				<!-- ?? -->
+- [ ] person-walking-arrow-right-solid.svg	<!-- ?? -->
+- [ ] quote-left-solid.svg					<!-- ?? -->
+- [ ] reddit-brands-solid.svg				<!-- ?? -->
+- [ ] route-solid.svg						<!-- ?? -->
+- [ ] rss-solid.svg							<!-- ?? -->
+- [ ] sitemap-solid.svg						<!-- ?? -->
+- [ ] square-reddit-brands-solid.svg		<!-- ?? -->
+- [ ] tag-solid.svg							<!-- ?? -->
+- [ ] tags-solid.svg						<!-- ?? -->
+- [ ] thumbs-up-solid.svg					<!-- ?? -->
+- [ ] thumbtack-solid.svg					<!-- ?? -->
+- [ ] timeline-solid.svg					<!-- ?? -->
+- [ ] triangle-exclamation-solid.svg		<!-- ?? -->
+- [ ] up-right-from-square-solid.svg		<!-- ?? -->
+- [ ] wikipedia-w-brands-solid.svg			<!-- ?? -->
+
+----------------------------------------
