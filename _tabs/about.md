@@ -43,7 +43,7 @@ I'm planning to hoist my backpack on my back and start walking Southward. <br/>
 
 ### My Principles
 
-> <i class="fa-solid fa-quote-left font-l"></i> Leave only ash, hair and footprints" <br/>
+> <i class="fa-solid fa-quote-left quotation"></i> Leave only ash, hair and footprints" <br/>
 {: .font-m }
 
 
@@ -98,7 +98,7 @@ I-Jun <br/>
 
 
 
-![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 .shadow .rounded-10 }_"Way of St. James pilgrims (1568)" ~by [Roland zh <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Roland_zh )._
+![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 }_"Way of St. James pilgrims (1568)" ~by [<i class="fa-brands fa-wikipedia-w"></i> Roland zh  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Roland_zh )._
 
 
 -----
@@ -109,14 +109,14 @@ As mentioned in the introductions, I'm planning on walking Southward. <br/>
 
 
 I'll start walking from my parents home in North-Holland <br/>
-As of now I'm thinking about walking the [*Pilgrimage of Compostela* <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br/>
+As of now I'm thinking about walking the [<i class="fa-brands fa-wikipedia-w"></i> *Pilgrimage of Compostela*  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br/>
 Simply because it's a known route, it has historical significance (and I love history!) and I think I might meet like-minded people along the way. <br/>
 
 
-![Approximate map of the Route](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ways_of_St._James_in_Europe.png){: .w-50 .shadow .rounded-10 }_"Approximate Map of the Way of St. James in Europe." ~by [Manfred Zentgraf, Volkach Germany <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://www.jakobuspilger-zentgraf.de/ )._
+![Approximate map of the Route](https://upload.wikimedia.org/wikipedia/commons/2/2b/Ways_of_St._James_in_Europe.png){: .w-50 .shadow .rounded-10 }_"Approximate Map of the Way of St. James in Europe." ~by [<i class="fa-brands fa-wikipedia-w"></i> Manfred Zentgraf, Volkach Germany  <i class="fa-solid fa-up-right-from-square"></i>](https://www.jakobuspilger-zentgraf.de/ )._
 
 
-> I will keep **updates about the route** I'm taking, in the [<i class="fa-solid fa-circle-exclamation"></i>  **Quick Overview**  <i class="fa-solid fa-circle-right"></i> <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) section,
+> I will keep **updates about the route** I'm taking, in the [<i class="fa-solid fa-circle-exclamation"></i>  **Quick Overview**  <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) section,
 > but for now this is the most likely route!
 {: .prompt-link }
 
@@ -124,15 +124,18 @@ Simply because it's a known route, it has historical significance (and I love hi
 ### But first I'll do a Trial-Run.
 
 I want to start a Trial-Run this August of 2025. <br/>
-[<i class="far fa-calendar"></i>  See the **countdown**  <i class="fa-solid fa-circle-right"></i> <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) <br/>
+[<i class="far fa-calendar"></i>  See the **countdown**  <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) <br/>
 This gives me a bit of time to prepare and get my walking gear in order. <br/>
 Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. <br/>
 This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br/>
 <br/>
-For this trail run I'm thinking of walking the **Floris V path**, also known as [**the <abbr title="Lange Afstands Wandeling">"LAW"</abbr> 1-3**  <i class="fa-brands fa-wikipedia-w"></i> <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad)
+For this trail run I'm thinking of walking the **Floris V path**, also known as [<i class="fa-brands fa-wikipedia-w"></i> **the "LAW" 1-3**  <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad) <br/>
+<sup>**L**ange **A**fstands **W**andeling (or **L**ong **D**istance **H**ike)</sup><br/>
+And is part of [<i class="fa-brands fa-wikipedia-w"></i> **the GR12**  <i class="fa-solid fa-up-right-from-square"></i>](https://en.wikipedia.org/wiki/GR_12) <br/>
+<sup>[<i class="fa-brands fa-wikipedia-w"></i> **G**rande **R**andonnée or  **G**reat **H**ike  <i class="fa-solid fa-up-right-from-square"></i>}(https://en.wikipedia.org/wiki/GR_footpath)</sup><br/>
 
 
-![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 .shadow .rounded-10 }_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [MarijnBosma <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
+![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 }_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3" ~by [<i class="fa-brands fa-wikipedia-w"></i> MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
 
 
 #### Why wait till August?
@@ -178,16 +181,16 @@ The plan is to start walking from my home near Alkmaar.
 ### The real Pilgrimage Route. 
 
 The Trial-Run is in preparation for the real Pilgrimage. 
-I'm thinking of follow the route of [Camino de Santiago <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br/>
+I'm thinking of follow the route of [<i class="fa-brands fa-wikipedia-w"></i> Camino de Santiago  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago) <br/>
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br/>
 
 
-![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png){: .w-50 .shadow .rounded-10 }_A [Google Maps Route <abbr title="Google"><i class="fa-brands fa-google"></i></abbr>](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the *(expected)* route, distance and time._
+![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png){: .w-50 }_A [<i class="fa-brands fa-google"></i> Google Map](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the *(expected)* route, distance and time._
 
 
 Starting from my parents home in North-Holland, walking toward Haarlem.  <br/>
 
-> Haarlem is a common starting point of the Pilgrimage, [according to "Routes in Belgium and the Netherlands" on Wikipedia <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands). <br/>
+> Haarlem is a common starting point of the Pilgrimage, [<i class="fa-brands fa-wikipedia-w"></i> according to "Routes in Belgium and the Netherlands" on Wikipedia <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands). <br/>
 
 - From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (Visé) in Belgium;
 - Or take a more direct route from Haarlem to Brussels;
@@ -195,12 +198,13 @@ Starting from my parents home in North-Holland, walking toward Haarlem.  <br/>
 - Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
 But if I do choose to continue; <br/>
 - set Paris as my "mid" point and the start of the Pilgrims path **"The Camino Francés"** (*or "French Way"*), <br/>
-> The "French Way" is the easiest route and I don't think I can take a difficult route on my first try. <br/>
-> **Seeing as the route is difficult enough as is!** <br/>
+<sup>
+The "French Way" is the easiest route and I don't think I can take a difficult route on my first try. <br/>
+**Seeing as the route is difficult enough as is!** 
+</sup><br/>
 
 
-![Samos, in Galicia, on the French Way or Camino Francés](https://upload.wikimedia.org/wikipedia/commons/8/83/Samos_on_the_Camino_Way.jpg){: .w-50 .shadow .rounded-10 }
-_"Samos, in Galicia, on the French Way or Camino Francés" ~by [BarbaraDown <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:BarbaraDown )._
+![Samos, in Galicia, on the French Way or Camino Francés](https://upload.wikimedia.org/wikipedia/commons/8/83/Samos_on_the_Camino_Way.jpg){: .w-50 }_"Samos, in Galicia, on the French Way or Camino Francés" ~by [<i class="fa-brands fa-wikipedia-w"></i> BarbaraDown  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:BarbaraDown )._
 
 
 #### Quick Pilgrimage Route Calculation
@@ -248,7 +252,7 @@ Also I have a small "regimen" of power/endurance training I do bi-daily (every o
 I still need to include Crunches, but I don't seem to get the technique right, or it doesn't feel right, I don't know. (Might need to ask my GP) <br/>
 
 
-![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 .shadow .rounded-10 }_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [José Antonio Gil Martínez <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://www.flickr.com/people/17364971@N00) ._
+![Roman bridge over the river Órbigo](https://upload.wikimedia.org/wikipedia/commons/2/28/Hospital_de_%C3%93rbigo_%28496110133%29.jpg){: .w-50 }_"Roman bridge with 19 arches over the river Órbigo. The bridge has been integrated into the modern Camino Francés." ~by [<i class="fa-brands fa-flickr"></i> José Antonio Gil Martínez  <i class="fa-solid fa-up-right-from-square"></i>](https://www.flickr.com/people/17364971@N00) ._
 
 
 ### Training Preparations
@@ -280,7 +284,7 @@ Being self-sufficient and having a bit of survival knowhow could be very useful 
 So I'll need to educate myself in the way of the survivalist. <br/>
 
 
-![A small campfire](/assets/pics/20230529_Campfire.jpg){: .w-50 .shadow .rounded-10 }_A small campfire_
+![A small campfire](/assets/pics/20230529_Campfire.jpg){: .w-50 }_A small campfire_
 
 
 -----
@@ -300,7 +304,7 @@ A simple first-aid kit, with band-aid, a flea-nipper, a few painkillers and a re
 The rest of my gear I will need to acquire <br/>
 
 
-![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.png){: .w-50 .shadow .rounded-10 }_One of my smaller backpacks I use for Cosplay. This was a wasteland-survivor outfit._
+![My Cosplay Backpack](/assets/pics/20210617_FunnyBackpack.png){: .w-50 }_One of my smaller backpacks I use for Cosplay. This was a wasteland-survivor outfit._
 
 
 The main issue is weight. <br/>
@@ -314,7 +318,7 @@ Worst comes to worst I will start my Pilgrimage with these heavier things, and h
 **But if I could help it, getting a bit better prepared, <br/> would certainly be worth the effort!** <br/>
 
 
-![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://upload.wikimedia.org/wikipedia/commons/5/50/Man_wearing_pilgrim_clothing%2C_450-425_BC%2C_Prague_NM-HM10_771%2C_151792.jpg){: .w-50 .shadow .rounded-10 }_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [Zde <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Zde )._
+![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://upload.wikimedia.org/wikipedia/commons/5/50/Man_wearing_pilgrim_clothing%2C_450-425_BC%2C_Prague_NM-HM10_771%2C_151792.jpg){: .w-50 }_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771." ~by [<i class="fa-brands fa-wikipedia-w"></i> Zde  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Zde )._
 
 
 ### Gear list:
@@ -372,7 +376,7 @@ But I do also want some way of contacting family or emergency services.
 - [ ] &nbsp; ...:  <br/>
 
 
-![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 .shadow .rounded-10 }_"Depiction of Saint James in the 12th century" [Codex Calixtinus <abbr title="Wikipedia"><i class="fa-brands fa-wikipedia-w"></i></abbr>](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~by [Certo Xornal <abbr title="Flickr"><i class="fa-brands fa-flickr"></i></abbr> <i class="fa-solid fa-up-right-from-square"></i>](https://www.flickr.com/photos/15528381@N02 )._
+![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 }_"Depiction of Saint James in the 12th century" [<i class="fa-brands fa-wikipedia-w"></i> Codex Calixtinus  <i class="fa-solid fa-up-right-from-square"></i>](https://en.Wikipedia.org/wiki/Codex_Calixtinus). ~by [<i class="fa-brands fa-flickr"></i> Certo Xornal  <i class="fa-solid fa-up-right-from-square"></i>](https://www.flickr.com/photos/15528381@N02 )._
 
 
 -----
@@ -380,11 +384,11 @@ But I do also want some way of contacting family or emergency services.
 ## Thanks
 
 *Thank you for reading!* <br/>
-If you recognise your work and I did not attribute it correctly to you as author, <br/>
-please  [contact me via this page on Github.com <i class="fab fa-github"></i>](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
-[via my Reddit page <i class="fa-brands fa-reddit"></i>](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
-[or email: iJun.Pilgrimage@gmail.com <i class="fas fa-envelope"></i>](mailto:iJun.Pilgrimage@gmail.com) <br/>
-  
+If you recognise your work and I did not attribute you as author, <br/>
+please get into contact with me: <br/>
+[<i class="fab fa-github"></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
+[<i class="fa-brands fa-reddit"></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
+[<i class="fas fa-envelope"></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
+<br/>
 *Cheers,* <br/>
-I-Jun  
-
+I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i><br/>
