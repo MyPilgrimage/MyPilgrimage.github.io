@@ -141,7 +141,7 @@ I think I will atleast try to get to the border of The Netherlands, in the South
 Once there I will figure out if I want to return or keep going on the route of the GR12. <br/>
 
 
-![Floris V Path](https://upload.wikimedia.org/wikipedia/commons/f/fe/LAW001_NL_minimap_2021_up02.svg){: .w-50 }_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
+![Floris V Path](/assets/img/LAW-1_3.png){: .w-50 }_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
 
 
 #### Why wait till August?
@@ -193,9 +193,16 @@ It's a very well known Pilgrimage route, which has its advantages, such as hoste
 
 Starting from my parents home near Alkmaar in North-Holland, walking toward Haarlem.  <br/>
 <sup>
-Haarlem is a common starting point of the Pilgrimage, 
-[<i class="fa-brands fa-wikipedia-w"></i> according to "Routes in Belgium and the Netherlands" on Wikipedia  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands)
+Haarlem is a common starting point of the Pilgrimage, <br/>
+[<i class="fa-brands fa-wikipedia-w"></i> according to "Routes in Belgium and the Netherlands" on Wikipedia <sup>ENG</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands) <br/>
+
+[<i class="fa-brands fa-wikipedia-w"></i>Or Amsterdam for the Pilgrims Pad (Pilgrims Path) <sup>NL</sup>   <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Pelgrimspad)
 </sup><br/>
+
+
+![Pilgrims Path](/assets/img/LAW-7.png){: .w-50 }_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 7"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
+
+
 1. From Alkmaar walk towards Haarlem.
 2. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (Visé) in Belgium;
 - Or take a more direct route from Haarlem to Brussels;

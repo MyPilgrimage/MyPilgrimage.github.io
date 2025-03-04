@@ -2,21 +2,29 @@
 
 ## Wikipedia 
 Assets I downloaded from other sources, to be sure my website will display correctly
- - https://en.wikipedia.org/wiki/Camino_de_Santiago
- - https://en.wikipedia.org/wiki/Santiago_de_Compostela
- - https://nl.wikipedia.org/wiki/Floris_V-pad
- - https://en.wikipedia.org/wiki/Pilgrimage
+English Wikipedia:
+- https://en.wikipedia.org/wiki/Camino_de_Santiago
+- https://en.wikipedia.org/wiki/Santiago_de_Compostela
+- https://en.wikipedia.org/wiki/Pilgrimage
+
+Dutch Wikipedia:
+- https://nl.wikipedia.org/wiki/Floris_V-pad
+- https://nl.wikipedia.org/wiki/Pelgrimspad
 
 ----------------------------------------
 ## IMAGE_LIBRARY
+cmd: `dir -n`
 `/assets/`
 - [x] IMG_LOCATION.png 									(IMAGE 404 - Placeholder)
 - [x] PIC_LOCATION.png 									(PICTURE 404 - Placeholder)
 
 `/assets/img/`
-- [x] GoogleMaps-progress_Current-Location.png 			(/2025-01-10-welcome)
-- [x] googleMaps-route-Pilgrimage_of_Compostela.png 	(/about)
-- [x] img_brokenWebsite.png 							(/2025-02-15-live-but-weird)
+- [x] GoogleMaps-progress_Current-Location.png      ( /welcome/ )
+- [x] googleMaps-route-Pilgrimage_of_Compostela.png ( /about/ )
+- [x] img_brokenWebsite.png                         ( /posts/live-but-weird )
+- [x] LAW-1_3.png                                   ( /about/ )
+- [x] LAW-7.png                                     ( /about/ )
+- [x] Welcome.png                                   ( /welcome/ )
 
 <!---->
 ## Changelog
@@ -39,6 +47,14 @@ WELCOME.png
   - Added white outline
   - Resided to 200x105px (1.91:1 1200x630)
  
+NL_MINIMAP.pdn
+- **Asset**
+  - LAW001_NL_minimap_2021_up02.svg
+  - LAW007_NL_minimap_2021_up02.svg
+- **Changes**
+  - Changed Route Colour
+  - Changed Text Colour
+  
 ----------------------------------------
 # /img/branding
 Avatars, Icons (excluding favicons), Banners and more
