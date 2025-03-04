@@ -10,7 +10,7 @@ description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
 ---
 
 > **DAYS_NUMBER** Days to Prepare. [<i class="fa-solid fa-calendar-days"></i> Countdown](https://mypilgrimage.github.io/welcome/#countdown)<br/>
-> *POST_LOCATION*. [<i class="fa-solid fa-location-dot"></i> Map](https://mypilgrimage.github.io/welcome/#current-location) <br/>
+> *POST_LOCATION*. [<i class="fa-solid fa-location-dot"></i> Map](https://mypilgrimage.github.io/welcome/#location) <br/>
 {: .prompt-info }
 
 

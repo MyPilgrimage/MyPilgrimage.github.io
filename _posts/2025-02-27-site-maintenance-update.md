@@ -7,7 +7,7 @@ description: ""
 ---
 
 > **164** Days to Prepare. [<i class="fa-solid fa-calendar-days"></i> Countdown](/welcome/#countdown) <br/>
-> *North-Holland, The Netherlands*. [<i class="fa-solid fa-location-dot"></i> Map](/welcome/#current-location) <br/>
+> *North-Holland, The Netherlands*. [<i class="fa-solid fa-location-dot"></i> Map](/welcome/#location) <br/>
 {: .prompt-info }
 
 
