@@ -8,9 +8,9 @@
 ';
 
 /*MY_CUSTOM_STYLE*/
-/*----------*/
-/*PROMPT*/
-/*----------*/
+/*----------------------*/
+/*  PROMPT 				*/
+/*----------------------*/
 .prompt-link {
 	padding: 0.5rem;
 	background: rgba($color: #40e0d0, $alpha: 0.25);
@@ -22,9 +22,9 @@
 	list-style-type: none;
 }
 
-/*----------*/
-/*DESCRIPTION_BLOCK*/
-/*----------*/
+/*----------------------*/
+/*  DESCRIPTION_BLOCK 	*/
+/*----------------------*/
 .quotation {
 	font-size: 2em;
 }
@@ -34,9 +34,9 @@
 }
 .caption {}
 
-/*----------*/
-/*FONT_STYLE*/
-/*----------*/
+/*----------------------*/
+/*  FONT_STYLE 			*/
+/*----------------------*/
 .font-xs { font-size: 0.5e,; }
 .font-s { font-size: 0.75em; }
 .font-normal { font-size: 1em; }
@@ -46,16 +46,16 @@
 .font-xxl {font-size: 4em; }
 .font-center { text-align: center; }
 
-/*----------*/
-/*ROUNDED_CORNERS*/
-/*----------*/
+/*----------------------*/
+/*  ROUNDED_CORNERS 	*/
+/*----------------------*/
 .rounded-10 { border-radius: 0.625em; }
 .rounded-bottom10 { border-radius: 0 0 0.625em 0.625em; }
 .rounded-20 { border-radius: 1.25em; }
 
-/*----------*/
-/*PHOTO_ALBUM*/
-/*----------*/
+/*----------------------*/
+/*  PHOTO_ALBUM 		*/
+/*----------------------*/
 .img-gallery {
 	background: rgba($color: #777, $alpha: 0.25);
 	border-radius: 0.625em;
@@ -71,10 +71,10 @@
 	text-align: center;
 }
 
-/*----------*/
-/*RESPONSIVE_DESIGN*/
-/*----------*/
-/**SMALL_SCREEN*/
+/*----------------------*/
+/*  RESPONSIVE_DESIGN 	*/
+/*----------------------*/
+/**  SMALL_SCREEN (S) Mobile = No Sidebars; Max-Width: 849px */
 .resp-gallery {
 	padding: 0 0.312em;
 	float: left;
@@ -88,23 +88,23 @@
 	display: table;
 	clear: both;
 }
-/*----------*/
-/**MEDIUM_SCREEN-LEFT_SIDEBAR_ADDED*/
+/*----------------------*/
+/**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
 @media only screen and (max-width: 850px) {
 	.resp-gallery { width: 100%; }
 	.resp-linebreak { display: inline; }
 
 }
-/*----------*/
-/**LARGE_SCREEN-RIGHT_SIDEBAR_ADDED*/
+/*----------------------*/
+/**  LARGE_SCREEN (L) PC = Both Sidebar; Min-Width: 1200px */
 @media only screen and (max-width: 1200px) {
 	.resp-linebreak, .resp-linebreak-M { display: hidden; }
 }
 
-/*----------*/
-/*PERSONALIZED_COLOUR_SCHEME */
-/*----------*/
+/*----------------------*/
+/*  COLOUR_SCHEME 		*/
+/*----------------------*/
 // 
 // 
 // 
-/*----------*/
+/*----------------------*/
