@@ -30,25 +30,34 @@ blockquote[class^="prompt-"]
 /*
 blockquote.prompt-link,
 */
+.prompt-link, 
+.prompt-overview, 
+.prompt-sitemap {
+	border-left: 0;
+	position: relative;
+	padding: 1rem 1rem 1rem 3rem;
+	color: var(--prompt-text-color);
+	border-radius: 10px;
+	background-color: var(--prompt-warning-bg);
+	list-style-type: none;
+	content: "";
+}
+
 .prompt-link {
-	//padding: 0.5rem;
 	background: rgba($color: #40e0d0, $alpha: 0.25);
-	//font-size: inherit;
-	//font-weight: normal;
-	//content: \f0a9;
 }
 /*
 blockquote.prompt-overview,
 */
 .prompt-overview {
-	background-color: var(--prompt-warning-bg);
+// 
 }
 /*
 blockquote.prompt-sitemap, 
 blockquote ul,
 */
 .prompt-sitemap {
-	list-style-type: none;
+// 
 }
 
 /*----------------------*/
