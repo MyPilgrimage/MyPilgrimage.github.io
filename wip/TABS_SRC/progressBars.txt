@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+HEADER
+#layout: default
+-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<h3>Progress</h3>
+<b>Route: </b> <br/>
+<div class="progress-bg">
+	<div onclick="progress-move()" id="progress-route" class="progress-fill" style="width:0%">0</div>
+</div>
+[What Route shall I take?](/welcome/#what-route-shall-i-take) <br/>
+
+<b>Training: </b> <br/>
+<div class="progress-bg" onclick="">
+	<div id="progress-train" class="progress-fill" style="width:25%">25%</div>
+</div>
+[How do I Train?](/welcome/#how-do-i-train) <br/>
+
+<b>Gear: </b> <br/>
+<div class="progress-bg" onclick="">
+	<div id="progress-gear" class="progress-fill" style="width:50%">50%</div>
+</div>
+[What Gear do I need?](/welcome/#what-gear-do-i-need) <br/>
+
+<!-- Progress Bars Script -->
+<script>
+function progress-move() {
+  var progressBar = document.getElementById("progress-route");
+  console.log("width: "+ progressBar.width);
+  var width = progressBar.width;
+  var interval = setInterval(frame, 10);
+  function frame() {
+    if (width >= 100) {
+      clearInterval(interval);
+    } else {
+      width++;
+      progressBar.style.width = width + '%';
+	  progressBar.innerHTML = width * 1  + '%';
+    }
+  }
+}
+</script>
+
+</body>
+<footer>
+<style>
+
+</style>
+</footer>
+</html>

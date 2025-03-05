@@ -83,12 +83,11 @@
 <i class="fa-solid fa-percent"><!--Percent--></i>
 
 
-<!-- ?? -->
-
-
 ----------------------------------------
 ## Checklist
 ----------------------------------------
+CMD: `dir -n`
+`wip/ThirdParty_AweseomFont/`
 - [x] 0-solid.svg 							<!-- PROGRESS_BAR:0 -->
 - [x] 1-solid.svg 							<!-- PROGRESS_BAR:1 -->
 - [x] angle-up-solid.svg 					<!-- SITE:Scroll_Up -->

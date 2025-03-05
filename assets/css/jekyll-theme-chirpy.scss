@@ -28,6 +28,14 @@
 .rounded-20 { border-radius: 1.25em; }
 
 /*----------------------*/
+/*  HOME_PAGE 			*/
+/*----------------------*/
+.post-preview:first-child {
+	border: 4px inline rgba($color: #fff, $alpha: 0.25);
+	background: rgba($color: #fff, $alpha: 0.25);
+}
+
+/*----------------------*/
 /*  PHOTO_ALBUM 		*/
 /*----------------------*/
 .img-gallery {
@@ -54,7 +62,9 @@
 	font-weight: bold;
 	font-size: 0.75em;
 }
-.caption {}
+.caption {
+	border: 5px solid red;
+}
 /*----------------------*/
 /*  PROMPT 				*/
 /*----------------------*/
@@ -97,9 +107,10 @@
 	background: rgba($color: #333, $alpha: 0.25);
 }
 .progress-fill {
-	background: rgb(128, 255, 128);
-	padding: 1em;
+	padding: 0.1em;
 	border-radius: 1.25em;
+	background: rgb(128, 255, 128);
+	color: black;
 	text-align: center;
 }
 /*----------------------*/
