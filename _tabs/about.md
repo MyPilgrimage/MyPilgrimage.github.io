@@ -10,7 +10,7 @@ toc: true
 ## Who am I?
 
 I'm a 32 year old man, living in the Netherlands. <br/>
-I've tried *(multiple times)* to find my "calling in life" *(and failing..)*. 
+I've tried, multiple times, to find my "calling in life" (*and failing..*). 
 Unemployed due to mental-health issues, I had to  move back in with my parents. 
 With no relationship, children, owned-property or other important long term commitments, 
 *I find myself on a crossroad in life.* <br/>
@@ -33,7 +33,7 @@ For all these reasons and more, *I've decided to go on my Pilgrimage.* <br/>
 I'm planning to hoist my backpack on my back and start walking Southward. <br/>
 *Towards the Sun.* <br/>
 
-<i class="fa-solid fa-person-hiking font-xxl"></i>  
+<i class="fa-solid fa-person-hiking"></i><i class="fa-solid fa-mountain-sun"></i>{: .font-xxl .font-center }
 
 
 ## Why this page?
@@ -49,7 +49,8 @@ Also I would like to use this page as my "travel log" or Blog.
 I'm sure there are a lot of people in similar situations as mine.
 This is why I write in English, to lower the language barrier.
 I might translate everything into my native Dutch at one point, but sometimes I feel it's easier to express myself in English.
-And yes I know, my grammar and syntax aren't very good, but that's the same for me in Dutch, **I'm not very talented as a writer.** <br/>
+And yes I know, my grammar and syntax aren't very good, but that's the same for me in Dutch, <br/>
+**I'm not very talented as a writer.** <br/>
 
 
 But if this page could be a point of inspiration, or the push someone else needs to make the first step,
@@ -60,6 +61,7 @@ It would be the greatest thing I've done with my life up to this point. <br/>
 So to all whom find this page, <br/>
 **Welcome!** <br/>
 I hope to inspire you or at the very least, entertain you! <br/>
+
 
 <br/>
 *Cheers,* <br/>
@@ -72,7 +74,7 @@ I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mou
 ![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 }_"Way of St. James pilgrims (1568)"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> Roland zh  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Roland_zh )._
 
 
-### My Principles
+## My Principle
 
 > <i class="fa-solid fa-quote-left quotation"></i> Leave only ash, hair and footprints" <br/>
 <!-- > <sub class="citation"> QUOTE_DESCRIPTION.</sub> <br/> -->
@@ -121,7 +123,8 @@ Simply because it's a known route, it has historical significance (and I love hi
 ### But first I'll do a Trial-Run.
 
 I want to start a Trial-Run this August of 2025. <br/>
-[<i class="far fa-calendar"></i>  See the **countdown**  <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) <br/>
+> [<i class="far fa-calendar"></i>  See the **countdown**  <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) <br/>
+{: .prompt-link }
 This gives me a bit of time to prepare and get my walking gear in order.
 Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. 
 This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br/>
@@ -129,11 +132,11 @@ This will give me ample opportunity to see if I forgot something, need better pr
 
 For this trail run I'm thinking of walking the **Floris V path**, also known as 
 [<i class="fa-brands fa-wikipedia-w"></i> **the "LAW" 1-3**  <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad). 
-i.e. **L**ange **A**fstands **W**andeling (or **L**ong **D**istance **H**ike). <br/>
+(*i.e. **L**ange **A**fstands **W**andeling or **L**ong **D**istance **H**ike*). <br/>
 
 The Floris V path is a part of 
 [<i class="fa-brands fa-wikipedia-w"></i> **the GR12**  <i class="fa-solid fa-up-right-from-square"></i>](https://en.wikipedia.org/wiki/GR_12). 
-i.e. **G**rande **R**andonnée (or **G**reat **H**ike) <br/>
+(*i.e. **G**rande **R**andonnée or **G**reat **H**ike*) <br/>
 
 I think I will atleast try to get to the border of The Netherlands, in the South at the province of Zeeland. 
 Once there I will figure out if I want to return or keep going on the route of **the GR12.** <br/>
@@ -148,15 +151,15 @@ I'm planning to start my Trial-Run on the 10<sup>th</sup> of August. <br/>
 I know it would be smarter to start walking in April/May, I still have a few things I want to do in 2025. <br/>
 
 
-For example; I really want to go to a festival on the first weekend of August. (31<sup>st</sup> of July - 3<sup>th</sup> of August)
-It's called [**Castlefest** <i class="fa-solid fa-up-right-from-square"></i>](https://castlefest.nl/en)
+For example; I really want to go to a festival on the first weekend of August. (*31<sup>st</sup> of July - 3<sup>th</sup> of August*) 
+It's called [**Castlefest** <i class="fa-solid fa-up-right-from-square"></i>](https://castlefest.nl/en) 
 > <i class="fa-solid fa-quote-left quotation"></i> Castlefest is a total experience with lots of music, fantasy writers, themed catering, medieval crafts and a large market which offers everything a fantasy fan could want..." <br/>
 > <sub class="citation"><cite>Castlefest.nl</cite></sub> <br/>
 
 
-The later date also gives me ample opportunity to train and collect my needed gear.
-And I think I don't mind the idea that the weather will get colder and the days shorter on my Trial-Run.
-It feels like I'm preparing for the worst situation, so when I leave for the real Pilgrimage, I will be ready for (*almost*) anything!
+The later date also gives me ample opportunity to train and collect my needed gear. 
+And I think I don't mind the idea that the weather will get colder and the days shorter on my Trial-Run. 
+It feels like I'm preparing for the worst situation, so when I leave for the real Pilgrimage, I will be ready for (*almost*) anything! 
 
 
 #### What Route do I want to take?
@@ -173,7 +176,18 @@ The plan is to start walking from my home near Alkmaar.
 
 #### Quick Trail-Run Route Calculation
 <!--
-
+- **<sup>Avg.</sup> Hours of Walking:** ROUTE_TOTAL_HOURS <small>hr</small> / AVG_WALKING_HOURS <small>hr</small> per day = **TOTAL_WALKING_DAYS days**
+- **<sup>Avg.</sup> Distance to Walk:** ROUTE_TOTAL_DISTANCE <small>km</small> / AVG_WALKING_DISTANCE <small>km</small> per day = **AVG_DAYS_WALKING days** (EXACT_DAYS_WALKING days)
+- **<sup>Avg.</sup> Walking Speed:** ROUTE_TOTAL_DISTANCE <small>km</small> / ROUTE_TOTAL_HOURS <small>hr</small> = **AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>**
+- **Conclusion:** <br/>
+  So I will walk for atleast TOTAL_WALKING_DAYS days, walking AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>, 
+  for AVG_WALKING_HOURS <small>hrs</small>, 
+  while walking a minimum distance of AVG_WALKING_DISTANCE <small>km</small> per day. 
+<br/>
+<sup>
+<sup>
+ CONCLUSION_THOUGHTS
+</sup><br/>
 -->
 > <i class="fa-solid fa-person-digging"></i> More Info and Updates coming soon.
 {: .prompt-warning } 
@@ -190,7 +204,7 @@ It's a very well known Pilgrimage route, which has its advantages, such as hoste
 
 
 Starting from my parents home near Alkmaar in North-Holland, walking toward Haarlem. 
-Haarlem is a common starting point of the Pilgrimage, according to "Routes in Belgium and the Netherlands" on Wikipedia. <br/>
+Haarlem is a common starting point of the Pilgrimage, according to "Routes in Belgium and the Netherlands" on Wikipedia. 
 [<i class="fa-brands fa-wikipedia-w"></i>  Routes in Belgium and the Netherlands <sup>ENG</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands) <br/>
 Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*) 
 [<i class="fa-brands fa-wikipedia-w"></i>  Pilgrims Pad <sup>NL</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Pelgrimspad)
@@ -201,15 +215,13 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 
 
 1. From Alkmaar walk towards Haarlem.
-2. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
-- Or take a more direct route from Haarlem to Brussels;
-3. Then from either Wezet or Brussels to Paris;
-- Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
-But if I do choose to continue; <br/>
+2.A. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
+2.B. Or take a more direct route from Haarlem to Brussels;
+3.A. Then from either Wezet or Brussels to Paris;
+3.B. Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
+  But if I do choose to continue; <br/>
 4. set Paris as my "mid" point and the start of the Pilgrims path **"The Camino Francés"** (*or "French Way"*), <br/>
-<sup>
-  The "French Way" is the easiest route and I don't think I can take a difficult route on my first try.
-</sup><br/>
+<sup> The "French Way" is the easiest route and I don't think I can take a difficult route on my first try.</sup> <br/>
 **As the route is difficult enough as-is!** <br/>
 
 
@@ -217,13 +229,13 @@ But if I do choose to continue; <br/>
 
 
 #### Quick Pilgrimage Route Calculation
-- **<sup>Avg.</sup> Hours of Walking:** 451 <sub>hr</sub> / 5.5 <sub>hr</sub> per day = **82 days**
-- **<sup>Avg.</sup> Distance to Walk:** 1977 <sub>km</sub> / 25 <sub>km</sub> per day = **80 days** (EXACT_DAYS_WALKING)
-- **<sup>Avg.</sup> Walking Speed:** 1977 <sub>km</sub> / 451 <sub>hr</sub> = **4.3 <sup>km</sup>/<sub>hr</sub>**
+- **<sup>Avg.</sup> Hours of Walking:** 451 <small>hr</small> / 5.5 <small>hr</small> per day = **82 days**
+- **<sup>Avg.</sup> Distance to Walk:** 1977 <small>km</small> / 25 <small>km</small> per day = **80 days** (79,08 days)
+- **<sup>Avg.</sup> Walking Speed:** 1977 <small>km</small> / 451 <small>hr</small> = **4.3 <sup>km</sup>/<sub>hr</sub>**
 - **Conclusion:** <br/>
   So I will walk for atleast 82 days, walking 4.3 <sup>km</sup>/<sub>hr</sub>, 
-  for 5.5 <sub>hrs</sub>, 
-  while walking a minimum distance of 25 <sub>km</sub> per day. 
+  for 5.5 <small>hrs</small>, 
+  while walking a minimum distance of 25 <small>km</small> per day. 
 <br/>
 <sup>
 <sup>
@@ -249,7 +261,7 @@ Start walking. A bit further every time.
 ### How am I training?
 
 With music in my ears, I already like walking as a pastime. <br/>
-I have no idea how long I can walk for in <sub>km</sub>, but I can walk at a steady pace for about an hour before my feet hurt. 
+I have no idea how long I can walk for in <small>km</small>, but I can walk at a steady pace for about an hour before my feet hurt. 
 Also I will need to go to my GP, to get a podiatrist to look at my wonky feet. 
 I know I'm not walking correctly, with a bit of "knock-kneed legs" (*or X-legs*). 
 So something like correcting-soles would be a must have, or else I might permanently damage my legs and knees. <br/>
@@ -258,7 +270,7 @@ So something like correcting-soles would be a must have, or else I might permane
 Also I have a small "regimen" of power/endurance training I do bi-daily (every other day) consisting of:
 - 15x Push-Up
 - 15x Sit-Ups
-- 15x 10<sub>kg</sub> halter each arm
+- 15x 10<small>kg</small> halter each arm
 - 10x Squads with halters
 - 60sec Planking <br/>
 <!-- -->
@@ -322,7 +334,7 @@ The rest of my gear I will need to acquire... <br/>
 
 
 The main issue is weight. <br/>
-I could bring my tent with me, but it is a 4 person tent weighing around 20<sub>kg</sub> if not more! 
+I could bring my tent with me, but it is a 4 person tent weighing around 20<small>kg</small> if not more! 
 I do also have a sleeping bag, but it's heavy, thick and not water or windproof. 
 Same goes for pretty much everything I currently have at home. <br/>
 Its either too old and broken, 
@@ -396,7 +408,7 @@ But I do also want some way of contacting family or emergency services.
 - [ ] &nbsp; ...:  <br/>
 
 
-![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 }_"Depiction of Saint James in the 12th century" [<i class="fa-brands fa-wikipedia-w"></i> Codex Calixtinus  <i class="fa-solid fa-up-right-from-square"></i>](https://en.Wikipedia.org/wiki/Codex_Calixtinus).<br/> ~by [<i class="fa-brands fa-flickr"></i> Certo Xornal  <i class="fa-solid fa-up-right-from-square"></i>](https://www.flickr.com/photos/15528381@N02 )._
+![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 }_"Depiction of Saint James in the 12th century" <br/> [<i class="fa-brands fa-wikipedia-w"></i> Codex Calixtinus  <i class="fa-solid fa-up-right-from-square"></i>](https://en.Wikipedia.org/wiki/Codex_Calixtinus).<br/> ~by [<i class="fa-brands fa-flickr"></i> Certo Xornal  <i class="fa-solid fa-up-right-from-square"></i>](https://www.flickr.com/photos/15528381@N02 )._
 
 
 -----
