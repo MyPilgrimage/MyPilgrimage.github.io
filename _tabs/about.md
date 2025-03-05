@@ -212,11 +212,11 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 ![Pilgrims Path: LAW 7](/assets/img/LAW-7.png){: .w-50 }_"Pilgrims Path: LAW 7"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i>  MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
 
 
-1. From Alkmaar walk towards Haarlem.
-2. A. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
-   B. Or take a more direct route from Haarlem to Brussels;
-3. A. Then from either Wezet or Brussels to Paris;
-   B. Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
+1. From Alkmaar walk towards Haarlem. <br/>
+2. *A.* From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium; <br/>
+   *B.* Or take a more direct route from Haarlem to Brussels; <br/>
+3. *A.* Then from either Wezet or Brussels to Paris; <br/>
+   *B.* Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
    But if I do choose to continue; <br/>
 4. set Paris as my "mid" point and the start of the Pilgrims path **"The Camino Francés"** (*or "French Way"*), <br/>
    The "French Way" is the easiest route and I don't think I can take a difficult route on my first try. <br/>
@@ -266,7 +266,7 @@ I know I'm not walking correctly, with a bit of "knock-kneed legs" (*or X-legs*)
 So something like correcting-soles would be a must have, or else I might permanently damage my legs and knees. <br/>
 
 
-Also I have a small "regimen" of power/endurance training I do bi-daily (every other day) consisting of:
+Also I have a small "regimen" of power/endurance training I do bi-daily (*every other day*) consisting of:
 - 15x Push-Up
 - 15x Sit-Ups
 - 15x 10<small>kg</small> halter each arm
@@ -336,7 +336,7 @@ The rest of my gear I will need to acquire... <br/>
 The main issue is weight. <br/>
 I could bring my tent with me, but it is a 4 person tent weighing around 20<small>kg</small> if not more! 
 I do also have a sleeping bag, but it's heavy, thick and not water or windproof. 
-Same goes for pretty much everything I currently have at home. <br/>
+Same goes for pretty much everything I currently have at home.
 Its either too old and broken, 
 Or too thick and heavy. <br/>
 Worst comes to worst I will start my Pilgrimage with these heavier things, and hope I can upgrade along the way. <br/>

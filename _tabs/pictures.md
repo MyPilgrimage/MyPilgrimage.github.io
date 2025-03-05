@@ -22,8 +22,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>A Sunny Sundays Sun</b></cite> <br/>
 	Enjoying the warmth of the sun, while typing and working on this page.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 23-02-2025, 
+	<br class="resp-linebreak"/> 
 	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -37,8 +38,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Witches Bog</b></cite> <br/>
 	I like the rugged mysteriousness in this picture. A thick and low hanging mist made it feel like a Grimm Fairytale. Taken while hiking with my Mothers Walking-group.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 21-01-2025, 
+	<br class="resp-linebreak"/> 
 	<i class="fa-solid fa-location-dot"></i> Dunes of Schoorl. 
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -55,8 +57,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Waterlogged Bench</b></cite> <br/>
 	You can just about see the backrest of a bench in the water. Taken while hiking with my Mothers Walking-group.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 21-01-2025, 
+	<br class="resp-linebreak"/> 
 	<i class="fa-solid fa-location-dot"></i> Dunes of Schoorl. 
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -70,8 +73,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Small Trunk-bridge</b></cite> <br/>
 	A relatively deep ditch that crossed my path. You can see a rope bridge. <i>(which wasn't accessible with my big backpack)</i>. Luckily my boots were waterproof!
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 20-01-2025, 
+	<br class="resp-linebreak"/> 
 	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -93,8 +97,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Camping Tent</b></cite> <br/>
 	The current <i>(way to heavy)</i> tent I use on vacation.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 04-06-2024, 
+	<br class="resp-linebreak"/> 
 	<i class="fa-solid fa-location-dot"></i> Weert Brabant. 
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -108,8 +113,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>High Water</b></cite> <br/>
 	Normally this is all sand-dunes, but now it's flooded by recent heavy rain.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 20-05-2024, 
+	<br class="resp-linebreak"/> 
 	<i class="fa-solid fa-location-dot"></i> Dunes of Schoorl. 
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -132,8 +138,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>A small Campfire</b></cite> <br/>
 	A caption campfire while on vacation with friends.  
-	<br class="resp-linebreak-m"/> 
+	<hr/>
 	<i class="far fa-calendar"></i> 29-05-2023, 
+	<br class="resp-linebreak"/> 
 	<i class="fa-solid fa-location-dot"></i> Utrechtse Heuvelrug. 
 	<br class="resp-linebreak-m"/> 
 	<i class="fa-solid fa-camera"></i> Taken by Morgan. 
@@ -147,8 +154,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Camping Camp</b></cite> <br/>
 	Our small camp while on vacation with friends. 
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 27-05-2023, 
+	<br class="resp-linebreak"/> 
 	<i class="fa-solid fa-location-dot"></i> Utrechtse Heuvelrug. 
 	<br class="resp-linebreak-m"/>
 	<i class="fa-solid fa-camera"></i> Taken by Koen. 
@@ -170,8 +178,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Sundown</b></cite> <br/>
 	I like the Dutch skies, especially the colours that appear at dusk and dawn.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 28-02-2022, 
+	<br class="resp-linebreak"/> 
 	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -185,8 +194,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Godray</b></cite> <br/>
 	A nice sunbeam, or godray, casting long shadows over the green grass.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 26-02-2022, 
+	<br class="resp-linebreak"/> 
 	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -203,8 +213,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Twilight Path</b></cite> <br/>
 	I like the contrast between the colourful sky, with its pink and peach, opposed to the gray and brown branches of the trees and ground.
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 12-01-2022, 
+	<br class="resp-linebreak"/> 
 	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -218,8 +229,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Twilight</b></cite> <br/>
 	Same as the Twilight Path photo, but more emphasis on the Dark-Light contrast. 
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 12-01-2022, 
+	<br class="resp-linebreak"/> 
 	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -241,8 +253,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>Autumn Wilderness</b></cite> <br/>
 	I love the brown and yellow autumn-colours in this picture. 
-	<br class="resp-linebreak-m"/>
+	<hr/>
 	<i class="far fa-calendar"></i> 06-11-2021, 
+	<br class="resp-linebreak"/> 
 	<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
 	<!-- <br class="resp-linebreak-m"/> -->
 	<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
@@ -256,8 +269,9 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
   <figcaption class="gallery-caption">
 	<cite><b>The Dutch Lowlands</b></cite> <br/>
 	On vacation in the Netherlands. 
-	<br class="resp-linebreak-m"/> 
+	<hr/>
 	<i class="far fa-calendar"></i> 06-08-2021 
+	<br class="resp-linebreak"/> 
 	<i class="fa-solid fa-location-dot"></i> Brabant. 
 	<br class="resp-linebreak-m"/> 
 	<i class="fa-solid fa-camera"></i> Taken by Neill. 

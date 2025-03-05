@@ -31,8 +31,9 @@
 /*  HOME_PAGE 			*/
 /*----------------------*/
 #post-list article:first-child a {
-	border: 4px inline rgba($color: #80ff80, $alpha: 0.25);
-	background: rgba($color: #fff, $alpha: 0.25);
+	/* border: 4px inline rgba($color: #80ff80, $alpha: 0.25); */
+	/* background: rgba($color: #fff, $alpha: 0.25); */
+	background: rgb(123, 247, 144, 0.2); !important
 }
 
 /*----------------------*/
