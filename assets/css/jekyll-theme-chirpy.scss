@@ -69,6 +69,13 @@
 	background-color: var(--prompt-warning-bg);
 	content: "";
 }
+
+.prompt-link h3, 
+.prompt-overview h3, 
+.prompt-sitemap h3 {
+	margin: 0 0 0.5em 0;
+}
+
 .prompt-link ul, 
 .prompt-overview ul, 
 .prompt-sitemap ul {
@@ -77,6 +84,23 @@
 }
 .prompt-link {
 	background: rgba($color: #40e0d0, $alpha: 0.25);
+}
+
+/*----------------------*/
+/*  QUICK_OVERVIEW 	*/
+/*----------------------*/
+.prompt-overview img {
+	width: 150px; 
+	height: 150px;
+}
+.progress-bg {
+	background: rgba($color: #333, $alpha: 0.25);
+}
+.progress-fill {
+	background: rgb(128, 255, 128);
+	padding: 1em;
+	border-radius: 1.25em;
+	text-align: center;
 }
 /*----------------------*/
 /*  RESPONSIVE_DESIGN 	*/
@@ -87,8 +111,9 @@
 	float: left;
 	width: 49.99999%;
 }
+.resp-linebreak,
 .resp-linebreak-M {
-	display: inline;
+	display: block;
 }
 .clearfix:after {
 	content: "";
@@ -98,16 +123,24 @@
 /*----------------------*/
 /**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
 @media only screen and (max-width: 850px) {
-	.resp-gallery { width: 100%; }
-	.resp-linebreak { display: inline; }
-
+	.resp-gallery { 
+		width: 100%;
+	}
+	.resp-linebreak { 
+		display: block; 
+	}
+	.resp-linebreak-M { 
+		display: hidden; 
+	}
 }
 /*----------------------*/
 /**  LARGE_SCREEN (L) PC = Both Sidebar; Min-Width: 1200px */
 @media only screen and (max-width: 1200px) {
-	.resp-linebreak, .resp-linebreak-M { display: hidden; }
+	.resp-linebreak,
+	.resp-linebreak-M { 
+		display: hidden; 
+	}
 }
-
 /*----------------------*/
 /*  COLOUR_SCHEME 		*/
 /*----------------------*/

@@ -3,14 +3,11 @@ title: Sitewide Maintenance
 date: 2025-01-09 09:09:09 +0100
 categories: [Site, Update]
 tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer, pictures, site]
-image:
- path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
- alt: "ALT_NAME"
-description: "POST_DESCRIPTION"
+description: ""
 pin: true
 toc: false
-hidden: false
-unpublished: false
+hidden: true
+unpublished: true
 ---
 
 > **DAYS_NUMBER** Days to Prepare. [<i class="fa-solid fa-calendar-days"></i> Countdown](/welcome/#countdown) <br/>
@@ -30,9 +27,11 @@ For the moment this means taking down the site periodically.
 I'm hoping that, once this update is complete, I can shift to a better development standart.
 (i.e. Develop locally on my Dev-Branch, hopefully without breaking the sites dependencies this time 😅 )
 
-More information soon
+> More information soon!
+{: .prompt-warning }
 
 
+<br/>
 *Cheers,* <br/>
 I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i><br/>
 [<i class="fab fa-github"></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>

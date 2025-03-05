@@ -24,7 +24,11 @@ For the moment this means taking down the site periodically.
 I'm hoping that, once this update is complete, I can shift to a better development standart.
 (i.e. Develop locally on my Dev-Branch, hopefully without breaking the sites dependencies this time 😅 )
 
+> More information soon!
+{: .prompt-warning }
 
+
+<br/>
 *Cheers,* <br/>
 I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i><br/>
 [<i class="fab fa-github"></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>

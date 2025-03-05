@@ -38,9 +38,9 @@ I'm planning to hoist my backpack on my back and start walking Southward. <br/>
 
 ### My Principles
 
-> <i class="fa-solid fa-quote-left .quotation"></i> Leave only ash, hair and footprints" <br/>
-<!-- > <sub> QUOTE_DESCRIPTION.</sub>{: .citation } <br/> -->
-<!-- > <sub> ~QUOTE_AUTHOR, <cite>QUOTE_ORIGIN</cite></sub>{: .citation } <br/>-->
+> <i class="fa-solid fa-quote-left quotation"></i> Leave only ash, hair and footprints" <br/>
+<!-- > <sub class="citation"> QUOTE_DESCRIPTION.</sub> <br/> -->
+<!-- > <sub class="citation"> ~QUOTE_AUTHOR, <cite>QUOTE_ORIGIN</cite></sub> <br/> -->
 
 
 Based on [the **L**eave **n**o **T**race principle.  <i class="fa-solid fa-up-right-from-square"></i>](https://lnt.org/why/7-principles/) <br/>
@@ -89,7 +89,7 @@ So to all whom find this page, <br/>
 **Welcome!** <br/>
 I hope to inspire you or at the very least, entertain you! <br/>
 
-
+<br/>
 *Cheers,* <br/>
 I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mountain-sun"></i> <br/>
 [<i class="fab fa-github"></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
@@ -152,8 +152,8 @@ I know it would be smarter to start walking in April/May, I still have a few thi
 
 For example; I really want to go to a festival on the first weekend of August. (31<sup>st</sup> of July - 3<sup>th</sup> of August)
 It's called [**Castlefest** <i class="fa-solid fa-up-right-from-square"></i>](https://castlefest.nl/en)
-> <i class="fa-solid fa-quote-left .quotation"></i> Castlefest is a total experience with lots of music, fantasy writers, themed catering, medieval crafts and a large market which offers everything a fantasy fan could want..." <br/>
-> <sub> <cite>Castlefest.nl</cite></sub>{: .citation } <br/>
+> <i class="fa-solid fa-quote-left quotation"></i> Castlefest is a total experience with lots of music, fantasy writers, themed catering, medieval crafts and a large market which offers everything a fantasy fan could want..." <br/>
+> <sub class="citation"><cite>Castlefest.nl</cite></sub> <br/>
 
 
 The later date also gives me ample opportunity to train and collect my needed gear.
@@ -338,8 +338,8 @@ Worst comes to worst I will start my Pilgrimage with these heavier things, and h
 
 
 > <i class="fa-solid fa-quote-left quotation"></i> Don't be a fool Mr. Baggins if you can help it." <br/>
-> <sub> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier.</sub>{: .citation } <br/>
-> <sub> ~J.R.R. Tolkien, <cite>The Hobbit</cite></sub>{: .citation } <br/>
+> <sub class="citation"> Gandalf speaking to Bilbo who called the skin-changer Beorn a Furrier.</sub> <br/>
+> <sub class="citation"> ~J.R.R. Tolkien, <cite>The Hobbit</cite></sub> <br/>
 
 
 ![Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771](https://upload.wikimedia.org/wikipedia/commons/5/50/Man_wearing_pilgrim_clothing%2C_450-425_BC%2C_Prague_NM-HM10_771%2C_151792.jpg){: .w-50 }_"Man wearing pilgrim clothing. 450 - 425 BC. Prague, NM-HM10 771."<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> Zde  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Zde )._
