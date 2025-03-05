@@ -137,8 +137,8 @@
 }
 /*----------------------*/
 /**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
-// @media only screen and (max-width: 850px) {
-@media only screen and (min-width: 850px), (max-width: 1199px) {
+// @media only screen and (min-width: 850px), (max-width: 1199px) {
+@media only screen and (max-width: 850px) {
 	.resp-gallery { 
 		width: 100%;
 	}
@@ -151,8 +151,8 @@
 }
 /*----------------------*/
 /**  LARGE_SCREEN (L) PC = Both Sidebar; Min-Width: 1200px */
-// @media only screen and (max-width: 1200px) {
-@media only screen and (min-width: 1200px) {
+// @media only screen and (min-width: 1200px) {
+@media only screen and (max-width: 1200px) {
 	.resp-linebreak { 
 		display: none; 
 	}
