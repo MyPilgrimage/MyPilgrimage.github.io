@@ -36,20 +36,26 @@ HEADER
 
 <!-- Progress Bars Script -->
 <script>
-	function progressMove() {
-	  var progressBar = document.getElementById("progressRoute");
-	  var width = progressBar.style.width;
-	  var interval = setInterval(updateBar, 10);
-	  function updateBar() {
-		if (width >= 100) {
-		  clearInterval(interval);
-		} else {
-		  width++;
-		  progressBar.style.width = width + '%';
-		  progressBar.innerHTML = width * 1  + '%';
-		}
+  function progressMove() {
+    var progressBar = document.getElementById("progressRoute");
+	var width;
+	var interval = setInterval(updateBar, 20);
+	console.log("progressBar.style.width: "+progressBar.style.width);
+	if (progressBar.style.width != null && progressBar.style.width != undefined ) {
+	  width = progressBar.style.width;
+	} else {
+	  width = 0;
+	}
+	function updateBar() {
+	  if (width >= 100) {
+	    clearInterval(interval);
+	  } else {
+	    width++;
+		progressBar.style.width = width + '%';
+		progressBar.innerHTML = width * 1  + '%';
 	  }
-}
+    }
+  }
 </script>
 
 </body>

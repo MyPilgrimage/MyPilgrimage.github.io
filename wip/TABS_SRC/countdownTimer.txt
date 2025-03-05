@@ -4,8 +4,6 @@
 <!--
 HEADER
 #layout: default
-icon: fa-solid fa-calendar
-order: 3
 -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,31 +13,28 @@ order: 3
 <b id="countdownTimer"></b>
 
 <script>
-var countDownDate = new Date("Aug 10, 2025 00:00:00").getTime();	/* Set the date we're counting down to */
-var x = setInterval(function() {	/* Update the count down every 1 second */ 
-  var now = new Date().getTime();	/* Get today's date and time */ 
-  var distance = countDownDate - now;	/* Find the distance between now and the count down date */
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));	/* Time calculations for days, hours, minutes and seconds */
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-  document.getElementById("countdownTimer").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";	/* Output the result in an element with id="countdownTimer" */
-  if (distance < 0) {	/* If the count down is over, write some text */
-	clearInterval(x);
-	document.getElementById("countdownTimer").innerHTML = "On my Way!";
-  }
-}, 1000);
+  var countDownDate = new Date("Aug 10, 2025 00:00:00").getTime();
+  var countDownTimer = document.getElementById("countdownTimer");
+  var x = setInterval(function() {
+    var currentDate = new Date().getTime();
+	var distance = countDownDate - currentDate;
+	var days = Math.floor(distance / (1000 * 60 * 60 * 24));    
+	var hours = Math.floor( (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60) );
+	var minutes = Math.floor( (distance % (1000 * 60 * 60)) / (1000 * 60) );
+	var seconds = Math.floor( (distance % (1000 * 60)) / 1000 );
+	countDownTimer.innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+	if (distance < 0) {
+	  clearInterval(x);
+	  countDownTimer.innerHTML = "On my Way!";
+	}
+  }, 1000);
 </script>
 
 
 </body>
 <footer>
 <style>
-// #countdownTimer {
-// 	text-align: center;
-// 	font-size: 3em;
-// 	margin-top: 0px;
-// }
+
 </style>
 </footer>
 </html>

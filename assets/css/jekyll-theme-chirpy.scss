@@ -30,7 +30,7 @@
 /*----------------------*/
 /*  HOME_PAGE 			*/
 /*----------------------*/
-.post-list:first-child {
+#post-list:first-child {
 	border: 4px inline rgba($color: #80ff80, $alpha: 0.25);
 	background: rgba($color: #fff, $alpha: 0.25);
 }
@@ -95,23 +95,25 @@
 .prompt-link {
 	background: rgba($color: #40e0d0, $alpha: 0.25);
 }
-
-/*----------------------*/
-/*  QUICK_OVERVIEW 	*/
-/*----------------------*/
 .prompt-overview img {
 	width: 150px; 
 	height: 150px;
 }
-.progress-bg {
+
+/*----------------------*/
+/*  PROGRESS_BARS	 	*/
+/*----------------------*/
+.progress-bg,
+.progress-fill {
+	padding: 0.01em;
+	border-radius: 1.25em;
 	background: rgba($color: #333, $alpha: 0.25);
+	color: black;
+	text-align: center;
 }
 .progress-fill {
 	padding: 0.1em;
-	border-radius: 1.25em;
 	background: #80ff80;
-	color: black;
-	text-align: center;
 }
 /*----------------------*/
 /*  RESPONSIVE_DESIGN 	*/
