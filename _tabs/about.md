@@ -121,7 +121,7 @@ Simply because it's a known route, it has historical significance (and I love hi
 ### But first I'll do a Trial-Run.
 
 I want to start a Trial-Run this August of 2025. <br/>
-> [<i class="far fa-calendar"></i>  See the **countdown**  <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) <br/>
+> [<i class="far fa-calendar"></i>  See the **Countdown**  <i class="fa-solid fa-up-right-from-square"></i>](/welcome#quick-overview) <br/>
 {: .prompt-link }
 This gives me a bit of time to prepare and get my walking gear in order.
 Also to train a bit and see if a Pilgrimage is even something I would want to see through to the end. 
@@ -176,9 +176,9 @@ The plan is to start walking from my home near Alkmaar.
 <!--
 - **<sup>Avg.</sup> Hours of Walking:** ROUTE_TOTAL_HOURS <small>hr</small> / AVG_WALKING_HOURS <small>hr</small> per day = **TOTAL_WALKING_DAYS days**
 - **<sup>Avg.</sup> Distance to Walk:** ROUTE_TOTAL_DISTANCE <small>km</small> / AVG_WALKING_DISTANCE <small>km</small> per day = **AVG_DAYS_WALKING days** (EXACT_DAYS_WALKING days)
-- **<sup>Avg.</sup> Walking Speed:** ROUTE_TOTAL_DISTANCE <small>km</small> / ROUTE_TOTAL_HOURS <small>hr</small> = **AVG_WALKING_SPEED <small>km</small>/<sub>hr</sub>**
+- **<sup>Avg.</sup> Walking Speed:** ROUTE_TOTAL_DISTANCE <small>km</small> / ROUTE_TOTAL_HOURS <small>hr</small> = **AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>**
 - **Conclusion:** <br/>
-  So I will walk for atleast TOTAL_WALKING_DAYS days, walking AVG_WALKING_SPEED <small>km</small>/<sub>hr</sub>, 
+  So I will walk for atleast TOTAL_WALKING_DAYS days, walking AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>, 
   for AVG_WALKING_HOURS <small>hrs</small>, 
   while walking a minimum distance of AVG_WALKING_DISTANCE <small>km</small> per day. 
 <br/>
@@ -213,13 +213,15 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 
 
 1. From Alkmaar walk towards Haarlem.
-2.1. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
-2.2. Or take a more direct route from Haarlem to Brussels;
-3.1. Then from either Wezet or Brussels to Paris;
-3.2. Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
-  But if I do choose to continue; <br/>
+2. A. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
+   B. Or take a more direct route from Haarlem to Brussels;
+3. A. Then from either Wezet or Brussels to Paris;
+   B. Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
+   But if I do choose to continue; <br/>
 4. set Paris as my "mid" point and the start of the Pilgrims path **"The Camino Francés"** (*or "French Way"*), <br/>
-<sup> The "French Way" is the easiest route and I don't think I can take a difficult route on my first try.</sup> <br/>
+   The "French Way" is the easiest route and I don't think I can take a difficult route on my first try. <br/>
+
+
 **As the route is difficult enough as-is!** <br/>
 
 
@@ -229,11 +231,11 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 #### Quick Pilgrimage Route Calculation
 - **<sup>Avg.</sup> Hours of Walking:** 451 <small>hr</small> / 5.5 <small>hr</small> per day = **82 days**
 - **<sup>Avg.</sup> Distance to Walk:** 1977 <small>km</small> / 25 <small>km</small> per day = **80 days** (79,08 days)
-- **<sup>Avg.</sup> Walking Speed:** 1977 <small>km</small> / 451 <small>hr</small> = **4.3 <small>km</small>/<sub>hr</sub>**
+- **<sup>Avg.</sup> Walking Speed:** 1977 <small>km</small> / 451 <small>hr</small> = **4.3 <sup>km</sup>/<sub>hr</sub>**
 - **Conclusion:** <br/>
   So I will walk for atleast 82 days, 
   25 <small>km</small> per day 
-  walking 4.3 <small>km</small>/<sub>hr</sub>, 
+  walking 4.3 <sup>km</sup>/<sub>hr</sub>, 
   for 5.5 <small>hrs</small>, <br/>
 <sup>
   This *sounds* doable 
@@ -285,25 +287,26 @@ What are things I want to train for? What do I expect to encounter along the way
 
 #### Making Miles
 
-A Pilgrimage means walking a whole lot, and making a bit of progress is important to keep spirits high. <br/>
+A Pilgrimage means walking a whole lot, and making a bit of progress is important to keep spirits high. 
 From walking 5 <small>km</small> to 10 <small>km</small> to eventually about 20/25 <small>km</small> per day. <br/>
 
 
 #### Enduring Elevation
 
-As a Dutchman I'm not used to elevation changes, so I'll need to prepare for this too. <br/>
+As a Dutchman I'm not used to elevation changes, so I'll need to prepare for this too. 
 The plan is to go to the Dunes and practice with elevation and rougher terrain. <br/>
 
 
 #### Beast of Burden
 
-I will need to carry all of my belongings on my back; a tent, sleeping gear, clothes and food are just the basics, and this will easily add-up in weight. <br/>
+I will need to carry all of my belongings on my back; 
+a tent, sleeping gear, clothes and food are just the basics, and this will easily add-up in weight. 
 So I need to practice walking with a heavy load on my shoulders. <br/>
 
 
 #### Self-sufficient Survivalist
 
-Being self-sufficient and having a bit of survival knowhow could be very useful on the way. <br/>
+Being self-sufficient and having a bit of survival knowhow could be very useful on the way. 
 So I'll need to educate myself in the way of the survivalist. <br/>
 
 
@@ -357,9 +360,9 @@ My checklist of gear I still need, I already have and I won't need.
 
 #### Must Haves
 
-- [x] &nbsp; Walking boots:  <br/> Army boots, might be too heavy though?
-- [x] &nbsp; Backpack:  <br/> Military Footsoldier backpack, with lumbar-support and thick-padded straps
-- [ ] &nbsp; Tent:  <br/> Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
+- [x] &nbsp; Walking boots:  <br/>  Army boots, might be too heavy though?
+- [x] &nbsp; Backpack:  <br/>  Military Footsoldier backpack, with lumbar-support and thick-padded straps
+- [ ] &nbsp; Tent:  <br/>  Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
 - [ ] &nbsp; Sleeping Gear:  <br/> Lightweight, water and windproof sleeping bag/pillow
 - [ ] &nbsp; Last Resort Ration:  <br/> is maybe something that would be good to have, think along the lines of a protein bar or other energy dense food.
 - [ ] &nbsp; Eating Supplies:  <br/> Utensils, Plate etc. / My own gas burner? or something to cook on?
