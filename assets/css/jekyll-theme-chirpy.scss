@@ -35,24 +35,6 @@
 	/* background: rgba($color: #fff, $alpha: 0.25); */
 	background: rgb(123, 247, 144, 0.2) !important;
 }
-
-/*----------------------*/
-/*  PHOTO_ALBUM 		*/
-/*----------------------*/
-.img-gallery {
-	background: rgba($color: #777, $alpha: 0.25);
-	border-radius: 0.625em;
-}
-.gallery-img {
-	width: 100%;
-	height: auto;
-	margin: 0px 0px 0.5rem 0px;
-	border-radius: 0.625em;
-}
-.gallery-caption {
- 	padding: 0.15em;
-	text-align: center;
-}
 /*----------------------*/
 /*  DESCRIPTION_BLOCK 	*/
 /*----------------------*/
@@ -120,6 +102,28 @@
 	color: white;
 	text-shadow: 1px 1px 2px black, 0 0 5px gray;
 }
+
+/*----------------------*/
+/*  PHOTO_ALBUM 		*/
+/*----------------------*/
+.img-gallery {
+	background: rgba($color: #777, $alpha: 0.25);
+	border-radius: 0.625em;
+}
+.gallery-img {
+	width: 100%;
+	height: auto;
+	margin: 0px 0px 0.5rem 0px;
+	border-radius: 0.625em;
+}
+.gallery-caption {
+ 	padding: 0.15em;
+	text-align: center;
+}
+.gallery-caption hr {
+	margin: 0;
+}
+
 /*----------------------*/
 /*  RESPONSIVE_DESIGN 	*/
 /*----------------------*/
@@ -131,7 +135,7 @@
 }
 .resp-linebreak,
 .resp-linebreak-M {
-	display: inline-block;
+	display: inline;
 }
 .clearfix:after {
 	content: "";
@@ -145,10 +149,10 @@
 		width: 100%;
 	}
 	.resp-linebreak { 
-		display: inline-block; 
+		display: inline; 
 	}
 	.resp-linebreak-M { 
-		display: hidden; 
+		display: none; 
 	}
 }
 /*----------------------*/
@@ -156,7 +160,7 @@
 @media only screen and (max-width: 1200px) {
 	.resp-linebreak,
 	.resp-linebreak-M { 
-		display: hidden; 
+		display: none; 
 	}
 }
 /*----------------------*/
