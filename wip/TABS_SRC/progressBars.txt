@@ -6,62 +6,88 @@ HEADER
 #layout: default
 -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 </head>
 <body>
 
-> ### Progress
-> <b>Route: </b> <br/>
-<!-- > <i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> &nbsp; <progress id="route" value="0" max="100">0%</progress> &nbsp; <i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> <br/> -->
-> <div class="progress-bg">
-	<div id="progressRoute" class="progress-fill" style="width:0%">0%</div>
-> </div>
-> <button onclick="progressMove()">Click Me for Progress</button>
-> [What Route shall I take?](/welcome/#what-route-shall-i-take) <br/>
-> <!-- -->
-> <b>Training: </b> <br/>
-<!-- > <i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> &nbsp; <progress id="train" value="5" max="100">5%</progress> &nbsp; <i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> <br/> -->
-> <div class="progress-bg" onclick="">
-	<div id="progressTrain" class="progress-fill" style="width:25%">25%</div>
-> </div>
-> [How do I Train?](/welcome/#how-do-i-train) <br/>
-> <!--  -->
-> <b>Gear: </b> <br/>
-<!-- > <i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> &nbsp; <progress id="gear" value="10" max="100">10%</progress> &nbsp; <i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> <br/> -->
-> <div class="progress-bg" onclick="">
-	<div id="progressGear" class="progress-fill" style="width:50%">50%</div>
-> </div>
-> [What Gear do I need?](/welcome/#what-gear-do-i-need) <br/>
-{: .prompt-overview .resp-gallery}
-
-<!-- Progress Bars Script -->
-<script>
-  function progressMove() {
-    var progressBar = document.getElementById("progressRoute");
-	var width;
-	var interval = setInterval(updateBar, 20);
-	console.log("progressBar.style.width: "+progressBar.style.width);
-	if (progressBar.style.width != null && progressBar.style.width != undefined ) {
-	  width = progressBar.style.width;
-	} else {
-	  width = 0;
-	}
-	function updateBar() {
-	  if (width >= 100) {
-	    clearInterval(interval);
-	  } else {
-	    width++;
-		progressBar.style.width = width + '%';
-		progressBar.innerHTML = width * 1  + '%';
-	  }
-    }
-  }
-</script>
+<div class="progress-bg">
+	<div id="progressRoute" class="progress-fill" style="width:20%">
+		20%
+	/div>
+</div>
+<br/>
+<button class="" onclick="progressMove()">
+	Click Me
+</button>
+<br/>
 
 </body>
 <footer>
+<script>
+
+function progressMove() {
+	var progressBar = document.getElementById("progressRoute");   
+	var width = 20;
+	if (progressBar.style.width != null && progressBar.style.width != undefined ) {
+		width = progressBar.style.width;
+	} else {
+		width = 0;
+	}
+	var interv = setInterval(updateFrame, 20);
+	function updateFrame() {
+		if (width >= 100) {
+			clearInterval(interv);
+		} else {
+			width++; 
+			progressBar.style.width = width + '%'; 
+			progressBar.innerHTML = width * 1  + '%';
+		}
+	}
+}
+
+</script>
 <style>
+
+.progress-bg,
+.progress-fill {
+	padding: 0.01em;
+	border-radius: 1.25em;
+	background: rgba($color: #333, $alpha: 0.25);
+	color: black;
+}
+.progress-fill {
+	padding: 0.1em;
+	background: #80ff80;
+}
 
 </style>
 </footer>
 </html>
+
+<body>
+
+<h3>Progress</h3>
+<b>Route: </b> <br/><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> &nbsp; <progress id="route" value="0" max="100">0%</progress> &nbsp; <i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> <br/>
+<b>Training: </b> <br/><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> &nbsp; <progress id="train" value="5" max="100">5%</progress> &nbsp; <i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> <br/> 
+<b>Gear: </b> <br/><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> &nbsp; <progress id="gear" value="10" max="100">10%</progress> &nbsp; <i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-0"></i><i class="fa-solid fa-percent"></i> <br/>
+
+</body>
+<!-- Progress Bars Script -->
+<script>
+
+function progressMove() {
+	var progressBar = document.getElementById("progressRoute");
+	var width;
+	var interval = setInterval(updateBar, 20);
+	console.log("progressBar.style.width: "+progressBar.style.width);
+
+	function updateBar() {
+		if (width >= 100) {
+			clearInterval(interval);
+		} else {
+			width++;
+			progressBar.style.width = width + '%';
+			progressBar.innerHTML = width * 1  + '%';
+		}
+	}
+}
+</script>
