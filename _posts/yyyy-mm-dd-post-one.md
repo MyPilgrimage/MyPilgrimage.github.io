@@ -7,13 +7,49 @@ image:
  path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
  alt: "ALT_NAME  PICTURE_DESCRIPTION.  PICTURE_LOCATION  PICTURE_DD_MM_YYYY  PICTURE_TAKEN_BY"
 description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
-hidden: false
+hidden: true
 published: true
 ---
 
 > <i class="fa-solid fa-calendar-days"></i> **DAYS_NUMBER** Days to Prepare. [Countdown <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#countdown) <br/>
 > <i class="fa-solid fa-location-dot"></i> *POST_LOCATION*. [Map <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#location) <br/>
 {: .prompt-info }
+
+## Progress
+
+<div>
+<button class="" onclick="progressMove()">Increase Progress</button>
+<b>Route: </b>
+<br/>
+[What Route shall I take?](/welcome/#what-route-shall-i-take) <br/>
+<div class="progress-bg"> <div id="progressRoute" class="progress-fill" style="width:0%">0%</div> </div>
+
+<script>
+function progressMove() {
+	const progressBar = document.getElementById("progressRoute");   
+	let width = 20;
+	if (progressBar.style.width != null && progressBar.style.width != undefined ) {
+		let newWidth = progressBar.style.width;
+		newWidth = newWidth.replace(/%/g, "");
+		width = newWidth;
+	} else {
+		width = 0;
+	}
+	let interv = setInterval(updateFrame, 20);
+	function updateFrame() {
+		if (width >= 100) {
+			progressBar.innerHTML = '<b>COMPLETED!</b>';
+			clearInterval(interv);
+
+		} else {
+			width++; 
+			progressBar.style.width = width + '%'; 
+			progressBar.innerHTML = width * 1  + '%';
+		}
+	}
+}
+</script>
+</div>
 
 
 ## Results
@@ -51,14 +87,16 @@ published: true
 	<img class="normal" src="https://MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME">
 	<figcaption class="caption">
 		<cite><b>ALT_NAME</b></cite> <br/>
-		PICTURE_DESCRIPTION. 
-		<br/>
-		<small class="font-center">
-			<i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY. 
-			<i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. 
+		PICTURE_DESCRIPTION.
+		<hr/>
+		<small class="normal" style="text-align:left;">
+			<i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY.
+			<br class="resp-linebreak"/>
+			<i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION.
 			<br class="resp-linebreak-m"/>
-			<i class="fa-solid fa-camera"></i> taken by PICTURE_TAKEN_BY. 
-			<i class="fa-solid fa-tag"></i><a href="https://mypilgrimage.github.io/404/"> PICTURE_POST_ORIGIN. </a> 
+			<i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY.
+			<br class="resp-linebreak"/>
+			<i class="fa-solid fa-tag"></i> <a href="https://mypilgrimage.github.io/404/"> PICTURE_POST_ORIGIN. </a> .
 		</small>
 	</figcaption>
 > </figure> 
@@ -67,36 +105,40 @@ published: true
 `gallery`
 <div class="resp-gallery">
 <figure class="img-gallery">
-  <img src="https://MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME" class="gallery-img">
-  <figcaption class="gallery-caption">
+	<img src="https://MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME" class="gallery-img">
+	<figcaption class="gallery-caption">
 		<cite><b>ALT_NAME</b></cite> <br/>
 		PICTURE_DESCRIPTION. 
-		<br/>
-		<small class="font-center">
-			<i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY. 
-			<i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. 
+		<hr/>
+		<small class="normal" style="text-align:left;">
+			<i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY.
+			<br class="resp-linebreak"/>
+			<i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION.
 			<br class="resp-linebreak-m"/>
-			<i class="fa-solid fa-camera"></i> taken by PICTURE_TAKEN_BY. 
-			<i class="fa-solid fa-tag"></i><a href="https://mypilgrimage.github.io/404/"> PICTURE_POST_ORIGIN. </a> 
+			<i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY.
+			<br class="resp-linebreak"/>
+			<i class="fa-solid fa-tag"></i> <a href="https://mypilgrimage.github.io/404/"> PICTURE_POST_ORIGIN. </a> .
 		</small>
-  </figcaption>
+	</figcaption>
 </figure> 
 </div>
 <div class="resp-gallery">
 <figure class="img-gallery">
-  <img src="https://MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME" class="gallery-img">
-  <figcaption class="gallery-caption">
+	<img src="https://MyPilgrimage.github.io/assets/IMG_LOCATION.png" alt="ALT_NAME" class="gallery-img">
+	<figcaption class="gallery-caption">
 		<cite><b>ALT_NAME</b></cite> <br/>
 		PICTURE_DESCRIPTION. 
-		<br/>
-		<small class="font-center">
-			<i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY. 
-			<i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. 
+		<hr/>
+		<small class="normal" style="text-align:left;">
+			<i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY.
+			<br class="resp-linebreak"/>
+			<i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION.
 			<br class="resp-linebreak-m"/>
-			<i class="fa-solid fa-camera"></i> taken by PICTURE_TAKEN_BY. 
-			<i class="fa-solid fa-tag"></i><a href="https://mypilgrimage.github.io/404/"> PICTURE_POST_ORIGIN. </a>
+			<i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY.
+			<br class="resp-linebreak"/>
+			<i class="fa-solid fa-tag"></i> <a href="https://mypilgrimage.github.io/404/"> PICTURE_POST_ORIGIN. </a> .
 		</small>
-  </figcaption>
+	</figcaption>
 </figure> 
 </div>
 <!--ROW_END-->
