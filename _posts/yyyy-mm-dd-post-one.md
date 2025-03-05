@@ -7,7 +7,7 @@ image:
  path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
  alt: "ALT_NAME  PICTURE_DESCRIPTION.  PICTURE_LOCATION  PICTURE_DD_MM_YYYY  PICTURE_TAKEN_BY"
 description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
-hidden: true
+hidden: false
 published: true
 ---
 
