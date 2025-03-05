@@ -36,34 +36,6 @@ I'm planning to hoist my backpack on my back and start walking Southward. <br/>
 <i class="fa-solid fa-person-hiking font-xxl"></i>  
 
 
-### My Principles
-
-> <i class="fa-solid fa-quote-left quotation"></i> Leave only ash, hair and footprints" <br/>
-<!-- > <sub class="citation"> QUOTE_DESCRIPTION.</sub> <br/> -->
-<!-- > <sub class="citation"> ~QUOTE_AUTHOR, <cite>QUOTE_ORIGIN</cite></sub> <br/> -->
-
-
-Based on [the **L**eave **n**o **T**race principle.  <i class="fa-solid fa-up-right-from-square"></i>](https://lnt.org/why/7-principles/) <br/>
-The Idea is that I don't want to make a negative impact on the world around me. My travels and existence should not hinder nature or anybody else.
-I already practice this principle in my day-to-day life, always making sure I do not leave anything behind. <br/>
-
-
-So why the addition of **Ash** and **Hair**? <br/>
-I like to smoke a cigarette, and while the filter will go into the bin, I don't think the little bits of cigarette-ash that falls off will have an impact. (feel free to correct me if I'm wrong!)
-Another thing is my long hair. Every human being sheds hair, skin follicles, sweat etc. These last two are harder to see with the naked-eye. But my long hair is sometimes noticeable if I brush my hair outside.
-Again I don't think these few hairs will have any meaningful impact on nature nor the place I'm at. <br/>
-
-
-Of Course I can not NOT leave foot-prints while walking. 
-But I think I do need to permit myself to "exist" and leave traces of my existence.
-So along with the ash and hair I will leave behind on the regular, these are the "necessary evils" of me wanting to hike and travel.
-But if I can help it, I want to leave the places I've been, better than I found them. <br/>
-
-**Cleaning my own garbage is the least I can do!**
-
-
------
-
 ## Why this page?
 
 This page is my progress-tracker, I will post my preparations and training. <br/>
@@ -98,6 +70,32 @@ I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mou
 
 
 ![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 }_"Way of St. James pilgrims (1568)"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> Roland zh  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Roland_zh )._
+
+
+### My Principles
+
+> <i class="fa-solid fa-quote-left quotation"></i> Leave only ash, hair and footprints" <br/>
+<!-- > <sub class="citation"> QUOTE_DESCRIPTION.</sub> <br/> -->
+<!-- > <sub class="citation"> ~QUOTE_AUTHOR, <cite>QUOTE_ORIGIN</cite></sub> <br/> -->
+
+
+Based on [the **L**eave **n**o **T**race principle.  <i class="fa-solid fa-up-right-from-square"></i>](https://lnt.org/why/7-principles/) <br/>
+The Idea is that I don't want to make a negative impact on the world around me. My travels and existence should not hinder nature or anybody else.
+I already practice this principle in my day-to-day life, always making sure I do not leave anything behind. <br/>
+
+
+So why the addition of **Ash** and **Hair**? <br/>
+I like to smoke a cigarette, and while the filter will go into the bin, I don't think the little bits of cigarette-ash that falls off will have an impact. (feel free to correct me if I'm wrong!)
+Another thing is my long hair. Every human being sheds hair, skin follicles, sweat etc. These last two are harder to see with the naked-eye. But my long hair is sometimes noticeable if I brush my hair outside.
+Again I don't think these few hairs will have any meaningful impact on nature nor the place I'm at. <br/>
+
+
+Of Course I can not NOT leave foot-prints while walking. 
+But I think I do need to permit myself to "exist" and leave traces of my existence.
+So along with the ash and hair I will leave behind on the regular, these are the "necessary evils" of me wanting to hike and travel.
+But if I can help it, I want to leave the places I've been, better than I found them. <br/>
+
+**Cleaning my own garbage is the least I can do!**
 
 
 -----
