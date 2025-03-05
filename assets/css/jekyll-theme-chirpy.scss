@@ -88,19 +88,21 @@
 /*----------------------*/
 .progress-bg,
 .progress-fill {
-	max-height: 1.75em;
-	overflow-y: hidden;
-	overflow-x: visible;
-	padding: 0.025em;
+//	overflow-wrap: normal;
+//	overflow-x: visible;
 	border-radius: 1.25em;
-	background: gray; 
-	//background: rgba($color: #333, $alpha: 0.25);
+	background: rgba($color: #aaa, $alpha: 0.25);
 }
 .progress-fill {
-	padding-left: 0.1em;
+	height: 1.75em;
+	min-width: fit-content;
+	overflow-wrap: normal;
+//	overflow-y: hidden;
+//	overflow-x: visible;
+	padding-left: 0.2em;
 	background: #80ff80;
-	color: white;
-	text-shadow: 1px 1px 2px black, 0 0 5px gray;
+	color: #fff;
+	text-shadow: 1px 1px 2px #000, 0 0 5px #999;
 }
 
 /*----------------------*/
@@ -133,7 +135,6 @@
 	float: left;
 	width: 49.99999%;
 }
-.resp-linebreak,
 .resp-linebreak-M {
 	display: inline;
 }
@@ -144,7 +145,8 @@
 }
 /*----------------------*/
 /**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
-@media only screen and (max-width: 850px) {
+// @media only screen and (max-width: 850px) {
+@media only screen and (min-width: 850px), (max-width: 1199px) {
 	.resp-gallery { 
 		width: 100%;
 	}
@@ -157,9 +159,9 @@
 }
 /*----------------------*/
 /**  LARGE_SCREEN (L) PC = Both Sidebar; Min-Width: 1200px */
-@media only screen and (max-width: 1200px) {
-	.resp-linebreak,
-	.resp-linebreak-M { 
+// @media only screen and (max-width: 1200px) {
+@media only screen and (min-width: 1200px) {
+	.resp-linebreak { 
 		display: none; 
 	}
 }
