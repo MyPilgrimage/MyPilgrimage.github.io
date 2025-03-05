@@ -129,19 +129,19 @@ Also to train a bit and see if a Pilgrimage is even something I would want to se
 This will give me ample opportunity to see if I forgot something, need better preparations, or change my plan entirely. <br/>
 
 
-For this trail run I'm thinking of walking the **Floris V path**, also known as [<i class="fa-brands fa-wikipedia-w"></i> **the "LAW" 1-3**  <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad) <br/>
-<sup>
-  **L**ange **A**fstands **W**andeling (or **L**ong **D**istance **H**ike)
-</sup><br/>
-And is part of [<i class="fa-brands fa-wikipedia-w"></i> **the GR12**  <i class="fa-solid fa-up-right-from-square"></i>](https://en.wikipedia.org/wiki/GR_12) <br/>
-<sup>
-  See [<i class="fa-brands fa-wikipedia-w"></i> **G**rande **R**andonnée or  **G**reat **H**ike  <i class="fa-solid fa-up-right-from-square"></i>](https://en.wikipedia.org/wiki/GR_footpath)
-</sup><br/>
+For this trail run I'm thinking of walking the **Floris V path**, also known as 
+[<i class="fa-brands fa-wikipedia-w"></i> **the "LAW" 1-3**  <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Floris_V-pad). 
+i.e. **L**ange **A**fstands **W**andeling (or **L**ong **D**istance **H**ike). <br/>
+
+The Floris V path is a part of 
+[<i class="fa-brands fa-wikipedia-w"></i> **the GR12**  <i class="fa-solid fa-up-right-from-square"></i>](https://en.wikipedia.org/wiki/GR_12). 
+i.e. **G**rande **R**andonnée (or **G**reat **H**ike) <br/>
+
 I think I will atleast try to get to the border of The Netherlands, in the South at the province of Zeeland. 
-Once there I will figure out if I want to return or keep going on the route of the GR12. <br/>
+Once there I will figure out if I want to return or keep going on the route of **the GR12.** <br/>
 
 
-![Floris V Path](/assets/img/LAW-1_3.png){: .w-50 }_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 1-3"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
+![Floris V Path: LAW 1-3](/assets/img/LAW-1_3.png){: .w-50 }_"Floris V Path: LAW 1-3"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
 
 
 #### Why wait till August?
@@ -184,27 +184,26 @@ The plan is to start walking from my home near Alkmaar.
 ### The real Pilgrimage Route. 
 
 The Trial-Run is in preparation for the real Pilgrimage. 
-I'm thinking of follow the route of [<i class="fa-brands fa-wikipedia-w"></i> Camino de Santiago  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago). 
+I'm thinking of follow the route of [<i class="fa-brands fa-wikipedia-w"></i>  Camino de Santiago  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago). 
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br/>
 
 
 ![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png){: .w-50 }_A [<i class="fa-brands fa-google"></i> Google Map](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the *(expected)* route, distance and time._
 
 
-Starting from my parents home near Alkmaar in North-Holland, walking toward Haarlem.  <br/>
-<sup>
-Haarlem is a common starting point of the Pilgrimage, <br/>
-[<i class="fa-brands fa-wikipedia-w"></i> according to "Routes in Belgium and the Netherlands" on Wikipedia <sup>ENG</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands) <br/>
+Starting from my parents home near Alkmaar in North-Holland, walking toward Haarlem. 
+Haarlem is a common starting point of the Pilgrimage, according to "Routes in Belgium and the Netherlands" on Wikipedia. <br/>
+[<i class="fa-brands fa-wikipedia-w"></i>  Routes in Belgium and the Netherlands <sup>ENG</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands) <br/>
+Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*) 
+[<i class="fa-brands fa-wikipedia-w"></i>  Pilgrims Pad <sup>NL</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Pelgrimspad)
+<br/>
 
-[<i class="fa-brands fa-wikipedia-w"></i>Or Amsterdam for the Pilgrims Pad (Pilgrims Path) <sup>NL</sup>   <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Pelgrimspad)
-</sup><br/>
 
-
-![Pilgrims Path](/assets/img/LAW-7.png){: .w-50 }_"**L**ange **A**fstands **W**andeling (Long Distance Hike) 7"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
+![Pilgrims Path: LAW 7](/assets/img/LAW-7.png){: .w-50 }_"Pilgrims Path: LAW 7"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i>  MarijnBosma  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
 
 
 1. From Alkmaar walk towards Haarlem.
-2. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (Visé) in Belgium;
+2. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
 - Or take a more direct route from Haarlem to Brussels;
 3. Then from either Wezet or Brussels to Paris;
 - Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
@@ -220,19 +219,18 @@ But if I do choose to continue; <br/>
 
 
 #### Quick Pilgrimage Route Calculation
-
-- **<sup>Avg.</sup> Hours of Walking:** 451 <sup>hr</sup> / 5.5 <sup>hr</sup> per day = **82 days**
-- **<sup>Avg.</sup> Distance to Walk:** 1977 <sup>km</sup> / 25 <sup>km</sup> per day = **80 days** (79.08)
-- **<sup>Avg.</sup> Walking Speed:** 1977 <sup>km</sup> / 451 <sup>hr</sup> = **4.3 <sup>km</sup>/<sub>h</sub>**
+- **<sup>Avg.</sup> Hours of Walking:** 451 <sub>hr</sub> / 5.5 <sub>hr</sub> per day = **82 days**
+- **<sup>Avg.</sup> Distance to Walk:** 1977 <sub>km</sub> / 25 <sub>km</sub> per day = **80 days** (EXACT_DAYS_WALKING)
+- **<sup>Avg.</sup> Walking Speed:** 1977 <sub>km</sub> / 451 <sub>hr</sub> = **4.3 <sup>km</sup>/<sub>hr</sub>**
 - **Conclusion:** <br/>
-  Atleast 80 days, walking 4.3 <sup>km</sup>/<sub>h</sub> 
-  for 5½ <!--5<sup>1</sup>/<sub>2</sub>-->hrs,</sup>
-  while walking a minimum distance of AVG_WALKING_DISTANCE <sup>km</sup> per day.<br/>
-<!-- -->
+  So I will walk for atleast 82 days, walking 4.3 <sup>km</sup>/<sub>hr</sub>, 
+  for 5.5 <sub>hrs</sub>, 
+  while walking a minimum distance of 25 <sub>km</sub> per day. 
+<br/>
+<sup>
 <sup>
   This *sounds* doable 
 </sup><br/>
-
 
 ### Thoughts on the Routes
 
@@ -253,7 +251,7 @@ Start walking. A bit further every time.
 ### How am I training?
 
 With music in my ears, I already like walking as a pastime. <br/>
-I have no idea how long I can walk for (in KM), but I can walk at a steady pace for about an hour before my feet hurt. 
+I have no idea how long I can walk for in <sub>km</sub>, but I can walk at a steady pace for about an hour before my feet hurt. 
 Also I will need to go to my GP, to get a podiatrist to look at my wonky feet. 
 I know I'm not walking correctly, with a bit of "knock-kneed legs" (*or X-legs*). 
 So something like correcting-soles would be a must have, or else I might permanently damage my legs and knees. <br/>
@@ -262,7 +260,7 @@ So something like correcting-soles would be a must have, or else I might permane
 Also I have a small "regimen" of power/endurance training I do bi-daily (every other day) consisting of:
 - 15x Push-Up
 - 15x Sit-Ups
-- 15x 10 Kg halter each arm
+- 15x 10<sub>kg</sub> halter each arm
 - 10x Squads with halters
 - 60sec Planking <br/>
 <!-- -->
@@ -326,7 +324,7 @@ The rest of my gear I will need to acquire... <br/>
 
 
 The main issue is weight. <br/>
-I could bring my tent with me, but it is a 4 person tent weighing around 20Kg if not more! 
+I could bring my tent with me, but it is a 4 person tent weighing around 20<sub>kg</sub> if not more! 
 I do also have a sleeping bag, but it's heavy, thick and not water or windproof. 
 Same goes for pretty much everything I currently have at home. <br/>
 Its either too old and broken, 
