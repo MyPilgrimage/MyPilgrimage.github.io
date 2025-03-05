@@ -126,7 +126,7 @@
 }
 .resp-linebreak,
 .resp-linebreak-M {
-	display: block;
+	display: inline-block;
 }
 .clearfix:after {
 	content: "";
@@ -140,7 +140,7 @@
 		width: 100%;
 	}
 	.resp-linebreak { 
-		display: block; 
+		display: inline-block; 
 	}
 	.resp-linebreak-M { 
 		display: hidden; 
