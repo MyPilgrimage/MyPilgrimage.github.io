@@ -39,19 +39,18 @@ Questions or other Queries? Feel free to contact me!
 
 -----
 
-## Attribution :
+## Attribution
 This page exists thanks in part to the following;
 Some of the pictures on the page were made by other people. Attribution is given in the picture's caption.
 
 ### Font Awesome
-[Font Awesome License](https://fontawesome.com/license)  
-Most (if not all) icons used. Public licenses for Font Awesome Free  
+[Font Awesome License](https://fontawesome.com/license)  Most (if not all) icons used. Public licenses for Font Awesome Free  
 
 
 ### Paint dot Net
-[Paint.Net](https://www.getpaint.net/)
-[BoltBait Pack v611 for Paint.NET](https://www.boltbait.com/pdn/)
-[Scalable Vector Graphics (SVG) Plugin v1.0.7.2 for Paint.NET](https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET?tab=readme-ov-file#-scalable-vector-graphics-svg-plugin-for-paintnet)
+[Paint.Net](https://www.getpaint.net/)  
+[BoltBait Pack](https://www.boltbait.com/pdn/) v611 for Paint.NET  
+[Scalable Vector Graphics (SVG) Plugin](https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET?tab=readme-ov-file#-scalable-vector-graphics-svg-plugin-for-paintnet)  v1.0.7.2 for Paint.NET  
 
 
 ### Notepad Plus Plus
@@ -64,19 +63,21 @@ Pages I used multiple times:
 - [Santiago de Compostela <sup>English</sup>](https://en.wikipedia.org/wiki/Santiago_de_Compostela)
 - [Floris V-pad <sup>Dutch</sup>](https://nl.wikipedia.org/wiki/Floris_V-pad)
 
+### More to be added soon
+
 
 -----
 
 ### Chirpy Starter
-A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-[![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci] &nbsp;
-[![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy] &nbsp;
-[![Chirpy Starter - GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit] &nbsp;
-[![Chirpy Theme - GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)][license] &nbsp;
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem] &nbsp;
-[![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]   
+A minimal, responsive, and feature-rich Jekyll theme for technical writing.  
+![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github) &nbsp;
+![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy) &nbsp;
+![Chirpy Starter - GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue) &nbsp;
+![Chirpy Theme - GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod) &nbsp;
+![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange) &nbsp;
+![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)   
  
-[![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]  &nbsp;
+![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)  &nbsp;
 [**Live Demo** →](https://cotes2020.github.io/chirpy-demo/)  
 
 #### Usage
@@ -84,11 +85,9 @@ Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wi
 
 #### Contributing
 This repository is automatically updated with new releases from the theme repository.  
- 
-If you encounter any issues or want to contribute to its improvement,  
+If you encounter any issues or want to contribute to its improvement, [contribute-guide](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md)  
 please visit the [theme repository chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) to provide feedback.  
- 
-[contribute-guide](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md)  
+
 Thanks to [all the contributors](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors) involved in the development of the project!  
 [![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors)  
 <sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>  
