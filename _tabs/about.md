@@ -33,7 +33,7 @@ For all these reasons and more, *I've decided to go on my Pilgrimage.* <br/>
 I'm planning to hoist my backpack on my back and start walking Southward. <br/>
 *Towards the Sun.* <br/>
 
-<i class="fa-solid fa-person-hiking"></i><i class="fa-solid fa-mountain-sun"></i>{: .font-xxl .font-center }
+<i class="fa-solid fa-person-hiking font-xxl font-center"></i><i class="fa-solid fa-mountain-sun font-xxl font-center"></i>
 
 
 ## Why this page?
@@ -59,9 +59,8 @@ It would be the greatest thing I've done with my life up to this point. <br/>
 
 
 So to all whom find this page, <br/>
-**Welcome!** <br/>
+&nbsp; &nbsp; **Welcome!** <br/>
 I hope to inspire you or at the very least, entertain you! <br/>
-
 
 <br/>
 *Cheers,* <br/>
@@ -71,15 +70,11 @@ I-Jun &nbsp; <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-mou
 [<i class="fas fa-envelope"></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
 
 
-![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 }_"Way of St. James pilgrims (1568)"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> Roland zh  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Roland_zh )._
-
-
 ## My Principle
 
 > <i class="fa-solid fa-quote-left quotation"></i> Leave only ash, hair and footprints" <br/>
 <!-- > <sub class="citation"> QUOTE_DESCRIPTION.</sub> <br/> -->
 <!-- > <sub class="citation"> ~QUOTE_AUTHOR, <cite>QUOTE_ORIGIN</cite></sub> <br/> -->
-
 
 Based on [the **L**eave **n**o **T**race principle.  <i class="fa-solid fa-up-right-from-square"></i>](https://lnt.org/why/7-principles/) <br/>
 The Idea is that I don't want to make a negative impact on the world around me. My travels and existence should not hinder nature or anybody else.
@@ -98,6 +93,9 @@ So along with the ash and hair I will leave behind on the regular, these are the
 But if I can help it, I want to leave the places I've been, better than I found them. <br/>
 
 **Cleaning my own garbage is the least I can do!**
+
+
+![Way of St. James pilgrims (1568)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG/454px-Jakobsweg_-_Pilger_1568_-_Hurden_IMG_5664.JPG){: .w-50 }_"Way of St. James pilgrims (1568)"<br/> ~by [<i class="fa-brands fa-wikipedia-w"></i> Roland zh  <i class="fa-solid fa-up-right-from-square"></i>](https://commons.wikimedia.org/wiki/User:Roland_zh )._
 
 
 -----
@@ -178,9 +176,9 @@ The plan is to start walking from my home near Alkmaar.
 <!--
 - **<sup>Avg.</sup> Hours of Walking:** ROUTE_TOTAL_HOURS <small>hr</small> / AVG_WALKING_HOURS <small>hr</small> per day = **TOTAL_WALKING_DAYS days**
 - **<sup>Avg.</sup> Distance to Walk:** ROUTE_TOTAL_DISTANCE <small>km</small> / AVG_WALKING_DISTANCE <small>km</small> per day = **AVG_DAYS_WALKING days** (EXACT_DAYS_WALKING days)
-- **<sup>Avg.</sup> Walking Speed:** ROUTE_TOTAL_DISTANCE <small>km</small> / ROUTE_TOTAL_HOURS <small>hr</small> = **AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>**
+- **<sup>Avg.</sup> Walking Speed:** ROUTE_TOTAL_DISTANCE <small>km</small> / ROUTE_TOTAL_HOURS <small>hr</small> = **AVG_WALKING_SPEED <small>km</small>/<sub>hr</sub>**
 - **Conclusion:** <br/>
-  So I will walk for atleast TOTAL_WALKING_DAYS days, walking AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>, 
+  So I will walk for atleast TOTAL_WALKING_DAYS days, walking AVG_WALKING_SPEED <small>km</small>/<sub>hr</sub>, 
   for AVG_WALKING_HOURS <small>hrs</small>, 
   while walking a minimum distance of AVG_WALKING_DISTANCE <small>km</small> per day. 
 <br/>
@@ -215,10 +213,10 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 
 
 1. From Alkmaar walk towards Haarlem.
-2.A. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
-2.B. Or take a more direct route from Haarlem to Brussels;
-3.A. Then from either Wezet or Brussels to Paris;
-3.B. Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
+2.1. From Haarlem, I could make my way to Amsterdam and start on the "Pilgrims pad" towards Wezet (*Visé*) in Belgium;
+2.2. Or take a more direct route from Haarlem to Brussels;
+3.1. Then from either Wezet or Brussels to Paris;
+3.2. Or conclude somewhere in Belgium, that I've walked enough and only walk the "Pilgrims pad" for now. <br/>
   But if I do choose to continue; <br/>
 4. set Paris as my "mid" point and the start of the Pilgrims path **"The Camino Francés"** (*or "French Way"*), <br/>
 <sup> The "French Way" is the easiest route and I don't think I can take a difficult route on my first try.</sup> <br/>
@@ -231,13 +229,12 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 #### Quick Pilgrimage Route Calculation
 - **<sup>Avg.</sup> Hours of Walking:** 451 <small>hr</small> / 5.5 <small>hr</small> per day = **82 days**
 - **<sup>Avg.</sup> Distance to Walk:** 1977 <small>km</small> / 25 <small>km</small> per day = **80 days** (79,08 days)
-- **<sup>Avg.</sup> Walking Speed:** 1977 <small>km</small> / 451 <small>hr</small> = **4.3 <sup>km</sup>/<sub>hr</sub>**
+- **<sup>Avg.</sup> Walking Speed:** 1977 <small>km</small> / 451 <small>hr</small> = **4.3 <small>km</small>/<sub>hr</sub>**
 - **Conclusion:** <br/>
-  So I will walk for atleast 82 days, walking 4.3 <sup>km</sup>/<sub>hr</sub>, 
-  for 5.5 <small>hrs</small>, 
-  while walking a minimum distance of 25 <small>km</small> per day. 
-<br/>
-<sup>
+  So I will walk for atleast 82 days, 
+  25 <small>km</small> per day 
+  walking 4.3 <small>km</small>/<sub>hr</sub>, 
+  for 5.5 <small>hrs</small>, <br/>
 <sup>
   This *sounds* doable 
 </sup><br/>
@@ -289,7 +286,7 @@ What are things I want to train for? What do I expect to encounter along the way
 #### Making Miles
 
 A Pilgrimage means walking a whole lot, and making a bit of progress is important to keep spirits high. <br/>
-From walking 5 <sup>km</sup> to 10 <sup>km</sup> to eventually about 20/25 <sup>km</sup> per day. <br/>
+From walking 5 <small>km</small> to 10 <small>km</small> to eventually about 20/25 <small>km</small> per day. <br/>
 
 
 #### Enduring Elevation
