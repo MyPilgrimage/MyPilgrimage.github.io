@@ -77,6 +77,11 @@
 <i class="fa-solid fa-circle-exclamation"><!--Warning_Quote--></i>
 <i class="fa-solid fa-triangle-exclamation"><!--Danger_Quote--></i>
 
+<!--CHECK_LIST-->
+<i class="fa-regular fa-circle"><!--Unchecked_List--></i>
+<i class="fa-regular fa-circle-check"><!--Checked_List--></i>
+<i class="fa-regular fa-circle-dot"><!--Semi_Checked_List--></i>
+
 <!--PROGRESS_BAR-->
 <i class="fa-solid fa-0"><!--0--></i>
 <i class="fa-solid fa-1"><!--1--></i>
