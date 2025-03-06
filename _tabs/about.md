@@ -365,6 +365,11 @@ Worst comes to worst I will start my Pilgrimage with these heavier things, and h
 ### Gear list:
 
 My checklist of gear I still need, I already have and I won't need.
+Checklist Icons:
+- <i class="fa-regular fa-circle"></i> Unchecked Item: Not yet gathered, still looking...
+- <i class="fa-regular fa-circle-check"></i> Checked Item: Collected and ready to go!
+- <i class="fa-regular fa-circle-dot"></i> Semi Checked Item: Either borrowed or uncertain...
+- <i class="fa-regular fa-circle-xmark"></i> Not Checked Item: Don't need or don't want.
 
 
 #### Must Haves
