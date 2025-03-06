@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+Used in PICTURES
+#layout: default
+--->
+</head>
+<body>
+<!-- -->
+<p>
+Here you can find pictures I've taken while hiking, camping or working on this page. <br/>
+Click on a picture to enlarge it. While in the Large-viewport you can click (or swipe) left and right to browse the other pictures. <br/>
+Press the "X" in the upper right corner to exit the Large-viewport. <br/>
+</p>
+<hr />
+
+<h2>Album</h2><!-- Photo Album Start -->
+<h3>YYYY</h3> <!-- Pictures of YYYY -->
+
+<div class="resp-gallery">
+<figure class="img-gallery">
+  <img src="IMG_NAME" alt="ALT_NAME" class="gallery-img">
+  <figcaption class="gallery-caption">
+	<cite><b>ALT_NAME</b></cite> <br/>
+	PICTURE_DESCRIPTION.
+	<!-- <hr/> -->
+	<!-- <small class="normal" style="text-align:left;"> -->
+		<!-- <i class="far fa-calendar"></i> PICTURE_DD_MM_YYYY. -->
+		<!-- <br class="resp-linebreak"/> -->
+		<!-- <i class="fa-solid fa-location-dot"></i> PICTURE_LOCATION. -->
+		<!-- <br class="resp-linebreak-m"/> -->
+		<!-- <i class="fa-solid fa-camera"></i> Taken by PICTURE_TAKEN_BY. -->
+		<!-- <br class="resp-linebreak"/> -->
+		<!-- <i class="fa-solid fa-tag"></i> <a href="PICTURE_POST_ORIGIN"> PICTURE_POST_ORIGIN. </a>. -->
+	<!-- </small> -->
+  </figcaption>
+</figure> 
+</div>
+
+<!--ROW_END--><div class="clearfix"></div><!--ROW_START-->
+
+<hr /><!-- End of Album -->
+
+<p>
+Most Pictures taken by Me (I-Jun), some by Friends. <br/>
+</p>
+<!-- -->
+</body>
+
+<footer>
+<style>
+<!-- -->
+.img-gallery {
+	background: rgba($color: #777, $alpha: 0.25);
+	border-radius: 0.625em;
+}
+.gallery-img {
+	width: 100%;
+	height: auto;
+	margin: 0px 0px 0.5rem 0px;
+	border-radius: 0.625em;
+}
+.gallery-caption {
+ 	padding: 0.15em;
+	text-align: center;
+}
+.gallery-caption hr { margin: 0; }
+
+.resp-gallery {
+	padding: 0 0.312em;
+	float: left;
+	width: 49.99999%;
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+@media only screen and (max-width: 850px) {
+	.resp-gallery { 
+		width: 100%;
+	}
+}
+<!-- -->
+</style>
+</footer>
+</html>
