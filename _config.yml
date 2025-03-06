@@ -28,8 +28,8 @@ url: "https://MyPilgrimage.github.io"
 github:
   username: MyPilgrimage # change to your GitHub username
 
-twitter:
-  username:  # change to your Twitter username
+# twitter:
+  # username:  # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,9 +38,8 @@ social:
   email: iJun.Pilgrimage@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.reddit.com/user/I-Jun_Pilgrimage/ # Reddit Homepage
     - https://github.com/MyPilgrimage # change to your GitHub homepage
-
+    - https://www.reddit.com/user/I-Jun_Pilgrimage/ # Reddit Homepage
     # Uncomment below to add more social links
     # - https://twitter.com/username # change to your Twitter homepage
     # - https://www.facebook.com/username
@@ -161,7 +160,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
-    # default_lang: console
+    default_lang: console
     span:
       line_numbers: false
     block:

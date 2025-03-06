@@ -2,7 +2,7 @@
 ---
 
 @use 'main
-{%- if jekyll.environment == 'production' -%}
+{%- if jekyll.environment == ' production ' -%}
   .bundle
 {%- endif -%}
 ';
@@ -19,61 +19,91 @@
 // - ImgGallery BG: 		rgba($color: #777, $alpha: 0.25);
 /*----------------------*/
 
-
 /*----------------------*/
 /*  FONT_STYLE 			*/
 /*----------------------*/
-.font-xs { font-size: 0.5e,; }
-.font-s, .citation { font-size: 0.75em; }
-.font-normal, .caption { font-size: 1em; }
-.font-m, .quotation { font-size: 1.5em; }
-.font-l { font-size: 2em; }
-.font-xl { font-size: 3em; }
-.font-xxl {font-size: 4em; }
-.font-center { text-align: center; }
+.font-xs {
+  font-size: 0.5e;
+}
+.font-s,
+.citation {
+  font-size: 0.75em;
+}
+.font-normal,
+.caption {
+  font-size: 1em;
+}
+.font-m,
+.quotation {
+  font-size: 1.5em;
+}
+.font-l {
+  font-size: 2em;
+}
+.font-xl {
+  font-size: 3em;
+}
+.font-xxl {
+  font-size: 4em;
+}
+.font-center {
+  text-align: center;
+}
 
 /*----------------------*/
 /*  ROUNDED_CORNERS 	*/
 /*----------------------*/
-.rounded-10 { border-radius: 0.625em; }
-.rounded-bottom10 { border-radius: 0 0 0.625em 0.625em; }
-.rounded-20 { border-radius: 1.25em; }
+.rounded-10 {
+  border-radius: 0.625em;
+}
+.rounded-bottom10 {
+  border-radius: 0 0 0.625em 0.625em;
+}
+.rounded-20 {
+  border-radius: 1.25em;
+}
 
 /*----------------------*/
 /*  HOME_PAGE - First Post */
 /*----------------------*/
-#post-list article:first-child a { background: rgb(123, 247, 144, 0.2) !important; }
+#post-list article:first-child a {
+  background: rgb(123, 247, 144, 0.2) !important;
+}
 
 /*----------------------*/
 /*  PROMPT 				*/
 /*----------------------*/
-.prompt-link, 
-.prompt-overview, 
+.prompt-link,
+.prompt-overview,
 .prompt-sitemap {
-	border-left: 0;
-	position: relative;
-	padding: 1rem 1rem 1rem 3rem;
-	color: var(--prompt-text-color);
-	border-radius: 10px;
-	background-color: var(--prompt-warning-bg);
-	content: "";
+  border-left: 0;
+  position: relative;
+  padding: 1rem 1rem 1rem 3rem;
+  color: var(--prompt-text-color);
+  border-radius: 10px;
+  background-color: var(--prompt-warning-bg);
+  content: '';
 }
-.prompt-link h3, 
-.prompt-overview h3, 
+.prompt-link h3,
+.prompt-overview h3,
 .prompt-sitemap h3 {
-	margin: 0 0 0.5em 0;
+  margin: 0 0 0.5em 0;
 }
-.prompt-link ul, 
-.prompt-overview ul, 
+.prompt-link ul,
+.prompt-overview ul,
 .prompt-sitemap ul {
-	list-style-type: none;
-	font-size: 0.75em;
+  list-style-type: none;
+  font-size: 0.75em;
 }
-.prompt-link { background: rgba($color: #40e0d0, $alpha: 0.25); }
-.prompt-overview { min-height: 385px; }
+.prompt-link {
+  background: rgba($color: #40e0d0, $alpha: 0.25);
+}
+.prompt-overview {
+  min-height: 385px;
+}
 .prompt-overview img {
-	width: 150px; 
-	height: 150px;
+  width: 150px;
+  height: 150px;
 }
 
 /*----------------------*/
@@ -81,90 +111,99 @@
 /*----------------------*/
 .progress-bg,
 .progress-fill {
-//	overflow-wrap: normal;
-//	overflow-x: visible;
-	border-radius: 1.25em;
-	background: rgba($color: #aaa, $alpha: 0.25);
+  border-radius: 1.25em;
+  background: rgba($color: #aaa, $alpha: 0.25);
 }
 .progress-fill {
-	height: 1.75em;
-	min-width: fit-content;
-	overflow-wrap: normal;
-//	overflow-y: hidden;
-//	overflow-x: visible;
-	padding-left: 0.2em;
-	background: #80ff80;
-	color: #000;
-	text-shadow: 1px 1px 2px #fff, 0 0 5px #999;
+  height: 1.75em;
+  min-width: fit-content;
+  overflow-wrap: normal;
+  padding-left: 0.2em;
+  background: #80ff80;
+  color: #000;
+  text-shadow: 1px 1px 2px #fff, 0 0 5px #999;
 }
 
 /*----------------------*/
 /*  PHOTO_ALBUM 		*/
 /*----------------------*/
 .img-gallery {
-	background: rgba($color: #777, $alpha: 0.25);
-	border-radius: 0.625em;
+  background: rgba($color: #777, $alpha: 0.25);
+  border-radius: 0 0 1.25em 1.25em;
+}
+.img-gallery a.popup {
+  margin-top: 0;
 }
 .gallery-img {
-	width: 100%;
-	height: auto;
-	margin: 0px 0px 0.5rem 0px;
-	border-radius: 0.625em;
+  width: 100%;
+  height: auto;
 }
-.gallery-caption {
- 	padding: 0.15em;
-	text-align: center;
+.img-caption {
+  padding: 0.15em;
+  text-align: center;
 }
-.gallery-caption hr { margin: 0; }
+.img-properties {
+  border-top: #000 1px solid;
+  margin: 0;
+  padding: 0.25em 1em;
+  text-align: left;
+}
 
 /*----------------------*/
 /*  RESPONSIVE_DESIGN 	*/
 /*----------------------*/
-/**  SMALL_SCREEN (S) Mobile = No Sidebars; Max-Width: 849px */
+/**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
+// @media only screen and (min-width: 850px), (max-width: 1199px) {
 .resp-gallery {
   padding: 0 0.312em;
   float: left;
   width: 49.99999%;
 }
-.resp-linebreak { 
-  // display: none;
-  display: inline; 
-}
-.resp-linebreak-M {
-  // display: none;
-  display: inline;
-}
 .clearfix:after {
-  content: "";
+  content: '';
   display: table;
   clear: both;
 }
+// .resp-br-s {
+//   display: none;
+// }
+// .resp-br-m {
+//   display: inline;
+// }
+// body {
+//   border: 5px solid orange;
+// }
 /*----------------------*/
-/**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
-// @media only screen and (min-width: 850px), (max-width: 1199px) {
-@media only screen and (max-width: 850px) {
-  .resp-gallery { 
-	width: 100%;
+/**  SMALL_SCREEN (S) Mobile = No Sidebars; Max-Width: 849px */
+@media only screen and (max-width: 849px) {
+  .resp-gallery {
+    width: 100%;
   }
-  .resp-linebreak { 
-	//display: none; 
-	display: inline; 
+  .img-properties {
+    text-align: center;
   }
-  .resp-linebreak-M { 
-	display: none; 
-	// display: inline; 
-  }
+  // .resp-br-s {
+  //   display: inline;
+  // }
+  // .resp-br-m {
+  //   display: none;
+  // }
+  // body {
+  //   border: 5px solid green;
+  // }
 }
+
 /*----------------------*/
 /**  LARGE_SCREEN (L) PC = Both Sidebar; Min-Width: 1200px */
 // @media only screen and (min-width: 1200px) {
-@media only screen and (max-width: 1200px) {
-  .resp-linebreak { 
-	// display: none; 
-	display: inline; 
-  }
-  .resp-linebreak-M { 
-	// display: none; 
-	display: inline; 
-  }
+@media only screen and (min-width: 1200px) {
+  // .resp-br-m {
+  //   display: none;
+  // }
+  // .resp-br-l {
+  //   display: inline;
+  // }
+  // body {
+  //   border: 5px solid red;
+  // }
 }
