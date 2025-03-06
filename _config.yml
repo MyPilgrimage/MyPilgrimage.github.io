@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://MyPilgrimage.github.io"
+url: https://MyPilgrimage.github.io
 
 github:
   username: MyPilgrimage # change to your GitHub username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: "I-Jun"
+  name: I-Jun
   email: iJun.Pilgrimage@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -152,7 +152,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: https://MyPilgrimage.github.io
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -191,6 +191,7 @@ defaults:
   - scope:
       path: ""
       type: tabs # see `site.collections`
+      toc: true
     values:
       layout: page
       permalink: /:title/
