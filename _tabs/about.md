@@ -4,6 +4,7 @@ icon: fa-solid fa-person-hiking
 order: 1
 description: "About me and why I made this page. What is my Plan and how am I preparing?"
 date: 2025-01-10 00:00:00 +0100
+last_modified_at: ""
 toc: true
 ---
 
@@ -204,7 +205,7 @@ It's a very well known Pilgrimage route, which has its advantages, such as hoste
 Starting from my parents home near Alkmaar in North-Holland, walking toward Haarlem. 
 Haarlem is a common starting point of the Pilgrimage, according to "Routes in Belgium and the Netherlands" on Wikipedia. 
 [<i class="fa-brands fa-wikipedia-w"></i>  Routes in Belgium and the Netherlands <sup>ENG</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago_(route_descriptions)#In_Belgium_and_the_Netherlands) <br/>
-Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*) 
+Or Amsterdam for the "Pilgrims Pad LAW 7" (*Pilgrims Path*) 
 [<i class="fa-brands fa-wikipedia-w"></i>  Pilgrims Pad <sup>NL</sup>  <i class="fa-solid fa-up-right-from-square"></i>](https://nl.wikipedia.org/wiki/Pelgrimspad)
 <br/>
 
@@ -221,7 +222,7 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 4. set Paris as my "mid" point and the start of the Pilgrims path **"The Camino Francés"** (*or "French Way"*), <br/>
    The "French Way" is the easiest route and I don't think I can take a difficult route on my first try. <br/>
 
-
+Read more about The French Way or GR65
 **As the route is difficult enough as-is!** <br/>
 
 
@@ -235,8 +236,8 @@ Or Amsterdam for the "Pilgrims Pad" (*Pilgrims Path*)
 - **Conclusion:** <br/>
   So I will walk for atleast 82 days, 
   25 <small>km</small> per day 
-  walking 4.3 <sup>km</sup>/<sub>hr</sub>, 
-  for 5.5 <small>hrs</small>, <br/>
+  walking 4.3 <sup>km</sup>/<sub>hr</sub> 
+  for 5.5 <small>hrs</small> <br/>
 <sup>
   This *sounds* doable 
 </sup><br/>
