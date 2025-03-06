@@ -198,8 +198,10 @@ The Trial-Run is in preparation for the real Pilgrimage.
 I'm thinking of follow the route of [<i class="fa-brands fa-wikipedia-w"></i>  Camino de Santiago  <i class="fa-solid fa-up-right-from-square"></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago). 
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br/>
 
-
+<!--
 ![Google Maps Route](/assets/img/googleMaps_GR65-dark.png){: .w-50 .dark }_A [<i class="fa-brands fa-google"></i> Google Map](https://maps.app.goo.gl/pjV3D6ufts8EYDdi8) of the *(expected)* route, distance and time._
+-->
+![Google Maps Route](/assets/img/googleMaps_GR65-dark.png){: .w-50 .dark }
 ![Google Maps Route](/assets/img/googleMaps_GR65-light.png){: .w-50 .light }_A [<i class="fa-brands fa-google"></i> Google Map](https://maps.app.goo.gl/pjV3D6ufts8EYDdi8) of the *(expected)* route, distance and time._
 
 
@@ -231,6 +233,7 @@ Read more about The French Way or GR65
 
 
 #### Quick Pilgrimage Route Calculation
+<!-- 
 - **<sup>Avg.</sup> Hours of Walking:** 451 <small>hr</small> / 5.5 <small>hr</small> per day = **82 days**
 - **<sup>Avg.</sup> Distance to Walk:** 1977 <small>km</small> / 25 <small>km</small> per day = **80 days** (79,08 days)
 - **<sup>Avg.</sup> Walking Speed:** 1977 <small>km</small> / 451 <small>hr</small> = **4.3 <sup>km</sup>/<sub>hr</sub>**
@@ -242,6 +245,10 @@ Read more about The French Way or GR65
 <sup>
   This *sounds* doable 
 </sup><br/>
+-->
+> <i class="fa-solid fa-person-digging"></i> More Info and Updates coming soon.
+{: .prompt-warning } 
+
 
 ### Thoughts on the Routes
 
@@ -362,85 +369,89 @@ My checklist of gear I still need, I already have and I won't need.
 
 #### Must Haves
 
-- <i class="fa-regular fa-circle-check"></i>Walking boots: <br/> 
+- <i class="fa-regular fa-circle-check"></i> Walking boots: <br/> 
   Army boots, might be too heavy though?
-- <i class="fa-regular fa-circle-check"></i>Backpack: <br/> 
+- <i class="fa-regular fa-circle-check"></i> Backpack: <br/> 
   Military Footsoldier backpack, with lumbar-support and thick-padded straps
-- <i class="fa-regular fa-circle"></i>Tent: <br/> 
+- <i class="fa-regular fa-circle"></i> Tent: <br/> 
   Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
-- <i class="fa-regular fa-circle"></i>Sleeping Gear: <br/> 
+- <i class="fa-regular fa-circle"></i> Sleeping Gear: <br/> 
   Lightweight, water and windproof sleeping bag/pillow
-- <i class="fa-regular fa-circle"></i>Last Resort Ration: <br/> 
+- <i class="fa-regular fa-circle"></i> Last Resort Ration: <br/> 
   is maybe something that would be good to have, think along the lines of a protein bar or other energy dense food.
-- <i class="fa-regular fa-circle"></i>Eating Supplies: <br/> 
+- <i class="fa-regular fa-circle"></i> Eating Supplies: <br/> 
   Utensils, Plate etc. / My own gas burner? or something to cook on?
-- <i class="fa-regular fa-circle-check"></i>Medical Supplies: <br/> 
+- <i class="fa-regular fa-circle-check"></i> Medical Supplies: <br/> 
   Band-aids, a flea-nipper, a few painkillers and more
-- <i class="fa-regular fa-circle"></i>Correcting Soles: <br/> 
+- <i class="fa-regular fa-circle"></i> Correcting Soles: <br/> 
   I have a bit of knocked kneed legs or X-legs
-- <i class="fa-regular fa-circle"></i>Flashlight: <br/> 
+- <i class="fa-regular fa-circle"></i> Flashlight: <br/> 
   Obviously
-- <i class="fa-regular fa-circle"></i>Backpack lights/Reflectors: <br/> 
+- <i class="fa-regular fa-circle"></i> Backpack lights/Reflectors: <br/> 
   Something to keep me better visible for others during the evening.
-- <i class="fa-regular fa-circle-check"></i>Easy-Accessible Pouch / Water: <br/> 
+- <i class="fa-regular fa-circle-check"></i> Easy-Accessible Pouch / Water: <br/> 
   Pouches and Bidon that I can reach while walking, so I don't have to stop and search in my backpack.
-- <i class="fa-regular fa-circle"></i>Clothing: <br/> 
+- <i class="fa-regular fa-circle"></i> Clothing: <br/> 
   T-shirts, Pants and the like. <br/> 
   Also layers! Better to be able to take off a piece of clothing than to be too hot or cold!
-- <i class="fa-regular fa-circle"></i>Raincoat: <br/> 
+- <i class="fa-regular fa-circle"></i> Raincoat: <br/> 
   Or something waterproof to keep me dry.
-- <i class="fa-regular fa-circle"></i>Good Socks: <br/> 
+- <i class="fa-regular fa-circle"></i> Good Socks: <br/> 
   Thick padded socks could be nicer for my feet, but will be a whole lot warmer and I don't want to walk on sweaty feet. (blisters etc.) <br/> 
   So thick but breathing socks.
+
 <!--
-- <i class="fa-regular fa-circle"></i>LIST_ITEM: <br/> 
+- <i class="fa-regular fa-circle"></i> LIST_ITEM: <br/> 
   ITEM_DESCRIPTION
 -->
 
 
 #### Should Haves
 
-- <i class="fa-regular fa-circle"></i>Entertainment: <br/> 
+- <i class="fa-regular fa-circle"></i> Entertainment: <br/> 
   Books? or E-Book? E-book is lighter and might be able to read on my Smartphone? <br/> 
   Electronics would mean I need some sort of Power-Supply though.
-- <i class="fa-regular fa-circle"></i>Fire-starter: <br/> 
+- <i class="fa-regular fa-circle"></i> Fire-starter: <br/> 
   Just in case?
-- <i class="fa-regular fa-circle"></i>Survival Knife: <br/> 
+- <i class="fa-regular fa-circle"></i> Survival Knife: <br/> 
   A knife to cut ropes, or make makeshift tent-pegs etc
-- <i class="fa-regular fa-circle"></i>Tape and/or Rope and/or Ti-rips: <br/> 
+- <i class="fa-regular fa-circle"></i> Tape and/or Rope and/or Ti-rips: <br/> 
   To fix things along the way!
-- <i class="fa-regular fa-circle"></i>Shaving Razor: <br/> 
+- <i class="fa-regular fa-circle"></i> Shaving Razor: <br/> 
   Something to keep my beard in-check. <br/> 
   I only know how to shave with an electric shaver, so this is something I will need to learn too!
+
 <!--
-- <i class="fa-regular fa-circle"></i>LIST_ITEM: <br/> 
+- <i class="fa-regular fa-circle"></i> LIST_ITEM: <br/> 
   ITEM_DESCRIPTION
 -->
 
 
 #### Could Haves
 
-- <i class="fa-regular fa-circle"></i>Sun Panel and/or Power Bank: <br/>
+- <i class="fa-regular fa-circle"></i> Sun Panel and/or Power Bank: <br/>
   for Electronic devices such as a smartphone, flashlight or GPS-Tracker
-- <i class="fa-regular fa-circle-check"></i>Smartphone: <br/> 
+- <i class="fa-regular fa-circle-check"></i> Smartphone: <br/> 
   for emergencies, checking the weather report, GPS and Maps and contact to the outside world, including this page!
-- <i class="fa-regular fa-circle"></i>GPS Tracker: <br/> 
+- <i class="fa-regular fa-circle"></i> GPS Tracker: <br/> 
   Safety measure, incase of emergencies
-- <i class="fa-regular fa-circle"></i>Someway to make a little money on the road: <br/> 
+- <i class="fa-regular fa-circle"></i> Someway to make a little money on the road: <br/> 
   This is a big Could/Want to have, I still don't really know what use I am to society. <br/>
   So finding anything that someone else finds worthwhile and especially valuable, would be a big change in my life.
+
 <!--
-- <i class="fa-regular fa-circle"></i>LIST_ITEM: <br/> 
+- <i class="fa-regular fa-circle"></i> LIST_ITEM: <br/> 
   ITEM_DESCRIPTION
 -->
 
 #### Won't Haves
 
-- <i class="fa-regular fa-circle-xmark"></i>A constant Internet-connection or same 06 number: <br/> 
+- <i class="fa-regular fa-circle-xmark"></i> A constant Internet-connection or same 06 number: <br/> 
   I want to find an escape from my current life, bringing something that will drag me back is too much of a risk I think. <br/> 
   But I do also want some way of contacting family or emergency services.
+
 <!--
-- <i class="fa-regular fa-circle-xmark"></i>LIST_ITEM: <br/> 
+- <i class="fa-regular fa-circle-xmark"></i> LIST_ITEM: <br/> 
   ITEM_DESCRIPTION
 -->
 
