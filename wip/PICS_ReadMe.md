@@ -21,6 +21,10 @@ cmd: `dir -n`
 - [x] 20250121_WitchbogSchoorl.jpg 		( /2025-01-21-the-dunes-of-schoorl , /pictures )  
 - [x] 20250223_SundaysSun.jpg 			( /posts/2025-02-23-random-ramblings , /pictures )  
 
+20250228_Windmills.jpg
+20250304_MyOffice.jpg
+20250306_MyEmptyOffice.jpg
+
   ## WIP_PICTURES
 `/wip/pics_src/`
 cmd: `dir -n`
@@ -37,11 +41,11 @@ to `YYYYMMDD_PICNAME.extension`
 - 20250121_WaterloggedSchoorl-dupe01.jpg
 - 20250223_SundaysSun-dupe01.jpg
 - 20250223_SundaysSun-dupe02.jpg
-- IMG_20250124_161021_1.jpg
-- IMG_20250228_184623_1.jpg
-- IMG_20250228_184640_1.jpg
-- IMG_20250228_184641_1.jpg
-- IMG_20250304_140529_1.jpg
-- IMG_20250304_140558_1.jpg
+
+20250228_Windmills-dupe01.jpg
+20250228_Windmills-dupe02.jpg
+20250304_MyOffice-dupe01.jpg
+20250306_MyEmptyOffice-dupe01.jpg
+20250306_MyEmptyOffice-dupe02.jpg
 
 ----------------------------------------
