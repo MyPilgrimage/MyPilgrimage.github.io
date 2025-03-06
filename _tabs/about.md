@@ -199,7 +199,8 @@ I'm thinking of follow the route of [<i class="fa-brands fa-wikipedia-w"></i>  C
 It's a very well known Pilgrimage route, which has its advantages, such as hostels and other accommodations. <br/>
 
 
-![Google Maps Route](/assets/img/googleMaps-route-Pilgrimage_of_Compostela.png){: .w-50 }_A [<i class="fa-brands fa-google"></i> Google Map](https://maps.app.goo.gl/FiravFpUpJGpupmo8) of the *(expected)* route, distance and time._
+![Google Maps Route](/assets/img/googleMaps_GR65-dark.png){: .w-50 .dark }_A [<i class="fa-brands fa-google"></i> Google Map](https://maps.app.goo.gl/pjV3D6ufts8EYDdi8) of the *(expected)* route, distance and time._
+![Google Maps Route](/assets/img/googleMaps_GR65-light.png){: .w-50 .light }_A [<i class="fa-brands fa-google"></i> Google Map](https://maps.app.goo.gl/pjV3D6ufts8EYDdi8) of the *(expected)* route, distance and time._
 
 
 Starting from my parents home near Alkmaar in North-Holland, walking toward Haarlem. 
