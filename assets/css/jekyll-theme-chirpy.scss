@@ -129,85 +129,81 @@
 /*----------------------*/
 .img-gallery {
   background: rgba($color: #777, $alpha: 0.25);
-  // border-radius: 0.625em;
-  border-radius: 0 0 0.625em 0.625em;
+  border-radius: 0 0 1.25em 1.25em;
+}
+.img-gallery a.popup {
+  margin-top: 0;
 }
 .gallery-img {
   width: 100%;
   height: auto;
-
-  // margin-top: -0.5em;
-  // margin-bottom: 0.5em;
-  // margin: 0px 0px 0.5rem 0px;
-  // border-radius: 0.625em;
 }
-.img-gallery .gallery-img {
-  //  margin-top: -0.5em;
-  //  margin-bottom: 0.5em;
-}
-.content a.popup {
-  //  margin-top: 0;
-}
-.img-gallery a.popup {
-  margin-top: 0;
-  border-radius: 0.625em;
-}
-.gallery-caption {
+.img-caption {
   padding: 0.15em;
   text-align: center;
 }
-.gallery-caption hr {
+.img-properties {
+  border-top: #000 1px solid;
   margin: 0;
+  padding: 0.25em 1em;
+  text-align: left;
 }
 
 /*----------------------*/
 /*  RESPONSIVE_DESIGN 	*/
 /*----------------------*/
-/**  SMALL_SCREEN (S) Mobile = No Sidebars; Max-Width: 849px */
+/**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
+// @media only screen and (min-width: 850px), (max-width: 1199px) {
 .resp-gallery {
   padding: 0 0.312em;
   float: left;
   width: 49.99999%;
-}
-.resp-linebreak {
-  // display: none;
-  display: inline;
-}
-.resp-linebreak-M {
-  // display: none;
-  display: inline;
 }
 .clearfix:after {
   content: '';
   display: table;
   clear: both;
 }
+// .resp-br-s {
+//   display: none;
+// }
+// .resp-br-m {
+//   display: inline;
+// }
+// body {
+//   border: 5px solid orange;
+// }
 /*----------------------*/
-/**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
-// @media only screen and (min-width: 850px), (max-width: 1199px) {
-@media only screen and (max-width: 850px) {
+/**  SMALL_SCREEN (S) Mobile = No Sidebars; Max-Width: 849px */
+@media only screen and (max-width: 849px) {
   .resp-gallery {
     width: 100%;
   }
-  .resp-linebreak {
-    //display: none;
-    display: inline;
+  .img-properties {
+    text-align: center;
   }
-  .resp-linebreak-M {
-    display: none;
-    // display: inline;
-  }
+  // .resp-br-s {
+  //   display: inline;
+  // }
+  // .resp-br-m {
+  //   display: none;
+  // }
+  // body {
+  //   border: 5px solid green;
+  // }
 }
+
 /*----------------------*/
 /**  LARGE_SCREEN (L) PC = Both Sidebar; Min-Width: 1200px */
 // @media only screen and (min-width: 1200px) {
-@media only screen and (max-width: 1200px) {
-  .resp-linebreak {
-    // display: none;
-    display: inline;
+@media only screen and (min-width: 1200px) {
+  body {
+    border: 5px solid red;
   }
-  .resp-linebreak-M {
-    // display: none;
-    display: inline;
-  }
+  // .resp-br-m {
+  //   display: none;
+  // }
+  // .resp-br-l {
+  //   display: inline;
+  // }
 }
