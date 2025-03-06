@@ -122,37 +122,49 @@
 /*----------------------*/
 /**  SMALL_SCREEN (S) Mobile = No Sidebars; Max-Width: 849px */
 .resp-gallery {
-	padding: 0 0.312em;
-	float: left;
-	width: 49.99999%;
+  padding: 0 0.312em;
+  float: left;
+  width: 49.99999%;
+}
+.resp-linebreak { 
+  // display: none;
+  display: inline; 
 }
 .resp-linebreak-M {
-	display: inline;
+  // display: none;
+  display: inline;
 }
 .clearfix:after {
-	content: "";
-	display: table;
-	clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 /*----------------------*/
 /**  MEDIUM_SCREEN (M) Tablet = Left Sidebar; Min-Width: 850px & Max-Width: 1199px */
 // @media only screen and (min-width: 850px), (max-width: 1199px) {
 @media only screen and (max-width: 850px) {
-	.resp-gallery { 
-		width: 100%;
-	}
-	.resp-linebreak { 
-		display: inline; 
-	}
-	.resp-linebreak-M { 
-		display: none; 
-	}
+  .resp-gallery { 
+	width: 100%;
+  }
+  .resp-linebreak { 
+	//display: none; 
+	display: inline; 
+  }
+  .resp-linebreak-M { 
+	display: none; 
+	// display: inline; 
+  }
 }
 /*----------------------*/
 /**  LARGE_SCREEN (L) PC = Both Sidebar; Min-Width: 1200px */
 // @media only screen and (min-width: 1200px) {
 @media only screen and (max-width: 1200px) {
-	.resp-linebreak { 
-		display: none; 
-	}
+  .resp-linebreak { 
+	// display: none; 
+	display: inline; 
+  }
+  .resp-linebreak-M { 
+	// display: none; 
+	display: inline; 
+  }
 }
