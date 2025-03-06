@@ -50,7 +50,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 
 <div class="resp-gallery">
 <figure class="img-gallery">
- <img src="/assets/pics/20250228_Windmills.jpg " alt="Windmills" class="gallery-img">
+ <img src="/assets/pics/20250228_Windmills.jpg" alt="Windmills" class="gallery-img">
  <figcaption class="img-caption">
 	<cite><b>Windmills</b></cite> <br/>
 	Windmills against the eveningsky, zoomed and cropped.
@@ -65,7 +65,7 @@ Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 </div>
 <div class="resp-gallery">
 <figure class="img-gallery">
- <img src="/assets/pics/20250228_Windmills-l.jpg " alt="Windmills" class="gallery-img">
+ <img src="/assets/pics/20250228_Windmills-L.jpg" alt="Windmills" class="gallery-img">
  <figcaption class="img-caption">
 	<cite><b>Windmills</b></cite> <br/>
 	Windmills against the eveningsky (large).
