@@ -4,7 +4,7 @@ icon: fa-solid fa-person-hiking
 order: 1
 description: "About me and why I made this page. What is my Plan and how am I preparing?"
 date: 2025-01-10 00:00:00 +0100
-last_modified_at: ""
+last_modified_at: 2025-03-06 13:00:00 +0100
 toc: true
 ---
 

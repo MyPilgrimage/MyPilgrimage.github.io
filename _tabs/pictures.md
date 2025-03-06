@@ -5,7 +5,7 @@ order: 3
 ---
 
 Here you can find pictures I've taken while hiking, camping or working on this page. <br/>
-Click on a picture to enlarge it. While in the Large-viewport you can click (or swipe) left and right to browse the other pictures. <br/>
+Click on a picture to enlarge it. While in the Large-viewport you can click (or swipe) left and right to browse the other pictures. 
 Press the "X" in the upper right corner to exit the Large-viewport. <br/>
 
 
