@@ -361,52 +361,87 @@ My checklist of gear I still need, I already have and I won't need.
 
 #### Must Haves
 
-- [x] &nbsp; Walking boots:  <br/>  Army boots, might be too heavy though?
-- [x] &nbsp; Backpack:  <br/>  Military Footsoldier backpack, with lumbar-support and thick-padded straps
-- [ ] &nbsp; Tent:  <br/>  Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
-- [ ] &nbsp; Sleeping Gear:  <br/> Lightweight, water and windproof sleeping bag/pillow
-- [ ] &nbsp; Last Resort Ration:  <br/> is maybe something that would be good to have, think along the lines of a protein bar or other energy dense food.
-- [ ] &nbsp; Eating Supplies:  <br/> Utensils, Plate etc. / My own gas burner? or something to cook on?
-- [x] &nbsp; Medical Supplies:  <br/> Band-aids, a flea-nipper, a few painkillers and more
-- [ ] &nbsp; Correcting Soles:  <br/> I have a bit of knocked kneed legs or X-legs
-- [ ] &nbsp; Flashlight:  <br/> Obviously
-- [ ] &nbsp; Backpack lights/Reflectors:  <br/> Something to keep me better visible for others during the evening.
-- [X] &nbsp; Easy-Accessible Pouch / Water:  <br/> Pouches and Bidon that I can reach while walking, so I don't have to stop and search in my backpack.
-- [ ] &nbsp; Clothing:  <br/> T-shirts, Pants and the like.  <br/>
-Also layers! Better to be able to take off a piece of clothing than to be too hot or cold!
-- [ ] &nbsp; Raincoat:  <br/> Or something waterproof to keep me dry.
-- [ ] &nbsp; Good Socks:  <br/> Thick padded socks could be nicer for my feet, but will be a whole lot warmer and I don't want to walk on sweaty feet. (blisters etc.)  <br/>
-So thick but breathing socks.
-- [ ] &nbsp; ...:  <br/>
+- <i class="fa-regular fa-circle-check"></i>Walking boots: <br/> 
+  Army boots, might be too heavy though?
+- <i class="fa-regular fa-circle-check"></i>Backpack: <br/> 
+  Military Footsoldier backpack, with lumbar-support and thick-padded straps
+- <i class="fa-regular fa-circle"></i>Tent: <br/> 
+  Lightweight, 1 or 2 person, so I can keep my stuff inside my tent
+- <i class="fa-regular fa-circle"></i>Sleeping Gear: <br/> 
+  Lightweight, water and windproof sleeping bag/pillow
+- <i class="fa-regular fa-circle"></i>Last Resort Ration: <br/> 
+  is maybe something that would be good to have, think along the lines of a protein bar or other energy dense food.
+- <i class="fa-regular fa-circle"></i>Eating Supplies: <br/> 
+  Utensils, Plate etc. / My own gas burner? or something to cook on?
+- <i class="fa-regular fa-circle-check"></i>Medical Supplies: <br/> 
+  Band-aids, a flea-nipper, a few painkillers and more
+- <i class="fa-regular fa-circle"></i>Correcting Soles: <br/> 
+  I have a bit of knocked kneed legs or X-legs
+- <i class="fa-regular fa-circle"></i>Flashlight: <br/> 
+  Obviously
+- <i class="fa-regular fa-circle"></i>Backpack lights/Reflectors: <br/> 
+  Something to keep me better visible for others during the evening.
+- <i class="fa-regular fa-circle-check"></i>Easy-Accessible Pouch / Water: <br/> 
+  Pouches and Bidon that I can reach while walking, so I don't have to stop and search in my backpack.
+- <i class="fa-regular fa-circle"></i>Clothing: <br/> 
+  T-shirts, Pants and the like. <br/> 
+  Also layers! Better to be able to take off a piece of clothing than to be too hot or cold!
+- <i class="fa-regular fa-circle"></i>Raincoat: <br/> 
+  Or something waterproof to keep me dry.
+- <i class="fa-regular fa-circle"></i>Good Socks: <br/> 
+  Thick padded socks could be nicer for my feet, but will be a whole lot warmer and I don't want to walk on sweaty feet. (blisters etc.) <br/> 
+  So thick but breathing socks.
+<!--
+- <i class="fa-regular fa-circle"></i>LIST_ITEM: <br/> 
+  ITEM_DESCRIPTION
+-->
 
 
 #### Should Haves
 
-- [ ] &nbsp; Entertainment:  <br/> Books? or E-Book? E-book is lighter and might be able to read on my Smartphone?  <br/>
-Electronics would mean I need some sort of Power-Supply though.
-- [ ] &nbsp; Fire-starter:  <br/> Just in case?
-- [ ] &nbsp; Survival Knife:  <br/> A knife to cut ropes, or make makeshift tent-pegs etc
-- [ ] &nbsp; Tape / Rope / Ti-rips:  <br/> To fix things along the way!
-- [ ] &nbsp; Shaving Razor:  <br/> Something to keep my beard in-check.  <br/>
-I only know how to shave with an electric shaver, so this is something I will need to learn too!
-- [ ] &nbsp; ...:  <br/>
+- <i class="fa-regular fa-circle"></i>Entertainment: <br/> 
+  Books? or E-Book? E-book is lighter and might be able to read on my Smartphone? <br/> 
+  Electronics would mean I need some sort of Power-Supply though.
+- <i class="fa-regular fa-circle"></i>Fire-starter: <br/> 
+  Just in case?
+- <i class="fa-regular fa-circle"></i>Survival Knife: <br/> 
+  A knife to cut ropes, or make makeshift tent-pegs etc
+- <i class="fa-regular fa-circle"></i>Tape and/or Rope and/or Ti-rips: <br/> 
+  To fix things along the way!
+- <i class="fa-regular fa-circle"></i>Shaving Razor: <br/> 
+  Something to keep my beard in-check. <br/> 
+  I only know how to shave with an electric shaver, so this is something I will need to learn too!
+<!--
+- <i class="fa-regular fa-circle"></i>LIST_ITEM: <br/> 
+  ITEM_DESCRIPTION
+-->
 
 
 #### Could Haves
 
-- [ ] &nbsp; Sun Powered Power Bank:  <br/> for Electronic devices such as a (smart)-phone, flashlight(?) or GPS-Tracker
-- [x] &nbsp; Smartphone:  <br/> for emergencies, checking the weather report, GPS and Maps and contact to the outside world, including this page!
-- [ ] &nbsp; GPS Tracker:  <br/> Safety measure, incase of emergencies
-- [ ] &nbsp; Someway to make a little money on the road:  <br/> This is a big Could/Want to have, I still don't really know what use I am to society.  <br/>
-So finding anything that someone else finds worthwhile and especially valuable, would be a big change in my life.
-- [ ] &nbsp; ...:  <br/>
-
+- <i class="fa-regular fa-circle"></i>Sun Panel and/or Power Bank: <br/>
+  for Electronic devices such as a smartphone, flashlight or GPS-Tracker
+- <i class="fa-regular fa-circle-check"></i>Smartphone: <br/> 
+  for emergencies, checking the weather report, GPS and Maps and contact to the outside world, including this page!
+- <i class="fa-regular fa-circle"></i>GPS Tracker: <br/> 
+  Safety measure, incase of emergencies
+- <i class="fa-regular fa-circle"></i>Someway to make a little money on the road: <br/> 
+  This is a big Could/Want to have, I still don't really know what use I am to society. <br/>
+  So finding anything that someone else finds worthwhile and especially valuable, would be a big change in my life.
+<!--
+- <i class="fa-regular fa-circle"></i>LIST_ITEM: <br/> 
+  ITEM_DESCRIPTION
+-->
 
 #### Won't Haves
 
-- [ ] &nbsp; A constant Internet-connection or same 06 number:  <br/> I want to find an escape from my current life, bringing something that will drag me back is too much of a risk I think.  <br/>
-But I do also want some way of contacting family or emergency services.
-- [ ] &nbsp; ...:  <br/>
+- <i class="fa-regular fa-circle-xmark"></i>A constant Internet-connection or same 06 number: <br/> 
+  I want to find an escape from my current life, bringing something that will drag me back is too much of a risk I think. <br/> 
+  But I do also want some way of contacting family or emergency services.
+<!--
+- <i class="fa-regular fa-circle-xmark"></i>LIST_ITEM: <br/> 
+  ITEM_DESCRIPTION
+-->
 
 
 ![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 }_"Depiction of Saint James in the 12th century" <br/> [<i class="fa-brands fa-wikipedia-w"></i> Codex Calixtinus  <i class="fa-solid fa-up-right-from-square"></i>](https://en.Wikipedia.org/wiki/Codex_Calixtinus).<br/> ~by [<i class="fa-brands fa-flickr"></i> Certo Xornal  <i class="fa-solid fa-up-right-from-square"></i>](https://www.flickr.com/photos/15528381@N02 )._
