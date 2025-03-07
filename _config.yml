@@ -26,7 +26,9 @@ description: >-
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://MyPilgrimage.github.io"
+url: ""
+# url: 'https://MyPilgrimage.github.io'
+# url: "https://MyPilgrimage.github.io"
 
 github:
   username: MyPilgrimage # change to your GitHub username
@@ -42,7 +44,6 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/MyPilgrimage
-    # change to your GitHub homepage
     - https://reddit.com/u/I-Jun_Pilgrimage
     
     # Uncomment below to add more social links
@@ -156,7 +157,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://MyPilgrimage.github.io"
+baseurl: ""
+# baseurl: "https://MyPilgrimage.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
