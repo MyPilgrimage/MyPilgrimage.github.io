@@ -26,15 +26,17 @@ description: >-
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+# url: ""
 # url: 'https://MyPilgrimage.github.io'
-# url: "https://MyPilgrimage.github.io"
+url: "https://MyPilgrimage.github.io"
 
 github:
-  username: MyPilgrimage # change to your GitHub username
+  username: MyPilgrimage 
+# change to your GitHub username
 
 # twitter:
-  # username: twitter_username # change to your Twitter username
+#   username: twitter_username 
+# change to your Twitter username
 
 social:
   # Change to your full name.
@@ -102,7 +104,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/favicons/android-chrome-512x512.png
@@ -157,8 +159,9 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+# baseurl: ""
 # baseurl: "https://MyPilgrimage.github.io"
+baseurl: "MyPilgrimage.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
