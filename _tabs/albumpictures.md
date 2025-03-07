@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+title: Photo Album
 icon: fas fa-camera
 order: 2
 ---
