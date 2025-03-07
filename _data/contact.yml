@@ -3,22 +3,21 @@
 - type: github
   icon: "fab fa-github"
 
+- type: reddit
+  icon: 'fa-brands fa-reddit'
+  url: 'https://reddit.com/u/I-Jun_Pilgrimage/'
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true 
   # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-  
-- type: reddit
-  icon: 'fa-brands fa-reddit'
-  url: 'https://reddit.com/u/I-Jun_Pilgrimage/'
-  # Fill with your Reddit profile link
-
   
 # Uncomment and complete the url below to enable more contact options
+#
+# - type: rss
+#     icon: "fas fa-rss"
+#     noblank: true
 #
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
