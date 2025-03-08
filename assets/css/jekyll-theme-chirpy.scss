@@ -1,0 +1,52 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == ' production ' -%}
+  .bundle
+{%- endif -%}
+';
+
+/*MY_CUSTOM_STYLE*/
+// Highlight first Post
+#post-list article:first-child a {
+	background: var(--prompt-tip-bg) !important;
+	// background: rgb(123, 247, 144, 0.2) !important;
+}
+// float next to eachother
+.w-49 { width: 49.99999%; }
+.w-33 { width: 33.33333%; }
+.center {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+// Image Captions
+.caption {
+	display: block;
+	text-align: center;
+	font-style: normal;
+	font-size: 80%;
+	padding: 0;
+	color: var(--text-muted-highlight-color);
+}
+// Progress
+.progress-bg,
+.progress-fill {
+	height: 1.75em;
+	border-radius: 1.25em;
+	background: var(--button-bg);
+	// background: rgba($color: #aaa, $alpha: 0.25);
+}
+// Progressbar
+.progress-fill {
+	min-width: fit-content;
+	overflow-wrap: normal;
+	padding-left: 0.2em;
+	background: var(--prompt-tip-icon-color);
+	color: var(--text-color);
+	text-shadow: 0px 0px 2px var(--text-muted-color), 0 0 5px var(--text-muted-highlight-color);
+	// background: #80ff80;
+	// color: #fff;
+	// text-shadow: 0px 0px 2px #fff, 0 0 5px #999;
+}
