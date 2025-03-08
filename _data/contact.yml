@@ -4,23 +4,23 @@
   icon: "fab fa-github"
 
 - type: reddit
-  icon: 'fa-brands fa-reddit'
-  url: 'https://reddit.com/u/I-Jun_Pilgrimage/'
+  icon: "fab fa-reddit"
+  url: "https://reddit.com/u/I-Jun_Pilgrimage/"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true 
   # open link in current tab
-
+  
+- type: rss
+    icon: "fas fa-rss"
+    noblank: true
   
 # Uncomment and complete the url below to enable more contact options
 #
-# - type: rss
-#     icon: "fas fa-rss"
-#     noblank: true
 #
 # - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+#   icon: "fab fa-x-twitter"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
@@ -35,10 +35,10 @@
 #   url:  ''                  # Fill with your stackoverflow homepage
 #
 # - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
+#   icon: 'fab fa-bluesky'
 #   url: ''                   # Fill with your Bluesky profile link
 #
 # - type: threads
-#   icon: 'fa-brands fa-threads'
+#   icon: 'fab fa-threads'
 #   url: ''                   # Fill with your Threads profile link
 #

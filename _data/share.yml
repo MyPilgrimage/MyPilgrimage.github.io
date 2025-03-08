@@ -3,11 +3,11 @@
 
 platforms:
   - type: Reddit
-    icon: "fa-brands fa-square-reddit"
+    icon: "fab fa-square-reddit"
     link: "https://www.reddit.com/submit?url=URL&title=TITLE"
     
   - type: Bluesky
-    icon: "fa-brands fa-bluesky"
+    icon: "fab fa-bluesky"
     link: "https://bsky.app/intent/compose?text=TITLE%20URL"
     
   - type: Linkedin
@@ -15,11 +15,11 @@ platforms:
     link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"  
     
   - type: Threads
-    icon: "fa-brands fa-square-threads"
+    icon: "fab fa-square-threads"
     link: "https://www.threads.net/intent/post?text=TITLE%20URL"
 
   - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
+    icon: "fab fa-square-x-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
   - type: Facebook
@@ -37,7 +37,7 @@ platforms:
   #   link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
   #
   # - type: Mastodon
-  #   icon: "fa-brands fa-mastodon"
+  #   icon: "fab fa-mastodon"
   #   # See: https://github.com/justinribeiro/share-to-mastodon#properties
   #   instances:
   #     - label: mastodon.social
