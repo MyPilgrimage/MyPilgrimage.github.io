@@ -24,7 +24,7 @@ _<i class="far fa-calendar"></i> DD_MM_YYYY. &nbsp;<i class="fas fa-location-dot
 
 ![My Remote-work Office - LoAHF](/assets/pics/20250306_MyEmptyOffice.jpg){: .w-49 .left }
 _'My Remote-work Office - LoAHF<br/> Leave only Ash, Hair and Footprints!'_
-_<i class="far fa-calendar"></i> 06-03-2025. &nbsp;<i class="fas fa-location-dot"></i> North-Holland. &nbsp;<i class="fas fa-camera"></i> Taken by me. &nbsp;<i class="fas fa-tag"></i> <a href="PICTURE_POST_ORIGIN"> PICTURE_POST_ORIGIN</a>_{: .caption }
+_<i class="far fa-calendar"></i> 06-03-2025. &nbsp;<i class="fas fa-location-dot"></i> North-Holland. &nbsp;<i class="fas fa-camera"></i> Taken by me. &nbsp;<i class="fas fa-tag"></i> <!--<a href="PICTURE_POST_ORIGIN"> PICTURE_POST_ORIGIN</a>-->_{: .caption }
 
 ![My Remote-work Office](/assets/pics/20250304_MyOffice.jpg){: .w-49 .right }
 _'My Remote-work Office<br/> This is where I do most of the work on this page.'_
