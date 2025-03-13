@@ -4,13 +4,13 @@
 
 ## Sitemap
 
-├── [Home](https://MyPilgrimage.github.io/)
-├──── [/posts/Welcome](https://MyPilgrimage.github.io/welcome/)
-├── [About](https://MyPilgrimage.github.io/about/)
-├── [Photos](https://MyPilgrimage.github.io/photos/)
-├── [Timeline](https://MyPilgrimage.github.io/timeline/)
-├── [Categories](https://MyPilgrimage.github.io/categories/)
-└── [Tags](https://MyPilgrimage.github.io/tags/)
+├── [Home](https://MyPilgrimage.github.io/)  
+├──── [/posts/Welcome](https://MyPilgrimage.github.io/welcome/)  
+├── [About](https://MyPilgrimage.github.io/about/)  
+├── [Photos](https://MyPilgrimage.github.io/photos/)  
+├── [Timeline](https://MyPilgrimage.github.io/timeline/)  
+├── [Categories](https://MyPilgrimage.github.io/categories/)  
+└── [Tags](https://MyPilgrimage.github.io/tags/)  
 
 ## Dev Notes
 
