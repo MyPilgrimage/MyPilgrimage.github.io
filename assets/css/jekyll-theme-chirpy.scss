@@ -2,9 +2,7 @@
 ---
 
 @use 'main
-{%- if jekyll.environment == 'production' -%}
-  .bundle
-{%- endif -%}
+ {%- if jekyll.environment == ' production ' -%} .bundle {%- endif -%}
 ';
 
 /*MY_CUSTOM_STYLE*/
