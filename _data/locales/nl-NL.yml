@@ -1,0 +1,92 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Bericht
+  category: Categorie
+  tag: Label
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Start
+  about: Over
+  photos: Foto Album
+  timeline: Tijdlijn
+  categories: Categorieën
+  tags: Labels
+  # archives: Archief
+
+# the text displayed in the search bar & search results
+search:
+  hint: Zoek
+  cancel: Annuleer
+  no_results: Oeps! Geen resultaat gevonden.
+
+panel:
+  lastmod: Recent Bijgewerkt
+  trending_tags: Populaire Labels
+  toc: Inhoud
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Alle berichten zijn onder :LICENSE_NAME gepubliceerd door de auteur.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Sommige rechten voorbehouden.
+  verbose: >-
+    Tenzij anders vermeld, alle berichten zijn onder de
+    Creative Commons Attribution 4.0 International (CC BY 4.0) gepubliceerd door de auteur.
+
+meta: Gebruikt :THEME
+
+not_found:
+  statement: Oeps, we hebben de URL verkeerd geplaatst of hij verwijst naar iets dat niet bestaat.
+
+notification:
+  update_found: Nieuwe bijgewerkte versie van inhoud beschikbaar.
+  update: Nieuwe versie
+
+# ----- Posts related labels -----
+post:
+  written_by: Door
+  posted: Gepost
+  updated: Bijgewerkt
+  words: woorden
+  pageview_measure: Gelezen
+  read_time:
+    unit: min
+    prompt: lees
+  relate_posts: Verder Lezen
+  share: Deel
+  button:
+    next: Volgende
+    previous: Vorige
+    copy_code:
+      succeed: Gekopieerd!
+    share_link:
+      title: Link kopiëren
+      succeed: Succesvol gekopieerd!
+
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%b %e, %Y"
+    dayjs: "ll"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
+# categories page
+categories:
+  category_measure:
+    singular: categorie
+    plural: categorieën
+  post_measure:
+    singular: bericht
+    plural: berichten
