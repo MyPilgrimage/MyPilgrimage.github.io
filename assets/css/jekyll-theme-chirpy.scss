@@ -1,19 +1,14 @@
 ---
 ---
 
-@use 'main
-{%- if jekyll.environment == ' production ' -%}
-  .bundle
-{%- endif -%}
-';
+@use 'main {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%}';
 
 /*MY_CUSTOM_STYLE*/
-// Prompt Blocks
+
+/*Prompt Blocks*/
 .prompt-quick {
-  // float: left;
   padding: 1em !important;
   margin: 0 !important;
-  // min-height: 550px;
   background-color: var(--prompt-tip-bg);
 }
 .prompt-quick ul {
@@ -25,20 +20,15 @@
 .prompt-quick p {
   margin: 0em 0.1em 0.25em;
 }
-.quote {
-  text-align: center;
-  border: none;
-}
-// Images
+
+/* Images */
 .img.badge {
-  float: left;
-  margin: 0.2em;
+  margin: 0.5%;
   background: var(--img-bg);
   border-radius: 1.25em;
 }
 .img.badge em {
   white-space: wrap !important;
-  // color: var(--text-color) !important;
   font-size: 100% !important;
   padding-bottom: 0.25em !important;
 }
@@ -49,24 +39,31 @@ a.popup.img-link img {
   border-radius: 1.25em;
 }
 .caption {
-  display: block;
-  text-align: center;
-  font-style: normal;
+  marging: 0 0 0.25em 0;
+  padding: 0.25em;
+  white-space: wrap;
   font-weight: normal;
   font-size: 80%;
-  padding: 0 0 0.25em 0;
+  line-height: normal;
   color: var(--text-muted-color);
   cursor: default;
 }
-.caption:hover,
+
 .caption:hover em {
   color: var(--text-muted-highlight-color) !important;
 }
-// First Post Highlight
+
+.quote {
+  text-align: center;
+  border: none;
+}
+
+/* First Post Highlight */
 #post-list article:first-child a {
   background: var(--prompt-tip-bg) !important;
 }
-// Progressbars
+
+/* Progressbars */
 .progress-bg {
   border-radius: 1.25em;
   background: var(--button-bg);
@@ -82,41 +79,29 @@ a.popup.img-link img {
   text-shadow: 0px 0px 1px var(--text-muted-color),
     0 0 2px var(--text-muted-highlight-color);
 }
-/* RESPONSIVE DESIGN by Sidebars
-* No Sidebar              - Small Screen  0-849px
-* Left Sidebar (Nav Menu) - Medium Screen 850-1199px
-* Both Sidebar (ToC Menu) - Large Screen  1200+px
-*/
-// No Sidebar Visible
 
-/* WIDTH-NUMBER
-* W-49 Place two items next to eachother (width 49%)
-* W-33 Place three items next to eachother (width 33%)
-*/
+/* No Sidebar Visible */
 .w-49 {
   width: 49%;
-  margin: 0.01em;
 }
 .w-33 {
   width: 33%;
-  margin: 0.01em;
+}
+.res {
+  float: left;
 }
 .res.w-33,
 .res.w-49 {
   width: 100%;
 }
-
-/* Breakline
-*  S:  Break on Small Screen
-*  SM: Break on Small and Medium Screen
-*  ML: Break on Medium and Large Screen
-*  L:  Break on Large Screen
-*/
 .brS {
   display: inline-block;
 }
 .brSM {
   display: inline-block;
+}
+.brM {
+  display: none;
 }
 .brML {
   display: none;
@@ -124,18 +109,22 @@ a.popup.img-link img {
 .brL {
   display: none;
 }
-// Left-Sidebar
+
+/* Left-Sidebar */
 @media only screen and (min-width: 850px) {
   .res.w-33 {
-    width: 49.99%;
+    width: 49%;
   }
   .res.w-49 {
-    width: 49.99%;
+    width: 49%;
   }
   .brS {
     display: none;
   }
   .brSM {
+    display: inline-block;
+  }
+  .brM {
     display: inline-block;
   }
   .brML {
@@ -145,18 +134,22 @@ a.popup.img-link img {
     display: none;
   }
 }
-// Both-Sidebar
+
+/* Both-Sidebar */
 @media only screen and (min-width: 1200px) {
   .res.w-33 {
-    width: 33.33%;
+    width: 33%;
   }
   .res.w-49 {
-    width: 49.99%;
+    width: 49%;
   }
   .brS {
     display: none;
   }
   .brSM {
+    display: none;
+  }
+  .brM {
     display: none;
   }
   .brML {
@@ -166,12 +159,8 @@ a.popup.img-link img {
     display: inline-block;
   }
 }
-/* RESPONSIVE DESIGN by Device
-* Mobile devices - Small Screen  0-320px
-* Tablets        - Medium Screen 321-768px
-* Desktops       - Large Screen  768-1024px
-*/
-// Mobile
+
+/* Mobile */
 @media only screen and (max-width: 320px) {
   .w-25,
   .w-50 {
@@ -181,7 +170,8 @@ a.popup.img-link img {
     float: none;
   }
 }
-// Tablet
+
+/* Tablet */
 @media only screen and (max-width: 768px) {
   .w-50 {
     width: 100% !important;
@@ -190,11 +180,15 @@ a.popup.img-link img {
     float: none;
   }
 }
-// Desktop
+
+/* Desktop */
 @media only screen and (max-width: 1024px) {
+  // .w-50 {
+  //   width: auto;
+  // }
 }
-// END of RESPONSIVE DESIGN
-// Fix floats after
+
+/* Fix floats after */
 .clearfix:after {
   content: '';
   display: table;
