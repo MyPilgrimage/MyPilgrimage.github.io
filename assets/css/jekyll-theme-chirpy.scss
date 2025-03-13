@@ -1,11 +1,7 @@
 ---
 ---
 
-@use 'main
-{%- if jekyll.environment == ' production ' -%}
-  .bundle
-{%- endif -%}
-';
+@use 'main {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%}';
 
 /*MY_CUSTOM_STYLE*/
 
@@ -27,7 +23,7 @@
 
 /* Images */
 .img.badge {
-  margin: 0.5%;
+  margin: auto;
   background: var(--img-bg);
   border-radius: 1.25em;
 }
@@ -187,9 +183,9 @@ a.popup.img-link img {
 
 /* Desktop */
 @media only screen and (max-width: 1024px) {
-  // .w-50 {
-  //   width: auto;
-  // }
+  .w-50 {
+    width: auto;
+  }
 }
 
 /* Fix floats after */
