@@ -1,8 +1,10 @@
 ---
 # the default layout is 'page'
+layout: post
 icon: fas fa-person-hiking
 order: 1
 toc: true
+last_modified_at: 2025-03-14 02:30:00 +0100
 ---
 
 
