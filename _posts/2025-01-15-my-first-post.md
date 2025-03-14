@@ -5,14 +5,17 @@ categories: [2025 Trial-Run, Preparations]
 tags: [trial-run, personal, pictures, site]
 image:
  path: /assets/pics/20220226_Godray.jpg
- alt: Godrays
+ alt: "<a href=https://mypilgrimage.github.io/photos/#2022>Sunbeam 2022</a> [Sunbeam 2022](https://mypilgrimage.github.io/photos/#2022)"
 description: "207 Days to Prepare. My first post!..."
 ---
 
-> **207** Days to Prepare. <br class="brS"/><i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br class="brM"/>
-> [<i class="fa-solid fa-calendar-days"></i> Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) <br/>
-{: .prompt-info .quote }
 
+> **207** Days to Prepare. <br class="brS"/><i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br class="brSM"/>
+> [<i class="fa-solid fa-calendar-days"></i> Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) 
+{: .prompt-quick }
+
+
+## Hi,
 
 Creating this page helps me with making a concrete plan 
 and to share my plan with family and friends. 
