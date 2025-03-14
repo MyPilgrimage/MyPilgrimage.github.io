@@ -71,13 +71,16 @@ a.popup.img-link img {
   white-space: wrap;
   font-weight: normal;
   font-size: 80%;
-  // text-align: center;
   line-height: normal;
   color: var(--text-muted-color);
   cursor: default;
 }
 .caption:hover em {
   color: var(--text-muted-highlight-color) !important;
+}
+
+.props {
+  margin: 0 20%;
 }
 
 .quote {
