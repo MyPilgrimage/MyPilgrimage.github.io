@@ -9,11 +9,11 @@ Here you can find pictures, I and others have taken while hiking, camping or wor
 Attribution given in the picture's description. 
 
 > **Click on a picture to enlarge it.** <br/>
->   While in the Large-viewport you can browse the other pictures by: <br/>
->   Pressing or swiping left and right. 
->   Or clicking <i class="fas fa-angle-left fa-fw"></i> and <i class="fas fa-angle-right fa-fw"></i> 
+> While in the Large-viewport you can browse the other pictures by: 
+> Pressing or swiping left and right. 
+> Or clicking <i class="fas fa-angle-left fa-fw"></i> and <i class="fas fa-angle-right fa-fw"></i> 
 > <br/>
->   Press **ESC** or click the <i class="fas fa-x fa-fw"></i> in the upper right corner to exit the Large-viewport. <br/>
+> Press **ESC** or click the <i class="fas fa-x fa-fw"></i> in the upper right corner to exit the Large-viewport. <br/>
 {: .prompt-tip }
 
 -----
@@ -91,18 +91,18 @@ _<i class="far fa-calendar"></i> 20-01-2025. &nbsp;
 
 ![Camping Tent](/assets/pics/20240604_Tent.jpg)
 _**Camping Tent**<br/> The current (<i>way to heavy</i>) tent I use on vacation._
-<i class="far fa-calendar"></i> 04-06-2024. &nbsp;
-<i class="fas fa-location-dot"></i> Weert, Brabant. &nbsp;
+_<i class="far fa-calendar"></i> 04-06-2024. &nbsp;
+<i class="fas fa-location-dot"></i> Weert, Brabant. &nbsp; <br class="brM"/>
 <i class="fas fa-camera"></i> Taken by Koen. &nbsp;
-<!-- <i class="fas fa-tag"></i> <a href="PICTURE_POST_ORIGIN"> POST_ORIGIN </a>-->
+<!-- <i class="fas fa-tag"></i> <a href="PICTURE_POST_ORIGIN"> POST_ORIGIN </a>-->_
 {: .img.badge .caption .w-49 .res }
 
 ![High Water](/assets/pics/20240520_Schoorl.png)
 _**High Water**<br/> Normally this is all sand-dunes, but now it&apos;s flooded by recent heavy rain._
-<i class="far fa-calendar"></i> 20-05-2024. &nbsp;
-<i class="fas fa-location-dot"></i> Dunes of Schoorl. &nbsp;
+_<i class="far fa-calendar"></i> 20-05-2024. &nbsp;
+<i class="fas fa-location-dot"></i> Dunes of Schoorl. &nbsp; <br class="brM"/>
 <i class="fas fa-camera"></i> Taken by me. &nbsp;
-<!-- <i class="fas fa-tag"></i> <a href="PICTURE_POST_ORIGIN"> POST_ORIGIN </a>-->
+<!-- <i class="fas fa-tag"></i> <a href="PICTURE_POST_ORIGIN"> POST_ORIGIN </a>-->_
 {: .img.badge .caption .w-49 .res }
 
 <div class="clearfix"></div>
@@ -204,4 +204,3 @@ Most Pictures taken by Me (I-Jun), some by Friends.<br/>
 <br/>
 <small>  Hosted by [<i class="fab fa-github fa-fw"></i> Github Pages <i class="fas fa-up-right-from-square fa-fw"></i>](https://pages.github.com/)</small>
 {: .caption }
-
