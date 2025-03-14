@@ -13,6 +13,11 @@
   margin: 0 !important;
   background-color: var(--prompt-tip-bg);
 }
+.prompt-quick p {
+  padding: 0 1em;
+}
+
+/*Quick Overview Sitemap*/
 .prompt-quick ul {
   list-style: none;
   list-style-position: inside;
@@ -21,6 +26,24 @@
 .prompt-quick h3,
 .prompt-quick p {
   margin: 0em 0.1em 0.25em;
+}
+
+/* Progressbars */
+.progress-bg {
+  border-radius: 1.25em;
+  background: var(--button-bg);
+  margin-left: 1em;
+}
+.progress-fill {
+  font-size: small;
+  font-weight: bolder;
+  overflow-wrap: normal;
+  padding: 0.02em;
+  border-radius: 1.25em;
+  background: var(--prompt-tip-icon-color);
+  color: var(--text-color);
+  text-shadow: 0px 0px 1px var(--text-muted-color),
+    0 0 2px var(--text-muted-highlight-color);
 }
 
 /* Images */
@@ -40,17 +63,19 @@ a.popup.img-link {
 a.popup.img-link img {
   border-radius: 1.25em;
 }
+
+/* Caption */
 .caption {
   marging: 0 0 0.25em 0;
   padding: 0.25em;
   white-space: wrap;
   font-weight: normal;
   font-size: 80%;
+  // text-align: center;
   line-height: normal;
   color: var(--text-muted-color);
   cursor: default;
 }
-
 .caption:hover em {
   color: var(--text-muted-highlight-color) !important;
 }
@@ -65,23 +90,6 @@ a.popup.img-link img {
   background: var(--prompt-tip-bg) !important;
 }
 
-/* Progressbars */
-.progress-bg {
-  border-radius: 1.25em;
-  background: var(--button-bg);
-}
-.progress-fill {
-  font-size: small;
-  font-weight: bolder;
-  overflow-wrap: normal;
-  padding: 0.02em;
-  border-radius: 1.25em;
-  background: var(--prompt-tip-icon-color);
-  color: var(--text-color);
-  text-shadow: 0px 0px 1px var(--text-muted-color),
-    0 0 2px var(--text-muted-highlight-color);
-}
-
 /* No Sidebar Visible */
 .w-49 {
   width: 49%;
@@ -92,10 +100,7 @@ a.popup.img-link img {
 .res {
   float: left;
 }
-.res.w-33,
-.res.w-49 {
-  width: 100%;
-}
+
 .brS {
   display: inline-block;
 }
@@ -164,6 +169,13 @@ a.popup.img-link img {
 
 /* Mobile */
 @media only screen and (max-width: 320px) {
+  .w-49 {
+    width: 100%;
+  }
+  .w-49.left,
+  .w-49.right {
+    float: none;
+  }
   .w-25,
   .w-50 {
     width: 100% !important;
@@ -175,19 +187,17 @@ a.popup.img-link img {
 
 /* Tablet */
 @media only screen and (max-width: 768px) {
-  .w-50 {
-    width: 100% !important;
+  .w-49 {
+    width: 100%;
   }
-  .w-50.right {
+  .w-49.left,
+  .w-49.right {
     float: none;
   }
 }
 
 /* Desktop */
 @media only screen and (max-width: 1024px) {
-//  .w-50 {
-//    width: auto;
-//  }
 }
 
 /* Fix floats after */
