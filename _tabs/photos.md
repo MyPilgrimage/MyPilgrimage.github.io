@@ -5,7 +5,7 @@ order: 2
 ---
 
 
-Here you can find pictures, I and others have taken while hiking, camping or working on this page. <br/>
+Here you can find pictures I and others have taken while hiking, camping or working on this page. <br/>
 Attribution given in the picture's description. 
 
 > **Click on a picture to enlarge it.** <br/>
@@ -75,7 +75,7 @@ _<i class="far fa-calendar"></i> 21-01-2025. &nbsp;
 {: .img.badge .caption .w-49 .res }
 
 ![Small Trunk-bridge](/assets/pics/20250120_OhMyWhatObstacles.jpg)
-_**Small Trunk-bridge**<br/> A relatively deep ditch that crossed my path. You can see a rope bridge. (<i>which wasn&apos;t accessible with my big backpack</i>). Luckily my boots were waterproof!_
+_**Small Trunk-bridge**<br/> A relatively deep ditch that crossed my path. You can see a rope bridge. (<i> which wasn't accessible with my big backpack </i>). Luckily my boots were waterproof!_
 _<i class="far fa-calendar"></i> 20-01-2025. &nbsp; 
 <i class="fas fa-location-dot"></i> North-Holland. &nbsp; <br class="brM"/>
 <i class="fas fa-camera"></i> Taken by me. &nbsp; 
@@ -90,7 +90,7 @@ _<i class="far fa-calendar"></i> 20-01-2025. &nbsp;
 ## 2024
 
 ![Camping Tent](/assets/pics/20240604_Tent.jpg)
-_**Camping Tent**<br/> The current (<i>way to heavy</i>) tent I use on vacation._
+_**Camping Tent**<br/> The current (<i> way to heavy </i>) tent I use on vacation._
 _<i class="far fa-calendar"></i> 04-06-2024. &nbsp;
 <i class="fas fa-location-dot"></i> Weert, Brabant. &nbsp; <br class="brM"/>
 <i class="fas fa-camera"></i> Taken by Koen. &nbsp;
@@ -98,7 +98,7 @@ _<i class="far fa-calendar"></i> 04-06-2024. &nbsp;
 {: .img.badge .caption .w-49 .res }
 
 ![High Water](/assets/pics/20240520_Schoorl.png)
-_**High Water**<br/> Normally this is all sand-dunes, but now it&apos;s flooded by recent heavy rain._
+_**High Water**<br/> Normally this is all sand-dunes, but now it's flooded by recent heavy rain._
 _<i class="far fa-calendar"></i> 20-05-2024. &nbsp;
 <i class="fas fa-location-dot"></i> Dunes of Schoorl. &nbsp; <br class="brM"/>
 <i class="fas fa-camera"></i> Taken by me. &nbsp;
@@ -144,7 +144,7 @@ _<i class="far fa-calendar"></i> 28-02-2022. &nbsp;
 {: .img.badge .caption .w-49 .res }
 
 ![Sunbeam](/assets/pics/20220226_Godray.jpg)
-_**Sunbeam**<br/> A nice sunbeam, or godray, casting long shadows over the green grass._
+_**Sunbeam**<br/> A nice sunbeam, (<i> or god ray, </i>) casting long shadows over the green grass._
 _<i class="far fa-calendar"></i> 26-02-2022. &nbsp; 
 <i class="fas fa-location-dot"></i> North-Holland. &nbsp; <br class="brM"/>
 <i class="fas fa-camera"></i> Taken by me. &nbsp; 

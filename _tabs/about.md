@@ -20,7 +20,7 @@ last_modified_at: 2025-03-14 02:30:00 +0100
 
 I'm a 32 year old man, living in the Netherlands. <br/>
 I've tried, multiple times, to find my "calling in life" (*and failing..*).
-currently unemployed due to mental-health issues and I had to move back in with my parents.
+I am currently unemployed due to mental-health issues and I had to move back in with my parents.
 With no relationship, children, owned-property or other important long term commitments,
 *I find myself on a crossroad in life.* <br/>
 
@@ -161,7 +161,7 @@ Simply because it's a known route, it has historical significance (and I love hi
 
 ![Floris V Path: LAW 1-3](/assets/img/about/LAW_1_3-dark.png){: .dark }
 ![Floris V Path: LAW 1-3](/assets/img/about/LAW_1_3-light.png){: .light }
-_"Floris V Path: LAW 1-3"<br/> ~by [<i class="fab fa-wikipedia-w fa-fw"></i> MarijnBosma <i class="fas fa-up-right-from-square fa-fw"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
+_"Floris V Path: LAW 1-3"<br/> ~by [<i class="fab fa-wikipedia-w fa-fw"></i> Marijn Bosma <i class="fas fa-up-right-from-square fa-fw"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
 {: .w-50 .right }
 
 
@@ -277,7 +277,7 @@ Or Amsterdam for the "Pilgrims Pad LAW 7" (*Pilgrims Path*)
 
 ![Pilgrims Path: LAW 7](/assets/img/about/LAW_7-dark.png){: .dark }
 ![Pilgrims Path: LAW 7](/assets/img/about/LAW_7-light.png){: .light }
-_"Pilgrims Path: LAW 7"<br/> ~by [<i class="fab fa-wikipedia-w fa-fw"></i> MarijnBosma <i class="fas fa-up-right-from-square fa-fw"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
+_"Pilgrims Path: LAW 7"<br/> ~by [<i class="fab fa-wikipedia-w fa-fw"></i> Marijn Bosma <i class="fas fa-up-right-from-square fa-fw"></i>](https://commons.wikimedia.org/wiki/User:MarijnBosma )._
 {: .w-50 .left }
 
 
@@ -503,7 +503,7 @@ Checklist Icons:
 - <i class="far fa-circle fa-fw"></i> 
   **Good Socks:** <br/>
   Thick padded socks could be nicer for my feet, 
-  but will be a whole lot warmer and I don't want to walk on sweaty feet. (blisters etc.) <br/>
+  but it will be a whole lot warmer and I don't want to walk on sweaty feet. (blisters etc.) <br/>
   So thick but breathing socks.
 
 <!--
@@ -553,7 +553,7 @@ Checklist Icons:
 - <i class="far fa-circle fa-fw"></i> 
   **GPS Tracker:** <br/>
   Safety measure, incase of emergencies, 
-  or if I clip it to my backpack, incase it gets stolen.
+  or if I clip it to my backpack, in case it gets stolen.
 - <i class="far fa-circle fa-fw"></i> 
   **Someway to make a little money on the road:** <br/>
   This is a big /Want to have, 
