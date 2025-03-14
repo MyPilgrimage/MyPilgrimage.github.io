@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+</style>
+<script src=""></script>
+<body>
+
+<h2>Quick overview</h2>
+
+<div class=".prompt-quick .w-49 .left ">
+	<h3>Countdown</h3>
+	<b id="countdownTimer"></b> <br/>
+	Trial-Run starts: <br/>
+	<i class="far fa-calendar"></i>**10 August 2025**
+</div>
+
+<div class=".prompt-quick .w-49 .right">
+	<h3>Location</h3>
+	<img src="../../assets/img/welcome/gMaps_loc-dark.png" alt="Current Location Map" class=".dark" style="width: 250px; height: 100%"/>
+	<!-- ![Current Location Map](/assets/img/welcome/gMaps_loc-dark.png){: .dark w='250px' h='100%' } -->
+	<!-- ![Current Location Map](/assets/img/welcome/gMaps_loc-light.png){: .light w='250px' h='100%' } -->
+	<br/>
+	_Current Location Map<br/>See updates on my current location_
+	<br/>
+	_<i class="far fa-calendar"></i> DD_MM_YYYY. &nbsp; <i class="fas fa-location-dot"></i> LOCATION._
+</div>
+
+<div class=" .prompt-quick .w-49 .left ">
+	<h3>Progress</h3>
+	<b>Route:</b> <br/>
+	How far along the route am I?
+	<div class="progress-bg">
+		<div id="progressRoute" class="progress-fill" style="width:0%">
+		0% 
+		</div>
+	</div>
+	
+	<b>Training:</b><br/>
+	Can I walk 20km per day?
+	<div class="progress-bg">
+		<div id="progressTrain" class="progress-fill" style="width:7%">
+		7% 
+		</div>
+	</div>
+	
+	<b>Gear:</b><br/>
+	How is the gear collection going?
+	<div class="progress-bg">
+		<div id="progressGear" class="progress-fill" style="width:5%">
+		5% 
+		</div>
+	</div>
+</div>
+
+<div class="clearfix"></div>
+</body>
+
+<style>
+/* Progressbars */
+.progress-bg {
+  border-radius: 1.25em;
+  background: grey;
+  <!-- background: var(--button-bg); -->
+  margin-left: 1em;
+}
+.progress-fill {
+  font-size: small;
+  font-weight: bolder;
+  overflow-wrap: normal;
+  padding: 0.02em;
+  border-radius: 1.25em;
+  background: green;
+  <!-- background: var(--prompt-tip-icon-color); -->
+  color: var(white);
+  <!-- color: var(--text-color); -->
+  text-shadow: 0px 0px 1px dark-grey,
+    0 0 2px light-grey;
+}
+
+/* Caption */
+.caption {
+  marging: 0 0 0.25em 0;
+  padding: 0.25em;
+  white-space: wrap;
+  font-weight: normal;
+  font-size: 80%;
+  // text-align: center;
+  line-height: normal;
+  color: var(--text-muted-color);
+  cursor: default;
+}
+.caption:hover em {
+  color: var(--text-muted-highlight-color) !important;
+}
+
+.quote {
+  text-align: center;
+  border: none;
+}
+
+/* No Sidebar Visible */
+/* Left-Sidebar */
+@media only screen and (min-width: 850px) {}
+/* Both-Sidebar */
+@media only screen and (min-width: 1200px) {}
+/* Mobile */
+@media only screen and (max-width: 320px) {}
+/* Tablet */
+@media only screen and (max-width: 768px) {}
+/* Desktop */
+@media only screen and (max-width: 1024px) {
+}
+</style>
+
+
+
+<!-- Countdowntimer Script
+For comments on this script see:
+Countdown_Timer_Script Github My Pilgrimage
+https://github.com/MyPilgrimage/MyPilgrimage.github.io/tree/dev/wip/js/countdownTimer.txt
+-->
+<script>
+const timer = document.getElementById("countdownTimer");
+let countDownDate = new Date("Aug 10, 2025 00:00:00").getTime();
+let count = setInterval(function() {
+	let currentDate = new Date().getTime();
+	let distance = countDownDate - currentDate;
+	let days = Math.floor( distance / (1000 * 60 * 60 * 24) );    
+	let hours = Math.floor( (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60) );
+	let minutes = Math.floor( (distance % (1000 * 60 * 60)) / (1000 * 60) );
+	let seconds = Math.floor( (distance % (1000 * 60)) / 1000 );
+	timer.innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+	if (distance < 0) {
+    	clearInterval(count);
+    	timer.innerHTML = "On my Way!";
+	}
+}, 1000);
+</script>
+
+
+<!-- Visible in Viewport Script
+For comments on this script see:
+Visible_in_Viewport_Script Github My Pilgrimage
+https://github.com/MyPilgrimage/MyPilgrimage.github.io/tree/dev/wip/js/viewportVisible.txt
+-->
+<script>
+const isInView = (elemInView, partialView = false) => {
+  let { scrTop, scrRight, scrBottom, scrLeft } = elemInView.getBoundingClientRect();
+  let { innerHeight, innerWidth } = window;
+  return partialView ? ((scrTop > 0 && scrTop < innerHeight) || (scrBottom > 0 && scrBottom < innerHeight)) && ((scrLeft > 0 && scrLeft < innerWidth) || (scrRight > 0 && scrRight < innerWidth)) : scrTop >= 0 && scrLeft >= 0 && scrBottom <= innerHeight && scrRight <= innerWidth;
+};
+
+//const progressBarElem = document.getElementById("progressRoute");
+console.log(isInView(progressRoute));
+/* let interv = setInterval(update, 20);
+function update () {
+  console.log("!" + progressBarElem + " in View: " + isInView(progressBarElem) + "/n");
+  if (isInView(progressBarElem)) {
+	console.log("FOUND!");
+  }
+}*/
+</script>
+
+
+<!--Progressbar Script
+For comments on this script see:
+Progress_Bar_Script - Github My Pilgrimage
+https://github.com/MyPilgrimage/MyPilgrimage.github.io/tree/dev/wip/js/progressbar.txt
+-->
+<script>
+function progressMove() {
+	const progressBar = document.getElementById("progressRoute");   
+	let width = 20;
+	if (progressBar.style.width != null && progressBar.style.width != undefined ) {
+    	let newWidth = progressBar.style.width;
+    	newWidth = newWidth.replace(/%/g, "");
+    	width = newWidth;
+	} else {
+    	width = 0;
+	}
+	let interv = setInterval(updateFrame, 20);
+	function updateFrame() {
+    	if (width >= 100) {
+        	progressBar.innerHTML = '<b>COMPLETED!</b>';
+        	clearInterval(interv);
+    	} else {
+        	width++;
+        	progressBar.style.width = width + '%';
+        	progressBar.innerHTML = width * 1  + '%';
+    	}
+	}
+}
+</script>
+</html>
