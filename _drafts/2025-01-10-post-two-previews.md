@@ -1,0 +1,116 @@
+---
+title: POST-TWO PREVIEWS
+date: 2025-01-10 00:00:00 +0100
+categories: [2025 Trial-Run, Preparations] 
+categories: [Random, Ramblings] 
+categories: [Site, Update]
+tags: [trial-run, pilgrimage, route, training, gear]
+tags: [personal, worrying wayfarer, pictures, site]
+image:
+ path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
+ alt: "<a href='https://mypilgrimage.github.io/photos/#2022'><i class='fas fa-camera'></i> Sunbeam 2022 <i class='fas fa-up-right-from-square'></i> </a>"
+description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
+hidden: true
+published: false
+---
+
+
+> **DAYS_NUMBER** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *CURRENT_LOCATION*. <br class='brSM'/>
+> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+{: .prompt-quick }
+
+
+
+
+-----
+
+## PROMPT
+
+QUICK OVERVIW <br/>
+> See my quick overview.
+{: .prompt-quick }
+
+UPDATED ABOUT PAGE <br/>
+> I.e. a post describing I need X, Highlight to show X addition to Gear-List. <br/>
+{: .prompt-tip }
+
+MORE INFO SOON <br/>
+> <i class='fas fa-person-digging'></i> More Info and Updates coming soon. <br/>
+{: .prompt-warning }
+
+MAINTENANCE PROMPT <br/>
+> <i class='fas fa-person-digging'></i>
+> The Site is currently under maintenance
+> <i class='fas fa-person-digging'></i>
+{: .prompt-danger }
+
+
+-----
+
+## QUOTE
+
+> <i class='fas fa-quote-left fa-2x'></i> QOUTE_TEXT_QUOTE_TEXT, <br/>
+> QOUTE_TEXT_QUOTE_TEXT; <br/>
+> <br/>
+> QOUTE_TEXT_QUOTE_TEXT
+> <sup><i class='fas fa-quote-right'></i></sup> <br/>
+> 
+> <small>QOUTE_DESCRIPTION</small><br/>
+> ~QOUTE_AUTHOR, <cite>QOUTE_ORIGIN</cite><br/>
+{: .quote }
+
+
+-----
+
+## LINK
+
+> [<i class='fas fa-circle-info'></i>  LINK_TO_PAGE_BLOCK  <i class='fas fa-up-right-from-square'></i>](https://mypilgrimage.github.io/404/)
+{: .prompt-link }
+
+[<i class='fas fa-circle-info fa-fw'></i>  LINK_TO_PAGE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://mypilgrimage.github.io/404/) <br/>
+[<i class='fa-brands fa-wikipedia-w fa-fw'></i>  WIKI_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://wikipedia.org/) <br/>
+[<i class='fa-brands fa-flickr fa-fw'></i>  FLICKR_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://flickr.com/) <br/>
+[<i class='fa-brands fa-google fa-fw'></i>  GOOGLE_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://google.com/) <br/>
+
+-----
+
+## IMAGE
+
+![My Remote-work Office - LoAHF](/assets/pics/20250306_MyEmptyOffice.jpg)
+_**My Remote-work Office - LoAHF**<br/> Leave only Ash, Hair and Footprints!_
+_<i class='far fa-calendar'></i> 06-03-2025. &nbsp;
+<i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
+<i class='fas fa-camera'></i> Taken by me. &nbsp;
+<!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->_{: .props }
+{: .img.badge .caption .w-49 .res }
+
+
+-----
+
+## QUICK PILGRIMAGE ROUTE CALCULATION
+
+- **<sup>Avg.</sup> Hours of Walking:** ROUTE_TOTAL_HOURS <small>hr</small> / AVG_WALKING_HOURS <small>hr</small> per day = **TOTAL_WALKING_DAYS days**
+- **<sup>Avg.</sup> Distance to Walk:** ROUTE_TOTAL_DISTANCE <small>km</small> / AVG_WALKING_DISTANCE <small>km</small> per day = **AVG_DAYS_WALKING days** (EXACT_DAYS_WALKING days)
+- **<sup>Avg.</sup> Walking Speed:** ROUTE_TOTAL_DISTANCE <small>km</small> / ROUTE_TOTAL_HOURS <small>hr</small> = **AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>**
+- **Conclusion:** <br/>
+  So I will walk for atleast TOTAL_WALKING_DAYS days, walking AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub> 
+  for AVG_WALKING_HOURS <small>hrs</small> 
+  while walking a minimum distance of AVG_WALKING_DISTANCE <small>km</small> per day. 
+<br/>
+<sup>
+<sup>
+ CONCLUSION_THOUGHTS
+</sup><br/>
+
+
+-----
+
+## SIGNATURE
+
+<br/>
+*Cheers,* <br/>
+I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
+[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
+[<i class='fa-brands fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
+[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
+
