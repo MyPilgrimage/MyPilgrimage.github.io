@@ -9,9 +9,9 @@ image:
 description: "207 Days to Prepare. My first post!..."
 ---
 
-> **207** Days to Prepare. <br class="brS"/><i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br class="brM"/>
-> [<i class="fa-solid fa-calendar-days"></i> Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) <br/>
-{: .prompt-info .quote }
+> **207** Days to Prepare. <br class="brS"/><i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br class="brSM"/>
+> [<i class="fa-solid fa-calendar-days"></i> Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) 
+{: .prompt-quick }
 
 
 Creating this page helps me with making a concrete plan 
