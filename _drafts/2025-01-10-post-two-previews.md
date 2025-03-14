@@ -1,10 +1,10 @@
 ---
 title: POST-TWO PREVIEWS
 date: 2025-01-10 00:00:00 +0100
-categories: [2025 Trial-Run, Preparations] 
-categories: [Random, Ramblings] 
+# categories: [2025 Trial-Run, Preparations] 
+# categories: [Random, Ramblings] 
 categories: [Site, Update]
-tags: [trial-run, pilgrimage, route, training, gear]
+# tags: [trial-run, pilgrimage, route, training, gear]
 tags: [personal, worrying wayfarer, pictures, site]
 image:
  path: https://MyPilgrimage.github.io/assets/IMG_LOCATION.png
@@ -18,8 +18,6 @@ published: false
 > **DAYS_NUMBER** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *CURRENT_LOCATION*. <br class='brSM'/>
 > [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
 {: .prompt-quick }
-
-
 
 
 -----
