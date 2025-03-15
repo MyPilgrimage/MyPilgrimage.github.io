@@ -22,7 +22,7 @@ and to share my plan with family and friends.
 This way it feels like something that's actually in motion 
 and I can easily explain to people what my idea/plan is. 
 Also I hope this will make me more proactive in actually going, 
-because the doubt and fear I feel, is still very strong. 
+because the doubt and fear I feel is still very strong. 
 I do hope I don't come across as an over-privileged whining whiteboy, 
 but that's not for me to decide. 
 
@@ -36,9 +36,9 @@ So here I am, safely at home dreaming about my Pilgrimage,
 but this feels like the first step towards going. 
 
 
+<br/>
 **Southward Bound!**
 {: .quote }
-<br/>
 *Cheers,* <br/>
 I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
 [<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
