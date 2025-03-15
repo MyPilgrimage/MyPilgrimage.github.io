@@ -7,15 +7,16 @@ description: "206 Days to Prepare. Today I tried walking with an almost empty ba
 ---
 
 
-> **206** Days to Prepare. <br class="brS"/><i class="fa-solid fa-location-dot"></i> *North-Holland, The Netherlands*. <br class="brSM"/>
-> [<i class="fa-solid fa-calendar-days"></i> Quick Overview <i class="fa-solid fa-up-right-from-square"></i>](/welcome/#quick-overview) 
+> **206** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, Netherlands*. <br class='brSM'/>
+> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
 {: .prompt-quick }
+
 
 
 ## Progress 
 
 Today I tried walking with an almost empty backpack,
-I've walked an approximate 4 <small>km</small>, I only installed a pedometer on my phone during the hike.
+I've walked an approximate 4<small>km</small>, I only installed a pedometer on my phone during the hike.
 
 According to my pedometer I walked **4<small>km</small>**; <br/>
 with an average walking-speed of **4.5 to 4.7<sup>km</sup>/<sub>h</sub>**; <br/>
@@ -58,7 +59,7 @@ I really like this workflow, it keeps me thinking about my Pilgrimage and keeps 
 
 <br/>
 *Cheers,* <br/>
-I-Jun <i class="fas fa-person-hiking fa-fw"></i><i class="fas fa-mountain-sun fa-fw"></i> <br/>
-[<i class="fab fa-github fa-fw"></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
-[<i class="fa-brands fa-reddit fa-fw"></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
-[<i class="fas fa-envelope fa-fw"></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
+I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
+[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
+[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
+[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
