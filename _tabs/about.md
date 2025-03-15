@@ -13,7 +13,7 @@ toc: true
 
 > **Welcome to my page!** <br/>
 > For a brief summary and information about this page, see my pinned post: <br/>
-> [<i class='fas fa-thumbtack fa-fw'></i> Welcome <i class='fas fa-up-right-from-square fa-fw'></i>](https://mypilgrimage.github.io/welcome)
+> [<i class='fas fa-thumbtack fa-fw'></i> Welcome ](https://mypilgrimage.github.io/welcome)
 {: .prompt-tip }
 
 
@@ -137,9 +137,9 @@ But if I can help it, I want to leave the places I've been, better than I found 
 
 ## Route
 
-> I will keep **updates about the route I'm taking** <br/>
-> [ in the **Quick Overview** section, <i class='fas fa-up-right-from-square fa-fw'></i>](https://MyPilgrimage.github.io/welcome#quick-overview) <br/>
-> but for now this is the most likely route!
+> I will update on thre route in the
+> [<i class='fas fa-route fa-fw'></i> **Quick Overview - Location**](https://mypilgrimage.github.io/welcome/#location) 
+> section. <br/>
 {: .prompt-tip }
 
 
@@ -153,14 +153,17 @@ As mentioned in the introductions, I'm planning on walking Southward. <br/>
 
 I'll start walking from my parents home in North-Holland,
 I'm think I'm going to walk the [<i class='fab fa-wikipedia-w fa-fw'></i> *Pilgrimage of Compostela* <i class='fas fa-up-right-from-square fa-fw'></i>](https://en.m.Wikipedia.org/wiki/Camino_de_Santiago).
-Simply because it's a known route, it has historical significance (and I love history!) and I think I might meet like-minded people along the way. <br/>
+Simply because it's a known route, 
+it has historical significance (and I love history!) 
+and I think I might meet like-minded people along the way. <br/>
+So for now this is the most likely route!
 
 <br class='clearfix'/>
 
 ### But first I'll do a Trial-Run.
 
 > I want to start a Trial-Run this August of 2025. <br/>
-> [<i class='far fa-calendar fa-fw'></i> See the **Countdown** <i class='fas fa-up-right-from-square fa-fw'></i>](https://MyPilgrimage.github.io/welcome#quick-overview) <br/>
+> See the [<i class='far fa-calendar fa-fw'></i> **Quick Overview - Countdown**](https://mypilgrimage.github.io/welcome/#countdown) <br/>
 {: .prompt-tip }
 
 ![Floris V Path: LAW 1-3](/assets/img/about/LAW_1_3-dark.png){: .dark }
@@ -248,7 +251,7 @@ The plan is to start walking from my home near Alkmaar.
 
 ![Google Maps Route](/assets/img/about/googleMaps_GR65-dark.png){: .dark }
 ![Google Maps Route](/assets/img/about/googleMaps_GR65-light.png){: .light }
-_Map of the <i>expected</i> route, distance and time. [<i class='fab fa-google fa-fw'></i> Google Map <i class='fas fa-up-right-from-square fa-fw'></i>](https://maps.app.goo.gl/pjV3D6ufts8EYDdi8)_
+_Map of the <i>expected</i> route, distance and time. <br/>[<i class='fab fa-google fa-fw'></i> Google Map <i class='fas fa-up-right-from-square fa-fw'></i>](https://maps.app.goo.gl/pjV3D6ufts8EYDdi8)_
 {: .w-50 .right }
 
 
@@ -337,6 +340,11 @@ _"Samos, in Galicia, on the French Way or Camino Francés"<br/> ~by [<i class='f
 
 Start walking. A bit further every time.
 
+> I will update on my training in the
+> [<i class='fas fa-person-walking-arrow-right fa-fw'></i> **Quick Overview - Training**](https://mypilgrimage.github.io/welcome/#location) 
+> section. <br/>
+{: .prompt-tip }
+
 
 ### How am I training?
 
@@ -407,6 +415,11 @@ So I'll need to educate myself in the way of the survivalist. <br/>
 ## Gear
 
 What do I need? A checklist of sorts.
+
+> I will update on my gear in the
+> [<i class='fas fa-campground fa-fw'></i> **Quick Overview - Gear**](https://mypilgrimage.github.io/welcome/#location) 
+> section. <br/>
+{: .prompt-tip }
 
 
 ### What gear do I have?

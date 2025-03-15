@@ -8,7 +8,7 @@ description: "206 Days to Prepare. Today I tried walking with an almost empty ba
 
 
 > **206** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) 
 {: .prompt-quick }
 
 
