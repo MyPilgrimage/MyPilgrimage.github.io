@@ -32,15 +32,21 @@ Notes, reminders and general Admin
 */
 
 ----------------------------------------
+
 ## CATEGORIES
+
 categories: [2025 Trial-Run, Preparations]
+categories: [2026 My Pilgrimage, Preparations]
 categories: [Random, Ramblings]
 categories: [Site, Update]
 
 
 ----------------------------------------
+
 ## TAGS
-tags: [trial-run, pilgrimage, route, training, gear, personal, worrying wayfarer, pictures, site]
+
+tags: [trial-run, pilgrimage, route, training, gear]
+tags: [personal, worrying wayfarer, pictures, site]
 
 
 ----------------------------------------
@@ -106,62 +112,74 @@ fab fa-facebook-square
 
 ----------------------------------------
 ## QUOTES
-> <i class="fas fa-quote-left fa-2x"></i> Leave only ash, hair & footprints." <br/>
+
+> <i class='fas fa-quote-left fa-2x'></i> QOUTE_TEXT_QUOTE_TEXT, <br/>
+> QOUTE_TEXT_QUOTE_TEXT; <br/>
+> <br/>
+> QOUTE_TEXT_QUOTE_TEXT
+> <sup><i class='fas fa-quote-right'></i></sup> <br/>
+> 
+> <small>QOUTE_DESCRIPTION</small><br/>
+> ~QOUTE_AUTHOR, <cite>QOUTE_ORIGIN</cite><br/>
+{: .quote }
 
 
-> <i class="fas fa-quote-left fa-2x"></i> *But it is not your own Shire,"* said Gildor. <br/>
-> *"Others dwelt here before hobbits were;* <br/>
-> *and others will dwell here again when hobbits are no more.* <br/>
-> *The wide world is all about you:* <br/>
-> *you can fence yourselves in,* <br/>
-> *but you cannot for ever fence it out."* <br/>
-> - Gildor, speaking to Frodo{: .caption } <br/>
-> ~ J.R.R. Tolkien, The Fellowship of the Ring.{: .caption } <br/>
+Leave only ash, hair & footprints.
+
+
+*But it is not your own Shire,"* said Gildor. <br/>
+*"Others dwelt here before hobbits were;* <br/>
+*and others will dwell here again when hobbits are no more.* <br/>
+*The wide world is all about you:* <br/>
+*you can fence yourselves in,* <br/>
+*but you cannot for ever fence it out."* <br/>
+Gildor, speaking to Frodo <br/>
+~J.R.R. Tolkien, The Fellowship of the Ring. <br/>
  
  
-> <i class="fas fa-quote-left fa-2x"></i> *If more of us valued food and cheer and song above hoarded gold,* <br/>
-> *it would be a merrier world.* <br/>
-> *But, sad or merry, I must leave it now. Farewell."* <br/>
-> - Thorin Oakenshield before he dies, asking Bilbo's forgiveness for his harsh words to him.{: .caption } <br/>
-> ~ J.R.R. Tolkien, The Hobbit{: .caption } <br/>
+*If more of us valued food and cheer and song above hoarded gold,* <br/>
+*it would be a merrier world.* <br/>
+*But, sad or merry, I must leave it now. Farewell."* <br/>
+Thorin Oakenshield before he dies, asking Bilbo's forgiveness for his harsh words to him.<br/>
+~J.R.R. Tolkien, The Hobbit <br/>
  
  
-> <i class="fas fa-quote-left fa-2x"></i> He nods, then squints across the room. <br/>
-> *"Not all those who wander are lost,"* he says. He's still squinting. <br/>
-> I wonder if he's practiced this squint - a squint-stare off into the metaphysical distance. <br/>
-> But then again, it might just be that he cares about something. <br/>
-> *"What is that?"* I ask. *"Did Jesus Christ say that?"* <br/>
-> *"No,"* he says. *"Bilbo Baggins said that."* <br/>
-> ~ Patrick Somerville, The Universe in Miniature in Miniature.{: .caption } <br/>
+He nods, then squints across the room. <br/>
+*"Not all those who wander are lost,"* he says. He's still squinting. <br/>
+I wonder if he's practiced this squint - a squint-stare off into the metaphysical distance. <br/>
+But then again, it might just be that he cares about something. <br/>
+*"What is that?"* I ask. *"Did Jesus Christ say that?"* <br/>
+*"No,"* he says. *"Bilbo Baggins said that."* <br/>
+~Patrick Somerville, The Universe in Miniature in Miniature. <br/>
  
  
-> <i class="fas fa-quote-left fa-2x"></i> Many that live deserve death. <br/>
-> And some that die deserve life. <br/>
-> Can you give it to them? <br/>
-> Then do not be too eager to deal out death in judgement. <br/>
-> For even the very wise cannot see all ends." <br/>
-> - Gandalf speaking to Frodo.{: .caption } <br/>
-> ~ J.R.R. Tolkien, The Fellowship of the Ring.{: .caption } <br/>
+Many that live deserve death. <br/>
+And some that die deserve life. <br/>
+Can you give it to them? <br/>
+Then do not be too eager to deal out death in judgement. <br/>
+For even the very wise cannot see all ends." <br/>
+Gandalf speaking to Frodo. <br/>
+~J.R.R. Tolkien, The Fellowship of the Ring. <br/>
  
  
-> <i class="fas fa-quote-left fa-2x"></i> I am old, Gandalf. <br/>
-> I don't look it, but I am beginning to feel it in my heart of hearts. <br/>
-> Well-preserved indeed! <br/>
-> <br/>
-> Why, I feel all thin, sort of stretched, if you know what I mean; <br/>
-> like butter that has been scraped over too much bread. <br/>
-> That can't be right. I need a change, or something. <br/>
-> I need a holiday. A very long holiday. And I don't expect I shall return. <br/>
-> <br/>
-> Well I've made up my mind, anyway. <br/>
-> I want to see mountains again, Gandalf – mountains; <br/>
-> and then find somewhere where I can rest. In peace and quiet, <br/>
-> <br/>
-> I might find somewhere where I can finish my book. <br/>
-> I have thought of a nice ending for it: <br/>
-> *"and he lived happily ever after to the end of his days."* <br/>
-> - Bilbo Baggins speaking to Gandalf.{: .caption } <br/>
-> ~ J.R.R. Tolkien, The Fellowship of the Ring.{: .caption } <br/>
+I am old, Gandalf. <br/>
+I don't look it, but I am beginning to feel it in my heart of hearts. <br/>
+Well-preserved indeed! <br/>
+<br/>
+Why, I feel all thin, sort of stretched, if you know what I mean; <br/>
+like butter that has been scraped over too much bread. <br/>
+That can't be right. I need a change, or something. <br/>
+I need a holiday. A very long holiday. And I don't expect I shall return. <br/>
+<br/>
+Well I've made up my mind, anyway. <br/>
+I want to see mountains again, Gandalf – *mountains*; <br/>
+and then find somewhere where I can rest. In peace and quiet, <br/>
+<br/>
+I might find somewhere where I can finish my book. <br/>
+I have thought of a nice ending for it: <br/>
+*"and he lived happily ever after to the end of his days."* <br/>
+Bilbo Baggins speaking to Gandalf. <br/>
+~J.R.R. Tolkien, The Fellowship of the Ring. <br/>
 
 
 ----------------------------------------
