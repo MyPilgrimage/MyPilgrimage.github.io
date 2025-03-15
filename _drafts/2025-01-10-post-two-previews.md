@@ -66,9 +66,9 @@ MAINTENANCE PROMPT <br/>
 {: .prompt-link }
 
 [<i class='fas fa-circle-info fa-fw'></i>  LINK_TO_PAGE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://mypilgrimage.github.io/404/) <br/>
-[<i class='fa-brands fa-wikipedia-w fa-fw'></i>  WIKI_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://wikipedia.org/) <br/>
-[<i class='fa-brands fa-flickr fa-fw'></i>  FLICKR_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://flickr.com/) <br/>
-[<i class='fa-brands fa-google fa-fw'></i>  GOOGLE_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://google.com/) <br/>
+[<i class='fab fa-wikipedia-w fa-fw'></i>  WIKI_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://wikipedia.org/) <br/>
+[<i class='fab fa-flickr fa-fw'></i>  FLICKR_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://flickr.com/) <br/>
+[<i class='fab fa-google fa-fw'></i>  GOOGLE_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://google.com/) <br/>
 
 -----
 
@@ -109,6 +109,6 @@ _<i class='far fa-calendar'></i> 06-03-2025. &nbsp;
 *Cheers,* <br/>
 I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
 [<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
-[<i class='fa-brands fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
+[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
 [<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
 
