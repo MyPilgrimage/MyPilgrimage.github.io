@@ -8,7 +8,7 @@ description: "170 Days to Prepare. I think the new site is working!?..."
 
 
 > **170** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
 {: .prompt-quick }
 
 
@@ -30,7 +30,7 @@ or continuously copy+paste sections or styling.
 
 I've created an Email address, [<i class='fas fa-envelope'></i> @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
 so I can send and receive correspondence. <br/>
-I managed to add a simple Countdown timer to the [[<i class='fas fa-calendar-days'></i> Quick Overview](/welcome#quick-overview),
+I managed to add a simple Countdown timer to the [<i class='fas fa-calendar-days'></i> Quick Overview](/welcome#quick-overview),
  which I really like! 
 Now I only need to find a way to embed a Location-share app, 
 but this is something I will try to implement later.

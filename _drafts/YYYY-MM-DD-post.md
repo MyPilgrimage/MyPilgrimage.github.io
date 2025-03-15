@@ -8,7 +8,7 @@ description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
 
 
 > **DAYS_NUMBER** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *CURRENT_LOCATION*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
 {: .prompt-quick }
 
 

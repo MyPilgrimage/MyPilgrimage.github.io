@@ -5,13 +5,13 @@ categories: [2025 Trial-Run, Preparations]
 tags: [trial-run, training, personal, pictures, site]
 image: 
  path: /assets/pics/20210806_TheLowlands.jpg
- alt: "<a href='https://mypilgrimage.github.io/photos/#2021'><i class='fas fa-camera'></i> The Lowlands <i class='fas fa-up-right-from-square'></i> </a>"
+ alt: "<a href='/photos/#2021'><i class='fas fa-camera'></i> The Lowlands <i class='fas fa-up-right-from-square'></i> </a>"
 description: "183 Days to Prepare. Choosing a Web Page Theming..." 
 ---
 
 
 > **183** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
 {: .prompt-quick }
 
 

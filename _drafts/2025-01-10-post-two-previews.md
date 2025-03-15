@@ -10,7 +10,7 @@ categories: [2025 Trial-Run, Preparations]
 tags: [trial-run, route, training, gear]
 image:
  path: /assets/IMG_LOCATION.png
- alt: "<a href='https://mypilgrimage.github.io/photos/'><i class='fas fa-camera'></i> ALT_NAME <i class='fas fa-up-right-from-square'></i> </a>"
+ alt: "<a href='/photos/#'><i class='fas fa-camera'></i> ALT_NAME <i class='fas fa-up-right-from-square'></i> </a>"
 description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
 hidden: true
 published: false
@@ -18,7 +18,7 @@ published: false
 
 
 > **DAYS_NUMBER** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *CURRENT_LOCATION*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> <br/>
 {: .prompt-quick }
 
 
