@@ -32,6 +32,7 @@ QUICK OVERVIW <br/>
 
 UPDATED ABOUT PAGE <br/>
 > I.e. a post describing I need X, Highlight to show X addition to Gear-List. <br/>
+> [<i class='fas fa-campground'></i> Gear list <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview)
 {: .prompt-tip }
 
 MORE INFO SOON <br/>
@@ -118,7 +119,7 @@ _<i class='far fa-calendar'></i> DD_MM_YYYY. &nbsp;
 ## SIGNATURE
 
 <br/>
-...
+**QUOTE_TEXT**
 {: .quote }
 *Cheers,* <br/>
 I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
