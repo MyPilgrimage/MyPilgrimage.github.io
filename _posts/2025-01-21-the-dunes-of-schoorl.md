@@ -5,7 +5,7 @@ categories: [2025 Trial-Run, Preparations]
 tags: [trial-run, training, personal, pictures]
 image:
  path: /assets/pics/20240520_Schoorl.png
- alt: "<a href='https://mypilgrimage.github.io/photos/#2024'><i class='fas fa-camera'></i> High Water, Schoorl May 2024 <i class='fas fa-up-right-from-square'></i> </a>"
+ alt: "<a href='/photos/#2024'><i class='fas fa-camera'></i> High Water, Schoorl May 2024 <i class='fas fa-up-right-from-square'></i> </a>"
 description: "201 Days to Prepare. A nice hike in Schoorl..."
 ---
 

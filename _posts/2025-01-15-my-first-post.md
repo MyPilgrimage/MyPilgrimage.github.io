@@ -5,7 +5,7 @@ categories: [2025 Trial-Run, Preparations]
 tags: [trial-run, personal, pictures, site]
 image:
  path: /assets/pics/20220226_Godray.jpg
- alt: "<a href='https://mypilgrimage.github.io/photos/#2022'><i class='fas fa-camera'></i> Sunbeam 2022 <i class='fas fa-up-right-from-square'></i> </a>"
+ alt: "<a href='/photos/#2022'><i class='fas fa-camera'></i> Sunbeam 2022 <i class='fas fa-up-right-from-square'></i> </a>"
 description: "207 Days to Prepare. My first post!..."
 ---
 

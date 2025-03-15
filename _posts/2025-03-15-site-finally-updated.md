@@ -1,5 +1,5 @@
 ---
-title: Site finally Updated 
+title: Site finally Updated - Part 2 
 date: 2025-03-15 00:00:00 +0100 
 categories: [Site, Update] 
 tags: [personal, site] 

@@ -1,8 +1,9 @@
 ---
-title: Sitewide Maintenance
-date: 2025-01-11 11:00:00 +0100
+title: Site Maintenance
+date: 2025-01-10 23:59:00 +0100
 categories: [Site, Update]
 tags: [site]
+image: /assets/img/img_name.png
 description: "Updating..."
 pin: true
 hidden: true

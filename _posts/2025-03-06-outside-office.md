@@ -3,6 +3,9 @@ title: Outside office
 date: 2025-03-06 19:00:00 +0100 
 categories: [Site, Update]
 tags: [personal, site]
+image:
+ path: /assets/pics/20250304_MyOffice.jpg
+ alt: "<a href='/photos/#2025'><i class='fas fa-camera'></i> A Sunny Sundays Sun, 2025 <i class='fas fa-up-right-from-square'></i> </a>"
 description: "157 Days to Prepare. Better weather and working outside..."
 ---
 
@@ -12,8 +15,8 @@ description: "157 Days to Prepare. Better weather and working outside..."
 {: .prompt-quick }
 
 
-![My Remote-work Office](/assets/pics/20250304_MyOffice.jpg)
-_My Remote-work Office <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
+![My Remote-work Office - LoAHF](/assets/pics/20250306_MyEmptyOffice.jpg)
+_My Remote-work Office - LoAHF <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
 {: .img .w-49 .right }
 
 
@@ -29,11 +32,6 @@ by going outside for most of the time while I'm working on this page.
 So much so that I've left a clear indent on the grass. 
 Obviously I try to keep it as clean as possible.
 Leaving only ash, hairs and footprints 😋
-
-
-![My Remote-work Office - LoAHF](/assets/pics/20250306_MyEmptyOffice.jpg)
-_My Remote-work Office - LoAHF <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
-{: .img .w-49 .left }
 
 
 I make sure to charge my laptop 
