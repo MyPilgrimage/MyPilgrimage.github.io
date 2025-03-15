@@ -29,7 +29,7 @@ I find it hard not to.
 
 
 Ending on a bit of a sour note, 
-But I expect there will be more hardships to come. <br/>
+but I expect there will be more hardships to come. <br/>
 and I'm not a very positive person. 
 
 

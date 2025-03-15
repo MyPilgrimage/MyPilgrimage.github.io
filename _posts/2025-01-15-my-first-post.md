@@ -36,9 +36,9 @@ So here I am, safely at home dreaming about my Pilgrimage,
 but this feels like the first step towards going. 
 
 
+<br/>
 **Southward Bound!**
 {: .quote }
-<br/>
 *Cheers,* <br/>
 I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
 [<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>

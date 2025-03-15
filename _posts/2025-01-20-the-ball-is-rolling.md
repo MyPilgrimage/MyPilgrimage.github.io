@@ -20,13 +20,13 @@ _Small trunk-bridge <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fa
 Today I had another great training session, 
 this time I weighed my backpack. 
 I improved it by attaching a few pouches 
-and my bidon to its belt! <br/>
+and my bidon to its belt!
 
 
 This was an instant improvement, 
 because I could easily reach my water and phone.
 I also started my pedometer at the start of the hike 
-and these are the results: <br/>
+and these are the results:
 
 
 ## Results
@@ -41,16 +41,26 @@ I put **8<small>kg</small>** of weight in the form of dumbbells in my backpack;<
 
 ## Thoughts
 
-The route I took was a bit more "adventurous" with a few minor elevation and dirt paths.
-I took off one of my undershirts, which made my back a whole lot less sweaty, then last time. One thing I noticed is that I have the tendency to put most of my stuff on the left side of my backpack, making it a bit unbalanced. This caused my left shoulder and neck muscles to quickly get sore. <br/>
-
+The route I took was a bit more *"adventurous"* with a few minor elevation and dirt paths.
+I took off one of my undershirts, 
+which made my back a whole lot less sweaty, then last time. 
+One thing I noticed is that 
+I have the tendency to put most of my stuff on the left side of my backpack, 
+making it a bit unbalanced. 
+This caused my left shoulder and neck muscles to quickly get sore. <br/>
 And good walking-boots is something I will need to invest in!
 
 
-I'm also in the process of getting singing lessons and trying to teach myself how to play the harmonica. I figured this might be a nice way to make a little extra cash along the way. Or at the very least boost my self esteem.
+I'm also in the process of getting singing lessons 
+and trying to teach myself how to play the harmonica. 
+I figured this might be a nice way to make a little extra cash along the way. 
+Or at the very least boost my self esteem.
 
 
-Tomorrow I'll join my mother's hiking group, as they have planned a hike through the dunes in Schoorl. I'm a bit nervous because they are seasoned hikers and walk at a steady pace of (*at least*) 5<sup>km</sup>/<sub>h</sub>!
+Tomorrow I'll join my mother's hiking group, 
+as they have planned a hike through the dunes in Schoorl. 
+I'm a bit nervous because they are seasoned hikers 
+and walk at a steady pace of (*at least*) 5<sup>km</sup>/<sub>h</sub>!
 
 
 But I'm looking forward to the extra difficulty the hike and speed will bring! <br/>
