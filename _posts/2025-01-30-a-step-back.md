@@ -17,5 +17,6 @@ I found that working on this page has become more of a burden than a relief.
 As such I'm taking a step back. 
 
 
-Please don't expect updates soon. <br />
+Please don't expect updates soon.
+<br/>
 I-Jun

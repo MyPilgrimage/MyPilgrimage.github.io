@@ -15,7 +15,7 @@ description: "185 Days to Prepare. Continuing with training and updating this pa
 I try to keep persistent with my hiking-training, 
 but I have to admit that my cardio training has somewhat fallen to the wayside. 
 Slowly I'm trying to find my motivation again, 
-and to keep on pushing myself. <br />
+and to keep on pushing myself.
 
 
 Luckily working on this page seems to work!
@@ -37,9 +37,9 @@ At the very least having my Blog Posts as separate files,
 makes navigating the files a lot easier to fix spelling and mistakes.
 
 
-**Southward Bound!** <br />
-{: .quote }
 <br/>
+**Southward Bound!**
+{: .quote }
 *Cheers,* <br/>
 I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
 [<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>

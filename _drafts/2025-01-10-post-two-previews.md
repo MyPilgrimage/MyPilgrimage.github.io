@@ -118,6 +118,8 @@ _<i class='far fa-calendar'></i> DD_MM_YYYY. &nbsp;
 ## SIGNATURE
 
 <br/>
+...
+{: .quote }
 *Cheers,* <br/>
 I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
 [<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>

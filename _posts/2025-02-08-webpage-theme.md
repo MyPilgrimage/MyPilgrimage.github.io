@@ -25,19 +25,20 @@ because I can feel my feet and knees hurting after only short walks.
 
 ## Technical Update
 
-I've made the decision to work with a new Jekyll Theme template called [Chirpy by Cotes Chung <i class='fas fa-up-right-from-square'></i>](https://chirpy.cotes.page/) <br/>
+I've made the decision to work with a new Jekyll Theme template 
+called [Chirpy by Cotes Chung <i class='fas fa-up-right-from-square'></i>](https://chirpy.cotes.page/) <br/>
 I’m getting the IDE for development to work and then will try to migrate from the old theme to the new. 
 This theme has a lot more features, especially for a blog-like website.
-The only downside so far seems to be that deploying the site is a bit more difficult. <br/>
+The only downside so far seems to be that deploying the site is a bit more difficult.
 
 
 But I'm hoping to be familiar enough with Jekyll by the time I'm traveling, 
 so that I don't need to have a full IDE-suite to post from.
 
 
+<br/>
 **Southward Bound!** <br/>
 {: .quote }
-<br/>
 *Cheers,* <br/>
 I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
 [<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
