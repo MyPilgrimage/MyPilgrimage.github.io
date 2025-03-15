@@ -8,7 +8,7 @@ description: "179 Days to Prepare. I got the flu, but I did realise some things.
 
  
 > **179** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) 
 {: .prompt-quick }
 
 
@@ -23,7 +23,7 @@ think along the lines of a protein bar or other energy dense food.
 
 
 > + Add to MUST-Haves: "last resort ration" <br/>
-> [<i class='fas fa-campground'></i> Gear list <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview)
+> [<i class='fas fa-campground'></i> Gear list ](/welcome/#quick-overview)
 {: .prompt-tip }
 
 
