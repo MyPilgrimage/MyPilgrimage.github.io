@@ -13,7 +13,7 @@ description: "202 Days to Prepare. A great training session and new plans!..."
 
 
 ![Small Trunk Bridge](/assets/pics/20250120_OhMyWhatObstacles.jpg)
-_Small trunk-bridge [<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
+_Small trunk-bridge <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
 {: .w-50 .right }
 
 
