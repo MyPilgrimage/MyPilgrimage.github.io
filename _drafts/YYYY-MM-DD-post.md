@@ -24,6 +24,8 @@ description: "DAYS_NUMBER Days to Prepare. POST_DESCRIPTION"
 ## Random Ramblings
 ..
 
+## Technical Update
+..
 
 ...
 
