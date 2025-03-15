@@ -28,3 +28,5 @@ assets/js/dist
 wip
 /wip
 /wip/*
+*.code-workspace
+IDE.code-workspace
