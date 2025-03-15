@@ -8,7 +8,7 @@ description: "170 Days to Prepare. I think the new site is working!?..."
 
 
 > **170** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
 {: .prompt-quick }
 
 

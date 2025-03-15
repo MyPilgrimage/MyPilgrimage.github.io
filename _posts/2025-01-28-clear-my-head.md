@@ -8,7 +8,7 @@ description: "193 Days to Prepare. I need to clear my head..."
 
 
 > **193** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
 {: .prompt-quick }
 
 
