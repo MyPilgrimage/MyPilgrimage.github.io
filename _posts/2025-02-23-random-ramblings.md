@@ -17,7 +17,7 @@ description: "168 Days to Prepare. Just some ramblings..."
 ## Technical Update
 
 I've created a Reddit account 
-[<i class="fab fa-reddit fa-fw"></i> /u/CutNo303 <i class="fas fa-circle-right fa-fw"></i>](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
+[<i class="fab fa-reddit fa-fw"></i> /u/CutNo303 <i class='fas fa-up-right-from-square'></i>](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
 I did not pick the username, 
 but it seems like that’s normal for a new reddit account. 😅 <br/>
 I’ll mainly use this account as another way to get in contact with me. 
@@ -46,7 +46,7 @@ Another way of sorting my posts is through
 [<i class='fas fa-tags fa-fw'></i> the Tags page](https://mypilgrimage.github.io/tags/) <br/>
 Especially useful if you (*for example*), 
 try to find all Pictures I’ve taken, you could filter by clicking 
-[<i class='fas fa-tags fa-fw'></i><i class='fas fa-camera'></i> Tags](https://mypilgrimage.github.io/tags/pictures)
+[<i class='fas fa-tag fa-fw'></i><i class='fas fa-camera'></i> Tags](https://mypilgrimage.github.io/tags/pictures)
 
 And ofcourse for a chronological order of blog posts, 
 see 
@@ -59,7 +59,7 @@ Is it me or has the weather been crazy in North-Holland the last few days. <br/>
 Not even three days ago, the temperature was below 0℃, 
 cold enough to freeze over smaller waterways overnight. 
 But now the weather has shifted completely and it feels almost like spring.
-While still being the end of February. 
+While still being the end of February. <br/>
 Sometimes I wonder if this is climate change in action. 
 That we, in our lifetime, will never experience a harsh winter again. 
 Not that I want to experience harsh winters 
@@ -71,8 +71,7 @@ Here's hoping I'm wrong about this.
 > <i class='fas fa-quote-left fa-2x'></i> *I wish it need not have happened in my time,"* said Frodo. <br/>
 > *"So do I,"* said Gandalf, *"and so do all who live to see such times.* <br/>
 > *But that is not for them to decide.* <br/>
-> *All we have to decide is what to do with the time that is given us.* <br/>
-> <sup><i class='fas fa-quote-right'></i></sup> <br/>
+> *All we have to decide is what to do with the time that is given us.* <sup><i class='fas fa-quote-right'></i></sup> <br/>
 > 
 > ~J.R.R. Tolkien, <cite>The Fellowship of the Ring</cite><br/>
 {: .quote }

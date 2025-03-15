@@ -27,7 +27,7 @@ _Broken website. This doesn't look right..._
 {: .img .w-50 .right }
 
 
-I think it has to do with the fact that I used the original _sass folder for the style, 
+I think it has to do with the fact that I used the original `_sass` folder for the style, 
 while I should've used the assets/CSS instead.
 
 
