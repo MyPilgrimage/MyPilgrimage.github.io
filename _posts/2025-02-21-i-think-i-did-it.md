@@ -28,16 +28,16 @@ or continuously copy+paste sections or styling.
 
 ## Technical Update
 
-I've created an Email address, [@ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
+I've created an Email address, [<i class='fas fa-envelope'></i> @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
 so I can send and receive correspondence. <br/>
-I managed to add a simple Countdown timer to the [Quick Overview](/welcome#quick-overview),
- which I really like! <br/>
+I managed to add a simple Countdown timer to the [[<i class='fas fa-calendar-days'></i> Quick Overview](/welcome#quick-overview),
+ which I really like! 
 Now I only need to find a way to embed a Location-share app, 
 but this is something I will try to implement later.
 
 
 Soon I'll proof-read my texts again, 
-to fix spelling errors, change syntax and add new info. <br/>
+to fix spelling errors, change syntax and add new info. 
 But having the page work as I wanted, gives me a lot of energy!
 
 
