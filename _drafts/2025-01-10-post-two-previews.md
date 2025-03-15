@@ -70,18 +70,28 @@ MAINTENANCE PROMPT <br/>
 [<i class='fab fa-flickr fa-fw'></i>  FLICKR_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://flickr.com/) <br/>
 [<i class='fab fa-google fa-fw'></i>  GOOGLE_PAGE_TITLE  <i class='fas fa-up-right-from-square fa-fw'></i>](https://google.com/) <br/>
 
+
 -----
 
-## IMAGE
+## IMAGES
 
-![My Remote-work Office - LoAHF](/assets/pics/20250306_MyEmptyOffice.jpg)
-_**My Remote-work Office - LoAHF**<br/> Leave only Ash, Hair and Footprints!_
-_<i class='far fa-calendar'></i> 06-03-2025. &nbsp;
-<i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
-<i class='fas fa-camera'></i> Taken by me. &nbsp;
-<!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->_{: .props }
+### IN POST
+
+![ALT_NAME](/assets/pics/pic_name.jpg)
+_ALT_NAME <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
+{: .img .w-50 .right }
+
+### ALBUM
+
+![ALT_NAME](/assets/pics/pic_name.jpg)
+_**ALT_NAME**<br/> ALT_DESCRIPTION._
+_<i class='far fa-calendar'></i> DD_MM_YYYY. &nbsp;
+<i class='fas fa-location-dot'></i> LOCATION. &nbsp; <br class='brM'/>
+<i class='fas fa-camera'></i> Taken by TAKEN_BY. &nbsp;
+<!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN</a>-->_{: .props }
 {: .img.badge .caption .w-49 .res }
 
+<div class='clearfix'></div>
 
 -----
 

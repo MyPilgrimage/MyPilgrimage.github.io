@@ -47,15 +47,9 @@
 }
 
 /* Images */
-.img.badge {
+img {
   margin: auto;
-  background: var(--img-bg);
-  border-radius: 1.25em;
-}
-.img.badge em {
-  white-space: wrap !important;
-  font-size: 100% !important;
-  padding-bottom: 0.25em !important;
+  padding: 0.25em;
 }
 a.popup.img-link {
   margin-top: 0 !important;
@@ -63,10 +57,21 @@ a.popup.img-link {
 a.popup.img-link img {
   border-radius: 1.25em;
 }
+/* Album Entries */
+.img.badge {
+  background: var(--img-bg);
+  border-radius: 1.25em;
+}
+/* Image Descriptions */
+.img.badge em {
+  white-space: wrap !important;
+  font-size: 100% !important;
+  padding-bottom: 0.25em !important;
+}
 
 /* Caption */
 .caption {
-  marging: 0 0 0.25em 0;
+  margin: 0 0 0.25em 0;
   padding: 0.25em;
   white-space: wrap;
   font-weight: normal;
@@ -80,9 +85,8 @@ a.popup.img-link img {
 }
 
 .props {
-  margin: 0 20%;
+  // margin: 0 20%;
 }
-
 .quote {
   text-align: center;
   border: none;
