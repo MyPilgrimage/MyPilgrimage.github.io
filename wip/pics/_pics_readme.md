@@ -61,7 +61,7 @@ to `YYYYMMDD_PICNAME.extension`
 
 ![ALT_NAME](/assets/pics/pic_name.jpg)
 _ALT_NAME <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
-{: .w-50 .right }
+{: .img .w-50 .right }
 
 ### ALBUM
 

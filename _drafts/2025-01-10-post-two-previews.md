@@ -79,7 +79,7 @@ MAINTENANCE PROMPT <br/>
 
 ![ALT_NAME](/assets/pics/pic_name.jpg)
 _ALT_NAME <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
-{: .w-50 .right }
+{: .img .w-50 .right }
 
 ### ALBUM
 
@@ -91,6 +91,7 @@ _<i class='far fa-calendar'></i> DD_MM_YYYY. &nbsp;
 <!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN</a>-->_{: .props }
 {: .img.badge .caption .w-49 .res }
 
+<div class='clearfix'></div>
 
 -----
 
