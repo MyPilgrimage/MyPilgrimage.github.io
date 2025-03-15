@@ -22,7 +22,7 @@ and to share my plan with family and friends.
 This way it feels like something that's actually in motion 
 and I can easily explain to people what my idea/plan is. 
 Also I hope this will make me more proactive in actually going, 
-because the doubt and fear I feel, is still very strong. 
+because the doubt and fear I feel is still very strong. 
 I do hope I don't come across as an over-privileged whining whiteboy, 
 but that's not for me to decide. 
 
