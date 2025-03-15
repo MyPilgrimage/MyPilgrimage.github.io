@@ -11,7 +11,7 @@ description: "168 Days to Prepare. Just some ramblings..."
 
 
 > **168** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview <i class='fas fa-up-right-from-square'></i>](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) 
 {: .prompt-quick }
 
 ## Technical Update
@@ -46,7 +46,7 @@ Another way of sorting my posts is through
 [<i class='fas fa-tags fa-fw'></i> the Tags page](https://mypilgrimage.github.io/tags/) <br/>
 Especially useful if you (*for example*), 
 try to find all Pictures I’ve taken, you could filter by clicking 
-[<i class='fas fa-tag fa-fw'></i><i class='fas fa-camera'></i> Tags](https://mypilgrimage.github.io/tags/pictures)
+[<i class='fas fa-tag fa-fw'></i><i class='fas fa-camera'></i> Pictures Tags](https://mypilgrimage.github.io/tags/pictures)
 
 And ofcourse for a chronological order of blog posts, 
 see 
