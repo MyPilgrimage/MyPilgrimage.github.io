@@ -184,6 +184,20 @@ Bilbo Baggins speaking to Gandalf. <br/>
 
 ----------------------------------------
 
+## IMAGES
+
+### IN POST
+
+![ALT_NAME](/assets/pics/pic_name.jpg)
+_ALT_NAME <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
+{: .w-50 .right }
+
+
+-----
+
+### WIKIPEDIA IMAGES
+How to switch between loaded images? If server does not respond.
+
 ![Depiction of Saint James in the 12th century Codex Calixtinus](https://upload.wikimedia.org/wikipedia/commons/3/3b/Codex_Calixtinus_cropped_St_James.jpg){: .w-50 }
 _"Depiction of Saint James in the 12th century" <br/> [<i class="fab fa-wikipedia-w"></i> &nbsp; Codex Calixtinus &nbsp; <i class="fas fa-up-right-from-square"></i>](https://en.Wikipedia.org/wiki/Codex_Calixtinus).<br/> ~by [<i class="fab fa-flickr"></i> &nbsp; Certo Xornal &nbsp; <i class="fas fa-up-right-from-square"></i>](https://www.flickr.com/photos/15528381@N02 )._
 

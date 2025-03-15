@@ -1,22 +1,4 @@
 # Pictures
-----------------------------------------
-
-
-----------------------------------------
-
-## ALBUM
-
-<!--
-
-![ALT_NAME](/assets/pics/PIC_NAME)
-_**ALT_NAME**<br/> ALT_DESCRIPTION_
-<i class="far fa-calendar"></i> DD_MM_YYYY. &nbsp;
-<i class="fas fa-location-dot"></i> LOCATION. &nbsp;
-<i class="fas fa-camera"></i> Taken by TAKEN_BY. &nbsp;
-<i class="fas fa-tag"></i> <a href="PICTURE_POST_ORIGIN"> POST_ORIGIN </a>
-{: .img.badge .caption .w-49 .res }
-
--->
 
 ----------------------------------------
 
@@ -69,5 +51,27 @@ to `YYYYMMDD_PICNAME.extension`
 - 20250304_MyOffice-dupe01.jpg
 - 20250306_MyEmptyOffice-dupe01.jpg
 - 20250306_MyEmptyOffice-dupe02.jpg
+
+
+----------------------------------------
+
+## IMAGES
+
+### IN POST
+
+![ALT_NAME](/assets/pics/pic_name.jpg)
+_ALT_NAME <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
+{: .w-50 .right }
+
+### ALBUM
+
+![ALT_NAME](/assets/pics/pic_name.jpg)
+_**ALT_NAME**<br/> ALT_DESCRIPTION._
+_<i class='far fa-calendar'></i> DD_MM_YYYY. &nbsp;
+<i class='fas fa-location-dot'></i> LOCATION. &nbsp; <br class='brM'/>
+<i class='fas fa-camera'></i> Taken by TAKEN_BY. &nbsp;
+<!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN</a>-->_{: .props }
+{: .img.badge .caption .w-49 .res }
+
 
 ----------------------------------------
