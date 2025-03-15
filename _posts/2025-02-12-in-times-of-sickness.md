@@ -8,7 +8,7 @@ description: "179 Days to Prepare. I got the flu, but I did realise some things.
 
  
 > **179** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) 
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
 {: .prompt-quick }
 
 
@@ -22,9 +22,9 @@ A "last resort ration" is maybe something that would be good to have,
 think along the lines of a protein bar or other energy dense food.
 
 
-> + Add to MUST-Haves: "last resort ration" <br/>
-> [<i class='fas fa-campground'></i> Gear list ](/welcome/#quick-overview)
+> Add to MUST-Haves: "last resort ration" [<i class='fas fa-campground'></i> Gear list ](/about/#gear)
 {: .prompt-tip }
+
 
 
 ## Technical Update
