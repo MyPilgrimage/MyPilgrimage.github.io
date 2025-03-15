@@ -24,12 +24,12 @@ gave me so much energy and motivation!
 
 ![Witches Bog](/assets/pics/20250121_WitchbogSchoorl.jpg)
 _Witches Bog <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
-{: .w-49 .res }
+{: .img .w-49 .res }
 
 
 ![Waterlogged Bench](/assets/pics/20250121_WaterloggedSchoorl.jpg)
 _Waterlogged Bench <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
-{: .w-49 .res }
+{: .img .w-49 .res }
 
 <div class="clearfix"></div>
 
