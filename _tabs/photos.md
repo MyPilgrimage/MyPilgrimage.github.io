@@ -17,6 +17,7 @@ Attribution given in the picture's description.
 > Press **ESC** or click the <i class='fas fa-x fa-fw'></i> in the upper right corner to exit the Large-viewport. <br/>
 {: .prompt-tip }
 
+
 -----
 
 ## 2025
@@ -27,7 +28,7 @@ _<i class='far fa-calendar'></i> 08-03-2025. &nbsp;
  <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
  <i class='fas fa-camera'></i> Taken by me. &nbsp;
  <!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 
 <div class='clearfix'></div>
@@ -39,7 +40,7 @@ _<i class='far fa-calendar'></i> 06-03-2025. &nbsp;
  <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
  <i class='fas fa-camera'></i> Taken by me. &nbsp;
  <!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![My Remote-work Office](/assets/pics/20250304_MyOffice.jpg)
 _**My Remote-work Office**<br/> This is where I do most of the work on this page._
@@ -47,7 +48,7 @@ _<i class='far fa-calendar'></i> 04-03-2025. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp;
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
@@ -57,7 +58,7 @@ _<i class='far fa-calendar'></i> 28-02-2025. &nbsp;
 <i class='fas fa-location-dot'></i> Alkmaar. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-99 .res }
+{: .img .badge .caption .w-99 .res }
 
 <div class='clearfix'></div>
 
@@ -67,7 +68,7 @@ _<i class='far fa-calendar'></i> 23-02-2025. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![Witches Bog](/assets/pics/20250121_WitchbogSchoorl.jpg)
 _**Witches Bog**<br/> I like the rugged mysteriousness in this picture. A thick and low hanging mist made it feel like a Grimm Fairytale. Taken while hiking with my Mothers Walking-group._
@@ -75,7 +76,7 @@ _<i class='far fa-calendar'></i> 21-01-2025. &nbsp;
 <i class='fas fa-location-dot'></i> Dunes of Schoorl. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
@@ -85,7 +86,7 @@ _<i class='far fa-calendar'></i> 21-01-2025. &nbsp;
 <i class='fas fa-location-dot'></i> Dunes of Schoorl. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![Small Trunk-bridge](/assets/pics/20250120_OhMyWhatObstacles.jpg)
 _**Small Trunk-bridge**<br/> A relatively deep ditch that crossed my path. You can see a rope bridge. (<i> which wasn't accessible with my big backpack </i>). Luckily my boots were waterproof!_
@@ -93,7 +94,7 @@ _<i class='far fa-calendar'></i> 20-01-2025. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
@@ -108,7 +109,7 @@ _<i class='far fa-calendar'></i> 04-06-2024. &nbsp;
 <i class='fas fa-location-dot'></i> Weert, Brabant. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by Koen. &nbsp;
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![High Water](/assets/pics/20240520_Schoorl.png)
 _**High Water**<br/> Normally this is all sand-dunes, but now it's flooded by recent heavy rain._
@@ -116,7 +117,7 @@ _<i class='far fa-calendar'></i> 20-05-2024. &nbsp;
 <i class='fas fa-location-dot'></i> Dunes of Schoorl. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp;
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
@@ -131,7 +132,7 @@ _<i class='far fa-calendar'></i> 29-05-2023. &nbsp;
 <i class='fas fa-location-dot'></i> Utrechtse Heuvelrug. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by Morgan. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![Camping Camp](/assets/pics/20230527_Camping.jpg)
 _**Camping Camp**<br/> Our small camp while on vacation with friends._
@@ -139,7 +140,7 @@ _<i class='far fa-calendar'></i> 27-05-2023. &nbsp;
 <i class='fas fa-location-dot'></i> Utrechtse Heuvelrug. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by Koen. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
@@ -154,7 +155,7 @@ _<i class='far fa-calendar'></i> 28-02-2022. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![Sunbeam](/assets/pics/20220226_Godray.jpg)
 _**Sunbeam**<br/> A nice sunbeam, (<i> or god ray, </i>) casting long shadows over the green grass._
@@ -162,7 +163,7 @@ _<i class='far fa-calendar'></i> 26-02-2022. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
@@ -172,7 +173,7 @@ _<i class='far fa-calendar'></i> 12-01-2022. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![Twilight](/assets/pics/20220112_Twilight.jpg)
 _**Twilight**<br/> Same as the Twilight Path photo, but more emphasis on the Dark-Light contrast._
@@ -180,7 +181,7 @@ _<i class='far fa-calendar'></i> 12-01-2022. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp;
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
@@ -195,7 +196,7 @@ _<i class='far fa-calendar'></i> 06-11-2021. &nbsp;
 <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by me. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 ![The Dutch Lowlands](/assets/pics/20210806_TheLowlands.jpg)
 _**The Dutch Lowlands**<br/> On vacation in the Netherlands._
@@ -203,7 +204,7 @@ _<i class='far fa-calendar'></i> 06-08-2021. &nbsp;
 <i class='fas fa-location-dot'></i> Brabant. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by Neill. &nbsp; 
 <!-- <i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN </a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 <div class='clearfix'></div>
 
