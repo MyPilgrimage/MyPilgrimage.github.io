@@ -71,7 +71,7 @@ _<i class='far fa-calendar'></i> DD_MM_YYYY. &nbsp;
 <i class='fas fa-location-dot'></i> LOCATION. &nbsp; <br class='brM'/>
 <i class='fas fa-camera'></i> Taken by TAKEN_BY. &nbsp;
 <!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> POST_ORIGIN</a>-->_{: .props }
-{: .img.badge .caption .w-49 .res }
+{: .img .badge .caption .w-49 .res }
 
 
 ----------------------------------------
