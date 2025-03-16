@@ -27,7 +27,7 @@ _<i class='far fa-calendar'></i> 08-03-2025. &nbsp;
  <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
  <i class='fas fa-camera'></i> Taken by me. &nbsp;
  <!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->_{: .props }
-{: .img .badge .caption .w-49 .res }
+{: .img .badge .caption .w-99 .res }
 
 
 <div class='clearfix'></div>
