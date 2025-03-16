@@ -22,16 +22,17 @@ A three legged stool,
 with a triangle seating.
 
 Below is a sketch of what my plan is.
-   ![Step 1, 2](/assets/img/stick/walkingSeat-1.png)
-   {: .img .w-25 .right }
+
+![Step 1, 2](/assets/img/stick/walkingSeat-1.png)
+{: .img .w-25 .res }
+![Step 2, 3](/assets/img/stick/walkingSeat-2.png)
+{: .img .w-25 .res }
+<div class='clearfix'></div>
 
 1. Cut the stick into three equal pieces.
 2. Bore a hole on either end, to fit a bolt
 3. Add a bolt to one side of each stool-leg. <br/>
    To attach the pieces back together.
-
-   ![Step 2, 3](/assets/img/stick/walkingSeat-2.png)
-   {: .img .w-25 .right }
 
 4. Get a strong piece of fabric. <br/>
    (research this)
@@ -40,16 +41,15 @@ Below is a sketch of what my plan is.
 6. Punch eyelets into the fabric on each corner. <br/>
    Big enough for the flat bolts to fit into.
 
-   ![Step 6, 8](/assets/img/stick/walkingSeat-3.png)
-   {: .img .w-25 .right }
+  ![Step 6, 8](/assets/img/stick/walkingSeat-3.png)
+  {: .img .w-25 .res }
+  ![Step 6, 7, 9](/assets/img/stick/walkingSeat-4.png)
+  {: .img .w-25 .res }
+  <div class='clearfix'></div>
 
 7. Get a backpack strap and clip buckle. <br/>
    This will go around the center of the legs, 
    tying them together.
-
-   ![Step 6, 7, 9](/assets/img/stick/walkingSeat-4.png)
-   {: .img .w-25 .right }
-
 8. Get a backpack strap. <br/>
    The length of which should be measured
    once the seat is being assembled, 
@@ -59,8 +59,9 @@ Below is a sketch of what my plan is.
    Make sure the strap is under tension, 
    so the seat is not too strained.
 
-   ![Step 10, 11](/assets/img/stick/walkingSeat-5.png)
-   {: .img .w-25 .right }
+  ![Step 10, 11](/assets/img/stick/walkingSeat-5.png)
+  {: .img .w-25 .res }
+  <div class='clearfix'></div>
 
 10. Reattach the legs to make a walking stick.
 11. Make bolt holes to attach the seat and straps, 
