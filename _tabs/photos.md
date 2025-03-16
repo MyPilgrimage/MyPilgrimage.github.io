@@ -21,12 +21,28 @@ Attribution given in the picture's description.
 
 ## 2025
 
+![Daytime Moon](/assets/pics/20250308_Moon-Cropped.jpg)
+_**Daytime Moon**<br/> The moon against a blue sky._
+ _
+ <i class='far fa-calendar'></i> 08-03-2025. &nbsp;
+ <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
+ <i class='fas fa-camera'></i> Taken by me. &nbsp;
+ <!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->
+ _{: .props }
+{: .img.badge .caption .w-49 .res }
+
+
+<div class='clearfix'></div>
+
+
 ![My Remote-work Office - LoAHF](/assets/pics/20250306_MyEmptyOffice.jpg)
 _**My Remote-work Office - LoAHF**<br/> Leave only Ash, Hair and Footprints!_
-_<i class='far fa-calendar'></i> 06-03-2025. &nbsp;
-<i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
-<i class='fas fa-camera'></i> Taken by me. &nbsp;
-<!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->_{: .props }
+ _
+ <i class='far fa-calendar'></i> 06-03-2025. &nbsp;
+ <i class='fas fa-location-dot'></i> North-Holland. &nbsp; <br class='brM'/>
+ <i class='fas fa-camera'></i> Taken by me. &nbsp;
+ <!--<i class='fas fa-tag'></i> <a href='PICTURE_POST_ORIGIN'> PICTURE_POST_ORIGIN</a>-->
+ _{: .props }
 {: .img.badge .caption .w-49 .res }
 
 ![My Remote-work Office](/assets/pics/20250304_MyOffice.jpg)
