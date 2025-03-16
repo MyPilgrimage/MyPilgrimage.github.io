@@ -8,8 +8,9 @@ description: "166 Days to Prepare. Testing things for version 2.0 of the page!..
 
 
 > **166** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> <br/>
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/>
 {: .prompt-quick }
+<br/>
 
 
 ## Technical Update  

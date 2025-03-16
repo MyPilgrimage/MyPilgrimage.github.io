@@ -8,12 +8,12 @@ description: "164 Days to Prepare. Version 2.0 - Part 1..."
 
 
 > **164** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> <br/>
+> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
 {: .prompt-quick }
+<br/>
 
-
-> <i class='fas fa-person-digging fa-3x fa-fw'></i> The Site is currently under maintenance
-{: .prompt-danger }
+<!-- > <i class='fas fa-person-digging fa-3x fa-fw'></i> The Site is currently under maintenance
+{: .prompt-danger } -->
 
 
 ## Technical Update
