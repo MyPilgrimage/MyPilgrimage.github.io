@@ -2,10 +2,10 @@
 title: Site finally Updated - Part 2 
 date: 2025-03-15 00:00:00 +0100 
 categories: [Site, Update] 
-tags: [personal, site] 
-image: 
+tags: [personal, pictures, site]
+image:
  path: /assets/pics/20250308_Moon-Cropped.jpg
- alt: "<a href='/photos/#2025'><i class='fas fa-camera'></i> The moon against a blue sky <i class='fas fa-up-right-from-square'></i> </a>"
+ alt: "<a href='/photos/#2024'><i class='fas fa-camera'></i> Daytime Moon, 2025 <i class='fas fa-up-right-from-square'></i> </a>"
 description: "148 Days to Prepare. It took a while, but I found my error..."
 ---
 
