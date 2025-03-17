@@ -1,0 +1,25 @@
+/*BY SIDEBARS*/
+/* No Sidebar Visible */
+
+
+/* Left-Sidebar */
+@media only screen and (min-width: 850px) {
+	
+}
+/* Both-Sidebar */
+@media only screen and (min-width: 1200px) {
+	
+}
+/* BY DEVICE */
+/* Mobile */
+@media only screen and (max-width: 320px) {
+	
+}
+/* Tablet */
+@media only screen and (max-width: 768px) {
+	
+}
+/* Desktop */
+@media only screen and (max-width: 1024px) {
+	
+}

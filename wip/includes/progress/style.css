@@ -1,0 +1,97 @@
+/* Progressbars */
+.progress {
+	margin: 5px;
+	padding: 10px;
+	padding-bottom: 30px;
+	background: gray;
+}
+.progress-bg {
+	border: 2px solid #000;
+	border-radius: 1.25em;
+	background: grey;
+}
+.progress-fill {
+	height: 1.2em;
+	padding: 0.02em;
+	border-radius: 1.25em;
+	background: #0f0;
+}
+
+/*MILESTONES*/
+.miles {
+	display: flex;
+	padding: 0 10px;
+	margin-top: 0;	
+}
+.miles > li {
+	height: 10px;
+	width: 100%;
+	border-right: 4px solid #000;
+	position: relative;
+	list-style: none;
+}
+
+/*MILESTONE NAME*/
+.miles > li b {
+	display: inline-block;
+	rotate: 20deg;
+	//margin-top: 20px;
+	//margin-left: -10px;
+	padding: 2px;
+	border: 2px solid #0FF;
+	background: #333;
+	
+	//height: 1.2em;
+	//width: 2.4em;
+	//text-align: center;
+	overflow: hidden;
+	cursor: default;
+}
+/*.miles > li:hover b {
+	display: absolute;
+	width: fit-content;
+	height: fit-content;
+	text-align: left;
+	overflow: visible;
+	rotate: 0deg;
+	z-index: 5;
+}*/
+/* MILESTONE BLIPS */
+.miles > li:after {
+	top: -20px;
+	//left: -12px;
+	position: absolute;
+	
+	content: "";
+	width: 16px;
+	height: 16px;
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000;
+	border-radius: 100%;
+}
+/*FIRST MILESTONE*/
+.miles > li:first-child {
+	border-left: 4px solid #000;
+}
+/*FIRST MILESTONE BLIP*/
+.miles > li:first-child:after {
+	left: -15px;
+}
+/*LAST MILESTONE*/
+.miles > li:last-child {
+	width: 0;
+	border-right: none;
+}
+/*LAST MILESTONE BLIP*/
+.miles > li:last-child:after {
+	border-color: #F0F;
+	//left: -12px;
+}
+
+/* CURRENT MILESTONE */
+.miles > li.current:after {
+	//background-color: #B0B;
+	border-color: #B0B;
+}

@@ -1,0 +1,40 @@
+
+body {
+	font-family: Verdana, sans-serif;
+	font-size: 0.8em;
+}
+header, nav, main, aside, footer {
+	border: 1px solid grey;
+	margin: 5px;
+	padding: 8px;
+}
+header, footer {
+	text-align: center;
+}
+article, section {
+	border: 1px solid red;
+	margin: 5px;
+	padding: 8px;
+}
+
+/*NAVIGATION BAR*/
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+nav li {
+  float: left;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+nav li a:hover {
+  background-color: #111;
+}

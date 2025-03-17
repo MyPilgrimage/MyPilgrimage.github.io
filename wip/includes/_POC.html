@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>P.o.C.</title>
+	<meta charset="utf-8">
+	<!--[if lt IE 9]><script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script><![endif]-->
+	<!-- <link rel="stylesheet" href="https://mypilgrimage.github.io/vendor/bundle/ruby/3.3.0/gems/jekyll-theme-chirpy-7.2.4/_sass/base/_base.scss"> -->
+	<script src="_POC.js"></script>
+	<link rel="stylesheet" href="_POC.css">
+	<link rel="stylesheet" href="responsive-style.css">
+</head>
+<body>
+
+<header><h1>Element Proof of Concept</h1></header>
+
+<nav>
+	<ul>
+	<li><a href="#quick-Count">#quick-Count</a></li>
+	<li><a href="#quick-Location">#quick-Location</a></li>
+	<li><a href="#quick-Progress-Route">#quick-Progress-Route</a></li>
+	<li><a href="#quick-Progress-Train">#quick-Progress-Train</a></li>
+	<li><a href="#quick-Progress-Gear">#quick-Progress-Gear</a></li>
+	</ul>
+</nav>
+
+<main>
+
+<h2>Quick overview</h2>
+
+<!-- ##########		 COUNTDOWN - QUICK OVERVIEW 		########## -->
+<article id='quick-Count'>
+<h3>Countdown</h3>
+<script src="countdown/script.js" defer></script>
+<link rel="stylesheet" href="countdown/style.css">
+	
+<div>
+	<b id="countdownTimer"></b>
+	<p>Trial-Run starts: </p>
+	<p><i class="far fa-calendar"></i></p>
+	<p><b>10 August 2025</b></p>
+	</p>
+	</div>
+</article>
+
+<!-- ##########		 LOCATION - QUICK OVERVIEW 		########## -->
+<article id='quick-Location'>
+<h3>Location</h3>
+<script src="location/script.js"></script>
+<link rel="stylesheet" href="location/style.css">
+	
+<div>
+	<img src="../../assets/img/img_name.jpg" alt="Current Location Map"/>
+	<p>Current Location Map. </p>
+	<p>See updates on my current location</p>
+	<p><i class="far fa-calendar"></i> DD_MM_YYYY.</p>
+	<p><i class="fas fa-location-dot"></i> LOCATION.</p>
+</div>
+</article>
+
+
+<!-- ##########		 QUICK OVERVIEW 		########## -->
+<article>
+<h3>Progress</h3>
+<script src="progress/script.js"></script>
+<script src="progress/visible-script.js"></script>
+<link rel="stylesheet" href="progress/style.css">
+
+<!-- ##########		 PROGRESS-ROUTE - QUICK OVERVIEW 		########## -->
+<section class='progress' id='quick-Progress-Route'>	
+	<p><b>Route:</b> 
+	How far along the route am I?</p>
+	<div class="progress-bg">
+		<div id="progressRoute" class="progress-fill" style="width:0%"><!--%--></div>
+	</div>
+	<ul class="miles">
+		<li class="current"><b>Start</b></li>
+		<li><b>Finish</b></li>
+	</ul>
+</section>
+
+<!-- ##########		 PROGRESS-TRAIN - QUICK OVERVIEW 		########## -->
+<section class='progress' id='quick-Progress-Train'>	
+	<p><b>Training:</b> 
+	Can I walk 20km per day?</p>
+	<div class="progress-bg">
+		<div id="progressTrain" class="progress-fill" style="width:10%"><!--%--></div>
+	</div>
+	<ul class="miles">
+		<li><b>#0 Start</b></li>
+		<li class="current"><b>#1 Milestone</b></li>
+		<li><b>#2 Milestone</b></li>
+		<li><b>#3 Milestone</b></li>
+		<li><b>#4 Milestone</b></li>
+		<li><b>#5 Milestone</b></li>
+		<li><b>#6 Milestone</b></li>
+		<li><b>#7 Milestone</b></li>
+		<li><b>#8 Milestone</b></li>
+		<li><b>#9 Milestone</b></li>
+		<li><b>#10 Finish</b></li>
+	</ul>
+</section>
+
+<!-- ##########		 PROGRESS-GEAR - QUICK OVERVIEW 		########## -->
+<section class='progress' id='quick-Progress-Gear'>
+	<p><b>Gear:</b> 
+	How is the gear collection going?</p>
+	<div class="progress-bg">
+		<div id="progressGear" class="progress-fill" style="width:20%;"><!--%--></div>
+	</div>
+	<ul class="miles">
+		<li><b>#0 Start</b></li>
+		<li class="current"><b>#1 Milestone with way too much text</b></li>
+		<li><b>#2 Milestone with way too much text</b></li>
+		<li><b>#3 Milestone with way too much text</b></li>
+		<li><b>#4 Milestone with way too much text</b></li>
+		<li><b>#5 Finish</b></li>
+	</ul>
+</section>
+</article>
+
+</main>
+
+<aside>
+<article>
+	<h3>Lorem Ipsum</h3>
+	<h2>What is Lorem Ipsum?</h2>
+	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+	<h2>Why do we use it?</h2>
+	It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+</article>
+</aside>
+
+<footer>
+<p>CodePen: <a href='https://codepen.io/cabans/pen/mwEPJx'>Train stops</a> by Abel Cabans.</p>
+<p>&copy; 2025 <a href="https://github.com/MyPilgrimage">I-Jun.</a> Some rights reserved.</p>
+</footer>
+
+</body>
+</html>
+
+
+<!-- Credit:
+
+-->
