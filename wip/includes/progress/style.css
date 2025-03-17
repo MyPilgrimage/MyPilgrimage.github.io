@@ -1,3 +1,7 @@
+/* ##########
+PROGRESS - QUICK OVERVIEW
+########## */
+
 /* Progressbars */
 .progress {
 	margin: 5px;
@@ -6,13 +10,15 @@
 	background: gray;
 }
 .progress-bg {
-	border: 2px solid #000;
-	border-radius: 1.25em;
-	background: grey;
+  /* margin-left: 1em; */
+  height: 1em;
+  border: 2px solid #000;
+  border-radius: 1.25em;
+  /* background: var(--button-bg); */
+  background: none;
 }
 .progress-fill {
-	height: 1.2em;
-	padding: 0.02em;
+	height: 1em;
 	border-radius: 1.25em;
 	background: #0f0;
 }
@@ -35,15 +41,15 @@
 .miles > li b {
 	display: inline-block;
 	rotate: 20deg;
-	//margin-top: 20px;
-	//margin-left: -10px;
+	margin-top: 20px;
+	margin-left: -10px;
 	padding: 2px;
 	border: 2px solid #0FF;
 	background: #333;
 	
-	//height: 1.2em;
-	//width: 2.4em;
-	//text-align: center;
+	height: 1.2em;
+	width: 2.4em;
+	text-align: center;
 	overflow: hidden;
 	cursor: default;
 }
@@ -59,7 +65,7 @@
 /* MILESTONE BLIPS */
 .miles > li:after {
 	top: -20px;
-	//left: -12px;
+	left: -12px;
 	position: absolute;
 	
 	content: "";
@@ -87,11 +93,11 @@
 /*LAST MILESTONE BLIP*/
 .miles > li:last-child:after {
 	border-color: #F0F;
-	//left: -12px;
+	left: -12px;
 }
 
 /* CURRENT MILESTONE */
 .miles > li.current:after {
-	//background-color: #B0B;
+	background-color: #B0B;
 	border-color: #B0B;
 }
