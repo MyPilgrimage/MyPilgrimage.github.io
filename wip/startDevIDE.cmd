@@ -7,6 +7,13 @@ ECHO "-----------------------------"
 IF EXIST "%APPDATA%/Spotify/Spotify.exe" (
 	ECHO "0. Run Spotify"
 	START /min "" "%APPDATA%/Spotify/Spotify.exe"
+) ELSE (
+	REM IF EXIST "%PROGRAMFILES%/WindowsApps/*/Spotify.exe" (
+		REM ECHO "0. Run Spotify App"
+		REM START /min "" "%PROGRAMFILES%/WindowsApps/*/Spotify.exe"
+	REM ) ELSE (
+		ECHO "No Spotify Install found"
+	REM )
 )
 
 IF EXIST "%LOCALAPPDATA%/GitHubDesktop/GitHubDesktop.exe" (
@@ -32,11 +39,11 @@ IF EXIST "%PROGRAMFILES%/Docker/Docker/Docker Desktop.exe" (
 ECHO "Once Docker is Running, press a key to continue ..."
 PAUSE >nul
 
-IF EXIST "./*.code-workspace" (
-	ECHO "3. Run VS Code - Workspace"
-	START /min "" "./*.code-workspace"
-
-) ELSE (
+REM IF EXIST "./*.code-workspace" (
+	REM ECHO "3. Run VS Code - Workspace"
+	REM START /min "" "IDE.code-workspace"
+	REM EXIT
+REM ) ELSE (
 	IF EXIST C:/Development/VScode/ (
 		ECHO "3. Run VS Code"
 		START C:/Development/VScode/Code.exe
@@ -46,11 +53,9 @@ IF EXIST "./*.code-workspace" (
 		ECHO "3. Run VS Code"
 		START D:/Development/VScode/Code.exe
 		EXIT
-	) ELSE (
-		ECHO "-----------------------------"
-		ECHO "    ! NO VS CODE FOUND !     "
-		ECHO "-----------------------------"
 	)
-)
-
-PAUSE
+	ECHO "-----------------------------"
+	ECHO "    ! NO VS CODE FOUND !     "
+	ECHO "-----------------------------"
+	PAUSE
+REM )

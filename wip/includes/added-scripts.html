@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="">
 <style>
+<!-- link rel="stylesheet" href="https://mypilgrimage.github.io/vendor/bundle/ruby/3.3.0/gems/jekyll-theme-chirpy-7.2.4/_sass/base/_base.scss"  -->
 </style>
 <script src=""></script>
 <body>
@@ -29,57 +30,212 @@
 	_<i class="far fa-calendar"></i> DD_MM_YYYY. &nbsp; <i class="fas fa-location-dot"></i> LOCATION._
 </div>
 
-<div class=" .prompt-quick .w-49 .left ">
-	<h3>Progress</h3>
-	<b>Route:</b> <br/>
-	How far along the route am I?
-	<div class="progress-bg">
-		<div id="progressRoute" class="progress-fill" style="width:0%">
-		0% 
-		</div>
-	</div>
-	
-	<b>Training:</b><br/>
-	Can I walk 20km per day?
-	<div class="progress-bg">
-		<div id="progressTrain" class="progress-fill" style="width:7%">
-		7% 
-		</div>
-	</div>
-	
-	<b>Gear:</b><br/>
-	How is the gear collection going?
-	<div class="progress-bg">
-		<div id="progressGear" class="progress-fill" style="width:5%">
-		5% 
-		</div>
-	</div>
+<article class=" .prompt-quick .w-49 .left ">
+<div class='progress'>	
+<h3>Progress</h3>
+<b>Route:</b> <br/>
+How far along the route am I?
+<div class="progress-bg">
+<div id="progressRoute" class="progress-fill" style="width:0%">
+<!-- 0%  -->
+</div>
+</div>
+<ul class="miles">
+<li class="current"><b>Start</b></li>
+<li><b>Finish</b></li>
+</ul>
 </div>
 
-<div class="clearfix"></div>
-</body>
+<div class='progress'>	
+<b>Training:</b><br/> Can I walk 20km per day?
+<div class="progress-bg">
+<div id="progressTrain" class="progress-fill" style="width:10%">
+<!-- 7% -->
+</div>
+</div>
+<ul class="miles">
+<li><b>#0 Start</b></li>
+<li class="current"><b>#1 Milestone</b></li>
+<li><b>#2 Milestone</b></li>
+<li><b>#3 Milestone</b></li>
+<li><b>#4 Milestone</b></li>
+<li><b>#5 Milestone</b></li>
+<li><b>#6 Milestone</b></li>
+<li><b>#7 Milestone</b></li>
+<li><b>#8 Milestone</b></li>
+<li><b>#9 Milestone</b></li>
+<li><b>#10 Finish</b></li>
+</ul>
+</div>
+	
+<div class='progress'>
+<b>Gear:</b><br/> How is the gear collection going?
+<div class="progress-bg">
+<div id="progressGear" class="progress-fill" style="width:20%;">
+<!-- %  -->
+</div>
+</div>
+<ul class="miles">
+<li><b>#0 Start</b></li>
+<li class="current"><b>#1 Milestone with way too much text</b></li>
+<li><b>#2 Milestone with way too much text</b></li>
+<li><b>#3 Milestone with way too much text</b></li>
+<li><b>#4 Milestone with way too much text</b></li>
+<li><b>#5 Finish</b></li>
+</ul>
+</div>
+</article>
+
+<article>
+<!-- Credit:
+CodePen: Train stops
+by Abel Cabans 
+https://codepen.io/cabans/pen/mwEPJx
+-->
+
 
 <style>
 /* Progressbars */
+.progress {
+	padding: 10px;
+	padding-bottom: 30px;
+	margin: 5px;
+	background: #AAAAAA;
+	border: 2px solid red;
+}
 .progress-bg {
+  border: 2px solid black;
   border-radius: 1.25em;
   background: grey;
-  <!-- background: var(--button-bg); -->
-  margin-left: 1em;
+  // background: var(--button-bg);
+  //margin-left: 1em;
 }
 .progress-fill {
+	height: 1.2em;
+	
   font-size: small;
   font-weight: bolder;
   overflow-wrap: normal;
   padding: 0.02em;
   border-radius: 1.25em;
   background: green;
-  <!-- background: var(--prompt-tip-icon-color); -->
-  color: var(white);
-  <!-- color: var(--text-color); -->
+  // background: var(--prompt-tip-icon-color);
+  color: white;
+  // color: var(--text-color);
   text-shadow: 0px 0px 1px dark-grey,
     0 0 2px light-grey;
 }
+
+/*MILESTONES*/
+.miles {
+	display: flex;
+	padding: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0;	
+background: yellow;
+//border: 1px dotted black;
+}
+
+.miles > li {
+	height: 10px;
+	width: 100%;
+	border-right: 4px solid black;
+	position: relative;
+	list-style: none;
+// z-index: 0;
+background: teal;
+}
+
+/*MILESTONE NAME*/
+.miles > li b {
+	display: inline-block;
+	rotate: 20deg;
+	margin-top: 20px;
+	margin-left: -10px;
+	padding: 2px;
+	border: 2px solid black;
+	background: white;
+	
+	height: 1.2em;
+	width: 2.4em;
+	text-align: center;
+	overflow: hidden;
+	cursor: default;
+}
+.miles > li:hover b {
+	display: absolute;
+	width: fit-content;
+	height: fit-content;
+	text-align: left;
+	overflow: visible;
+	rotate: 0deg;
+	z-index: 5;
+}
+
+/* MILESTONE BLIPS */
+.miles > li:after {
+	top: -20px;
+	left: -12px;
+	position: absolute;
+	
+	content: "";
+	width: 16px;
+	height: 16px;
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 100%;
+	
+	// z-index: 2;
+	background: green;
+}
+/*FIRST MILESTONE*/
+.miles > li:first-child {
+	background: purple;
+	border-left: 4px solid black;
+}
+/*FIRST MILESTONE BLIP*/
+.miles > li:first-child:after {
+	//border-color: purple;
+	left: -15px;
+}
+/*LAST MILESTONE*/
+.miles > li:last-child {
+	background: blue;
+	width: 0;
+	border-right: none;
+}
+/*LAST MILESTONE BLIP*/
+.miles > li:last-child:after {
+	border-color: blue;
+	left: -11px;
+}
+
+/* CURRENT MILESTONE */
+.miles > li.current:after {
+	background-color: yellow;
+	border-color: yellow;
+}
+
+</style>
+<!-- 
+
+-->
+</article>
+
+
+<footer>
+<h2>What is Lorem Ipsum?</h2>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<h2>Why do we use it?</h2>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+</footer>
+
+</body>
+
+<style>
 
 /* Caption */
 .caption {
