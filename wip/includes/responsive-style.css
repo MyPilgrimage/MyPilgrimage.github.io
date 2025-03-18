@@ -78,7 +78,9 @@
 /* Mobile */
 @media only screen and (max-width: 320px) {
   .w-49 {
-    width: 100%;
+    /* width: 100%; */
+    width: auto;
+    overflow: auto;
   }
   .w-49.left,
   .w-49.right {
@@ -86,7 +88,9 @@
   }
   .w-25,
   .w-50 {
-    width: 100% !important;
+    /* width: 100% !important; */
+    width: auto;
+    overflow: auto;
   }
   .w-50.right {
     float: none;
@@ -96,7 +100,9 @@
 /* Tablet */
 @media only screen and (max-width: 768px) {
   .w-49 {
-    width: 100%;
+    /* width: 100%; */
+    width: auto;
+    overflow: auto;
   }
   .w-49.left,
   .w-49.right {

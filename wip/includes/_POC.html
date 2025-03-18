@@ -8,10 +8,11 @@
 <script src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js'></script>
 <![endif]
 -->
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.1/css/all.min.css'>
+<!-- <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.1/css/all.min.css'> -->
 <script src='_POC.js'></script>
 <link rel='stylesheet' href='_POC.css'>
 <link rel='stylesheet' href='responsive-style.css'>
+<meta name='viewport' content='width=device-width, initial-scale:1.0'>
 </head>
 <body>
 
@@ -81,14 +82,14 @@ LOCATION.
 <br>
 How far along the route am I?
 </p> 
-<i class="fa fa-spinner fa-pulse"></i>
+<!-- <i class="fa fa-spinner fa-pulse"></i> -->
 <div class='progress-bg'>
-<div id='progressRoute' class='progress-fill' style='width:0%'>%</div>
+  <div id='progressRoute' class='progress-fill' style='width:0%'>%</div>
+</div>
 <ul class='miles'>
 <li class='current'><b>Start</b></li>
 <li><b>Finish</b></li>
 </ul>
-</div>
 </div>
 <!-- ##########		 PROGRESS-TRAIN - QUICK OVERVIEW 		########## -->
 <div class='progress'>
@@ -97,23 +98,23 @@ How far along the route am I?
 <br>
 Can I walk 20km per day?
 </p>
-<i class="fa fa-spinner fa-pulse"></i>
+<!-- <i class="fa fa-spinner fa-pulse"></i> -->
 <div class='progress-bg'>
-<div id='progressTrain' class='progress-fill' style='width:7%'>%</div>
-<ul class='miles'>
-<li><b>#0 Start</b></li>
-<li class='current'><b>#1 Milestone</b></li>
-<li><b>#2 Milestone</b></li>
-<li><b>#3 Milestone</b></li>
-<li><b>#4 Milestone</b></li>
-<li><b>#5 Milestone</b></li>
-<li><b>#6 Milestone</b></li>
-<li><b>#7 Milestone</b></li>
-<li><b>#8 Milestone</b></li>
-<li><b>#9 Milestone</b></li>
-<li><b>#10 Finish</b></li>
-</ul>
+  <div id='progressTrain' class='progress-fill' style='width:7%'></div>
 </div>
+<ul class='miles'>
+  <li><b>#0 Start</b></li>
+  <li class='current'><b>#1 Milestone</b></li>
+  <li><b>#2 Milestone</b></li>
+  <li><b>#3 Milestone</b></li>
+  <li><b>#4 Milestone</b></li>
+  <li><b>#5 Milestone</b></li>
+  <li><b>#6 Milestone</b></li>
+  <li><b>#7 Milestone</b></li>
+  <li><b>#8 Milestone</b></li>
+  <li><b>#9 Milestone</b></li>
+  <li><b>#10 Finish</b></li>
+</ul>
 </div>
 <!-- ##########		 PROGRESS-GEAR - QUICK OVERVIEW 		########## -->
 <div class='progress'>
@@ -122,9 +123,10 @@ Can I walk 20km per day?
 <br>
 How is the gear collection going?
 </p>
-<i class="fa fa-spinner fa-pulse"></i>
+<!-- <i class="fa fa-spinner fa-pulse"></i> -->
 <div class='progress-bg'>
 <div id='progressGear' class='progress-fill' style='width:5%'>%</div>
+</div>
 <ul class='miles'>
 <li><b>#0 Start</b></li>
 <li class='current'><b>#1 Milestone with way too much text</b></li>
@@ -133,7 +135,6 @@ How is the gear collection going?
 <li><b>#4 Milestone with way too much text</b></li>
 <li><b>#5 Finish</b></li>
 </ul>
-</div>
 </div>
 </blockquote>
 
