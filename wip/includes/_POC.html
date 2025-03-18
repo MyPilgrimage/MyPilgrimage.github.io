@@ -8,7 +8,7 @@
 <script src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js'></script>
 <![endif]
 -->
-<!-- <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.1/css/all.min.css'> -->
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.1/css/all.min.css'>
 <script src='_POC.js'></script>
 <link rel='stylesheet' href='_POC.css'>
 <link rel='stylesheet' href='responsive-style.css'>
@@ -74,17 +74,19 @@ LOCATION.
 <link rel='stylesheet' href='progress/style.css'>
 
 <blockquote class='prompt-quick w-49 left'>
+
+<!-- 
+</blockquote>
+<blockquote> 
+-->
+
+<h3 id='progress'>Progress</h3>
 <!-- ##########		 PROGRESS-ROUTE - QUICK OVERVIEW 		########## -->
 <div class='progress'>
-<h3 id='progress'>Progress</h3>
-<p>
-<b>Route:</b>
-<br>
-How far along the route am I?
-</p> 
+<p><b>Route:</b> How far along the route am I?</p> 
 <!-- <i class="fa fa-spinner fa-pulse"></i> -->
 <div class='progress-bg'>
-  <div id='progressRoute' class='progress-fill' style='width:0%'>%</div>
+  <div id='progressRoute' class='progress-fill' style='width:0%'><b>0%</b></div>
 </div>
 <ul class='miles'>
 <li class='current'><b>Start</b></li>
@@ -93,14 +95,10 @@ How far along the route am I?
 </div>
 <!-- ##########		 PROGRESS-TRAIN - QUICK OVERVIEW 		########## -->
 <div class='progress'>
-<p>
-<b>Training:</b>
-<br>
-Can I walk 20km per day?
-</p>
+<p><b>Training:</b> Can I walk 20km per day?</p>
 <!-- <i class="fa fa-spinner fa-pulse"></i> -->
 <div class='progress-bg'>
-  <div id='progressTrain' class='progress-fill' style='width:7%'></div>
+  <div id='progressTrain' class='progress-fill' style='width:14%'><b>14%</b></div>
 </div>
 <ul class='miles'>
   <li><b>#0 Start</b></li>
@@ -118,20 +116,16 @@ Can I walk 20km per day?
 </div>
 <!-- ##########		 PROGRESS-GEAR - QUICK OVERVIEW 		########## -->
 <div class='progress'>
-<p>
-<b>Gear:</b>
-<br>
-How is the gear collection going?
-</p>
+<p><b>Gear:</b> How is the gear collection going?</p>
 <!-- <i class="fa fa-spinner fa-pulse"></i> -->
 <div class='progress-bg'>
-<div id='progressGear' class='progress-fill' style='width:5%'>%</div>
+<div id='progressGear' class='progress-fill' style='width:70%'><b>70%</b></div>
 </div>
 <ul class='miles'>
 <li><b>#0 Start</b></li>
-<li class='current'><b>#1 Milestone with way too much text</b></li>
+<li><b>#1 Milestone with way too much text</b></li>
 <li><b>#2 Milestone with way too much text</b></li>
-<li><b>#3 Milestone with way too much text</b></li>
+<li class='current'><b>#3 Milestone with way too much text</b></li>
 <li><b>#4 Milestone with way too much text</b></li>
 <li><b>#5 Finish</b></li>
 </ul>

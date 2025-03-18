@@ -10,12 +10,24 @@
 	--c-red: red;
 	--c-green: green;
 	--c-blue: blue;
-	
 	--c-yellow: yellow;
 	--c-orange: orange;
-	--c-purple: purple;
-	--c-pink: pink;
-	
+	--c-purple: magenta;
+	--c-cyan: cyan;
+
+	--c-agreen: rgba(0, 128, 0, 0.4);
+	--c-ablue: rgba(0, 0, 255, 0.4);
+	--c-ayellow: rgba(255, 255, 0, 0.4);
+	--c-aorange: rgba(255, 165, 0, 0.4);
+
+	--c-dred: darkred;
+	--c-dgreen: darkgreen;
+	--c-dblue: darkblue;
+	--c-dyellow: goldenrod;
+	--c-dorange: darkorange;
+	--c-dpurple: darkmagenta;
+	--c-dcyan: darkcyan;
+
 	--b-dark: 1px solid var(--c-dark);
 	--b-gray: 1px solid var(--c-grey);
 	--b-gray: 1px solid var(--c-gray);
