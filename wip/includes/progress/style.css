@@ -2,27 +2,51 @@
 PROGRESS - QUICK OVERVIEW
 ########## */
 :root {
-	--prog-b-w: 2px;
+/*iNHERETED COLOURS*/
+--button-bg: 128,128,128; /*GRAY*/
+--prompt-tip-icon-color: 0,100,0; /*darkgreen*/
+--text-color: 255,255,255; /*WHITE*/
+--text-muted-color: 100,100,100; /*LightGray*/
+--text-muted-highlight-color: 165,165,165; /*Darkgray*/
+
+
+	--prog-w: 2px; /* Progress Border width*/
+
+	--bar-rad: 1.25em; /*Progress bar Border-Radius*/
+	--bar-h: 1em; /* progress bars height*/
 	
 	/*--mile-t: -21px; /*Stick Top Pos*/
 	--mile-w: 4px; /*Stick width*/
+
+	--mile-c: 0,0,255; /*BLUE*/
+	--mile-c-start: 0,128,0; /*GREEN*/
+	--mile-c-finish: 255,255,0; /*YELLOW*/
+	--mile-c-current: 255,165,0; /*ORANGE*/
+	--mile-alpha: 0.75; /*Blip Alpha*/
+	--mile-a-bg: 0.4; /*Blip BG Alpha*/
+
+	--blip-w: 2px; /*Blip width*/
+	--blip-s: 17px; /*Blip Diameter*/
 	--blip-t: -18.5px; /*Blip Top Pos*/
 	--blip-l: -12px; /*Bip Left Pos*/
-	--blip-size: 12px; /*Blip Diameter*/
-	--blip-t-finish: -22px; /*Final Blip T-pos*/
-	--blip-l-finish: 12px;
-	--blip-w-current: 6px; /*Current Blip width*/
-	--blip-l-current: -14px;
-}
 
+	--blip-t-finish: -22px; /*Final Blip Top-offset*/
+	--blip-l-finish: 12px; /*Final blip Left-offset*/
+
+	--blip-w-current: 5px; /*Current Blip width*/
+	--blip-s-current: 15px;
+	--blip-t-current: -22px; /*Current Blip Top-offset*/
+	--blip-l-current: -14px; /*Current Blip Left-offset*/
+}
+/* 
 .prompt-quick,
 .w-49,
 .left {
 	height: auto;
-	/* background: var(--c-gray); */
-}
+	background: var(--c-gray);
+} */
 .progress {
-	border: var(--b-red);
+	border: var(--b-gray);
 	/* margin: 10px 0; */
 	margin: 0;
 	padding: 0 0.5em;
@@ -39,26 +63,29 @@ PROGRESS - QUICK OVERVIEW
 /* Progressbars */
 .progress-bg {
   /* margin-left: 1em; */
-  height: 1em;
-  border: var(--prog-b-w) solid var(--c-light);
-  border-radius: 1.25em;
-  /* background: var(--button-bg); */
-  background: var(--c-dark);
+	height: var(--bar-h);
+	border-width: var(--prog-w);
+	border-style: solid;
+	border-color: var(--c-light);
+	border-radius: var(--bar-rad);
+	background-color: rgb(var(--button-bg));
 }
 .progress-fill {
-	height: 1em;
-	border-radius: 1.25em;
-	/* background: #0f0; */
-	background: var(--c-green);
+	height: var(--bar-h);
+	border-radius: var(--bar-rad);
+	background-color: rgb(var(--prompt-tip-icon-color));
 }
 /*Progress Percent*/
 .progress-fill b {
 	display: none;
  /* position: absolute; */
- line-height: 0.9em;
- z-index: 2;
- text-shadow: 0 0 2px #000, 0 0 4px #000;
- background: var(--c-dgreen);
+ /* line-height: 0.9em; */
+	z-index: 2;
+
+	color: rgb(var(--text-color));
+	text-shadow: 0 0 2px rgb(var(--text-muted-color)), 
+	0 0 4px rgb(var(--text-muted-highlight-color));
+	background-color: rgb(var(--prompt-tip-icon-color));
 }
 /*MILESTONES*/
 .miles {
@@ -67,44 +94,49 @@ PROGRESS - QUICK OVERVIEW
 	margin: 0;
 	padding: 0;
 	padding: 0 7px;
-/* background: var(--c-green); */
+/* background: var(--c-yellow); */
 }
 /*MILE STICK*/
 .miles > li {
-	height: 10px;
 	flex: 3 0 auto;
-	width: auto;
-	position: relative;
-	border-left: var(--mile-w) solid var(--c-blue);
-	list-style: none;
 	z-index: 1;
-/* background: var(--c-red); */
+	position: relative;
+	height: 10px;
+	width: auto;
+	list-style: none;
+	border: 0;
+	border-left: var(--mile-w);
+	border-style: solid;
+	border-color: rgb(var(--mile-c));
+/* background: var(--c-blue); */
 }
 /* MILE BLIPS */
 .miles > li:after {
+	position: absolute;
 	top: var(--blip-t);
 	left: var(--blip-l);
-	position: absolute;
-	width: var(--blip-size);
-	height: var(--blip-size);
+	width: var(--blip-s);
+	height: var(--blip-s);
 	content: "";
-	border: var(--mile-w) solid var(--c-ablue);
+	border-width: var(--blip-w);
+	border-style: solid;
+	border-color: rgba(var(--mile-c), var(--mile-alpha));
 	border-radius: 100%;
-background: var(--c-ablue);
+	background-color: rgba(var(--mile-c), var(--mile-a-bg));
 }
 /*MILE NAME*/
 .miles > li b {
 	display: inline-flex;
 	position: sticky;
-	width: 2.5em;
-	height: 1.2em;
-	padding: 2px;
-	overflow: hidden;
-	background: var(--c-dyellow);
-	border: var(--prog-b-w) solid var(--c-blue);
-	cursor: default;
 	margin-top: 0.75em;
 	margin-left: -1.5em;
+	padding: 2px;
+	width: 2.5em;
+	height: 1.2em;
+	overflow: hidden;
+	cursor: default;
+	border: var(--prog-w) solid rgb(var(--mile-c));
+	background-color: rgba(var(--mile-c), var(--mile-a-bg));
 	/* display: none; */
 }
 /*HOVER OVER MILE NAME*/
@@ -116,32 +148,39 @@ background: var(--c-ablue);
 
 /*FIRST MILESTONE*/
 .miles > li:first-child {
-	border-left: var(--mile-w) solid var(--c-green);
+	/* border: 0; */
+	border-left: var(--mile-w);
+	border-style: solid;
+	border-color: rgb(var(--mile-c-start));
+/* background: var(--c-green); */
 }
 /*FIRST MILE BLIP*/
 .miles > li:first-child:after {
-	border-color: var(--c-agreen);
-	background: var(--c-agreen);
+	border-color: rgba(var(--mile-c-start), var(--mile-a-bg));
+	background-color: rgba(var(--mile-c-start), var(--mile-a-bg));
 }
 /*FIRST MILE name*/
 .miles > li:first-child b {
-	border-color: var(--c-green);
+	border-color: rgb(var(--mile-c-start));
+	background-color: rgba(var(--mile-c-start), var(--mile-a-bg));
 }
 
 
 /*LAST MILESTONE*/
 .miles > li:last-child {
 	flex: none; /* Width:0 Last Mile is Finish */
-	border-color: var(--c-yellow);
+	border-color: rgb(var(--mile-c-finish));
+/* background: var(--c-red); */
 }
 /*LAST MILE BLIP*/
 .miles > li:last-child:after {
-	border-color: var(--c-ayellow);
-	background: var(--c-ayellow);
+	border-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
+	background-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
 }
 /*LAST MILE name*/
 .miles > li:last-child b {
-	border-color: var(--c-yellow);
+	border-color: rgb(var(--mile-c-finish));
+	background-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
 	/* display: none; */
 	position: absolute;
 	left: -.5em;
@@ -152,18 +191,22 @@ background: var(--c-ablue);
 
 /* CURRENT MILESTONE */
 .miles > li.current {
-	border-color: var(--c-orange);
+	border-color: rgb(var(--mile-c-current));
 /* background: var(--c-purple); */
 }
 /* CURRENT MILE BLIP */
 .miles > li.current:after {
-	top: var(--blip-t-finish);
+	top: var(--blip-t-current);
 	left: var(--blip-l-current);
-	border-color: var(--c-aorange);
+	width: var(--blip-s-current);
+	height: var(--blip-s-current);
 	border-width: var(--blip-w-current);
-	background: var(--c-aorange);
+
+	border-color: rgba(var(--mile-c-current), var(--mile-a-bg));
+	background-color: rgba(var(--mile-c-current), var(--mile-a-bg));
 }
 /* CURRENT mile NAME */
 .miles > li.current b {
-	border-color: var(--c-orange);
+	border-color: rgb(var(--mile-c-current));
+	background-color: rgba(var(--mile-c-current), var(--mile-a-bg));
 }
