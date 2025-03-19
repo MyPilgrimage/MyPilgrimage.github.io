@@ -63,7 +63,7 @@ PROGRESS - QUICK OVERVIEW
 /* Progressbars */
 .progress-bg {
   /* margin-left: 1em; */
-	height: var(--bar-h);
+	min-height: var(--bar-h);
 	border-width: var(--prog-w);
 	border-style: solid;
 	border-color: var(--c-light);
@@ -76,16 +76,21 @@ PROGRESS - QUICK OVERVIEW
 	background-color: rgb(var(--prompt-tip-icon-color));
 }
 /*Progress Percent*/
+.progress-fill p,
 .progress-fill b {
-	display: none;
  /* position: absolute; */
  /* line-height: 0.9em; */
-	z-index: 2;
+	z-index: 3;
 
 	color: rgb(var(--text-color));
 	text-shadow: 0 0 2px rgb(var(--text-muted-color)), 
 	0 0 4px rgb(var(--text-muted-highlight-color));
 	background-color: rgb(var(--prompt-tip-icon-color));
+	display: none;
+}
+.progress-bg-extra,
+.progress-fill-extra {
+	display: none;
 }
 /*MILESTONES*/
 .miles {
@@ -113,6 +118,7 @@ PROGRESS - QUICK OVERVIEW
 /* MILE BLIPS */
 .miles > li:after {
 	position: absolute;
+	z-index: 2;
 	top: var(--blip-t);
 	left: var(--blip-l);
 	width: var(--blip-s);
@@ -125,7 +131,7 @@ PROGRESS - QUICK OVERVIEW
 	background-color: rgba(var(--mile-c), var(--mile-a-bg));
 }
 /*MILE NAME*/
-.miles > li b {
+.miles > li .mile-name {
 	display: inline-flex;
 	position: sticky;
 	margin-top: 0.75em;
@@ -137,14 +143,23 @@ PROGRESS - QUICK OVERVIEW
 	cursor: default;
 	border: var(--prog-w) solid rgb(var(--mile-c));
 	background-color: rgba(var(--mile-c), var(--mile-a-bg));
-	/* display: none; */
+
+/* display: none; */
 }
-/*HOVER OVER MILE NAME*/
-/* .miles > li:hover b {
+.mile-info {
+	border: var(--b-red);
+	min-height: 1em;
+}
+/*HOVER OVER MILE NAME: SHOW MORE*/
+/* .miles > li:hover .mile-name {
 	text-align: left;
 	overflow: visible;
 	rotate: 0deg;
 } */
+/* .miles > li:hover {
+	.progress-bg-extra {display: block;}
+	.progress-fill-extra {display: block;}
+}  */
 
 /*FIRST MILESTONE*/
 .miles > li:first-child {
@@ -160,7 +175,7 @@ PROGRESS - QUICK OVERVIEW
 	background-color: rgba(var(--mile-c-start), var(--mile-a-bg));
 }
 /*FIRST MILE name*/
-.miles > li:first-child b {
+.miles > li:first-child .mile-name {
 	border-color: rgb(var(--mile-c-start));
 	background-color: rgba(var(--mile-c-start), var(--mile-a-bg));
 }
@@ -178,15 +193,15 @@ PROGRESS - QUICK OVERVIEW
 	background-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
 }
 /*LAST MILE name*/
-.miles > li:last-child b {
+.miles > li:last-child .mile-name {
 	border-color: rgb(var(--mile-c-finish));
 	background-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
-	/* display: none; */
 	position: absolute;
 	left: -.5em;
 	/* right: 0px; */
-	/* margin: 0; */
+	/* margin-right: -1em; */
 	/* padding: 0; */
+	/* display: none; */
 }
 
 /* CURRENT MILESTONE */
@@ -206,7 +221,7 @@ PROGRESS - QUICK OVERVIEW
 	background-color: rgba(var(--mile-c-current), var(--mile-a-bg));
 }
 /* CURRENT mile NAME */
-.miles > li.current b {
+.miles > li.current .mile-name {
 	border-color: rgb(var(--mile-c-current));
 	background-color: rgba(var(--mile-c-current), var(--mile-a-bg));
 }
