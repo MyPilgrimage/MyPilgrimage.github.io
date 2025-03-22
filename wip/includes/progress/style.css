@@ -2,42 +2,67 @@
 PROGRESS - QUICK OVERVIEW
 ########## */
 :root {
-/*iNHERETED COLOURS*/
---button-bg: 128,128,128; /*GRAY*/
---prompt-tip-icon-color: 0,100,0; /*darkgreen*/
---text-color: 255,255,255; /*WHITE*/
---text-muted-color: 100,100,100; /*LightGray*/
---text-muted-highlight-color: 165,165,165; /*Darkgray*/
+	/*iNHERETED COLOURS*/
+	--button-bg: 128, 128, 128;
+	/*GRAY*/
+	--prompt-tip-icon-color: 0, 100, 0;
+	/*darkgreen*/
+	--text-color: 255, 255, 255;
+	/*WHITE*/
+	--text-muted-color: 100, 100, 100;
+	/*LightGray*/
+	--text-muted-highlight-color: 165, 165, 165;
+	/*Darkgray*/
 
 
-	--prog-w: 2px; /* Progress Border width*/
+	--prog-w: 2px;
+	/* Progress Border width*/
 
-	--bar-rad: 1.25em; /*Progress bar Border-Radius*/
-	--bar-h: 1em; /* progress bars height*/
-	
+	--bar-rad: 1.25em;
+	/*Progress bar Border-Radius*/
+	--bar-h: 1em;
+	/* progress bars height*/
+
 	/*--mile-t: -21px; /*Stick Top Pos*/
-	--mile-w: 4px; /*Stick width*/
+	--mile-w: 4px;
+	/*Stick width*/
 
-	--mile-c: 0,0,255; /*BLUE*/
-	--mile-c-start: 0,128,0; /*GREEN*/
-	--mile-c-finish: 255,255,0; /*YELLOW*/
-	--mile-c-current: 255,165,0; /*ORANGE*/
-	--mile-alpha: 0.75; /*Blip Alpha*/
-	--mile-a-bg: 0.4; /*Blip BG Alpha*/
+	--mile-c: 0, 0, 255;
+	/*BLUE*/
+	--mile-c-start: 0, 128, 0;
+	/*GREEN*/
+	--mile-c-finish: 255, 255, 0;
+	/*YELLOW*/
+	--mile-c-current: 255, 165, 0;
+	/*ORANGE*/
+	--mile-alpha: 0.75;
+	/*Blip Alpha*/
+	--mile-a-bg: 0.4;
+	/*Blip BG Alpha*/
 
-	--blip-w: 2px; /*Blip width*/
-	--blip-s: 17px; /*Blip Diameter*/
-	--blip-t: -18.5px; /*Blip Top Pos*/
-	--blip-l: -12px; /*Bip Left Pos*/
+	--blip-w: 2px;
+	/*Blip width*/
+	--blip-s: 17px;
+	/*Blip Diameter*/
+	--blip-t: -18.5px;
+	/*Blip Top Pos*/
+	--blip-l: -12px;
+	/*Bip Left Pos*/
 
-	--blip-t-finish: -22px; /*Final Blip Top-offset*/
-	--blip-l-finish: 12px; /*Final blip Left-offset*/
+	--blip-t-finish: -22px;
+	/*Final Blip Top-offset*/
+	--blip-l-finish: 12px;
+	/*Final blip Left-offset*/
 
-	--blip-w-current: 5px; /*Current Blip width*/
+	--blip-w-current: 5px;
+	/*Current Blip width*/
 	--blip-s-current: 15px;
-	--blip-t-current: -22px; /*Current Blip Top-offset*/
-	--blip-l-current: -14px; /*Current Blip Left-offset*/
+	--blip-t-current: -22px;
+	/*Current Blip Top-offset*/
+	--blip-l-current: -14px;
+	/*Current Blip Left-offset*/
 }
+
 /* 
 .prompt-quick,
 .w-49,
@@ -54,6 +79,7 @@ PROGRESS - QUICK OVERVIEW
 	/* height: 10em; */
 	/* overflow: hidden; */
 }
+
 /* .progress-container {
 	margin: 5px;
 	padding: 10px;
@@ -62,7 +88,7 @@ PROGRESS - QUICK OVERVIEW
 } */
 /* Progressbars */
 .progress-bg {
-  /* margin-left: 1em; */
+	/* margin-left: 1em; */
 	min-height: var(--bar-h);
 	border-width: var(--prog-w);
 	border-style: solid;
@@ -70,28 +96,32 @@ PROGRESS - QUICK OVERVIEW
 	border-radius: var(--bar-rad);
 	background-color: rgb(var(--button-bg));
 }
+
 .progress-fill {
 	height: var(--bar-h);
 	border-radius: var(--bar-rad);
 	background-color: rgb(var(--prompt-tip-icon-color));
 }
+
 /*Progress Percent*/
 .progress-fill p,
 .progress-fill b {
- /* position: absolute; */
- /* line-height: 0.9em; */
+	/* position: absolute; */
+	/* line-height: 0.9em; */
 	z-index: 3;
 
 	color: rgb(var(--text-color));
-	text-shadow: 0 0 2px rgb(var(--text-muted-color)), 
-	0 0 4px rgb(var(--text-muted-highlight-color));
+	text-shadow: 0 0 2px rgb(var(--text-muted-color)),
+		0 0 4px rgb(var(--text-muted-highlight-color));
 	background-color: rgb(var(--prompt-tip-icon-color));
 	display: none;
 }
+
 .progress-bg-extra,
 .progress-fill-extra {
 	display: none;
 }
+
 /*MILESTONES*/
 .miles {
 	display: flex;
@@ -99,10 +129,11 @@ PROGRESS - QUICK OVERVIEW
 	margin: 0;
 	padding: 0;
 	padding: 0 7px;
-/* background: var(--c-yellow); */
+	/* background: var(--c-yellow); */
 }
+
 /*MILE STICK*/
-.miles > li {
+.miles>li {
 	flex: 3 0 auto;
 	z-index: 1;
 	position: relative;
@@ -113,10 +144,11 @@ PROGRESS - QUICK OVERVIEW
 	border-left: var(--mile-w);
 	border-style: solid;
 	border-color: rgb(var(--mile-c));
-/* background: var(--c-blue); */
+	/* background: var(--c-blue); */
 }
+
 /* MILE BLIPS */
-.miles > li:after {
+.miles>li:after {
 	position: absolute;
 	z-index: 2;
 	top: var(--blip-t);
@@ -130,8 +162,9 @@ PROGRESS - QUICK OVERVIEW
 	border-radius: 100%;
 	background-color: rgba(var(--mile-c), var(--mile-a-bg));
 }
+
 /*MILE NAME*/
-.miles > li .mile-name {
+.miles>li .mile-name {
 	display: inline-flex;
 	position: sticky;
 	margin-top: 0.75em;
@@ -144,56 +177,62 @@ PROGRESS - QUICK OVERVIEW
 	border: var(--prog-w) solid rgb(var(--mile-c));
 	background-color: rgba(var(--mile-c), var(--mile-a-bg));
 
-/* display: none; */
+	/* display: none; */
 }
+
 .mile-info {
 	border: var(--b-red);
 	min-height: 1em;
+	display: none;
 }
+
 /*HOVER OVER MILE NAME: SHOW MORE*/
-/* .miles > li:hover .mile-name {
+.miles > li:hover .mile-name,
+.miles > li:hover .mile-name + .mile-info {
 	text-align: left;
 	overflow: visible;
 	rotate: 0deg;
-} */
-/* .miles > li:hover {
-	.progress-bg-extra {display: block;}
-	.progress-fill-extra {display: block;}
-}  */
+}
+
 
 /*FIRST MILESTONE*/
-.miles > li:first-child {
+.miles>li:first-child {
 	/* border: 0; */
 	border-left: var(--mile-w);
 	border-style: solid;
 	border-color: rgb(var(--mile-c-start));
-/* background: var(--c-green); */
+	/* background: var(--c-green); */
 }
+
 /*FIRST MILE BLIP*/
-.miles > li:first-child:after {
+.miles>li:first-child:after {
 	border-color: rgba(var(--mile-c-start), var(--mile-a-bg));
 	background-color: rgba(var(--mile-c-start), var(--mile-a-bg));
 }
+
 /*FIRST MILE name*/
-.miles > li:first-child .mile-name {
+.miles>li:first-child .mile-name {
 	border-color: rgb(var(--mile-c-start));
 	background-color: rgba(var(--mile-c-start), var(--mile-a-bg));
 }
 
 
 /*LAST MILESTONE*/
-.miles > li:last-child {
-	flex: none; /* Width:0 Last Mile is Finish */
+.miles>li:last-child {
+	flex: none;
+	/* Width:0 Last Mile is Finish */
 	border-color: rgb(var(--mile-c-finish));
-/* background: var(--c-red); */
+	/* background: var(--c-red); */
 }
+
 /*LAST MILE BLIP*/
-.miles > li:last-child:after {
+.miles>li:last-child:after {
 	border-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
 	background-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
 }
+
 /*LAST MILE name*/
-.miles > li:last-child .mile-name {
+.miles>li:last-child .mile-name {
 	border-color: rgb(var(--mile-c-finish));
 	background-color: rgba(var(--mile-c-finish), var(--mile-a-bg));
 	position: absolute;
@@ -205,12 +244,13 @@ PROGRESS - QUICK OVERVIEW
 }
 
 /* CURRENT MILESTONE */
-.miles > li.current {
+.miles>li.current {
 	border-color: rgb(var(--mile-c-current));
-/* background: var(--c-purple); */
+	/* background: var(--c-purple); */
 }
+
 /* CURRENT MILE BLIP */
-.miles > li.current:after {
+.miles>li.current:after {
 	top: var(--blip-t-current);
 	left: var(--blip-l-current);
 	width: var(--blip-s-current);
@@ -220,8 +260,9 @@ PROGRESS - QUICK OVERVIEW
 	border-color: rgba(var(--mile-c-current), var(--mile-a-bg));
 	background-color: rgba(var(--mile-c-current), var(--mile-a-bg));
 }
+
 /* CURRENT mile NAME */
-.miles > li.current .mile-name {
+.miles>li.current .mile-name {
 	border-color: rgb(var(--mile-c-current));
 	background-color: rgba(var(--mile-c-current), var(--mile-a-bg));
 }
