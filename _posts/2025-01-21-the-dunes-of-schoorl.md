@@ -11,7 +11,7 @@ description: "201 Days to Prepare. A nice hike in Schoorl..."
 
 
 > **201** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
+> [<i class='fas fa-chart-line'></i> Quick Overview ](/welcome/#quick-overview) <br> 
 {: .prompt-quick }
 
 
@@ -23,12 +23,12 @@ gave me so much energy and motivation!
 
 
 ![Witches Bog](/assets/pics/20250121_WitchbogSchoorl.jpg)
-_Witches Bog <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
+_Witches Bog <br>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
 {: .img .w-49 .res }
 
 
 ![Waterlogged Bench](/assets/pics/20250121_WaterloggedSchoorl.jpg)
-_Waterlogged Bench <br/>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
+_Waterlogged Bench <br>[<i class='fas fa-camera'></i> Photo Album <i class='fas fa-up-right-from-square'></i>](/photos/)_
 {: .img .w-49 .res }
 
 <div class="clearfix"></div>
@@ -39,9 +39,9 @@ Only in the preparation have I learned so much already,
 and learned about myself.
 
 
-<br/>
-*Cheers,* <br/>
-I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
-[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
-[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
-[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
+<br>
+*Cheers,* <br>
+I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br>
+[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br>
+[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br>
+[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br>

@@ -8,11 +8,11 @@ description: "193 Days to Prepare. I need to clear my head..."
 
 
 > **193** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
+> [<i class='fas fa-chart-line'></i> Quick Overview ](/welcome/#quick-overview) <br> 
 {: .prompt-quick }
 
 
-I needed to clear my head, so I went for a walk. <br/>
+I needed to clear my head, so I went for a walk. <br>
 
 
 Walked for approx 15<small>km</small>. 
@@ -29,12 +29,12 @@ I find it hard not to.
 
 
 Ending on a bit of a sour note, 
-but I expect there will be more hardships to come. <br/>
+but I expect there will be more hardships to come. <br>
 and I'm not a very positive person. 
 
 
-<br/>
-I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
-[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
-[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
-[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
+<br>
+I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br>
+[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br>
+[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br>
+[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br>

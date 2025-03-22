@@ -8,7 +8,7 @@ description: "191 Days to Prepare. Taking a step back..."
 
 
 > **191** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
+> [<i class='fas fa-chart-line'></i> Quick Overview ](/welcome/#quick-overview) <br> 
 {: .prompt-quick }
 
 
@@ -18,5 +18,5 @@ As such I'm taking a step back.
 
 
 Please don't expect updates soon.
-<br/>
+<br>
 I-Jun
