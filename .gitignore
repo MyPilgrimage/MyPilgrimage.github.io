@@ -30,9 +30,13 @@ _sass/vendors
 assets/js/dist
 
 # Work in progress Files
-wip
-/wip
-/wip/*
-/wip/imgs
-/wip/includes
-/wip/pics
+/[Ww]ip
+/[Ttools]
+/[Ww]ip/*
+/[Ww]ip/*.cmd
+/[Ww]ip/*.code-workspace
+/[Ww]ip/[Gg]em[Ll]ock [Ff]iles/
+/[Ww]ip/[Ii]mgs
+/[Ww]ip/[Ii]ncludes
+/[Ww]ip/[Pp]ics
+/[Ww]ip/[Pp]osts
