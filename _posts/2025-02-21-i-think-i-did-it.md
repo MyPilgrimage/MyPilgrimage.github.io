@@ -8,7 +8,7 @@ description: "170 Days to Prepare. I think the new site is working!?..."
 
 
 > **170** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-calendar-days'></i> Quick Overview ](/welcome/#quick-overview) <br/> 
+> [<i class='fas fa-chart-line'></i> Quick Overview ](/welcome/#quick-overview) <br> 
 {: .prompt-quick }
 
 
@@ -29,7 +29,7 @@ or continuously copy+paste sections or styling.
 ## Technical Update
 
 I've created an Email address, [<i class='fas fa-envelope'></i> @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) 
-so I can send and receive correspondence. <br/>
+so I can send and receive correspondence. <br>
 I managed to add a simple Countdown timer to the [<i class='fas fa-calendar-days'></i> Quick Overview](/welcome#quick-overview),
  which I really like! 
 Now I only need to find a way to embed a Location-share app, 
@@ -41,11 +41,11 @@ to fix spelling errors, change syntax and add new info.
 But having the page work as I wanted, gives me a lot of energy!
 
 
-<br/>
+<br>
 **Updates soon!**
 {: .quote }
-*Cheers,* <br/>
-I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br/>
-[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br/>
-[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br/>
-[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br/>
+*Cheers,* <br>
+I-Jun <i class='fas fa-person-hiking fa-fw'></i><i class='fas fa-mountain-sun fa-fw'></i> <br>
+[<i class='fab fa-github fa-fw'></i>  Github.com @ MyPilgrimage](https://github.com/MyPilgrimage/MyPilgrimage.github.io) <br>
+[<i class='fab fa-reddit fa-fw'></i>  Reddit.com @ /u/I-Jun_Pilgrimage](https://www.reddit.com/user/I-Jun_Pilgrimage/) <br>
+[<i class='fas fa-envelope fa-fw'></i>  Mail @ iJun.Pilgrimage@gmail.com](mailto:iJun.Pilgrimage@gmail.com) <br>
