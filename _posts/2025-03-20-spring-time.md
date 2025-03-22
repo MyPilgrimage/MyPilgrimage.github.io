@@ -1,6 +1,6 @@
 ---
 title: Spring Time 
-date: 2025-02-22 13:00:00 +0100 
+date: 2025-03-22 13:00:00 +0100 
 categories: [2025 Trial-Run, Preparations] 
 tags: [trial-run, route, training, gear, personal, worrying wayfarer, pictures, site] 
 description: "141 Days to Prepare. It spring and time I updated on some things..." 
@@ -12,7 +12,7 @@ description: "141 Days to Prepare. It spring and time I updated on some things..
 {: .prompt-quick }
 
 <br>
-It's officially Spring 🌼!
+It's officially Spring! 🌼 <br> 
 And I thought it was
 high time to update on some things.
 
@@ -32,7 +32,7 @@ The past weeks have been quite hectic and I haven't found the motivation yet to 
 I do still walk quite a lot, with a smaller backpack, mostly packed with my laptop, coffee and some snacks. I haven't been measuring these hikes, so I have no result to compare.
 
 On that note, I got a great tip to set out milestones for myself. To give me a goal to strive towards and to get me active again. I'm currently in the process of setting these milestones and displaying them in the (
-[Quick-Overview](/welcome/#quick-overview) and the [<i class='fas fa-person-hiking fa-fw'> About section](/about/). More on this in the Technical update.
+[<i class='fas fa-chart-line'></i> Quick-Overview](/welcome/#quick-overview) and the [<i class='fas fa-person-hiking fa-fw'></i> About section](/about/). More on this in the Technical update.
 
 My singing lessons are also going great. It's an enormous boost to my self-confidence and I really enjoy the lessons. I also finally picked up the harmonica, mainly just trying things out by myself, but soon I'll going to check YouTube for some tutorials.
 
