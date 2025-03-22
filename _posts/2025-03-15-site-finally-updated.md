@@ -11,8 +11,8 @@ description: "148 Days to Prepare. It took a while, but I found my error..."
 
 
 > **148** Days to Prepare. <br class='brS'/><i class='fas fa-location-dot'></i> *North-Holland, The Netherlands*. <br class='brSM'/>
-> [<i class='fas fa-chart-line'></i> Quick Overview ](/welcome/#quick-overview) 
-{: .prompt-quick } <br> 
+> [<i class='fas fa-chart-line'></i> Quick Overview ](/welcome/#quick-overview) <br> 
+{: .prompt-quick }
 <br>
 
 
