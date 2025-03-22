@@ -2,6 +2,12 @@
 # the default layout is 'page'
 icon: fas fa-image
 order: 2
+date: 2025-01-15 00:00:00 +0100
+# last_modified_at: 2025-03-14 02:30:00 +0100
+categories: [Site, Page]
+tags: [site]
+toc: true
+related_posts: true
 ---
 
 

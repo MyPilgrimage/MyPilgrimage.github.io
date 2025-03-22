@@ -3,7 +3,7 @@
 {% endcomment %}
 
 {% assign enable_related_posts = false %}
-{% if site.related_posts and page.related_posts %}
+{% if site.related_posts or page.related_posts %}
   {% assign enable_related_posts = true %}
 {% endif %}
 <!-- Recommend the other 3 posts according to the tags and categories of the current post. -->
@@ -99,7 +99,6 @@
         {% endfor %}
       </nav>
     </aside>
-    {% endcomment %}
     <!-- #related-posts -->
   {% endif %}
 {% endif %}
