@@ -22,11 +22,17 @@ package-lock.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 
+*.code-workspace
+IDE.code-workspace
+
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Work in progress Files
 wip
 /wip
 /wip/*
-*.code-workspace
-IDE.code-workspace
+/wip/imgs
+/wip/includes
+/wip/pics
