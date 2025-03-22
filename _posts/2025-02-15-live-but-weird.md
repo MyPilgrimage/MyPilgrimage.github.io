@@ -4,7 +4,7 @@ date: 2025-02-15 23:00:00 +0100
 categories: [Site, Update] 
 tags: [personal, site]
 image: 
- path: /assets/img/img_brokenWebsite.png
+ path: /assets/img/wip/img_brokenWebsite.png
  alt: Broken website 
 description: "176 Days to Prepare. The new site looks.. Weird..." 
 ---
@@ -22,7 +22,7 @@ But sadly it would seem I made a few mistakes in deploying the site.
 
 ## Technical Update
 
-![Broken website](/assets/img/img_brokenWebsite.png)
+![Broken website](/assets/img/wip/img_brokenWebsite.png)
 _Broken website. This doesn't look right..._
 {: .img .w-50 .right }
 
