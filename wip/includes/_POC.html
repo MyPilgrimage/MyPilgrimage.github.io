@@ -91,135 +91,236 @@
       <h3 id='progress'>Progress</h3>
       <!-- ##########		 PROGRESS-ROUTE - QUICK OVERVIEW 		########## -->
       <div class='progress'>
-        <p><b>Route:</b> How far along the route am I?</p>
+      <h4>Route:</h4>
+      <p>How far along the route am I?</p>
+        
         <!-- <i class="fa fa-spinner fa-pulse"></i> -->
+<!-- -->
         <div class='progress-bg'>
           <div id='progressRoute' class='progress-fill' style='width:0%'><b>0%</b></div>
         </div>
+        
+<!-- -->
         <ul class='miles'>
           <li class='current'>
             <p class='mile-name'>Home</p>
           </li>
           <li>
-            <p class='mile-name'>Alkmaar</p>
+            <p class='mile-name mile-sub'>Alkmaar</p>
           </li>
           <li>
-            <p class='mile-name'>Beverwijk</p>
+            <p class='mile-name mile-sub'>Beverwijk</p>
           </li>
           <li>
-            <p class='mile-name'>Haarlem</p>
+            <p class='mile-name mile-sub'>Haarlem</p>
           </li>
           <li>
             <p class='mile-name'>Amsterdam</p>
           </li>
           <li>
-            <p class='mile-name'>...</p>
+            <p class='mile-name mile-sub'>...</p>
           </li>
           <li>
-            <p class='mile-name'>...</p>
+            <p class='mile-name mile-sub'>...</p>
           </li>
           <li>
-            <p class='mile-name'>....</p>
+            <p class='mile-name mile-sub'>....</p>
           </li>
           <li>
             <p class='mile-name'>Finish</p>
           </li>
         </ul>
+<!-- -->
         <div class='mile-info'>
-          <b></b>
-          <p></p>
+        <span id='mile-A0'>
+          <p><i class='fas fa-location-dot'></i> <b>Home</b>: Starting Point</p>
+        </span>
+        <span id='mile-A1'>
+          <p><i class='fas fa-location-dot'></i> <b>Alkmaar</b>: ETA: #Day . #km to go.: SUB stop Point</p>
+        </span>
+        <span id='mile-A2'>
+          <p><i class='fas fa-location-dot'></i> <b>Beverwijk</b>: ETA: #Day . #km to go.: SUB stop Point</p>
+        </span>
+        <span id='mile-A3'>
+          <p><i class='fas fa-location-dot'></i> <b>Haarlem</b>: ETA: #Day . #km to go.: SUB stop Point</p>
+        </span>
+        <span id='mile-A4'>
+          <p><i class='fas fa-location-dot'></i> <b>Amsterdam</b>: ETA: #Day . #km to go.</p>
+        </span>
+        <span id='mile-A5'>
+          <p><i class='fas fa-location-dot'></i> <b>...</b>: ETA: #Day . #km to go.: SUB stop Point</p>
+        </span>
+        <span id='mile-A6'>
+          <p><i class='fas fa-location-dot'></i> <b>Utrecht</b>: ETA: #Day . #km to go.</p>
+        </span>
+        <span id='mile-A7'>
+          <p><i class='fas fa-location-dot'></i> <b>...</b>: ETA: #Day . #km to go.: SUB stop Point</p>
+        </span>
+        <span id='mile-A8'>
+          <p><i class='fas fa-location-dot'></i> <b>Finish</b>: Trial Run Route End</p>
+        </span>
         </div>
       </div>
-      <!-- ##########		 PROGRESS-TRAIN - QUICK OVERVIEW 		########## -->
+
+<!-- ##### PROGRESS-TRAIN - QUICK OVERVIEW ##### -->
       <div class='progress'>
-        <p><b>Training:</b> Can I walk 20km with a backpack weighing 20kg?</p>
+      <h4>Training:</h4>
+      <p>Can I walk 20km with a backpack weighing 20kg?</p>
         <!-- <i class="fa fa-spinner fa-pulse"></i> -->
         <div class='progress-bg'>
           <div id='progressTrain' class='progress-fill' style='width:14%'><b>14%</b></div>
         </div>
+<!-- -->
         <ul class='miles'>
           <li class='current'>
-            <p class='mile-name'>8KG Backpack. 5KM Length. 1+HR Time. 4.5KM/H Walking speed.</p>
+            <p class='mile-name'>8KG 5KM</p>
           </li>
           <li>
-            <p class='mile-name'>10KG Backpack. 5KM Length. 1HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name'>10KG 5KM</p>
           </li>
           <li>
-            <p class='mile-name'>10KG Backpack. 10KM Length. 2HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>10KM</p>
           </li>
           <li>
-            <p class='mile-name'>10KG Backpack. 15KM Length. 3HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>15KM</p>
           </li>
           <li>
-            <p class='mile-name'>10KG Backpack. 20KM Length. 4HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>20KM</p>
           </li>
           <li>
-            <p class='mile-name'>15KG Backpack. 5KM Length. 1HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name'>15KG 5KM</p>
           </li>
           <li>
-            <p class='mile-name'>15KG Backpack. 10KM Length. 2HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>10KM</p>
           </li>
           <li>
-            <p class='mile-name'>15KG Backpack. 15KM Length. 3HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>15KM</p>
           </li>
           <li>
-            <p class='mile-name'>15KG Backpack. 20KM Length. 4HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>20KM</p>
           </li>
           <li>
-            <p class='mile-name'>20KG Backpack. 5KM Length. 1HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name'>20KG 5KM</p>
           </li>
           <li>
-            <p class='mile-name'>20KG Backpack. 10KM Length. 2HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>10KM</p>
           </li>
           <li>
-            <p class='mile-name'>20KG Backpack. 15KM Length. 3HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>15KM</p>
           </li>
           <li>
-            <p class='mile-name'>20KG Backpack. 20KM Length. 4HR Time. 5KM/H Walking speed.</p>
+            <p class='mile-name mile-sub'>20KM</p>
           </li>
         </ul>
+<!-- -->
         <div class='mile-info'>
-          <b></b>
-          <p></p>
+        <span id='mile-B00'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b> 8KG</b> Backpack.  5KM Length. 1+HR Time. 4.5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B01'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>10KG</b> Backpack.  5KM Length. 1HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B02'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>10KG</b> Backpack. 10KM Length. 2HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B03'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>10KG</b> Backpack. 15KM Length. 3HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B04'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>10KG</b> Backpack. 20KM Length. 4HR Time. 5KM/H Walking speed.</p>
+        </span>
+        <span id='mile-B05'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>15KG</b> Backpack. 5KM Length. 1HR Time. 5KM/H Walking speed.</p>
+        </span>
+        <span id='mile-B06'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>15KG</b> Backpack. 10KM Length. 2HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B07'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>15KG</b> Backpack. 15KM Length. 3HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B08'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>15KG</b> Backpack. 20KM Length. 4HR Time. 5KM/H Walking speed.</p>
+        </span>
+        <span id='mile-B09'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>20KG</b> Backpack.  5KM Length. 1HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B10'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>20KG</b> Backpack. 10KM Length. 2HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B11'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>20KG</b> Backpack. 15KM Length. 3HR Time. 5KM/H Walking speed</p>
+        </span>
+        <span id='mile-B12'>
+          <p><i class='fas fa-person-walking-arrow-right'></i> <b>20KG</b> Backpack. 20KM Length. 4HR Time. 5KM/H Walking speed.</p>
+        </span>
         </div>
       </div>
 
-      <!-- ##########		 PROGRESS-GEAR - QUICK OVERVIEW 		########## -->
+<!-- ##### PROGRESS-GEAR - QUICK OVERVIEW ##### -->
       <div class='progress'>
-        <p><b>Gear:</b> How is the gear collection going?</p>
+      <h4>Gear:</h4>
+      <p>How is the gear collection going?</p>
         <!-- <i class="fa fa-spinner fa-pulse"></i> -->
         <div class='progress-bg'>
           <div id='progressGear' class='progress-fill' style='width:70%'><b>70%</b></div>
         </div>
-        <div class='progress-bg-extra'>
-          <div id='' class='progress-fill-extra' style='width:10%; background:#f0f'><b>10%</b></div>
-        </div>
-        <div class='progress-bg-extra'>
-          <div id='' class='progress-fill-extra' style='width:20%; background:#ff0'><b>20%</b></div>
-        </div>
-        <div class='progress-bg-extra'>
-          <div id='' class='progress-fill-extra' style='width:30%; background:#0ff'><b>30%</b></div>
-        </div>
+<!-- ########## MILES PROGRESS-GEAR ########## -->
         <ul class='miles'>
           <li class='current'>
             <p class='mile-name'>Start</p>
           </li>
           <li>
-            <p class='mile-name'>5/14 Must Haves</p>
-          </li>
-          <li>
-            <p class='mile-name'>Should Haves</p>
-          </li>
-          <li>
-            <p class='mile-name'>Could Haves</p>
-          </li>
-          <li>
-            <p class='mile-name'>Collected!</p>
+            <p class='mile-name'>Done</p>
           </li>
         </ul>
+<!-- ########## MILESINFO PROGRESS-GEAR ########## -->
         <div class='mile-info'>
-          <b></b>
-          <p></p>
+        <span id='mile-C0'>
+          <p><i class='fas fa-campground'></i> <b>0%</b>: All gear. Starting Point</p>
+        </span>
+        <span id='mile-C1'>
+          <p><i class='fas fa-campground'></i> <b>100%</b>: All gear collected!</p>
+        </span>
+<!-- ########## EXTRA INFO - GEAR ########## -->
+        </div>
+        <div class='progress-bg-extra'>
+          <div id='progressMust' class='progress-fill-extra' style='width:10%; background:#f0f'><b>10%</b></div>
+        </div>
+        <div class='progress-bg-extra'>
+          <div id='progressShould' class='progress-fill-extra' style='width:20%; background:#ff0'><b>20%</b></div>
+        </div>
+        <div class='progress-bg-extra'>
+          <div id='porgressCould' class='progress-fill-extra' style='width:30%; background:#0ff'><b>30%</b></div>
+        </div>
+<!-- ########## MILES EXTRA INFO -GEAR ########## -->
+        <!-- <ul class='miles'>
+          <li class='current'>
+            <p class='mile-name'>Start</p>
+          </li>
+          <li>
+            <p class='mile-name'>Done</p>
+          </li>
+        </ul> -->
+<!-- ########## MILESINFO EXTRA INFO-GEAR ########## -->   
+        <div class='mile-info'>
+        <span id='mile-D0'>
+          <p><i class='fas fa-campground'></i> <b>0%</b>: Must Haves. Starting Point</p>
+        </span>
+        <span id='mile-D1'>
+          <p><i class='fas fa-campground'></i> <b>100%</b>: Must Haves. collected!</p>
+        </span>
+        <span id='mile-E0'>
+          <p><i class='fas fa-campground'></i> <b>0%</b>: Should Haves. Starting Point</p>
+        </span>
+        <span id='mile-E1'>
+          <p><i class='fas fa-campground'></i> <b>100%</b>: Should Haves. collected!</p>
+        </span>
+        <span id='mile-F0'>
+          <p><i class='fas fa-campground'></i> <b>0%</b>: Could Haves. Starting Point</p>
+        </span>
+        <span id='mile-F1'>
+          <p><i class='fas fa-campground'></i> <b>100%</b>: Could Haves. collected!</p>
+        </span>
         </div>
       </div>
 
