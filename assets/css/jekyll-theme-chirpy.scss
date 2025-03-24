@@ -1,10 +1,10 @@
 ---
 ---
 
-@use 'main{%- if jekyll.environment == ' production ' -%}.bundle{%- endif -%}';
+@use 'main.bundle';
 
 /*MY_CUSTOM_STYLE*/
-
+// @use 'main{%- if jekyll.environment == ' production ' -%}.bundle{%- endif -%}';
 /*Prompt Blocks*/
 .prompt-quick {
   padding: 1em !important;
