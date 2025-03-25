@@ -1,14 +1,14 @@
 ---
 # the default layout is 'page'
-layout: post
-icon: fas fa-person-hiking
+# layout: post
 order: 1
+icon: fas fa-person-hiking
 date: 2025-01-15 00:00:00 +0100
-# last_modified_at: 2025-03-14 02:30:00 +0100
-categories: [Site, Page]
+categories: [Site, Pages]
 tags: [site]
 toc: true
-related_posts: true
+related: true
+last_modified_at: 2025-03-14 02:30:00 +0100
 ---
 
 
