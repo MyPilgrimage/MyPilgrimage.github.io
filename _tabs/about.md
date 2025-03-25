@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-layout: post
+# layout: post
 icon: fas fa-person-hiking
 order: 1
 date: 2025-01-15 00:00:00 +0100
@@ -8,7 +8,7 @@ date: 2025-01-15 00:00:00 +0100
 categories: [Site, Pages]
 tags: [site]
 toc: true
-related_posts: true
+related: true
 ---
 
 
