@@ -2,7 +2,7 @@
 PROGRESS - QUICK OVERVIEW
 ########## */
 :root {
-	/*iNHERETED COLOURS*/
+	/*INHERETED COLOURS*/
 	--button-bg: 128, 128, 128;
 	/*GRAY*/
 	--prompt-tip-icon-color: 0, 100, 0;
@@ -70,23 +70,31 @@ PROGRESS - QUICK OVERVIEW
 	height: auto;
 	background: var(--c-gray);
 } */
+
+/* Progress Container */
 .progress {
 	border: var(--b-gray);
+	padding: 1em;
 	/* margin: 10px 0; */
-	margin: 0;
-	padding: 0 0.5em;
-	padding-bottom: 1.75em;
+	/* margin: 0; */
+	/* padding: 0 0.5em; */
+	/* padding-bottom: 1.75em; */
 	/* height: 10em; */
 	/* overflow: hidden; */
 }
+/* Progress Text */
+.progress p,
+.progress h4 {
+	margin: 0;
+	/* margin: 1em 0; */
+	padding: 0;
+	width: fit-content;
+	border: 1px solid transparent;
+border: var(--b-blue);
+}
 
-/* .progress-container {
-	margin: 5px;
-	padding: 10px;
-	padding-bottom: 30px;
-	border: var(--b-gray);
-} */
 /* Progressbars */
+.progress-bg-extra,
 .progress-bg {
 	/* margin-left: 1em; */
 	min-height: var(--bar-h);
@@ -97,6 +105,7 @@ PROGRESS - QUICK OVERVIEW
 	background-color: rgb(var(--button-bg));
 }
 
+.progress-fill-extra,
 .progress-fill {
 	height: var(--bar-h);
 	border-radius: var(--bar-rad);
@@ -104,12 +113,17 @@ PROGRESS - QUICK OVERVIEW
 }
 
 /*Progress Percent*/
+.progress-fill-extra p,
+.progress-fill-extra b,
 .progress-fill p,
 .progress-fill b {
 	/* position: absolute; */
 	/* line-height: 0.9em; */
 	z-index: 3;
-
+	font-size: smaller;
+	line-height: .8em;
+	margin-top: 0px;
+	top: 0;
 	color: rgb(var(--text-color));
 	text-shadow: 0 0 2px rgb(var(--text-muted-color)),
 		0 0 4px rgb(var(--text-muted-highlight-color));
@@ -127,9 +141,12 @@ PROGRESS - QUICK OVERVIEW
 	display: flex;
 	flex-wrap: nowrap;
 	margin: 0;
-	padding: 0;
+	/* padding: 0; */
 	padding: 0 7px;
-	/* background: var(--c-yellow); */
+	border: var(--b-purple);
+	min-height: 3.5em;
+	
+	/* overflow: hidden; */
 }
 
 /*MILE STICK*/
@@ -138,7 +155,7 @@ PROGRESS - QUICK OVERVIEW
 	z-index: 1;
 	position: relative;
 	height: 10px;
-	width: auto;
+	/* width: auto; */
 	list-style: none;
 	border: 0;
 	border-left: var(--mile-w);
@@ -167,32 +184,46 @@ PROGRESS - QUICK OVERVIEW
 .miles>li .mile-name {
 	display: inline-flex;
 	position: sticky;
-	margin-top: 0.75em;
+	margin-top: 1em;
 	margin-left: -1.5em;
+	rotate: 20deg;
 	padding: 2px;
-	width: 2.5em;
+	width: 3em;
 	height: 1.2em;
-	overflow: hidden;
+	font-size: smaller;
 	cursor: default;
 	border: var(--prog-w) solid rgb(var(--mile-c));
 	background-color: rgba(var(--mile-c), var(--mile-a-bg));
-
 	/* display: none; */
+	overflow: hidden;
 }
-
+/*MORE INFO BOX*/
 .mile-info {
-	border: var(--b-red);
-	min-height: 1em;
+	margin: 0;
+	padding: 0;
+	/* margin-top: 2.5em; */
+	/* min-height: 1em; */
+border: var(--b-red);
+/* display: none; */
+}
+.mile-info p {
 	display: none;
+}
+.miles:hover {
+	cursor: pointer;
+	/* display: inline-flex; */
 }
 
 /*HOVER OVER MILE NAME: SHOW MORE*/
-.miles > li:hover .mile-name,
-.miles > li:hover .mile-name + .mile-info {
-	text-align: left;
-	overflow: visible;
-	rotate: 0deg;
-}
+/* .miles > li:hover .mile-name, */
+/* .miles > li:hover .mile-name + .mile-info { */
+	/* text-align: left; */
+
+	/* width: auto; */
+	/* display: inline-block; */
+	/* overflow: visible; */
+	/* rotate: 0deg; */
+/* } */
 
 
 /*FIRST MILESTONE*/
