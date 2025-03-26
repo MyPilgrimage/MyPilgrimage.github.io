@@ -7,6 +7,7 @@ image:
  path: /assets/pics/20250223_SundaysSun.jpg
  alt: "<a href='/photos/#2025'><i class='fas fa-camera'></i> A Sunny Sundays Sun, 2025 <i class='fas fa-up-right-from-square'></i> </a>"
 description: "168 Days to Prepare. Just some ramblings..."
+hidden: true
 ---
 
 
