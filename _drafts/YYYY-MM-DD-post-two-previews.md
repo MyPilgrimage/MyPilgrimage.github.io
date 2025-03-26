@@ -25,8 +25,16 @@
 ## Progress 
 ..
 
+
 ## Results
-..
+<i class="far fa-clock fa-fw"></i>: 0h:52m:51s
+<i class="fas fa-route fa-fw"></i>: 3km 905m
+<i class="fas fa-person-running fa-fw"></i>: 4.4<sup>km</sup>/<sub>h</sub>
+<i class="fas fa-weight-scale fa-fw"></i>: 9.76kg
+<sup>
+ CONCLUSION_THOUGHTS
+</sup><br>
+
 
 ## Thoughts
 ..
@@ -113,21 +121,32 @@ _<i class='far fa-calendar'></i> DD_MM_YYYY. &nbsp;
 
 -----
 
+
+
+
 ## QUICK PILGRIMAGE ROUTE CALCULATION
 
-- **<sup>Avg.</sup> Hours of Walking:** ROUTE_TOTAL_HOURS <small>hr</small> / AVG_WALKING_HOURS <small>hr</small> per day = **TOTAL_WALKING_DAYS days**
-- **<sup>Avg.</sup> Distance to Walk:** ROUTE_TOTAL_DISTANCE <small>km</small> / AVG_WALKING_DISTANCE <small>km</small> per day = **AVG_DAYS_WALKING days** (EXACT_DAYS_WALKING days)
-- **<sup>Avg.</sup> Walking Speed:** ROUTE_TOTAL_DISTANCE <small>km</small> / ROUTE_TOTAL_HOURS <small>hr</small> = **AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>**
+- **<sup>Avg.</sup> Hours of Walking:** 
+  ROUTE_TOTAL_HOURS <small>hr</small> / 
+  AVG_WALKING_HOURS <small>hr</small>
+   per day = **TOTAL_WALKING_DAYS days**
+- **<sup>Avg.</sup> Distance to Walk:** 
+  ROUTE_TOTAL_DISTANCE <small>km</small> / 
+  AVG_WALKING_DISTANCE <small>km</small> 
+  per day = **AVG_DAYS_WALKING days** (EXACT_DAYS_WALKING days)
+- **<sup>Avg.</sup> Walking Speed:
+  ** ROUTE_TOTAL_DISTANCE <small>km</small> / 
+  ROUTE_TOTAL_HOURS <small>hr</small> 
+  = **AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>**
 - **Conclusion:** <br>
-  So I will walk for atleast TOTAL_WALKING_DAYS days, walking AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub> 
-  for AVG_WALKING_HOURS <small>hrs</small> 
-  while walking a minimum distance of AVG_WALKING_DISTANCE <small>km</small> per day. 
-<br>
-<sup>
+  So I will walk for at least TOTAL_WALKING_DAYS days, 
+  walking AVG_WALKING_SPEED <sup>km</sup>/<sub>hr</sub>
+  for AVG_WALKING_HOURS <small>hrs</small>
+  while walking a minimum distance of 
+  AVG_WALKING_DISTANCE <small>km</small> per day. <br>
 <sup>
  CONCLUSION_THOUGHTS
 </sup><br>
-
 
 -----
 
