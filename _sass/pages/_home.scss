@@ -17,6 +17,10 @@
     &:not(:last-child) {
       margin-bottom: 1.25rem;
     }
+    &:first-child {
+      border: 1px solid red;
+      // MY EDIT
+    }
   }
 
   .card {
