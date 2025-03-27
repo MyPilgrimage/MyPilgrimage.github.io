@@ -1,0 +1,29 @@
+<h2>Active Accordions</h2>
+<p>In this example we add the w3-red class to an active accordion (when the button is clicked on and the content is opened).</p>
+
+<button onclick="myFunction('Demo1')" class="w3-button w3-block w3-black w3-left-align">Open Section 1</button>
+<div id="Demo1" class="w3-hide w3-container">
+    <p>Some text..</p>
+</div>
+
+<button onclick="myFunction('Demo2')" class="w3-button w3-block w3-black w3-left-align">Open Section 2</button>
+<div id="Demo2" class="w3-hide w3-container">
+    <p>Some other text..</p>
+</div>
+
+</div>
+<script>
+function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-black", "w3-red");
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+    x.previousElementSibling.className = 
+    x.previousElementSibling.className.replace("w3-red", "w3-black");
+  }
+}
+</script>
+
