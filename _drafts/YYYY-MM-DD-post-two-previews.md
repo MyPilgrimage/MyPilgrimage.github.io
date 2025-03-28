@@ -3,7 +3,7 @@
  date: 2025-00-00 00:00:00 +0100 
  # categories: [2026 My Pilgrimage, Preparations] 
  # categories: [Random, Ramblings] 
- # categories: [Site, Update] 
+ # categories: [Site, Updates]
  categories: [2025 Trial-Run, Preparations] 
  # tags: [pilgrimage, route, training, gear] 
  # tags: [personal, worrying wayfarer, pictures, site] 

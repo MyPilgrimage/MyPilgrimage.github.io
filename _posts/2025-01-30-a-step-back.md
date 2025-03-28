@@ -1,7 +1,7 @@
 ---
 title: A Step Back 
 date: 2025-01-30 00:00:00 +0100 
-categories: [Site, Update] 
+categories: [Site, Updates]
 tags: [personal, site]
 description: "191 Days to Prepare. Taking a step back..." 
 ---

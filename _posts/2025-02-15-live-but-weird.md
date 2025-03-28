@@ -1,7 +1,7 @@
 ---
 title: Live but Weird
 date: 2025-02-15 23:00:00 +0100 
-categories: [Site, Update] 
+categories: [Site, Updates]
 tags: [personal, site]
 image: 
  path: /assets/img/wip/img_brokenWebsite.png

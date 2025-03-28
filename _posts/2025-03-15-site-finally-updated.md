@@ -1,7 +1,7 @@
 ---
 title: Site finally Updated - Part Two 
 date: 2025-03-15 00:00:00 +0100 
-categories: [Site, Update] 
+categories: [Site, Updates]
 tags: [personal, pictures, site]
 image:
  path: /assets/pics/20250308_Moon-Cropped.jpg

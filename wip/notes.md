@@ -38,7 +38,7 @@ Notes, reminders and general Admin
 categories: [2025 Trial-Run, Preparations]
 categories: [2026 My Pilgrimage, Preparations]
 categories: [Random, Ramblings]
-categories: [Site, Update]
+categories: [Site, Updates]
 
 
 ----------------------------------------

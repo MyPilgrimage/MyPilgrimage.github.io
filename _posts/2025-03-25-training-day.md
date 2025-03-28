@@ -2,7 +2,7 @@
 title: Training Day 
 date: 2025-03-25 20:00:00 +0100 
 # categories: [Random, Ramblings] 
-# categories: [Site, Update] 
+# categories: [Site, Updates]
 categories: [2025 Trial-Run, Preparations] 
 # tags: [worrying wayfarer]
 # tags: [personal, pictures, site] 

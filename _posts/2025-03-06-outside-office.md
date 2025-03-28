@@ -1,7 +1,7 @@
 ---
 title: Outside office
 date: 2025-03-06 19:00:00 +0100 
-categories: [Site, Update]
+categories: [Site, Updates]
 tags: [personal, site]
 image:
  path: /assets/pics/20250304_MyOffice.jpg

@@ -1,7 +1,7 @@
 ---
 title: Testing Version 2.0 
 date: 2025-02-25 12:00:00 +0100 
-categories: [Site, Update] 
+categories: [Site, Updates]
 tags: [site] 
 description: "166 Days to Prepare. Testing things for version 2.0 of the page!..." 
 ---

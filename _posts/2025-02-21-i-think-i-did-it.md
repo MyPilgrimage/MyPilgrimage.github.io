@@ -1,7 +1,7 @@
 ---
 title: I Think I did it!?
 date: 2025-02-21 13:00:00 +0100
-categories: [Site, Update]
+categories: [Site, Updates]
 tags: [personal, site]
 description: "170 Days to Prepare. I think the new site is working!?..."
 ---

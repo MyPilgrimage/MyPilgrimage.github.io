@@ -1,7 +1,7 @@
 ---
 title: Sitewide Update - Part One
 date: 2025-02-27 20:18:00 +0100
-categories: [Site, Update]
+categories: [Site, Updates]
 tags: [site]
 description: "164 Days to Prepare. Version 2.0 - Part 1..."
 ---
