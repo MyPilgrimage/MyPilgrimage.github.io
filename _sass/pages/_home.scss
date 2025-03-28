@@ -3,30 +3,10 @@
 @use '../abstracts/placeholders';
 
 /* My Edits */
+// TEMP MOVED TO HOME.html
+//@use '../themes/light';
+//@use '../themes/dark';
 
-@use '../themes/light';
-@use '../themes/dark';
-
-#welcome {
-  //@extend %rounded;
-
-  border: 0;
-  background: var(--card-bg);
-  box-shadow: var(--card-shadow);
-
-  &::before {
-    //@extend %rounded;
-
-    content: '';
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    background-color: var(--card-hovor-bg);
-    opacity: 0;
-    transition: opacity 0.35s ease-in-out;
-  }
-  color: var(--bs-card-color);
-}
 /* End My Edits */
 #post-list {
   margin-top: 2rem;

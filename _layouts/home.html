@@ -4,6 +4,282 @@ refactor: true
 ---
 {% include lang.html %}
 
+<!-- Home -->
+<style>
+  #welcome {}
+  .showMore {}
+  .showMore-container {}
+  .showMore-button {border: 4px outset gray; border-radius: 1em; padding: 0.2em auto; width:100%;}
+  .showMore-button input {display: none;}
+  .showMore-button:hover {border: 4px outset lightgray;}
+  .showMore-hide {display:none;}
+  .showMore-show {display:block;}
+  .showMore-black {background-color:black; color:white;}
+  .showMore-red {background-color:darkgreen; color:black;}
+
+  /*Prompt Blocks*/
+  .prompt-quick {
+    padding: 0.2em;
+    margin: 0;
+  }
+  .showMore-container {
+    background-color: var(--prompt-tip-bg);
+  }
+  .showMore-container h3,
+  .showMore-container p {
+    /*margin: 0;
+    padding: 0;*/
+  }
+  /*Quick Overview Sitemap*/
+  .showMore-container ul {
+    list-style: none;
+    list-style-position: inside;
+  }
+  /* Progressbars */
+  .progress-bg {
+    border-radius: 1.25em;
+    background: var(--button-bg);
+    margin-left: 1em;
+  }
+  .progress-fill {
+    font-size: small;
+    font-weight: bolder;
+    overflow-wrap: normal;
+    padding: 0.02em;
+    border-radius: 1.25em;
+    background: var(--prompt-tip-icon-color);
+    color: var(--text-color);
+    text-shadow: 0px 0px 1px var(--text-muted-color), 0 0 2px var(--text-muted-highlight-color);
+  }
+</style>
+
+<div id="welcome" class="flex-grow-1 px-xl-1">
+  <article class="card-wrapper">
+    <div clas="welcome-content">
+      <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">Le welcome { welcome.title }</h1>
+        <p>Show More - accordion <br>
+        Click to show more!
+        </p>
+
+        <!--
+        <input type="radio" id="quick" name="quick" value="welcome" onclick="showMore('Quick')" class="showMore-button showMore-black">
+        <label for="quick">Quick Overview</label>
+
+        <input  type="radio" id="radio2" name="radio2" value="welcome" onclick="showMore('showMore2')" class="showMore-button showMore-black">
+        <label for="radio2">Open Section 2</label>
+        -->
+        <button onclick="showMore('Countdown')" class="showMore-button showMore-red">Click to show: Countdown</button>
+        <div id="Countdown" class="showMore-show showMore-container">
+          <div class="prompt-quick w-33 left">
+            <h2>Countdown</h2>
+            <p class="">
+              <b id='countdownTimer'></b> <br>
+              Trial-Run starts:
+              <i class='far fa-calendar fa-fw'></i>
+              **10 August 2025**
+            </p>
+          </div>
+        <!--</div>-->
+
+        <!--<button onclick="showMore('Location')" class="showMore-button showMore-black">Click to show: Location</button>-->
+        <!--<div id="Location" class="showMore-hide showMore-container">-->
+          <div class="prompt-quick w-33 left">
+            <h2>Location</h2>
+            <p class="">
+              <img src="/assets/img/welcome/gMaps_loc-dark.png" alt="Current Location Map" class="dark" style="width:auto; height:250px;">
+              <img src="/assets/img/welcome/gMaps_loc-light.png" alt="Current Location Map" class="light" style="width: auto; height:250px;">
+              <sup>Current Location Map<br> See updates on my current location</sup>
+              <p class="props w-100">
+                <i class='far fa-calendar'></i> DD_MM_YYYY.
+                <i class='fas fa-map-location-dot'></i> LOCATION.
+              </p>
+            </p>
+          </div>
+        <!--</div>-->
+
+        <!--<button onclick="showMore('Progress')" class="showMore-button showMore-black">Click to show: Progress</button>-->
+        <!--<div id="Progress" class="showMore-hide showMore-container">-->
+          <div class="prompt-quick w-33 left">
+            <h2>Progress</h2>
+            <p class="">
+              <b>Route:</b><br>
+              How far along the route am I?
+            </p>
+            <div class='progress-bg'>
+              <div id='progressRoute' class='progress-fill' style='width:0%'>
+              0%
+              </div>
+            </div>
+            <p class="">
+              <b>Training:</b><br>
+              Can I walk 20km per day?
+            </p>
+            <div class='progress-bg'>
+              <div id='progressTrain' class='progress-fill' style='width:7%'>
+              7%
+              </div>
+            </div>
+            <p class="">
+              <b>Gear:</b><br>
+              How is the gear collection going?
+            </p>
+            <div class='progress-bg'>
+              <div id='progressGear' class='progress-fill' style='width:5%'>
+              5%
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <button onclick="showMore('Sitemap')" class="showMore-button showMore-black">Click to show: Site Map</button>
+        <div id="Sitemap" class="showMore-hide showMore-container">
+          <div class="prompt-quick">
+          <h2>Sitemap</h2>
+          <ul>
+          <li><a href="https://MyPilgrimage.github.io/"><i class='fas fa-house fa-fw'></i>Home </a></li>
+          <li><a href="https://MyPilgrimage.github.io/welcome"><i class='fas fa-thumbtack fa-fw'></i>Welcome</a></li>
+          <!--<li><a href="https://MyPilgrimage.github.io/welcome/#quick-overview"><i class='fas fa-chart-line fa-fw'></i>Quick Overview</a></li> -->
+          <li><a href="https://MyPilgrimage.github.io/about/"><i class='fas fa-person-hiking fa-fw'></i>About</a></li>
+          <ul>
+            <li><a href="https://MyPilgrimage.github.io/about/#who-am-i"><i class='fas fa-circle-user fa-fw'></i>About: Me</a></li>
+            <li><a href="https://MyPilgrimage.github.io/about/#why-this-page"><i class='fas fa-circle-info fa-fw'></i>About: Page</a></li>
+            <li><a href="https://MyPilgrimage.github.io/about/#route"><i class='fas fa-route fa-fw'></i>About: Route</a></li>
+            <li><a href="https://MyPilgrimage.github.io/about/#training"><i class='fas fa-person-walking-arrow-right fa-fw'></i>About: Training</a></li>
+            <li><a href="https://MyPilgrimage.github.io/about/#gear"><i class='fas fa-campground fa-fw'></i>About: Gear</a></li>
+            <li><a href="https://MyPilgrimage.github.io/about/#thanks"><i class='fas fa-thumbs-up fa-fw'></i>About: Thanks</a></li>
+          </ul>
+          <li><a href="https://MyPilgrimage.github.io/photos/"><i class='fas fa-image fa-fw'></i>Photos</a></li>
+          <li><a href="https://MyPilgrimage.github.io/timeline/"><i class='fas fa-timeline fa-fw'></i>Timeline</a></li>
+          <li><a href="https://MyPilgrimage.github.io/categories/"><i class='fas fa-stream fa-fw'></i>Categories</a></li>
+          <ul>
+            <li><a href="https://MyPilgrimage.github.io/categories/2025-trial-run/"><i class='fas fa-leaf fa-fw'></i>Category: 2025 Trial Run Posts</a></li>
+            <li><a href="https://MyPilgrimage.github.io/categories/2026-my-pilgrimage/"><i class='fas fa-mountain-sun fa-fw'></i>Category: 2026 My Pilgrimage Posts</a></li>
+            <li><a href="https://MyPilgrimage.github.io/categories/random/"><i class='fas fa-head-side-virus fa-fw'></i>Category: Rambling Posts</a></li>
+            <li><a href="https://MyPilgrimage.github.io/categories/site/"><i class='fas fa-person-digging fa-fw'></i>Category: Site Posts</a></li>
+          </ul>
+          <li><a href="https://MyPilgrimage.github.io/tags/"><i class='fas fa-tags fa-fw'></i>Tags</a></li>
+          </ul>
+          <p>{"percent" include welcome-description.html "percent"}</p>
+          </div>
+        </div>
+
+        <!--
+        <div class="card-text content mt-0 mb-3">
+        <h2 class="card-sub my-3 mt-md-0">Sub Div 1</h2>
+        <p>
+        Le text paragraph 1,
+        {"percent" include welcome-description.html "percent"}
+        </p>
+        </div>
+        -->
+
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto">
+          <!-- Site Update -->
+            <i class="far fa-calendar fa-fw me-1"></i>
+            {{ site.data.locales[lang].post.updated }}
+            {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+
+
+            {% if page.last_modified_at and page.last_modified_at != page.date %}
+              <span>
+                {{ site.data.locales[lang].post.updated }}
+                {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+              </span>
+            {% endif %}
+          </div>
+          <div class="pin ms-1">
+            <i class="fas fa-thumbtack fa-fw"></i>
+            <span>{{ site.data.locales[lang].post.pin_prompt }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</div>
+
+<!-- -->
+<script>
+  function showMore(id) {
+  const more = document.getElementById(id);
+  if (more.className.indexOf("showMore-show") == -1) {
+  more.className += " showMore-show";
+  more.previousElementSibling.className =
+  more.previousElementSibling.className.replace("showMore-black", "showMore-red");
+  } else {
+  more.className = more.className.replace("showMore-show", "showMore-hide");
+  more.previousElementSibling.className =
+        more.previousElementSibling.className.replace("showMore-red", "showMore-black");
+      }
+    }
+</script>
+<!-- Countdowntimer Script -->
+<script>
+  const timer = document.getElementById('countdownTimer');
+  let countDownDate = new Date('Aug 10, 2025 00:00:00').getTime();
+  let count = setInterval(function() {
+  let currentDate = new Date().getTime();
+  let distance = countDownDate - currentDate;
+  let days = Math.floor( distance / (1000 * 60 * 60 * 24) );
+  let hours = Math.floor( (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60) );
+  let minutes = Math.floor( (distance % (1000 * 60 * 60)) / (1000 * 60) );
+  let seconds = Math.floor( (distance % (1000 * 60)) / 1000 );
+  timer.innerHTML = days + 'd ' + hours + 'h ' + minutes + 'm ' + seconds + 's ';
+  if (distance < 0) {
+  clearInterval(count);
+  timer.innerHTML = 'On my Way!';
+  }
+  }, 1000);
+</script>
+<!-- Visible in Viewport Script -->
+<script>
+  const isInView = (elemInView, partialView = false) => {
+  let { scrTop, scrRight, scrBottom, scrLeft } = elemInView.getBoundingClientRect();
+  let { innerHeight, innerWidth } = window;
+  return partialView ? ((scrTop > 0 && scrTop < innerHeight) || (scrBottom > 0 && scrBottom < innerHeight)) && ((scrLeft > 0 && scrLeft < innerWidth) || (scrRight > 0 && scrRight < innerWidth)) : scrTop >= 0 && scrLeft >= 0 && scrBottom <= innerHeight && scrRight <= innerWidth;
+  };
+
+  //const progressBarElem = document.getElementById('progressRoute');
+  console.log(isInView(progressRoute));
+  /*
+  let interv = setInterval(update, 20);
+  function update () {
+  console.log('!' + progressBarElem + ' in View: ' + isInView(progressBarElem) + '/n');
+  if (isInView(progressBarElem)) {
+  console.log('FOUND!');
+  }
+  }
+  */
+</script>
+<!-- Progressbar Script -->
+<script>
+  function progressMove() {
+  const progressBar = document.getElementById('progressRoute');
+  let width = 20;
+  if (progressBar.style.width != null && progressBar.style.width != undefined ) {
+  let newWidth = progressBar.style.width;
+  newWidth = newWidth.replace(/%/g, '');
+  width = newWidth;
+  } else {
+  width = 0;
+  }
+  let interv = setInterval(updateFrame, 20);
+  function updateFrame() {
+  if (width >= 100) {
+  progressBar.innerHTML = '<b>COMPLETED!</b>';
+  clearInterval(interv);
+  } else {
+  width++;
+  progressBar.style.width = width + '%';
+  progressBar.innerHTML = width * 1  + '%';
+  }
+  }
+  }
+</script>
+
+<!-- -->
 {% assign all_pinned = site.posts | where: 'pin', 'true' %}
 {% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
@@ -45,50 +321,6 @@ refactor: true
     {% assign posts = posts | push: all_normal[i] %}
   {% endfor %}
 {% endif %}
-
-<!-- Home -->
-
-<div class="welcome">
-  <!-- <article id="Welcome" class="card-wrapper card"> -->
-  <article class="card-wrapper">
-    <!-- <a href="{{ welcome.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse"> -->
-    <span class=""> <!-- class="post-preview row g-0 flex-md-row-reverse"-->
-      <div > <!--class="col-md-1"-->
-        <div class="card-body d-flex flex-column">
-          <h1 class="card-title my-2 mt-md-0">Le welcome { welcome.title }</h1>
-
-          <div class="card-text content mt-0 mb-3">
-            <h2 class="card-sub my-3 mt-md-0">Sub Div 1</h2>
-            <p>Le text paragraph 1, { include welcome-description.html }</p>
-            <!-- <p>{% include post-description.html %}</p> -->
-          </div>
-          <div class="card-text content mt-0 mb-3">
-            <h2 class="card-sub my-3 mt-md-0">Sub Div 2</h2>
-            <p>Le text paragraph 2</p>
-          </div>
-          <div class="card-text content mt-0 mb-3">
-            <h2 class="card-sub my-3 mt-md-0">Sub Div 3</h2>
-            <p>Le text paragraph, <br>{ include welcome-description.html } <br> number three.</p>
-          </div>
-
-          <div class="post-meta flex-grow-1 d-flex align-items-end">
-            <div class="me-auto">
-              <!-- Site Update -->
-              <i class="far fa-calendar fa-fw me-1"></i>
-              {% include datetime.html lang=lang %}
-            </div>
-            <!-- <div class="pin ms-1">
-              <i class="fas fa-thumbtack fa-fw"></i>
-              <span>{{ site.data.locales[lang].post.pin_prompt }}</span>
-            </div> -->
-          </div>
-          <!-- .post-meta -->
-        </div>
-        <!-- .card-body -->
-      </div>
-    </span>
-  </article>
-</div>
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}

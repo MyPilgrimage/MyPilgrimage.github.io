@@ -6,42 +6,8 @@
 /*MY_CUSTOM_STYLE*/
 
 /*Prompt Blocks*/
-.prompt-quick {
-  padding: 1em !important;
-  margin: 0 !important;
-  background-color: var(--prompt-tip-bg);
-}
-.prompt-quick p {
-  padding: 0 1em;
-}
-
-/*Quick Overview Sitemap*/
-.prompt-quick ul {
-  list-style: none;
-  list-style-position: inside;
-}
-.prompt-info h3,
-.prompt-quick h3,
-.prompt-quick p {
+.prompt-info h3 {
   margin: 0em 0.1em 0.25em;
-}
-
-/* Progressbars */
-.progress-bg {
-  border-radius: 1.25em;
-  background: var(--button-bg);
-  margin-left: 1em;
-}
-.progress-fill {
-  font-size: small;
-  font-weight: bolder;
-  overflow-wrap: normal;
-  padding: 0.02em;
-  border-radius: 1.25em;
-  background: var(--prompt-tip-icon-color);
-  color: var(--text-color);
-  text-shadow: 0px 0px 1px var(--text-muted-color),
-    0 0 2px var(--text-muted-highlight-color);
 }
 
 /* Images */
